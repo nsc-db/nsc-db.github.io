@@ -25739,6 +25739,46 @@
           "effectIds": "776,"
         },
         {
+          "abilityId": "2630",
+          "abilityName": "決意の叛意",
+          "abilityDescription": "味方にうずまきナルト(年代不問)がいると、ﾊﾞﾄﾙ開始時に味方全体をﾏﾙﾁ無効(状態異常/幻/弱体系特殊状態/即死無効)",
+          "abilityEffectDescription": "味方にうずまきナルト(年代不問)がいると、ﾊﾞﾄﾙ開始時に味方全体をﾏﾙﾁ無効(状態異常/幻/弱体系特殊状態/即死無効)",
+          "effectIdx1": "3198",
+          "effectIdx2": "3199",
+          "effectIdx3": "0",
+          "effectIds": "3198,3199,"
+        },
+        {
+          "abilityId": "2631",
+          "abilityName": "蝦蟇の秘宝",
+          "abilityDescription": "バトル開始時にチャクラ100%回復、HP0以下で2回耐える、敵にうちはサスケ（年代問わず）がいると先制攻撃",
+          "abilityEffectDescription": "バトル開始時にチャクラ100%回復、HP0以下で2回耐える、敵にうちはサスケ（年代問わず）がいると先制攻撃",
+          "effectIdx1": "1994",
+          "effectIdx2": "1057",
+          "effectIdx3": "3200",
+          "effectIds": "1994,1057,3200,"
+        },
+        {
+          "abilityId": "2632",
+          "abilityName": "覚悟と共に",
+          "abilityDescription": "敵に木ノ葉隠れの里か無所属がいると、バトル開始時に敵全体を確率で月封状態にする（どちらもいると確率アップ）",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里か無所属がいると、バトル開始時に敵全体を確率で月封状態にする（どちらもいると確率アップ）",
+          "effectIdx1": "3203",
+          "effectIdx2": "3204",
+          "effectIdx3": "0",
+          "effectIds": "3203,3204,"
+        },
+        {
+          "abilityId": "2633",
+          "abilityName": "想い知る心",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時ﾁｬｸﾗ100%回復、HP0以下で2回耐え、敵にナルト(年代不問)生存で確率で再行動※再行動後に再行動不可",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時ﾁｬｸﾗ100%回復、HP0以下で2回耐え、敵にナルト(年代不問)生存で確率で再行動※再行動後に再行動不可",
+          "effectIdx1": "1994",
+          "effectIdx2": "1057",
+          "effectIdx3": "2965",
+          "effectIds": "1994,1057,2965,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

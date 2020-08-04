@@ -263,6 +263,30 @@
           "specialPanelList": "9000022,9000023,9000024"
         },
         {
+          "sphereBoardId": "10032",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "大筒木ハゴロモ【安寧秩序を求める者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060803",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012"
+        },
+        {
+          "sphereBoardId": "10033",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "大筒木ハムラ【安寧を支える慈弟】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060804",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
