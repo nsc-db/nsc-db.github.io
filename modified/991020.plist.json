@@ -4503,8 +4503,24 @@
           "equipStatus": "3"
         },
         {
+          "titleId": "5317",
+          "title": "5周年だね…どーも",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
           "titleId": "5318",
           "title": "待っていたぞｫー!5周年ﾝﾝﾝﾝー!",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5319",
+          "title": "5周年はワラワのもの",
           "description": "0",
           "color": "0",
           "effectIds": "0",

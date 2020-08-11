@@ -25779,6 +25779,26 @@
           "effectIds": "1994,1057,2965,"
         },
         {
+          "abilityId": "2634",
+          "abilityName": "和解の輝き",
+          "abilityDescription": "味方死亡時に確率で乱舞カウントを3減少する",
+          "abilityEffectDescription": "味方死亡時に確率で乱舞カウントを3減少する",
+          "effectIdx1": "3206",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3206,"
+        },
+        {
+          "abilityId": "2635",
+          "abilityName": "憎しみを超えし戦友",
+          "abilityDescription": "行動後チャクラ25%回復",
+          "abilityEffectDescription": "行動後チャクラ25%回復",
+          "effectIdx1": "3207",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3207,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

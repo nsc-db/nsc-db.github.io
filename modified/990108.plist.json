@@ -15217,6 +15217,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1105",
+          "name": "魂剛の狐獣",
+          "description": "バトル開始時に確率で班の人数に応じて乱舞カウントを減少し、被攻撃時に超低確率で乱舞カウントを3減少する",
+          "effectIdx1": "2876",
+          "effectIdx2": "3208",
+          "effectIdx3": "0",
+          "effectIds": "2876,3208,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

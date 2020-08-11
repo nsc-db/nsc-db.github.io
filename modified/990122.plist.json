@@ -3647,6 +3647,18 @@
           "voiceDeath": "kakasi_damage_02_01"
         },
         {
+          "cardVoiceId": "308",
+          "cardId": "50060801",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "",
+          "voiceSkill1": "naruto_battle_02_21,kurama_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "",
+          "voiceDeath": ""
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

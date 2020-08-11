@@ -753,5 +753,17 @@
           "cardId": "50060701",
           "normalPanelList": "5010001,5010002,5010003",
           "specialPanelList": "5010004,5010005,5010006"
+        },
+        {
+          "sphereBoardId": "5000012",
+          "boardName": "九尾",
+          "boardDescription": "うずまきナルト【魂剛の狐獣】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50060801",
+          "normalPanelList": "5011001,5011002,5011003",
+          "specialPanelList": "5011004,5011005,5011006"
         }
       ]

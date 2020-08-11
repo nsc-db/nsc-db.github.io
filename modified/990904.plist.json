@@ -441,6 +441,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1358",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "5周年ありがとう！大感謝任務-弐の陣-",
+          "description": "初回クリア報酬はすべてのランクで忍石獲得可能！\r\n周回することで豪華報酬大量獲得のチャンス！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2094",
           "worldAreaId": "5",
           "priority": "5",
