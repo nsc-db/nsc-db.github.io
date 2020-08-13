@@ -7576,6 +7576,26 @@ window.skillname=[
           "name": "オレのかわいい忍犬たちでね"
         },
         {
+          "cardBattleSkillNameId": "3105",
+          "name": "血継網羅・屍山血河"
+        },
+        {
+          "cardBattleSkillNameId": "3106",
+          "name": "お前達はワラワのもの"
+        },
+        {
+          "cardBattleSkillNameId": "3107",
+          "name": "兎毛針・那由他"
+        },
+        {
+          "cardBattleSkillNameId": "3108",
+          "name": "母が復活する為の物語だ"
+        },
+        {
+          "cardBattleSkillNameId": "3109",
+          "name": "…さあオレを超えてみろ"
+        },
+        {
           "cardBattleSkillNameId": "3110",
           "name": "穿拳雷風陣"
         },
@@ -7590,6 +7610,10 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "3113",
           "name": "オレも行こう"
+        },
+        {
+          "cardBattleSkillNameId": "3114",
+          "name": "九尾・魂渾尾獣玉"
         },
         {
           "cardBattleSkillNameId": "10136",

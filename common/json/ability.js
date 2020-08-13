@@ -25202,8 +25202,8 @@ window.ability=[
         {
           "abilityId": "2572",
           "abilityName": "王道の転生者",
-          "abilityDescription": "破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
-          "abilityEffectDescription": "破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityDescription": "敵に破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityEffectDescription": "敵に破神キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
           "effectIdx1": "3018",
           "effectIdx2": "3162",
           "effectIdx3": "0",
@@ -25222,8 +25222,8 @@ window.ability=[
         {
           "abilityId": "2574",
           "abilityName": "覇道の血脈",
-          "abilityDescription": "神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
-          "abilityEffectDescription": "神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityDescription": "敵に神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
+          "abilityEffectDescription": "敵に神忍祭限定キャラがいると確率で先制攻撃＆攻撃を受けたとき確率でアクション状態になる",
           "effectIdx1": "3160",
           "effectIdx2": "3161",
           "effectIdx3": "0",
@@ -25720,6 +25720,66 @@ window.ability=[
           "effectIds": "312,874,3167,3191,"
         },
         {
+          "abilityId": "2624",
+          "abilityName": "世界の創始者",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時確率で先制攻撃（敵にﾅﾙﾄかｻｽｹがいると確率ｱｯﾌﾟ）、HP0以下で1回HP全回復、最大ﾁｬｸﾗ量200ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時確率で先制攻撃（敵にﾅﾙﾄかｻｽｹがいると確率ｱｯﾌﾟ）、HP0以下で1回HP全回復、最大ﾁｬｸﾗ量200ｱｯﾌﾟ",
+          "effectIdx1": "2637",
+          "effectIdx2": "3176",
+          "effectIdx3": "3177",
+          "effectIds": "2637,3176,3177,312,874,20019,"
+        },
+        {
+          "abilityId": "2625",
+          "abilityName": "物語の終結者",
+          "abilityDescription": "3回行動まで全スキル無効＆耐性無視ダメージ0、1回行動までチャクラ消費0、超滅創から受けるダメージ50％カット",
+          "abilityEffectDescription": "3回行動まで全スキル無効＆耐性無視ダメージ0、1回行動までチャクラ消費0、超滅創から受けるダメージ50％カット",
+          "effectIdx1": "2708",
+          "effectIdx2": "1378",
+          "effectIdx3": "990",
+          "effectIds": "2708,1378,990,2446,"
+        },
+        {
+          "abilityId": "2626",
+          "abilityName": "黒き悲願の成就",
+          "abilityDescription": "バトル開始時敵に破神か神忍がいると、味方全体に「地形効果無効」敵全体に「強化系神化・特殊状態不可」を付与",
+          "abilityEffectDescription": "バトル開始時敵に破神か神忍がいると、味方全体に「地形効果無効」敵全体に「強化系神化・特殊状態不可」を付与",
+          "effectIdx1": "3178",
+          "effectIdx2": "3179",
+          "effectIdx3": "3180",
+          "effectIds": "3178,3179,3180,3181,"
+        },
+        {
+          "abilityId": "2627",
+          "abilityName": "白き暴虐の無欠",
+          "abilityDescription": "地形効果無効、最大チャクラ量200アップ、敵に神忍がいると素早さ・スキルダメージ200％アップ",
+          "abilityEffectDescription": "地形効果無効、最大チャクラ量200アップ、敵に神忍がいると素早さ・スキルダメージ200％アップ",
+          "effectIdx1": "2525",
+          "effectIdx2": "20019",
+          "effectIdx3": "3182",
+          "effectIds": "2525,20019,3182,3183,"
+        },
+        {
+          "abilityId": "2628",
+          "abilityName": "磁遁修得の才",
+          "abilityDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "abilityEffectDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "effectIdx1": "689",
+          "effectIdx2": "312",
+          "effectIdx3": "0",
+          "effectIds": "689,312,"
+        },
+        {
+          "abilityId": "2629",
+          "abilityName": "里を保つ信念",
+          "abilityDescription": "弱体と状態異常を半減する",
+          "abilityEffectDescription": "弱体と状態異常を半減する",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "776,"
+        },
+        {
           "abilityId": "2630",
           "abilityName": "決意の叛意",
           "abilityDescription": "味方にうずまきナルト(年代不問)がいると、ﾊﾞﾄﾙ開始時に味方全体をﾏﾙﾁ無効(状態異常/幻/弱体系特殊状態/即死無効)",
@@ -25758,6 +25818,26 @@ window.ability=[
           "effectIdx2": "1057",
           "effectIdx3": "2965",
           "effectIds": "1994,1057,2965,"
+        },
+        {
+          "abilityId": "2634",
+          "abilityName": "和解の輝き",
+          "abilityDescription": "味方死亡時に確率で乱舞カウントを3減少する",
+          "abilityEffectDescription": "味方死亡時に確率で乱舞カウントを3減少する",
+          "effectIdx1": "3206",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3206,"
+        },
+        {
+          "abilityId": "2635",
+          "abilityName": "憎しみを超えし戦友",
+          "abilityDescription": "行動後チャクラ25%回復",
+          "abilityEffectDescription": "行動後チャクラ25%回復",
+          "effectIdx1": "3207",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3207,"
         },
         {
           "abilityId": "10000",
@@ -28628,6 +28708,36 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3166,"
+        },
+        {
+          "abilityId": "310073",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "3回行動まで弱体系特殊状態無効",
+          "abilityEffectDescription": "3回行動まで弱体系特殊状態無効",
+          "effectIdx1": "2722",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2722,"
+        },
+        {
+          "abilityId": "310074",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "行動後に確率で再行動",
+          "abilityEffectDescription": "行動後に確率で再行動",
+          "effectIdx1": "439",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "439,"
+        },
+        {
+          "abilityId": "310075",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "確率で心属性からのダメージ50％カット",
+          "abilityEffectDescription": "確率で心属性からのダメージ50％カット",
+          "effectIdx1": "3193",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3193,"
         },
         {
           "abilityId": "801187",
