@@ -2739,6 +2739,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "279",
+          "category": "4",
+          "iconId": "1331",
+          "name": "神・白眼",
+          "description": "強化系特殊・神化状態解除＆無効。行動ごとに味方全体に反撃ダメージ。状態解除時、確率で自身を即死",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "3"
+        },
+        {
           "cardUnusualId": "280",
           "category": "3",
           "iconId": "1332",

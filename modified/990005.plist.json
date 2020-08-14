@@ -1187,5 +1187,15 @@
           "uiIdx": "10021",
           "partyEffects": "3153,",
           "enemyEffects": "3154,3155,"
+        },
+        {
+          "battleFieldEffectId": "10022",
+          "name": "再臨セシ女神",
+          "category": "3",
+          "scriptId": "10022",
+          "overWrite": "0",
+          "uiIdx": "10022",
+          "partyEffects": null,
+          "enemyEffects": "3184,3185,3186,3187,3188,3189,3190,"
         }
       ]

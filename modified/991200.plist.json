@@ -13427,6 +13427,42 @@
           "effectIdx4": "1840"
         },
         {
+          "crystalOverwriteEffectId": "1135",
+          "targetCrystal": "30807",
+          "description": "1回行動まで被ダメージ75%カット、素早さ・スキルダメージ150%アップ、スキル発動速度2段階アップ",
+          "charaIds": "14301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3195",
+          "effectIdx2": "967",
+          "effectIdx3": "794",
+          "effectIdx4": "1549"
+        },
+        {
+          "crystalOverwriteEffectId": "1136",
+          "targetCrystal": "30808",
+          "description": "3回行動まで高確率で地形効果無効、行動毎にHP・チャクラ25%回復",
+          "charaIds": "14301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3196",
+          "effectIdx2": "1892",
+          "effectIdx3": "1909",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1137",
+          "targetCrystal": "30809",
+          "description": "3回行動まで高確率で弱体系特殊状態無効、行動毎にHP・チャクラ25%回復",
+          "charaIds": "14301,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3219",
+          "effectIdx2": "3197",
+          "effectIdx3": "1892",
+          "effectIdx4": "1909"
+        },
+        {
           "crystalOverwriteEffectId": "1138",
           "targetCrystal": "30803",
           "description": "最大HPと素早さとスキルダメージ100%アップ、スキル発動速度1段階アップ",
