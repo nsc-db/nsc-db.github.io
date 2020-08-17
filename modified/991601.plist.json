@@ -2014,6 +2014,19 @@
           "selectType": "3"
         },
         {
+          "itemId": "16012",
+          "name": "5周年記念メダル",
+          "description": "5周年記念・大抽選会で使用できるメダル。（当日のみ使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "102",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16012",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
           "itemId": "51000",
           "name": "ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。",
@@ -2810,6 +2823,19 @@
           "itemId": "51061",
           "name": "期間限定 昇級Pt倍化薬",
           "description": "昇級試験での獲得Ptが2倍になります（8月12日15:59まで期間限定）",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "51062",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（8月26日15:59まで期間限定）",
           "resultWord": "昇級試験 獲得Pt2倍",
           "itemCategoryId": "11",
           "itemValue": "20000",
