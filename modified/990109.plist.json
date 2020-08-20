@@ -25839,6 +25839,66 @@
           "effectIds": "3207,"
         },
         {
+          "abilityId": "2638",
+          "abilityName": "旋風の加護",
+          "abilityDescription": "行動するたびにHP・チャクラ30%回復、味方の砂隠れの里所属一人につき素早さ60%アップ（自身含む）",
+          "abilityEffectDescription": "行動するたびにHP・チャクラ30%回復、味方の砂隠れの里所属一人につき素早さ60%アップ（自身含む）",
+          "effectIdx1": "894",
+          "effectIdx2": "2524",
+          "effectIdx3": "3220",
+          "effectIds": "894,2524,3220,"
+        },
+        {
+          "abilityId": "2639",
+          "abilityName": "風の姫君",
+          "abilityDescription": "HP0以下で2回耐える、敵に滅キャラがいると「頼む！」で急襲攻撃（チャクラ中回復）",
+          "abilityEffectDescription": "HP0以下で2回耐える、敵に滅キャラがいると「頼む！」で急襲攻撃（チャクラ中回復）",
+          "effectIdx1": "1057",
+          "effectIdx2": "3223",
+          "effectIdx3": "0",
+          "effectIds": "1057,3223,"
+        },
+        {
+          "abilityId": "2642",
+          "abilityName": "仕込まれし殺戮仕掛け",
+          "abilityDescription": "HP0以下で3回耐え、耐えたとき敵全体を確率で塞状態にする【特殊状態：塞】スキルが使用不可になる",
+          "abilityEffectDescription": "HP0以下で3回耐え、耐えたとき敵全体を確率で塞状態にする【特殊状態：塞】スキルが使用不可になる",
+          "effectIdx1": "1789",
+          "effectIdx2": "3228",
+          "effectIdx3": "0",
+          "effectIds": "1789,3228,"
+        },
+        {
+          "abilityId": "2643",
+          "abilityName": "姉弟への愛情",
+          "abilityDescription": "敵に滅キャラがいると、バトル開始時に耐性を無視して敵全体にスキル発動速度2段階ダウン",
+          "abilityEffectDescription": "敵に滅キャラがいると、バトル開始時に耐性を無視して敵全体にスキル発動速度2段階ダウン",
+          "effectIdx1": "3229",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3229,"
+        },
+        {
+          "abilityId": "2644",
+          "abilityName": "卓越した医療忍術",
+          "abilityDescription": "確率でスキルを回避、HPが0以下になると1度だけHPが全回復する",
+          "abilityEffectDescription": "確率でスキルを回避、HPが0以下になると1度だけHPが全回復する",
+          "effectIdx1": "734",
+          "effectIdx2": "312",
+          "effectIdx3": "874",
+          "effectIds": "734,312,874,"
+        },
+        {
+          "abilityId": "2645",
+          "abilityName": "希望に賭ける",
+          "abilityDescription": "行動後にHPが20％回復、弱体と状態異常を半減する",
+          "abilityEffectDescription": "行動後にHPが20％回復、弱体と状態異常を半減する",
+          "effectIdx1": "628",
+          "effectIdx2": "776",
+          "effectIdx3": "0",
+          "effectIds": "628,776,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -28737,6 +28797,26 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3193,"
+        },
+        {
+          "abilityId": "310077",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に滅キャラがいると、攻防速60%アップ",
+          "abilityEffectDescription": "敵に滅キャラがいると、攻防速60%アップ",
+          "effectIdx1": "3221",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3221,"
+        },
+        {
+          "abilityId": "310078",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に滅キャラがいると、スキルダメージ80%アップ",
+          "abilityEffectDescription": "敵に滅キャラがいると、スキルダメージ80%アップ",
+          "effectIdx1": "3222",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3222,"
         },
         {
           "abilityId": "801187",
