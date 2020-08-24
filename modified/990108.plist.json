@@ -15259,6 +15259,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1106",
+          "name": "砂塵の守護者",
+          "description": "砂隠れ・木ノ葉隠れの里所属の素早さ90%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "13089",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIds": "13089,1840,",
+          "compType": "2",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "2",
+          "target2Param": "2"
+        },
+        {
           "cardLeaderSkillId": "1107",
           "name": "斬り拓く扇媛",
           "description": "砂隠れ・木ノ葉隠れの里所属の素早さ・スキルダメージを80%アップ",

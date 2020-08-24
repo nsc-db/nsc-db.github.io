@@ -23551,6 +23551,38 @@
           "recipeName": "傀儡・黒蟻"
         },
         {
+          "crystalId": "30815",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "3209",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "里を守る鉄壁の砂",
+          "crystalDescription": "1回行動まで確率で弱体系特殊状態無効",
+          "crystalImageId": "308155",
+          "recipeId": "30815",
+          "recipeName": "里を守る鉄壁の砂"
+        },
+        {
+          "crystalId": "30816",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1115",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "繋がりを守る意志",
+          "crystalDescription": "バトル開始時チャクラ50%回復",
+          "crystalImageId": "308165",
+          "recipeId": "30816",
+          "recipeName": "繋がりを守る意志"
+        },
+        {
           "crystalId": "30819",
           "crystalType": "10",
           "crystalRare": "5",

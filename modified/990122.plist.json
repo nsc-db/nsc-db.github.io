@@ -3659,6 +3659,18 @@
           "voiceDeath": ""
         },
         {
+          "cardVoiceId": "309",
+          "cardId": "20060809",
+          "dirName": "gaara",
+          "evolutionStep": "",
+          "voiceAppear": "gaara_battle_02_03",
+          "voiceSkill1": "gaara_battle_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "gaara_win_02_03",
+          "voiceDeath": "gaara_death_02_03"
+        },
+        {
           "cardVoiceId": "310",
           "cardId": "20060807",
           "dirName": "temari",

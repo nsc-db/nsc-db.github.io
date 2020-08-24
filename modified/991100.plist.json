@@ -923,6 +923,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "1305",
+          "charaId": "13",
+          "name": "我愛羅",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "1320",
+          "birthday": "119",
+          "constellation": "10",
+          "height": "16610",
+          "weight": "5090",
+          "bloodType": "4",
+          "age": "16",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "1401",
           "charaId": "14",
           "name": "テマリ",

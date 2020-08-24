@@ -2769,6 +2769,26 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "282",
+          "category": "4",
+          "iconId": "1334",
+          "name": "砂塵",
+          "description": "[味方付与時]素早さアップ、スキル攻撃時に確率で地形効果を破壊&amp;解除",
+          "subScore": "0",
+          "color": "13216390",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "283",
+          "category": "4",
+          "iconId": "1334",
+          "name": "砂塵",
+          "description": "[敵付与時]素早さダウン、確率で行動不能",
+          "subScore": "0",
+          "color": "13216390",
+          "type": "3"
+        },
+        {
           "cardUnusualId": "284",
           "category": "5",
           "iconId": "1335",

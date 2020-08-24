@@ -13511,6 +13511,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1142",
+          "targetCrystal": "30815",
+          "description": "3回行動まで弱体系特殊状態無効、スキル発動速度1段階アップ",
+          "charaIds": "1305,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2722",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1143",
+          "targetCrystal": "30816",
+          "description": "バトル開始時チャクラ50%回復、チャクラ消費量半減、攻撃・防御・素早さ80%アップ",
+          "charaIds": "1305,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "895",
+          "effectIdx3": "3062",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1144",
           "targetCrystal": "30811",
           "description": "行動するたびに素早さ30%ｱｯﾌﾟ（最大150%ｱｯﾌﾟ）、最大ﾁｬｸﾗ量50ｱｯﾌﾟ、ｽｷﾙ発動速度1段階ｱｯﾌﾟ",

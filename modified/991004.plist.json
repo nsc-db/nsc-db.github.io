@@ -5663,6 +5663,12 @@
           "speechCharactorName": "日向ヒナタ"
         },
         {
+          "speechCharactorId": "985",
+          "cardId": "985",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "カンクロウ"
+        },
+        {
           "speechCharactorId": "986",
           "cardId": "959",
           "speechCharactorImgId": "0",
@@ -5727,6 +5733,12 @@
           "cardId": "50000001",
           "speechCharactorImgId": "0",
           "speechCharactorName": "木ノ葉の忍"
+        },
+        {
+          "speechCharactorId": "5002",
+          "cardId": "50000002",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "砂隠れの忍"
         },
         {
           "speechCharactorId": "5004",

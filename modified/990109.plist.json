@@ -25839,6 +25839,26 @@
           "effectIds": "3207,"
         },
         {
+          "abilityId": "2636",
+          "abilityName": "砂の波動",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時確率で敵・味方全体を砂塵状態（敵に砂隠れ・木ノ葉隠れ・“暁”がいると確実付与）、最大ﾁｬｸﾗ量180ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時確率で敵・味方全体を砂塵状態（敵に砂隠れ・木ノ葉隠れ・“暁”がいると確実付与）、最大ﾁｬｸﾗ量180ｱｯﾌﾟ",
+          "effectIdx1": "3211",
+          "effectIdx2": "3214",
+          "effectIdx3": "3215",
+          "effectIds": "3211,3214,3215,3212,3214,3215,3213,3216,3217,20017,"
+        },
+        {
+          "abilityId": "2637",
+          "abilityName": "砂塵の恩寵",
+          "abilityDescription": "HP0以下で2回HP全回復、超滅創から受けるﾀﾞﾒｰｼﾞ50％ｶｯﾄ、敵に“暁”所属が生存していると受ける耐性無視ﾀﾞﾒｰｼﾞ0",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、超滅創から受けるﾀﾞﾒｰｼﾞ50％ｶｯﾄ、敵に“暁”所属が生存していると受ける耐性無視ﾀﾞﾒｰｼﾞ0",
+          "effectIdx1": "3218",
+          "effectIdx2": "1057",
+          "effectIdx3": "874",
+          "effectIds": "3218,1057,874,2708,"
+        },
+        {
           "abilityId": "2638",
           "abilityName": "旋風の加護",
           "abilityDescription": "行動するたびにHP・チャクラ30%回復、味方の砂隠れの里所属一人につき素早さ60%アップ（自身含む）",
@@ -28797,6 +28817,16 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3193,"
+        },
+        {
+          "abilityId": "310076",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に“暁”がいると最大HP200%アップ",
+          "abilityEffectDescription": "敵に“暁”がいると最大HP200%アップ",
+          "effectIdx1": "3210",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3210,"
         },
         {
           "abilityId": "310077",
