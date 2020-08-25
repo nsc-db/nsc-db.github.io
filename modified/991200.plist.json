@@ -13559,6 +13559,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1146",
+          "targetCrystal": "30801",
+          "description": "5回行動までスキップ・キャンセル無効、スキルダメージ半減",
+          "charaIds": "12001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2672",
+          "effectIdx2": "2963",
+          "effectIdx3": "20501",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1147",
+          "targetCrystal": "30802",
+          "description": "3回行動までチャクラ消費0、4回目以降チャクラ消費半減、スキルダメージ・素早さ100%アップ",
+          "charaIds": "12001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1949",
+          "effectIdx2": "2732",
+          "effectIdx3": "13099",
+          "effectIdx4": "774"
+        },
+        {
           "crystalOverwriteEffectId": "1148",
           "targetCrystal": "30813",
           "description": "弱体・状態異常無効、3回行動まで高確率でスキルを回避",

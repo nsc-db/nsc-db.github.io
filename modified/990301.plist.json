@@ -23359,6 +23359,38 @@
           "recipeName": "ﾅﾙｺﾚ総選挙2020(勇)"
         },
         {
+          "crystalId": "30801",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "3232",
+          "effectIdx2": "3233",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "芸術を生み出す左手",
+          "crystalDescription": "1回行動まで確率でスキップ・キャンセル無効",
+          "crystalImageId": "308015",
+          "recipeId": "30801",
+          "recipeName": "芸術を生み出す左手"
+        },
+        {
+          "crystalId": "30802",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1378",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "起爆粘土C3",
+          "crystalDescription": "1回行動までチャクラ消費0",
+          "crystalImageId": "308025",
+          "recipeId": "30802",
+          "recipeName": "起爆粘土C3"
+        },
+        {
           "crystalId": "30803",
           "crystalType": "1",
           "crystalRare": "5",

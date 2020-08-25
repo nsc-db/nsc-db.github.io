@@ -2807,5 +2807,65 @@
           "subScore": "0",
           "color": "16774242",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "286",
+          "category": "3",
+          "iconId": "1337",
+          "name": "爆散",
+          "description": "攻撃を受けた際に、それぞれ確率で爆竜[心/技/体/知/勇]状態を特定所属の味方に付与",
+          "subScore": "0",
+          "color": "12434877",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "287",
+          "category": "3",
+          "iconId": "1338",
+          "name": "爆竜[心]",
+          "description": "スキル攻撃時、心属性の耐性を弱点とする。被攻撃時、反撃ダメージ&amp;確率で爆竜[心]状態解除",
+          "subScore": "0",
+          "color": "12434877",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "288",
+          "category": "3",
+          "iconId": "1339",
+          "name": "爆竜[技]",
+          "description": "スキル攻撃時、技属性の耐性を弱点とする。被攻撃時、反撃ダメージ&amp;確率で爆竜[技]状態解除",
+          "subScore": "0",
+          "color": "12434877",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "289",
+          "category": "3",
+          "iconId": "1340",
+          "name": "爆竜[体]",
+          "description": "スキル攻撃時、体属性の耐性を弱点とする。被攻撃時、反撃ダメージ&amp;確率で爆竜[体]状態解除",
+          "subScore": "0",
+          "color": "12434877",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "290",
+          "category": "3",
+          "iconId": "1341",
+          "name": "爆竜[知]",
+          "description": "スキル攻撃時、知属性の耐性を弱点とする。被攻撃時、反撃ダメージ&amp;確率で爆竜[知]状態解除",
+          "subScore": "0",
+          "color": "12434877",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "291",
+          "category": "3",
+          "iconId": "1342",
+          "name": "爆竜[勇]",
+          "description": "スキル攻撃時、勇属性の耐性を弱点とする。被攻撃時、反撃ダメージ&amp;確率で爆竜[勇]状態解除",
+          "subScore": "0",
+          "color": "12434877",
+          "type": "2"
         }
       ]

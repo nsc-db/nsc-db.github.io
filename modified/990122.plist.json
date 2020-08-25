@@ -3683,6 +3683,18 @@
           "voiceDeath": "temari_death_02_01"
         },
         {
+          "cardVoiceId": "311",
+          "cardId": "20060802",
+          "dirName": "deidara",
+          "evolutionStep": "",
+          "voiceAppear": "deidara_battle_02_03",
+          "voiceSkill1": "deidara_skill_02_05,deidara_attack_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "deidara_win_02_02",
+          "voiceDeath": "deidara_death_02_03"
+        },
+        {
           "cardVoiceId": "312",
           "cardId": "20060811",
           "dirName": "tsunade",
