@@ -13510,5 +13510,113 @@ window.unique=[
           "effectIdx2": "1838",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1142",
+          "targetCrystal": "30815",
+          "description": "3回行動まで弱体系特殊状態無効、スキル発動速度1段階アップ",
+          "charaIds": "1305",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2722",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1143",
+          "targetCrystal": "30816",
+          "description": "バトル開始時チャクラ50%回復、チャクラ消費量半減、攻撃・防御・素早さ80%アップ",
+          "charaIds": "1305",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "895",
+          "effectIdx3": "3062",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1144",
+          "targetCrystal": "30811",
+          "description": "行動するたびに素早さ30%ｱｯﾌﾟ（最大150%ｱｯﾌﾟ）、最大ﾁｬｸﾗ量50ｱｯﾌﾟ、ｽｷﾙ発動速度1段階ｱｯﾌﾟ",
+          "charaIds": "1403",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1424",
+          "effectIdx2": "689",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1145",
+          "targetCrystal": "30812",
+          "description": "行動後に確率で再行動、キャンセル・弱体無効",
+          "charaIds": "1403",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "439",
+          "effectIdx2": "1751",
+          "effectIdx3": "64",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1146",
+          "targetCrystal": "30801",
+          "description": "5回行動までスキップ・キャンセル無効、スキルダメージ半減",
+          "charaIds": "12001",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2672",
+          "effectIdx2": "2963",
+          "effectIdx3": "20501",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1147",
+          "targetCrystal": "30802",
+          "description": "3回行動までチャクラ消費0、4回目以降チャクラ消費半減、スキルダメージ・素早さ100%アップ",
+          "charaIds": "12001",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1949",
+          "effectIdx2": "2732",
+          "effectIdx3": "13099",
+          "effectIdx4": "774"
+        },
+        {
+          "crystalOverwriteEffectId": "1148",
+          "targetCrystal": "30813",
+          "description": "弱体・状態異常無効、3回行動まで高確率でスキルを回避",
+          "charaIds": "1503",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "880",
+          "effectIdx2": "2099",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1149",
+          "targetCrystal": "30814",
+          "description": "最大HP＆全スキルダメージ120%アップ、2回行動するまでチャクラ消費0＆素早さ100%アップ",
+          "charaIds": "1503",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "30011",
+          "effectIdx3": "1646",
+          "effectIdx4": "3236"
+        },
+        {
+          "crystalOverwriteEffectId": "1150",
+          "targetCrystal": "30810",
+          "description": "2回行動までチャクラ消費0、3回目以降チャクラ消費半減、敵に木ノ葉隠れ所属がいると素早さ150%アップ",
+          "charaIds": "14301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1646",
+          "effectIdx2": "1995",
+          "effectIdx3": "2620",
+          "effectIdx4": "0"
         }
         ]

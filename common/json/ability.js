@@ -25840,6 +25840,106 @@ window.ability=[
           "effectIds": "3207,"
         },
         {
+          "abilityId": "2636",
+          "abilityName": "砂の波動",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時確率で敵・味方全体を砂塵状態（敵に砂隠れ・木ノ葉隠れ・“暁”がいると確実付与）、最大ﾁｬｸﾗ量180ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時確率で敵・味方全体を砂塵状態（敵に砂隠れ・木ノ葉隠れ・“暁”がいると確実付与）、最大ﾁｬｸﾗ量180ｱｯﾌﾟ",
+          "effectIdx1": "3211",
+          "effectIdx2": "3214",
+          "effectIdx3": "3215",
+          "effectIds": "3211,3214,3215,3212,3214,3215,3213,3216,3217,20017,"
+        },
+        {
+          "abilityId": "2637",
+          "abilityName": "砂塵の恩寵",
+          "abilityDescription": "HP0以下で2回HP全回復、超滅創から受けるﾀﾞﾒｰｼﾞ50％ｶｯﾄ、敵に“暁”所属が生存していると受ける耐性無視ﾀﾞﾒｰｼﾞ0",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、超滅創から受けるﾀﾞﾒｰｼﾞ50％ｶｯﾄ、敵に“暁”所属が生存していると受ける耐性無視ﾀﾞﾒｰｼﾞ0",
+          "effectIdx1": "3218",
+          "effectIdx2": "1057",
+          "effectIdx3": "874",
+          "effectIds": "3218,1057,874,2708,"
+        },
+        {
+          "abilityId": "2638",
+          "abilityName": "旋風の加護",
+          "abilityDescription": "行動するたびにHP・チャクラ30%回復、味方の砂隠れの里所属一人につき素早さ60%アップ（自身含む）",
+          "abilityEffectDescription": "行動するたびにHP・チャクラ30%回復、味方の砂隠れの里所属一人につき素早さ60%アップ（自身含む）",
+          "effectIdx1": "894",
+          "effectIdx2": "2524",
+          "effectIdx3": "3220",
+          "effectIds": "894,2524,3220,"
+        },
+        {
+          "abilityId": "2639",
+          "abilityName": "風の姫君",
+          "abilityDescription": "HP0以下で2回耐える、敵に滅キャラがいると「頼む！」で急襲攻撃（チャクラ中回復）",
+          "abilityEffectDescription": "HP0以下で2回耐える、敵に滅キャラがいると「頼む！」で急襲攻撃（チャクラ中回復）",
+          "effectIdx1": "1057",
+          "effectIdx2": "3223",
+          "effectIdx3": "0",
+          "effectIds": "1057,3223,"
+        },
+        {
+          "abilityId": "2640",
+          "abilityName": "爆発する粘土造形",
+          "abilityDescription": "敵に超忍がいるとバトル開始時に自身を爆散状態にして、素早さ150%アップ&amp;ダメージ50%カット",
+          "abilityEffectDescription": "敵に超忍がいるとバトル開始時に自身を爆散状態にして、素早さ150%アップ&amp;ダメージ50%カット",
+          "effectIdx1": "3224",
+          "effectIdx2": "3240",
+          "effectIdx3": "3234",
+          "effectIds": "3224,3240,3234,"
+        },
+        {
+          "abilityId": "2641",
+          "abilityName": "刹那の絶佳",
+          "abilityDescription": "1回行動まで全スキル無効、HP0以下で1回耐え、耐えた時スキルダメージ100%アップ",
+          "abilityEffectDescription": "1回行動まで全スキル無効、HP0以下で1回耐え、耐えた時スキルダメージ100%アップ",
+          "effectIdx1": "1794",
+          "effectIdx2": "312",
+          "effectIdx3": "2210",
+          "effectIds": "1794,312,2210,"
+        },
+        {
+          "abilityId": "2642",
+          "abilityName": "仕込まれし殺戮仕掛け",
+          "abilityDescription": "HP0以下で3回耐え、耐えたとき敵全体を確率で塞状態にする【特殊状態：塞】スキルが使用不可になる",
+          "abilityEffectDescription": "HP0以下で3回耐え、耐えたとき敵全体を確率で塞状態にする【特殊状態：塞】スキルが使用不可になる",
+          "effectIdx1": "1789",
+          "effectIdx2": "3228",
+          "effectIdx3": "0",
+          "effectIds": "1789,3228,"
+        },
+        {
+          "abilityId": "2643",
+          "abilityName": "姉弟への愛情",
+          "abilityDescription": "敵に滅キャラがいると、バトル開始時に耐性を無視して敵全体にスキル発動速度2段階ダウン",
+          "abilityEffectDescription": "敵に滅キャラがいると、バトル開始時に耐性を無視して敵全体にスキル発動速度2段階ダウン",
+          "effectIdx1": "3229",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3229,"
+        },
+        {
+          "abilityId": "2644",
+          "abilityName": "卓越した医療忍術",
+          "abilityDescription": "確率でスキルを回避、HPが0以下になると1度だけHPが全回復する",
+          "abilityEffectDescription": "確率でスキルを回避、HPが0以下になると1度だけHPが全回復する",
+          "effectIdx1": "734",
+          "effectIdx2": "312",
+          "effectIdx3": "874",
+          "effectIds": "734,312,874,"
+        },
+        {
+          "abilityId": "2645",
+          "abilityName": "希望に賭ける",
+          "abilityDescription": "行動後にHPが20％回復、弱体と状態異常を半減する",
+          "abilityEffectDescription": "行動後にHPが20％回復、弱体と状態異常を半減する",
+          "effectIdx1": "628",
+          "effectIdx2": "776",
+          "effectIdx3": "0",
+          "effectIds": "628,776,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -28738,6 +28838,56 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3193,"
+        },
+        {
+          "abilityId": "310076",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に“暁”がいると最大HP200%アップ",
+          "abilityEffectDescription": "敵に“暁”がいると最大HP200%アップ",
+          "effectIdx1": "3210",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3210,"
+        },
+        {
+          "abilityId": "310077",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に滅キャラがいると、攻防速60%アップ",
+          "abilityEffectDescription": "敵に滅キャラがいると、攻防速60%アップ",
+          "effectIdx1": "3221",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3221,"
+        },
+        {
+          "abilityId": "310078",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に滅キャラがいると、スキルダメージ80%アップ",
+          "abilityEffectDescription": "敵に滅キャラがいると、スキルダメージ80%アップ",
+          "effectIdx1": "3222",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3222,"
+        },
+        {
+          "abilityId": "310079",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に超忍がいると、攻防速60%アップ",
+          "abilityEffectDescription": "敵に超忍がいると、攻防速60%アップ",
+          "effectIdx1": "3226",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3226,"
+        },
+        {
+          "abilityId": "310080",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に超忍がいると、スキルダメージ80%アップ",
+          "abilityEffectDescription": "敵に超忍がいると、スキルダメージ80%アップ",
+          "effectIdx1": "3227",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3227,"
         },
         {
           "abilityId": "801187",

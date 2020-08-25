@@ -742,22 +742,6 @@ window.charaname=[
           "gender": "1"
         },
         {
-          "gachaCardAdditionId": "403",
-          "targetCardId": "20060803",
-          "additionId": "0",
-          "params": "0,",
-          "limitedFlg": "102",
-          "skillUrl": "https://www.youtube.com/embed/aa8beJ3q9Z0?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
-        },
-        {
-          "gachaCardAdditionId": "404",
-          "targetCardId": "20060804",
-          "additionId": "0",
-          "params": "0,",
-          "limitedFlg": "102",
-          "skillUrl": "https://www.youtube.com/embed/2BSWrftRNTs?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
-        },
-        {
           "charaProfileId": "1001",
           "charaId": "10",
           "name": "日向ネジ",
@@ -927,6 +911,20 @@ window.charaname=[
         },
         {
           "charaProfileId": "1304",
+          "charaId": "13",
+          "name": "我愛羅",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "1320",
+          "birthday": "119",
+          "constellation": "10",
+          "height": "16610",
+          "weight": "5090",
+          "bloodType": "4",
+          "age": "16",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "1305",
           "charaId": "13",
           "name": "我愛羅",
           "detail": "疾風伝",
@@ -4046,6 +4044,20 @@ window.charaname=[
           "bloodType": "0",
           "age": "0",
           "gender": "0"
+        },
+        {
+          "charaProfileId": "60201",
+          "charaId": "602",
+          "name": "ナルト＆サスケ",
+          "detail": "忍絵巻-絆-",
+          "charaLoveAffinityGroupId": "60201",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
         },
         {
           "charaProfileId": "100101",

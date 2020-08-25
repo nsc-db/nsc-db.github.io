@@ -7616,6 +7616,46 @@ window.skillname=[
           "name": "九尾・魂渾尾獣玉"
         },
         {
+          "cardBattleSkillNameId": "3115",
+          "name": "砂縛牢・砂縛柩"
+        },
+        {
+          "cardBattleSkillNameId": "3116",
+          "name": "砂の一人の忍として"
+        },
+        {
+          "cardBattleSkillNameId": "3117",
+          "name": "風遁・扇網恢壊"
+        },
+        {
+          "cardBattleSkillNameId": "3118",
+          "name": "頼む！"
+        },
+        {
+          "cardBattleSkillNameId": "3119",
+          "name": "芸術大作・C3"
+        },
+        {
+          "cardBattleSkillNameId": "3120",
+          "name": "はい、射程圏、うん！"
+        },
+        {
+          "cardBattleSkillNameId": "3122",
+          "name": "隠し持ってやがんな…"
+        },
+        {
+          "cardBattleSkillNameId": "3123",
+          "name": "剛腕鉄拳"
+        },
+        {
+          "cardBattleSkillNameId": "3124",
+          "name": "いい男になりなよ…"
+        },
+        {
+          "cardBattleSkillNameId": "3125",
+          "name": "傀儡の術・凄演"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
