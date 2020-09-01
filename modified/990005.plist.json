@@ -1197,5 +1197,15 @@
           "uiIdx": "10022",
           "partyEffects": null,
           "enemyEffects": "3184,3185,3186,3187,3188,3189,3190,"
+        },
+        {
+          "battleFieldEffectId": "10023",
+          "name": "血月ノ誓イ",
+          "category": "3",
+          "scriptId": "10023",
+          "overWrite": "1",
+          "uiIdx": "10023",
+          "partyEffects": "3245,3246,3247,3248,3253,",
+          "enemyEffects": null
         }
       ]

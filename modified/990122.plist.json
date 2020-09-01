@@ -3707,6 +3707,18 @@
           "voiceDeath": "tsunade_damage_02_02"
         },
         {
+          "cardVoiceId": "314",
+          "cardId": "20060902",
+          "dirName": "rin",
+          "evolutionStep": "",
+          "voiceAppear": "rin_pursuit_04_02",
+          "voiceSkill1": "rin_damage_04_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "",
+          "voiceDeath": "rin_death_04_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

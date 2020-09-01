@@ -323,6 +323,18 @@
           "specialPanelList": "9000016,9000017,9000018"
         },
         {
+          "sphereBoardId": "10037",
+          "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
+          "boardDescription": "のはらリン【鬼謀に染まる憐花】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060902",
+          "normalPanelList": "9000025,9000026,9000027",
+          "specialPanelList": "9000028,9000029,9000030"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -681,6 +693,18 @@
           "cardId": "20060809",
           "normalPanelList": "9100001,9100002,9100003",
           "specialPanelList": "9100004,9100005,9100006"
+        },
+        {
+          "sphereBoardId": "50031",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardDescription": "うちはオビト【仄暗き境界】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060810",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024"
         },
         {
           "sphereBoardId": "60001",

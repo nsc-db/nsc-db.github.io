@@ -15329,6 +15329,48 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1111",
+          "name": "仄暗き境界",
+          "description": "無所属のスキル発動速度1段階アップ&amp;素早さ50%アップ&amp;5回行動までスキップ無効",
+          "effectIdx1": "1840",
+          "effectIdx2": "112",
+          "effectIdx3": "2672",
+          "effectIds": "1840,112,2672,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1112",
+          "name": "次代を築く英石",
+          "description": "勇属性の素早さとスキルダメージを50%アップする",
+          "effectIdx1": "112",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "effectIds": "112,682,",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1113",
+          "name": "鬼謀に染まる憐花",
+          "description": "木ノ葉隠れの里所属の素早さとスキルダメージ80%アップ",
+          "effectIdx1": "13079",
+          "effectIdx2": "694",
+          "effectIdx3": "0",
+          "effectIds": "13079,694,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

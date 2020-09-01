@@ -8164,6 +8164,11 @@
           "gachaTicketImgId": "4242"
         },
         {
+          "gachaTicketId": "4243",
+          "gachaTicketName": "2020年忍具[7月]ガチャチケット",
+          "gachaTicketImgId": "4243"
+        },
+        {
           "gachaTicketId": "4249",
           "gachaTicketName": "★6確定 デイダラ誕生記念ガチャチケット",
           "gachaTicketImgId": "4249"
@@ -9297,6 +9302,71 @@
           "gachaTicketId": "4480",
           "gachaTicketName": "天衣無縫の芸術・祭",
           "gachaTicketImgId": "4479"
+        },
+        {
+          "gachaTicketId": "4481",
+          "gachaTicketName": "破神総出陣(壱)ガチャチケット",
+          "gachaTicketImgId": "4481"
+        },
+        {
+          "gachaTicketId": "4482",
+          "gachaTicketName": "破神総出陣(弐)ガチャチケット",
+          "gachaTicketImgId": "4482"
+        },
+        {
+          "gachaTicketId": "4483",
+          "gachaTicketName": "破神総出陣(参)ガチャチケット",
+          "gachaTicketImgId": "4483"
+        },
+        {
+          "gachaTicketId": "4490",
+          "gachaTicketName": "ミナト班・特別ガチャチケット",
+          "gachaTicketImgId": "4490"
+        },
+        {
+          "gachaTicketId": "4491",
+          "gachaTicketName": "鬼謀に染まる憐花ガチャチケット",
+          "gachaTicketImgId": "4491"
+        },
+        {
+          "gachaTicketId": "4492",
+          "gachaTicketName": "鬼謀に染まる憐花・祭",
+          "gachaTicketImgId": "4491"
+        },
+        {
+          "gachaTicketId": "4495",
+          "gachaTicketName": "仄暗き境界・極ガチャチケット",
+          "gachaTicketImgId": "4495"
+        },
+        {
+          "gachaTicketId": "4496",
+          "gachaTicketName": "仄暗き境界・特別ガチャチケット",
+          "gachaTicketImgId": "4496"
+        },
+        {
+          "gachaTicketId": "4497",
+          "gachaTicketName": "仄暗き境界ガチャチケット",
+          "gachaTicketImgId": "4497"
+        },
+        {
+          "gachaTicketId": "4498",
+          "gachaTicketName": "神忍・破神確定 -仄暗き境界-",
+          "gachaTicketImgId": "4498"
+        },
+        {
+          "gachaTicketId": "4499",
+          "gachaTicketName": "★6超忍確定[9月]",
+          "gachaTicketImgId": "4499"
+        },
+        {
+          "gachaTicketId": "4500",
+          "gachaTicketName": "★6創確定[9月]",
+          "gachaTicketImgId": "4500"
+        },
+        {
+          "gachaTicketId": "4501",
+          "gachaTicketName": "★6滅確定[9月]",
+          "gachaTicketImgId": "4501"
         },
         {
           "gachaTicketId": "100084",

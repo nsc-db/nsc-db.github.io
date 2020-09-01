@@ -5525,6 +5525,18 @@
           "speechCharactorName": "薬師カブト"
         },
         {
+          "speechCharactorId": "941",
+          "cardId": "941",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うみのイルカ"
+        },
+        {
+          "speechCharactorId": "942",
+          "cardId": "942",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
           "speechCharactorId": "943",
           "cardId": "943",
           "speechCharactorImgId": "0",
@@ -5543,16 +5555,46 @@
           "speechCharactorName": "うずまきナルト"
         },
         {
+          "speechCharactorId": "946",
+          "cardId": "946",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "？？？"
+        },
+        {
+          "speechCharactorId": "948",
+          "cardId": "948",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "シホ"
+        },
+        {
+          "speechCharactorId": "950",
+          "cardId": "950",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "夕日紅"
+        },
+        {
           "speechCharactorId": "951",
           "cardId": "99999998",
           "speechCharactorImgId": "0",
           "speechCharactorName": "大蛇丸"
         },
         {
+          "speechCharactorId": "952",
+          "cardId": "952",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
+        },
+        {
           "speechCharactorId": "953",
           "cardId": "953",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "954",
+          "cardId": "954",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
         },
         {
           "speechCharactorId": "955",
@@ -5723,6 +5765,18 @@
           "speechCharactorName": "うちはミコト"
         },
         {
+          "speechCharactorId": "998",
+          "cardId": "906",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ガマ吉"
+        },
+        {
+          "speechCharactorId": "999",
+          "cardId": "20040905",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはオビト"
+        },
+        {
           "speechCharactorId": "1000",
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
@@ -5739,6 +5793,12 @@
           "cardId": "50000002",
           "speechCharactorImgId": "0",
           "speechCharactorName": "砂隠れの忍"
+        },
+        {
+          "speechCharactorId": "5003",
+          "cardId": "50000003",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "霧隠れの忍"
         },
         {
           "speechCharactorId": "5004",

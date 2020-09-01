@@ -25939,6 +25939,66 @@
           "effectIds": "628,776,"
         },
         {
+          "abilityId": "2646",
+          "abilityName": "哀しみの血雨",
+          "abilityDescription": "敵に神忍祭限定ｷｬﾗが生存時素早さ444%ｱｯﾌﾟ、敵に木ノ葉隠れの里所属がいるとﾊﾞﾄﾙ開始時に自身を宿命状態にする",
+          "abilityEffectDescription": "敵に神忍祭限定ｷｬﾗが生存時素早さ444%ｱｯﾌﾟ、敵に木ノ葉隠れの里所属がいるとﾊﾞﾄﾙ開始時に自身を宿命状態にする",
+          "effectIdx1": "2450",
+          "effectIdx2": "3242",
+          "effectIdx3": "0",
+          "effectIds": "2450,3242,"
+        },
+        {
+          "abilityId": "2647",
+          "abilityName": "柱間の人造体",
+          "abilityDescription": "HP0以下で5回全回復、被攻撃時攻撃者を低確率で封印状態にする、高確率で即死無効、耐えた時ｱｸｼｮﾝ状態になる",
+          "abilityEffectDescription": "HP0以下で5回全回復、被攻撃時攻撃者を低確率で封印状態にする、高確率で即死無効、耐えた時ｱｸｼｮﾝ状態になる",
+          "effectIdx1": "1512",
+          "effectIdx2": "874",
+          "effectIdx3": "3243",
+          "effectIds": "1512,874,3243,3241,3244,"
+        },
+        {
+          "abilityId": "2648",
+          "abilityName": "男勝りな岩の血脈",
+          "abilityDescription": "HP80%以上の時、状態異常を半減＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80%以上の時、状態異常を半減＆スキル発動速度1段階アップ",
+          "effectIdx1": "851",
+          "effectIdx2": "1089",
+          "effectIdx3": "0",
+          "effectIds": "851,1089,"
+        },
+        {
+          "abilityId": "2649",
+          "abilityName": "毒舌と自信",
+          "abilityDescription": "HP0以下で1回だけ耐え、3回行動するまで確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で1回だけ耐え、3回行動するまで確率でスキル回避",
+          "effectIdx1": "312",
+          "effectIdx2": "2293",
+          "effectIdx3": "0",
+          "effectIds": "312,2293,"
+        },
+        {
+          "abilityId": "2650",
+          "abilityName": "宿されし瀑力",
+          "abilityDescription": "HP0以下で3回耐え、死亡時に味方全体を愛状態にする",
+          "abilityEffectDescription": "HP0以下で3回耐え、死亡時に味方全体を愛状態にする",
+          "effectIdx1": "1789",
+          "effectIdx2": "3277",
+          "effectIdx3": "0",
+          "effectIds": "1789,3277,"
+        },
+        {
+          "abilityId": "2651",
+          "abilityName": "散る覚悟",
+          "abilityDescription": "敵に創キャラがいると最大HP500%アップ、死亡時に敵全体を高確率で拘束状態にする",
+          "abilityEffectDescription": "敵に創キャラがいると最大HP500%アップ、死亡時に敵全体を高確率で拘束状態にする",
+          "effectIdx1": "3258",
+          "effectIdx2": "3259",
+          "effectIdx3": "0",
+          "effectIds": "3258,3259,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -28887,6 +28947,66 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3227,"
+        },
+        {
+          "abilityId": "310081",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "1回行動まで地形効果無効",
+          "abilityEffectDescription": "1回行動まで地形効果無効",
+          "effectIdx1": "3250",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3250,"
+        },
+        {
+          "abilityId": "310082",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "1回行動まで弱体系特殊状態無効",
+          "abilityEffectDescription": "1回行動まで弱体系特殊状態無効",
+          "effectIdx1": "3237",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3237,"
+        },
+        {
+          "abilityId": "310083",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に神忍祭限定キャラがいると確率で先制",
+          "abilityEffectDescription": "敵に神忍祭限定キャラがいると確率で先制",
+          "effectIdx1": "2999",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2999,"
+        },
+        {
+          "abilityId": "310084",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に創キャラがいると、攻防速60%アップ",
+          "abilityEffectDescription": "敵に創キャラがいると、攻防速60%アップ",
+          "effectIdx1": "3260",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3260,"
+        },
+        {
+          "abilityId": "310085",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に創キャラがいると、スキルダメージ80%アップ",
+          "abilityEffectDescription": "敵に創キャラがいると、スキルダメージ80%アップ",
+          "effectIdx1": "3261",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3261,"
+        },
+        {
+          "abilityId": "310086",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "スキップ無効",
+          "abilityEffectDescription": "スキップ無効",
+          "effectIdx1": "3262",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3262,"
         },
         {
           "abilityId": "801187",

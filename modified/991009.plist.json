@@ -2783,6 +2783,18 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "472",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "473",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -3275,6 +3287,12 @@
           "itemImgId": "1071"
         },
         {
+          "shopExchangeItemId": "1089",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "2000",
           "itemName": "忍交換券(8月)",
           "measure": null,
@@ -3759,6 +3777,12 @@
           "itemName": "5周年記念札",
           "measure": "0",
           "itemImgId": "2095"
+        },
+        {
+          "shopExchangeItemId": "2096",
+          "itemName": "1900万DL記念札",
+          "measure": "0",
+          "itemImgId": "2096"
         },
         {
           "shopExchangeItemId": "2500",
