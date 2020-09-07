@@ -23711,6 +23711,38 @@
           "recipeName": "リンの腰布"
         },
         {
+          "crystalId": "30903",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "3279",
+          "effectIdx2": "2008",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "燃ゆる闘争",
+          "crystalDescription": "5回行動まで確率で再行動するが、スキル発動速度2段階ダウン",
+          "crystalImageId": "309035",
+          "recipeId": "30903",
+          "recipeName": "燃ゆる闘争"
+        },
+        {
+          "crystalId": "30904",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "13049",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "亀裂なき鎧",
+          "crystalDescription": "最大HP・素早さ50%アップ",
+          "crystalImageId": "309045",
+          "recipeId": "30904",
+          "recipeName": "亀裂なき鎧"
+        },
+        {
           "crystalId": "30919",
           "crystalType": "1",
           "crystalRare": "5",

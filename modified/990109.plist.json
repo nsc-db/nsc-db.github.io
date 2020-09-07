@@ -25999,6 +25999,26 @@
           "effectIds": "3258,3259,"
         },
         {
+          "abilityId": "2652",
+          "abilityName": "卓越した瞳術",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時確率で一番素早さの高い敵に「ｽｷﾙ2」で急襲攻撃（敵に超忍か千手一族がいると確実）（ﾁｬｸﾗ大回復）",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時確率で一番素早さの高い敵に「ｽｷﾙ2」で急襲攻撃（敵に超忍か千手一族がいると確実）（ﾁｬｸﾗ大回復）",
+          "effectIdx1": "2919",
+          "effectIdx2": "2810",
+          "effectIdx3": "3263",
+          "effectIds": "2919,2810,3263,"
+        },
+        {
+          "abilityId": "2653",
+          "abilityName": "うちは伝説の忍",
+          "abilityDescription": "HP0以下で5回耐える、敵に五大隠れ里所属がいるとｽｷﾙﾀﾞﾒｰｼﾞ200%ｱｯﾌﾟ、木ノ葉所属がいると素早さ200%ｱｯﾌﾟ",
+          "abilityEffectDescription": "HP0以下で5回耐える、敵に五大隠れ里所属がいるとｽｷﾙﾀﾞﾒｰｼﾞ200%ｱｯﾌﾟ、木ノ葉所属がいると素早さ200%ｱｯﾌﾟ",
+          "effectIdx1": "1512",
+          "effectIdx2": "3264",
+          "effectIdx3": "3265",
+          "effectIds": "1512,3264,3265,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29007,6 +29027,26 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3262,"
+        },
+        {
+          "abilityId": "310087",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "1回行動までスキップ・キャンセル無効",
+          "abilityEffectDescription": "1回行動までスキップ・キャンセル無効",
+          "effectIdx1": "2336",
+          "effectIdx2": "1804",
+          "effectIdx3": "0",
+          "effectIds": "2336,1804,"
+        },
+        {
+          "abilityId": "310088",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵に千手一族がいると、開始時確率で耐性無視して幻付与",
+          "abilityEffectDescription": "敵に千手一族がいると、開始時確率で耐性無視して幻付与",
+          "effectIdx1": "3276",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3276,"
         },
         {
           "abilityId": "801187",

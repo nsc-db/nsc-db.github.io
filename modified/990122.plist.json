@@ -3707,6 +3707,18 @@
           "voiceDeath": "tsunade_damage_02_02"
         },
         {
+          "cardVoiceId": "313",
+          "cardId": "20060903",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_menu_04",
+          "voiceSkill1": "madara_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_win_02_02",
+          "voiceDeath": "madara_death_02_01"
+        },
+        {
           "cardVoiceId": "314",
           "cardId": "20060902",
           "dirName": "rin",

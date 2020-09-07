@@ -13665,5 +13665,29 @@
           "effectIdx2": "1840",
           "effectIdx3": "880",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1155",
+          "targetCrystal": "30903",
+          "description": "スキル発動速度1段階アップ、5回行動まで確率で再行動、1回行動までチャクラ消費0",
+          "charaIds": "13702,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "3279",
+          "effectIdx3": "1378",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1156",
+          "targetCrystal": "30904",
+          "description": "最大HP・素早さ100%アップ、敵に千手一族が生存しているとスキルダメージ150%アップ",
+          "charaIds": "13702,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "3280",
+          "effectIdx4": "0"
         }
       ]

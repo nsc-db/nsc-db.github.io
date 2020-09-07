@@ -15371,6 +15371,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1114",
+          "name": "燃え猛る剛毅",
+          "description": "被ダメージ時確率で、味方のうちはマダラ・イズナ（年代問わず）をアクション状態にする",
+          "effectIdx1": "3272",
+          "effectIdx2": "3271",
+          "effectIdx3": "0",
+          "effectIds": "3272,3271,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
