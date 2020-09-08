@@ -23743,6 +23743,38 @@
           "recipeName": "亀裂なき鎧"
         },
         {
+          "crystalId": "30905",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "13049",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "汚れし戦の衣",
+          "crystalDescription": "最大HP・素早さ50%アップ",
+          "crystalImageId": "309055",
+          "recipeId": "30905",
+          "recipeName": "汚れし戦の衣"
+        },
+        {
+          "crystalId": "30906",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "3279",
+          "effectIdx2": "3230",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "兄を護る覚悟",
+          "crystalDescription": "5回行動まで確率で再行動するが、行動後にチャクラ50%減少",
+          "crystalImageId": "309065",
+          "recipeId": "30906",
+          "recipeName": "兄を護る覚悟"
+        },
+        {
           "crystalId": "30919",
           "crystalType": "1",
           "crystalRare": "5",

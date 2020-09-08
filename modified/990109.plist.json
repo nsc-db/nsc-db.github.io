@@ -25951,8 +25951,8 @@
         {
           "abilityId": "2647",
           "abilityName": "柱間の人造体",
-          "abilityDescription": "HP0以下で5回全回復、被攻撃時攻撃者を低確率で封印状態にする、高確率で即死無効、耐えた時ｱｸｼｮﾝ状態になる",
-          "abilityEffectDescription": "HP0以下で5回全回復、被攻撃時攻撃者を低確率で封印状態にする、高確率で即死無効、耐えた時ｱｸｼｮﾝ状態になる",
+          "abilityDescription": "HP0以下で5回全回復、被攻撃時攻撃者を低確率で耐性を無視して封印付与、高確率で即死無効、耐えた時即ｱｸｼｮﾝ",
+          "abilityEffectDescription": "HP0以下で5回全回復、被攻撃時攻撃者を低確率で耐性を無視して封印付与、高確率で即死無効、耐えた時即ｱｸｼｮﾝ",
           "effectIdx1": "1512",
           "effectIdx2": "874",
           "effectIdx3": "3243",
@@ -26017,6 +26017,26 @@
           "effectIdx2": "3264",
           "effectIdx3": "3265",
           "effectIds": "1512,3264,3265,"
+        },
+        {
+          "abilityId": "2654",
+          "abilityName": "扇衛の先駆け",
+          "abilityDescription": "バトル開始時確率で先制攻撃（敵に滅キャラか千手一族がいると確実）、5回行動までスキル発動速度2段階アップ",
+          "abilityEffectDescription": "バトル開始時確率で先制攻撃（敵に滅キャラか千手一族がいると確実）、5回行動までスキル発動速度2段階アップ",
+          "effectIdx1": "3266",
+          "effectIdx2": "3267",
+          "effectIdx3": "3268",
+          "effectIds": "3266,3267,3268,1707,"
+        },
+        {
+          "abilityId": "2655",
+          "abilityName": "兄と成す覇道",
+          "abilityDescription": "敵に千手一族が生存していると攻・防・速・スキルダメージ300%アップ、HP0以下で1回HP全回復",
+          "abilityEffectDescription": "敵に千手一族が生存していると攻・防・速・スキルダメージ300%アップ、HP0以下で1回HP全回復",
+          "effectIdx1": "3269",
+          "effectIdx2": "2671",
+          "effectIdx3": "312",
+          "effectIds": "3269,2671,312,874,"
         },
         {
           "abilityId": "10000",

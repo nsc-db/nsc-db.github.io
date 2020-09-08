@@ -13689,5 +13689,29 @@
           "effectIdx2": "13099",
           "effectIdx3": "3280",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1157",
+          "targetCrystal": "30905",
+          "description": "最大HP・素早さ100%アップ、敵に千手一族が生存しているとスキルダメージ150%アップ",
+          "charaIds": "4701,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "13099",
+          "effectIdx3": "3280",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1158",
+          "targetCrystal": "30906",
+          "description": "行動後にチャクラ25%回復、5回行動まで確率で再行動、1回行動までチャクラ消費0",
+          "charaIds": "4701,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3207",
+          "effectIdx2": "3279",
+          "effectIdx3": "1378",
+          "effectIdx4": "0"
         }
       ]

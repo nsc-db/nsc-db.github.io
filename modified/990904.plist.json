@@ -402,19 +402,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1358",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "5周年ありがとう！大感謝任務-弐の陣-",
-          "description": "初回クリア報酬はすべてのランクで忍石獲得可能！\r\n周回することで豪華報酬大量獲得のチャンス！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1359",
           "worldAreaId": "5",
           "priority": "4",
@@ -512,19 +499,6 @@
           "name": "キング・オブ・ダメラン-特別篇-～総合～",
           "description": "0",
           "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "4122",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "卯の女神",
-          "description": "Ptランキング開催！\r\n初回クリア報酬は全て忍石獲得可能！\r\n個人Ptはイベント期間中のみ加算されます",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
