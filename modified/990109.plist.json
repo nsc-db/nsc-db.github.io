@@ -26039,6 +26039,26 @@
           "effectIds": "3269,2671,312,874,"
         },
         {
+          "abilityId": "2656",
+          "abilityName": "期限付きの奇跡の両輪",
+          "abilityDescription": "HP0で3回HP全回復、3回行動まで全ｽｷﾙ・即死・敵の地形無効&amp;耐性無視ﾀﾞﾒｰｼﾞ0&amp;被攻撃時ｱｸｼｮﾝ&amp;ｽｷﾙ発動3段階ｱｯﾌﾟ",
+          "abilityEffectDescription": "HP0で3回HP全回復、3回行動まで全ｽｷﾙ・即死・敵の地形無効&amp;耐性無視ﾀﾞﾒｰｼﾞ0&amp;被攻撃時ｱｸｼｮﾝ&amp;ｽｷﾙ発動3段階ｱｯﾌﾟ",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "2447",
+          "effectIds": "1789,874,2447,3281,3286,2446,3283,3282,"
+        },
+        {
+          "abilityId": "2657",
+          "abilityName": "心技一体の忍術",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時に味方全体を次の行動まで弱体系特殊・神化状態解除&amp;無効、超忍・創・滅ｷｬﾗからのﾀﾞﾒｰｼﾞ50%ｶｯﾄ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時に味方全体を次の行動まで弱体系特殊・神化状態解除&amp;無効、超忍・創・滅ｷｬﾗからのﾀﾞﾒｰｼﾞ50%ｶｯﾄ",
+          "effectIdx1": "3287",
+          "effectIdx2": "2708",
+          "effectIdx3": "3290",
+          "effectIds": "3287,2708,3290,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29067,6 +29087,36 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3276,"
+        },
+        {
+          "abilityId": "310090",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "行動毎に素早さ25%アップ（最大300%）",
+          "abilityEffectDescription": "行動毎に素早さ25%アップ（最大300%）",
+          "effectIdx1": "3285",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3285,"
+        },
+        {
+          "abilityId": "310091",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に無所属がいると素早さ100%アップ",
+          "abilityEffectDescription": "敵に無所属がいると素早さ100%アップ",
+          "effectIdx1": "3117",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3117,"
+        },
+        {
+          "abilityId": "310092",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "弱体無効",
+          "abilityEffectDescription": "弱体無効",
+          "effectIdx1": "64",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "64,"
         },
         {
           "abilityId": "801187",

@@ -3509,6 +3509,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "10178",
+          "timing": "5",
+          "func": "20",
+          "params": "292,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "10181",
           "timing": "1",
           "func": "34",

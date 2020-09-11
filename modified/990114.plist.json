@@ -2867,5 +2867,25 @@
           "subScore": "0",
           "color": "12434877",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "292",
+          "category": "4",
+          "iconId": "1343",
+          "name": "神撃",
+          "description": "何度でも連続して再行動。スキル攻撃時確率で敵の地形効果解除。スキル必中化。",
+          "subScore": "0",
+          "color": "16316664",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "295",
+          "category": "5",
+          "iconId": "1",
+          "name": "弱体系特殊・神化状態無効",
+          "description": "弱体系特殊・神化状態無効",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
         }
       ]

@@ -15399,6 +15399,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1116",
+          "name": "未来託されし瞳",
+          "description": "木ノ葉隠れの里所属のスキル発動速度1段階アップ&amp;2回行動まで即死無効",
+          "effectIdx1": "1840",
+          "effectIdx2": "3284",
+          "effectIdx3": "0",
+          "effectIds": "1840,3284,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

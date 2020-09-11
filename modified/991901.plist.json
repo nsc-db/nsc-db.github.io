@@ -731,6 +731,18 @@
           "specialPanelList": "9100022,9100023,9100024"
         },
         {
+          "sphereBoardId": "50032",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤",
+          "boardDescription": "はたけカカシ【未来託されし瞳】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060905",
+          "normalPanelList": "9100007,9100008,9100009",
+          "specialPanelList": "9100010,9100011,9100012"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",

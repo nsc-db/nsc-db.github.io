@@ -23775,6 +23775,38 @@
           "recipeName": "兄を護る覚悟"
         },
         {
+          "crystalId": "30907",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1876",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "託されし左目の“万華鏡写輪眼”",
+          "crystalDescription": "3回行動までチャクラ消費半減",
+          "crystalImageId": "309075",
+          "recipeId": "30907",
+          "recipeName": "託されし左目の“万華鏡写輪眼”"
+        },
+        {
+          "crystalId": "30908",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1768",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "仲間を守る意志",
+          "crystalDescription": "行動後チャクラ20%回復",
+          "crystalImageId": "309085",
+          "recipeId": "30908",
+          "recipeName": "仲間を守る意志"
+        },
+        {
           "crystalId": "30919",
           "crystalType": "1",
           "crystalRare": "5",

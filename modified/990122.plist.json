@@ -3731,6 +3731,18 @@
           "voiceDeath": "rin_death_04_02"
         },
         {
+          "cardVoiceId": "315",
+          "cardId": "20060905",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_01",
+          "voiceSkill1": "kakasi_skill_02_13",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_02",
+          "voiceDeath": "kakasi_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
