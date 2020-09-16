@@ -3743,6 +3743,18 @@
           "voiceDeath": "kakasi_death_02_01"
         },
         {
+          "cardVoiceId": "316",
+          "cardId": "20060906",
+          "dirName": "pain",
+          "evolutionStep": "",
+          "voiceAppear": "pain_battle_02_02",
+          "voiceSkill1": "pain_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "pain_win_02_02",
+          "voiceDeath": "pain_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

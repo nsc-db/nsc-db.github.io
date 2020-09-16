@@ -15413,6 +15413,34 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1117",
+          "name": "紙操の麗人",
+          "description": "“暁”所属のスキル発動速度1段階アップし、バトル開始時に短い間堅護状態",
+          "effectIdx1": "1840",
+          "effectIdx2": "2559",
+          "effectIdx3": "0",
+          "effectIds": "1840,2559,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1118",
+          "name": "世界の平定を願う者",
+          "description": "被攻撃時、味方のペイン（天道）を確率でアクション状態化",
+          "effectIdx1": "3298",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3298,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

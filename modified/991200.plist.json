@@ -13737,5 +13737,53 @@
           "effectIdx2": "1840",
           "effectIdx3": "3289",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1161",
+          "targetCrystal": "30909",
+          "description": "最大HP・素早さ90%アップ、スキルダメージ120%アップ",
+          "charaIds": "11801,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "10089",
+          "effectIdx2": "13089",
+          "effectIdx3": "30011",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1162",
+          "targetCrystal": "30910",
+          "description": "2回行動までスキップ・キャンセル無効&amp;耐性無視ダメージ0、スキル発動速度1段階アップ",
+          "charaIds": "11801,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2275",
+          "effectIdx2": "1839",
+          "effectIdx3": "1838",
+          "effectIdx4": "21000"
+        },
+        {
+          "crystalOverwriteEffectId": "1167",
+          "targetCrystal": "30911",
+          "description": "全スキルダメージと防御力が150%アップ、スキル発動速度1段階アップ",
+          "charaIds": "12501,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1459",
+          "effectIdx3": "21000",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1168",
+          "targetCrystal": "30912",
+          "description": "2回行動までキャンセル無効＆耐性無視ダメージ0、高確率でスキル回避",
+          "charaIds": "12501,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1839",
+          "effectIdx2": "2807",
+          "effectIdx3": "968",
+          "effectIdx4": "0"
         }
       ]
