@@ -15441,6 +15441,34 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1119",
+          "name": "策謀張り巡らす影",
+          "description": "味方の木ノ葉隠れの里所属はスキル発動速度1段階アップ&amp;1回行動まで即死無効",
+          "effectIdx1": "1840",
+          "effectIdx2": "3299",
+          "effectIdx3": "0",
+          "effectIds": "1840,3299,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1121",
+          "name": "師を越えて咲く絆",
+          "description": "木ノ葉隠れの里所属の攻撃力と素早さを70％アップ",
+          "effectIdx1": "259",
+          "effectIdx2": "13069",
+          "effectIdx3": "0",
+          "effectIds": "259,13069,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

@@ -2176,7 +2176,7 @@
         {
           "appUiId": "436",
           "uiKey": "RareCardCaution",
-          "text": "★３以上のキャラが含まれています"
+          "text": "★5以上のキャラが含まれています"
         },
         {
           "appUiId": "437",
@@ -8612,5 +8612,90 @@
           "appUiId": "1724",
           "uiKey": "SellToGetConnectSpecificMaterial",
           "text": "潜在覚醒素材「連の証」を獲得しました"
+        },
+        {
+          "appUiId": "1725",
+          "uiKey": "SummonListName",
+          "text": "乱舞一覧"
+        },
+        {
+          "appUiId": "1726",
+          "uiKey": "LimitedCardCaution",
+          "text": "特別なキャラが含まれています！"
+        },
+        {
+          "appUiId": "1727",
+          "uiKey": "SellMessageHighRarity",
+          "text": "★6以上のキャラが含まれています！"
+        },
+        {
+          "appUiId": "1728",
+          "uiKey": "SellMessageCardType1",
+          "text": "期間限定キャラが含まれています！"
+        },
+        {
+          "appUiId": "1729",
+          "uiKey": "SellMessageCardType102",
+          "text": "超忍祭限定キャラが含まれています！"
+        },
+        {
+          "appUiId": "1730",
+          "uiKey": "SellMessageCardType104",
+          "text": "神忍祭限定キャラが含まれています！"
+        },
+        {
+          "appUiId": "1731",
+          "uiKey": "SellMessageCardType103",
+          "text": "闘忍祭限定キャラが含まれています！"
+        },
+        {
+          "appUiId": "1732",
+          "uiKey": "SellMessageCardType105",
+          "text": "忍伝・滅キャラが含まれています！"
+        },
+        {
+          "appUiId": "1733",
+          "uiKey": "SellMessageCardType106",
+          "text": "忍伝・創キャラが含まれています！"
+        },
+        {
+          "appUiId": "1734",
+          "uiKey": "SellMessageCardType107",
+          "text": "破神キャラが含まれています！"
+        },
+        {
+          "appUiId": "1735",
+          "uiKey": "SellMessageCardType109",
+          "text": "忍絵巻キャラが含まれています！"
+        },
+        {
+          "appUiId": "1736",
+          "uiKey": "SellMessageChangeRarity",
+          "text": "★6以上のキャラが含まれています！（覚醒後含む）"
+        },
+        {
+          "appUiId": "1737",
+          "uiKey": "SellMessageLevelMax",
+          "text": "Lvが最大のキャラが含まれています！"
+        },
+        {
+          "appUiId": "1738",
+          "uiKey": "SellMessageLimitbreakMax",
+          "text": "忍道Lvが最大のキャラが含まれています！"
+        },
+        {
+          "appUiId": "1739",
+          "uiKey": "SellMessageReleaseSphere",
+          "text": "潜在覚醒解放済みのキャラが含まれています！"
+        },
+        {
+          "appUiId": "1740",
+          "uiKey": "SellMessageCardType120",
+          "text": "闘忍の覇者キャラが含まれています！"
+        },
+        {
+          "appUiId": "1741",
+          "uiKey": "SellMessageCardType108",
+          "text": "乱舞キャラが含まれています！"
         }
       ]

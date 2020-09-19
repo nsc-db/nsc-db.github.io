@@ -3755,6 +3755,18 @@
           "voiceDeath": "pain_death_02_02"
         },
         {
+          "cardVoiceId": "317",
+          "cardId": "20060908",
+          "dirName": "shikamaru",
+          "evolutionStep": "",
+          "voiceAppear": "shikamaru_skill_02_09",
+          "voiceSkill1": "shikamaru_battle_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "shikamaru_win_02_02",
+          "voiceDeath": "shikamaru_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

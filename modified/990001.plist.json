@@ -62,6 +62,48 @@
           "closeTime": "2020.09.15 23:59:59"
         },
         {
+          "loginBonusId": "423",
+          "name": "奈良シカマル誕生日ログインボーナス",
+          "type": "2",
+          "openTime": "2020.09.22 00:00:00",
+          "closeTime": "2020.09.22 23:59:59"
+        },
+        {
+          "loginBonusId": "431",
+          "name": "TGS2020 ONLINE 生放送！カウントダウンログインボーナス！",
+          "type": "2",
+          "openTime": "2020.09.21 00:00:00",
+          "closeTime": "2020.09.21 23:59:59"
+        },
+        {
+          "loginBonusId": "432",
+          "name": "TGS2020 ONLINE 生放送！カウントダウンログインボーナス！",
+          "type": "2",
+          "openTime": "2020.09.22 00:00:00",
+          "closeTime": "2020.09.22 23:59:59"
+        },
+        {
+          "loginBonusId": "433",
+          "name": "TGS2020 ONLINE 生放送！カウントダウンログインボーナス！",
+          "type": "2",
+          "openTime": "2020.09.23 00:00:00",
+          "closeTime": "2020.09.23 23:59:59"
+        },
+        {
+          "loginBonusId": "434",
+          "name": "TGS2020 ONLINE 生放送！カウントダウンログインボーナス！",
+          "type": "2",
+          "openTime": "2020.09.24 00:00:00",
+          "closeTime": "2020.09.24 23:59:59"
+        },
+        {
+          "loginBonusId": "435",
+          "name": "TGS2020 ONLINE 生放送！カウントダウンログインボーナス！",
+          "type": "2",
+          "openTime": "2020.09.25 00:00:00",
+          "closeTime": "2020.09.25 23:59:59"
+        },
+        {
           "loginBonusId": "501",
           "name": "猫バアの毎日招き猫パック",
           "type": "8",

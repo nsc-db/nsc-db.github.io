@@ -13763,6 +13763,30 @@
           "effectIdx4": "21000"
         },
         {
+          "crystalOverwriteEffectId": "1163",
+          "targetCrystal": "30913",
+          "description": "スキルダメージ100%アップ、敵に“暁”所属が生存しているとさらに70%アップ",
+          "charaIds": "402,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "3295",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1164",
+          "targetCrystal": "30914",
+          "description": "キャンセル無効、敵に“暁”所属が生存していると耐性無視ダメージ0",
+          "charaIds": "402,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1751",
+          "effectIdx2": "3218",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1167",
           "targetCrystal": "30911",
           "description": "全スキルダメージと防御力が150%アップ、スキル発動速度1段階アップ",

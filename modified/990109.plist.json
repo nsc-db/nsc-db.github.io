@@ -26099,6 +26099,46 @@
           "effectIds": "3303,20014,3304,"
         },
         {
+          "abilityId": "2662",
+          "abilityName": "千万無量の兵法",
+          "abilityDescription": "即死無効、即死無効時に攻撃者を即死（攻撃者がいないと不発動）、敵に“暁”所属がいると攻防速100%アップ",
+          "abilityEffectDescription": "即死無効、即死無効時に攻撃者を即死（攻撃者がいないと不発動）、敵に“暁”所属がいると攻防速100%アップ",
+          "effectIdx1": "3254",
+          "effectIdx2": "3252",
+          "effectIdx3": "3339",
+          "effectIds": "3254,3252,3339,"
+        },
+        {
+          "abilityId": "2663",
+          "abilityName": "影の計略",
+          "abilityDescription": "HP0以下で1回だけ耐える、3回行動まで受けるダメージを75%カット&amp;攻撃を受けた際に高確率でアクション状態化",
+          "abilityEffectDescription": "HP0以下で1回だけ耐える、3回行動まで受けるダメージを75%カット&amp;攻撃を受けた際に高確率でアクション状態化",
+          "effectIdx1": "312",
+          "effectIdx2": "3087",
+          "effectIdx3": "3307",
+          "effectIds": "312,3087,3307,"
+        },
+        {
+          "abilityId": "2668",
+          "abilityName": "戦いへの覚悟",
+          "abilityDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+          "abilityEffectDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+          "effectIdx1": "20009",
+          "effectIdx2": "1115",
+          "effectIdx3": "312",
+          "effectIds": "20009,1115,312,"
+        },
+        {
+          "abilityId": "2669",
+          "abilityName": "窮転の機知",
+          "abilityDescription": "HP80％以上の時、攻撃力100％アップしスキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80％以上の時、攻撃力100％アップしスキル発動速度1段階アップ",
+          "effectIdx1": "1133",
+          "effectIdx2": "1089",
+          "effectIdx3": "0",
+          "effectIds": "1133,1089,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29177,6 +29217,36 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3312,"
+        },
+        {
+          "abilityId": "310095",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に“暁”所属がいると、攻防速60%アップ",
+          "abilityEffectDescription": "敵に“暁”所属がいると、攻防速60%アップ",
+          "effectIdx1": "3313",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3313,"
+        },
+        {
+          "abilityId": "310096",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "味方の木ノ葉隠れの里所属1人につき素早さ25%アップ（自身含）",
+          "abilityEffectDescription": "味方の木ノ葉隠れの里所属1人につき素早さ25%アップ（自身含）",
+          "effectIdx1": "1131",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1131,"
+        },
+        {
+          "abilityId": "310097",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "HP0以下で耐えた時、アクション状態になる",
+          "abilityEffectDescription": "HP0以下で耐えた時、アクション状態になる",
+          "effectIdx1": "3241",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3241,"
         },
         {
           "abilityId": "801187",

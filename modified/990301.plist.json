@@ -23871,6 +23871,38 @@
           "recipeName": "小南風ネイル"
         },
         {
+          "crystalId": "30913",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "3338",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シカマルのポーチ",
+          "crystalDescription": "スキルダメージ50%アップ、敵に“暁”所属が生存しているとさらに20%アップ",
+          "crystalImageId": "309135",
+          "recipeId": "30913",
+          "recipeName": "シカマルのポーチ"
+        },
+        {
+          "crystalId": "30914",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2962",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シカマルのホルスター",
+          "crystalDescription": "3回行動まで確率でキャンセル無効",
+          "crystalImageId": "309145",
+          "recipeId": "30914",
+          "recipeName": "シカマルのホルスター"
+        },
+        {
           "crystalId": "30919",
           "crystalType": "1",
           "crystalRare": "5",
