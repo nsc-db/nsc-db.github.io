@@ -8049,6 +8049,20 @@
           "gender": "2"
         },
         {
+          "charaProfileId": "900092",
+          "charaId": "9001",
+          "name": "鬼灯水月",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "8000001",
           "charaId": "80000",
           "name": "うずまきナルト",

@@ -1892,7 +1892,7 @@
           "speechCharactorId": "316",
           "cardId": "20001706",
           "speechCharactorImgId": "316",
-          "speechCharactorName": "キラー・ビー"
+          "speechCharactorName": "キラービー"
         },
         {
           "speechCharactorId": "317",
@@ -5561,6 +5561,12 @@
           "speechCharactorName": "？？？"
         },
         {
+          "speechCharactorId": "947",
+          "cardId": "947",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
           "speechCharactorId": "948",
           "cardId": "948",
           "speechCharactorImgId": "0",
@@ -5603,6 +5609,18 @@
           "speechCharactorName": "うちはサスケ"
         },
         {
+          "speechCharactorId": "957",
+          "cardId": "957",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "重吾"
+        },
+        {
+          "speechCharactorId": "958",
+          "cardId": "958",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "重吾"
+        },
+        {
           "speechCharactorId": "959",
           "cardId": "959",
           "speechCharactorImgId": "0",
@@ -5613,6 +5631,12 @@
           "cardId": "960",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "961",
+          "cardId": "961",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "重吾"
         },
         {
           "speechCharactorId": "962",
@@ -5765,6 +5789,18 @@
           "speechCharactorName": "うちはミコト"
         },
         {
+          "speechCharactorId": "996",
+          "cardId": "996",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "重吾"
+        },
+        {
+          "speechCharactorId": "997",
+          "cardId": "997",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
           "speechCharactorId": "998",
           "cardId": "906",
           "speechCharactorImgId": "0",
@@ -5781,6 +5817,18 @@
           "cardId": "21000091",
           "speechCharactorImgId": "1000",
           "speechCharactorName": "ミズキ"
+        },
+        {
+          "speechCharactorId": "1001",
+          "cardId": "1001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "キラービー"
+        },
+        {
+          "speechCharactorId": "1002",
+          "cardId": "1002",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
         },
         {
           "speechCharactorId": "5001",

@@ -2819,6 +2819,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "478",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "479",
           "itemName": "個人Pt",
           "measure": "0",
@@ -3825,6 +3831,12 @@
           "itemName": "1900万DL記念札",
           "measure": "0",
           "itemImgId": "2096"
+        },
+        {
+          "shopExchangeItemId": "2097",
+          "itemName": "忍交換券",
+          "measure": "0",
+          "itemImgId": "2097"
         },
         {
           "shopExchangeItemId": "2500",

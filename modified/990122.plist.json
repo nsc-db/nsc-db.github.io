@@ -3767,6 +3767,18 @@
           "voiceDeath": "shikamaru_death_02_01"
         },
         {
+          "cardVoiceId": "318",
+          "cardId": "20060909",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_02_06",
+          "voiceSkill1": "sakura_skill_03_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_skill_02_06",
+          "voiceDeath": "sakura_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

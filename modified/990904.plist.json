@@ -454,19 +454,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4123",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "約束の果て",
-          "description": "Ptランキング開催！\r\n初回クリア報酬は全て忍石獲得可能！\r\n個人Ptはイベント期間中のみ加算されます",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "4124",
           "worldAreaId": "5",
           "priority": "2",
@@ -1312,10 +1299,10 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "8063",
+          "worldStageId": "8064",
           "worldAreaId": "9",
           "priority": "0",
-          "name": "くノ一乱舞 -昇級試験特別篇-",
+          "name": "昇級試験特別篇 ～1900万DL記念～",
           "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
           "notice": "0",
           "type": "0",
@@ -1325,10 +1312,10 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "8064",
+          "worldStageId": "8065",
           "worldAreaId": "9",
           "priority": "0",
-          "name": "昇級試験特別篇 ～1900万DL記念～",
+          "name": "超×忍伝乱舞 〜昇級試験特別篇〜",
           "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
           "notice": "0",
           "type": "0",
@@ -1888,6 +1875,19 @@
           "worldAreaId": "10",
           "priority": "0",
           "name": "二人の救世主の章・前篇",
+          "description": "0",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "11022",
+          "worldAreaId": "10",
+          "priority": "0",
+          "name": "二人の救世主の章・中篇",
           "description": "0",
           "notice": "0",
           "type": "0",

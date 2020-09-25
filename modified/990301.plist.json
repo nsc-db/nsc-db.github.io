@@ -23903,6 +23903,38 @@
           "recipeName": "シカマルのホルスター"
         },
         {
+          "crystalId": "30915",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "3294",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サクラの好物（梅干し）",
+          "crystalDescription": "3回行動までチャクラ消費量25%減少",
+          "crystalImageId": "309155",
+          "recipeId": "30915",
+          "recipeName": "サクラの好物（梅干し）"
+        },
+        {
+          "crystalId": "30916",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10029",
+          "effectIdx2": "3293",
+          "effectIdx3": "615",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サクラのクナイ",
+          "crystalDescription": "最大HP・攻撃力・防御力・素早さ・スキルダメージ30%アップ",
+          "crystalImageId": "309165",
+          "recipeId": "30916",
+          "recipeName": "サクラのクナイ"
+        },
+        {
           "crystalId": "30919",
           "crystalType": "1",
           "crystalRare": "5",

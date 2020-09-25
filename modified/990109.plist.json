@@ -26119,6 +26119,26 @@
           "effectIds": "312,3087,3307,"
         },
         {
+          "abilityId": "2664",
+          "abilityName": "鍛え上げた拳と医術",
+          "abilityDescription": "バトル開始時・耐えた時・防御時にそれぞれ長い間戦闘モードになる、HP0以下で3回耐える",
+          "abilityEffectDescription": "バトル開始時・耐えた時・防御時にそれぞれ長い間戦闘モードになる、HP0以下で3回耐える",
+          "effectIdx1": "3308",
+          "effectIdx2": "3309",
+          "effectIdx3": "3310",
+          "effectIds": "3308,3309,3310,1789,"
+        },
+        {
+          "abilityId": "2665",
+          "abilityName": "磨き上げた回避能力",
+          "abilityDescription": "味方の木ノ葉隠れの里所属1人につき攻防速30%増（自身含む）、3回行動まで素早さ100%増&amp;チャクラ消費0",
+          "abilityEffectDescription": "味方の木ノ葉隠れの里所属1人につき攻防速30%増（自身含む）、3回行動まで素早さ100%増&amp;チャクラ消費0",
+          "effectIdx1": "1226",
+          "effectIdx2": "953",
+          "effectIdx3": "1225",
+          "effectIds": "1226,953,1225,1949,2702,"
+        },
+        {
           "abilityId": "2668",
           "abilityName": "戦いへの覚悟",
           "abilityDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",

@@ -13787,6 +13787,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1165",
+          "targetCrystal": "30915",
+          "description": "チャクラ消費量半減、行動毎にチャクラ25%回復、確率で男性キャラから受ける耐性無視ダメージ0",
+          "charaIds": "303,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "895",
+          "effectIdx2": "3207",
+          "effectIdx3": "3296",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1166",
+          "targetCrystal": "30916",
+          "description": "最大HP・攻撃力・防御力・素早さ・スキルダメージ150%アップ",
+          "charaIds": "303,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "3297",
+          "effectIdx3": "794",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1167",
           "targetCrystal": "30911",
           "description": "全スキルダメージと防御力が150%アップ、スキル発動速度1段階アップ",

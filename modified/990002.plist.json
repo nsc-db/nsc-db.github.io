@@ -1495,6 +1495,118 @@
           "assetNum": "5"
         },
         {
+          "loginBonusRewardId": "2422",
+          "loginBonusId": "436",
+          "loginCount": "1",
+          "assetCategoryId": "4",
+          "assetValue": "0",
+          "assetNum": "10000000"
+        },
+        {
+          "loginBonusRewardId": "2423",
+          "loginBonusId": "436",
+          "loginCount": "1",
+          "assetCategoryId": "1",
+          "assetValue": "25000056",
+          "assetNum": "30"
+        },
+        {
+          "loginBonusRewardId": "2424",
+          "loginBonusId": "436",
+          "loginCount": "1",
+          "assetCategoryId": "1",
+          "assetValue": "22000501",
+          "assetNum": "30"
+        },
+        {
+          "loginBonusRewardId": "2425",
+          "loginBonusId": "436",
+          "loginCount": "1",
+          "assetCategoryId": "1",
+          "assetValue": "22000601",
+          "assetNum": "30"
+        },
+        {
+          "loginBonusRewardId": "2426",
+          "loginBonusId": "436",
+          "loginCount": "1",
+          "assetCategoryId": "1",
+          "assetValue": "22000706",
+          "assetNum": "30"
+        },
+        {
+          "loginBonusRewardId": "2427",
+          "loginBonusId": "436",
+          "loginCount": "2",
+          "assetCategoryId": "1",
+          "assetValue": "25000202",
+          "assetNum": "10"
+        },
+        {
+          "loginBonusRewardId": "2428",
+          "loginBonusId": "436",
+          "loginCount": "2",
+          "assetCategoryId": "1",
+          "assetValue": "22000701",
+          "assetNum": "20"
+        },
+        {
+          "loginBonusRewardId": "2429",
+          "loginBonusId": "436",
+          "loginCount": "2",
+          "assetCategoryId": "1",
+          "assetValue": "22000702",
+          "assetNum": "20"
+        },
+        {
+          "loginBonusRewardId": "2430",
+          "loginBonusId": "436",
+          "loginCount": "2",
+          "assetCategoryId": "1",
+          "assetValue": "22000703",
+          "assetNum": "20"
+        },
+        {
+          "loginBonusRewardId": "2431",
+          "loginBonusId": "436",
+          "loginCount": "2",
+          "assetCategoryId": "1",
+          "assetValue": "22000704",
+          "assetNum": "20"
+        },
+        {
+          "loginBonusRewardId": "2432",
+          "loginBonusId": "436",
+          "loginCount": "2",
+          "assetCategoryId": "1",
+          "assetValue": "22000705",
+          "assetNum": "20"
+        },
+        {
+          "loginBonusRewardId": "2433",
+          "loginBonusId": "436",
+          "loginCount": "3",
+          "assetCategoryId": "1",
+          "assetValue": "22000713",
+          "assetNum": "5"
+        },
+        {
+          "loginBonusRewardId": "2434",
+          "loginBonusId": "436",
+          "loginCount": "3",
+          "assetCategoryId": "1",
+          "assetValue": "22000707",
+          "assetNum": "15"
+        },
+        {
+          "loginBonusRewardId": "2435",
+          "loginBonusId": "436",
+          "loginCount": "3",
+          "assetCategoryId": "1",
+          "assetValue": "25000203",
+          "assetNum": "5"
+        },
+        {
           "loginBonusRewardId": "2467",
           "loginBonusId": "423",
           "loginCount": "1",
