@@ -3682,6 +3682,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "50907",
+          "charaId": "509",
+          "name": "うちはオビト",
+          "detail": null,
+          "charaLoveAffinityGroupId": "50950",
+          "birthday": "210",
+          "constellation": "11",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "3",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "51001",
           "charaId": "510",
           "name": "のはらリン",

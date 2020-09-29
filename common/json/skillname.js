@@ -7656,6 +7656,102 @@ window.skillname=[
           "name": "傀儡の術・凄演"
         },
         {
+          "cardBattleSkillNameId": "3126",
+          "name": "木遁・樹窟葬送"
+        },
+        {
+          "cardBattleSkillNameId": "3127",
+          "name": "君の居る世界を創ろう"
+        },
+        {
+          "cardBattleSkillNameId": "3128",
+          "name": "石衝破"
+        },
+        {
+          "cardBattleSkillNameId": "3129",
+          "name": "はしゃいでんじゃねーよ！"
+        },
+        {
+          "cardBattleSkillNameId": "3130",
+          "name": "尾獣玉・業水衝"
+        },
+        {
+          "cardBattleSkillNameId": "3131",
+          "name": "私は利用されてる…！"
+        },
+        {
+          "cardBattleSkillNameId": "3132",
+          "name": "火遁・龍炎放歌"
+        },
+        {
+          "cardBattleSkillNameId": "3133",
+          "name": "オレはもう…届いたのさ！！"
+        },
+        {
+          "cardBattleSkillNameId": "3134",
+          "name": "朧太刀・千断"
+        },
+        {
+          "cardBattleSkillNameId": "3135",
+          "name": "兄さんより強い忍はいない"
+        },
+        {
+          "cardBattleSkillNameId": "3136",
+          "name": "雷鳴須佐能乎"
+        },
+        {
+          "cardBattleSkillNameId": "3137",
+          "name": "今度こそ…"
+        },
+        {
+          "cardBattleSkillNameId": "3138",
+          "name": "紙手裏剣・花時雨"
+        },
+        {
+          "cardBattleSkillNameId": "3139",
+          "name": "どうしてもやるのね…"
+        },
+        {
+          "cardBattleSkillNameId": "3140",
+          "name": "万象天引・爆風巌弾"
+        },
+        {
+          "cardBattleSkillNameId": "3141",
+          "name": "オレにはオレのやり方がある"
+        },
+        {
+          "cardBattleSkillNameId": "3142",
+          "name": "影寄せ・封縛炎"
+        },
+        {
+          "cardBattleSkillNameId": "3143",
+          "name": "オレが…アンタをハメる役…"
+        },
+        {
+          "cardBattleSkillNameId": "3144",
+          "name": "流撃・桜花疾走"
+        },
+        {
+          "cardBattleSkillNameId": "3145",
+          "name": "まだまだこれから！！"
+        },
+        {
+          "cardBattleSkillNameId": "3146",
+          "name": "衝打・圧し花"
+        },
+        {
+          "cardBattleSkillNameId": "3147",
+          "name": "来たよ！！"
+        },
+        {
+          "cardBattleSkillNameId": "3148",
+          "name": "インドラの矢・讐焉"
+        },
+        {
+          "cardBattleSkillNameId": "3149",
+          "name": "一人で背負うことが出来る"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
