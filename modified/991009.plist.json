@@ -2837,6 +2837,12 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "482",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -3925,6 +3931,12 @@
         {
           "shopExchangeItemId": "2604",
           "itemName": "疾風札[8月]",
+          "measure": "0",
+          "itemImgId": "2600"
+        },
+        {
+          "shopExchangeItemId": "2606",
+          "itemName": "疾風札[10月]",
           "measure": "0",
           "itemImgId": "2600"
         },

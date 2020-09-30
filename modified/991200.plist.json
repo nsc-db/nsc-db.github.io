@@ -13833,5 +13833,29 @@
           "effectIdx2": "2807",
           "effectIdx3": "968",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1169",
+          "targetCrystal": "30917",
+          "description": "確率で再行動、2回行動まで弱体系特殊状態無効、チャクラ消費量半減※再行動後再行動不可",
+          "charaIds": "209,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "439",
+          "effectIdx2": "2772",
+          "effectIdx3": "895",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1170",
+          "targetCrystal": "30918",
+          "description": "スキル発動速度1段階アップ、素早さ120%アップ、全スキルダメージ100%アップ",
+          "charaIds": "209,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1335",
+          "effectIdx3": "774",
+          "effectIdx4": "0"
         }
       ]

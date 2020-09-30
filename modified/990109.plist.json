@@ -26159,6 +26159,26 @@
           "effectIds": "1133,1089,"
         },
         {
+          "abilityId": "2670",
+          "abilityName": "闇を歩み辿り着いた答え",
+          "abilityDescription": "敵に破神存在時ﾊﾞﾄﾙ開始時ｽｷﾙ2で急襲（ﾁｬｸﾗ大回復）、超忍・創・滅ｷｬﾗからのﾀﾞﾒｰｼﾞ50％ｶｯﾄ、ｽｷﾙ回避150%ｱｯﾌﾟ",
+          "abilityEffectDescription": "敵に破神存在時ﾊﾞﾄﾙ開始時ｽｷﾙ2で急襲（ﾁｬｸﾗ大回復）、超忍・創・滅ｷｬﾗからのﾀﾞﾒｰｼﾞ50％ｶｯﾄ、ｽｷﾙ回避150%ｱｯﾌﾟ",
+          "effectIdx1": "2840",
+          "effectIdx2": "2708",
+          "effectIdx3": "3340",
+          "effectIds": "2840,2708,3340,"
+        },
+        {
+          "abilityId": "2671",
+          "abilityName": "唯一の友を斬る覚悟",
+          "abilityDescription": "HP0以下で1回HP全回復、敵にﾅﾙﾄ・ｶｸﾞﾔ生存時それぞれ素早さ250%ｱｯﾌﾟ&amp;即死無効&amp;被攻撃時確率で即ｱｸｼｮﾝ",
+          "abilityEffectDescription": "HP0以下で1回HP全回復、敵にﾅﾙﾄ・ｶｸﾞﾔ生存時それぞれ素早さ250%ｱｯﾌﾟ&amp;即死無効&amp;被攻撃時確率で即ｱｸｼｮﾝ",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "3341",
+          "effectIds": "312,874,3341,3342,3343,3344,3345,3346,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29189,6 +29209,16 @@
           "effectIds": "3276,"
         },
         {
+          "abilityId": "310089",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "被ダメージ時、確率でアクション状態になる",
+          "abilityEffectDescription": "被ダメージ時、確率でアクション状態になる",
+          "effectIdx1": "3278",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3278,"
+        },
+        {
           "abilityId": "310090",
           "abilityName": "Bマス用_通常",
           "abilityDescription": "行動毎に素早さ25%アップ（最大300%）",
@@ -29267,6 +29297,116 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3241,"
+        },
+        {
+          "abilityId": "310098",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "低確率で知・勇属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "低確率で知・勇属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "3321",
+          "effectIdx2": "3322",
+          "effectIdx3": "0",
+          "effectIds": "3321,3322,"
+        },
+        {
+          "abilityId": "310099",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "低確率で心・技・体属性へのスキル攻撃時に相手の耐性を弱点化",
+          "abilityEffectDescription": "低確率で心・技・体属性へのスキル攻撃時に相手の耐性を弱点化",
+          "effectIdx1": "3318",
+          "effectIdx2": "3319",
+          "effectIdx3": "3320",
+          "effectIds": "3318,3319,3320,"
+        },
+        {
+          "abilityId": "310100",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に神忍がいると、3回行動まで弱体系特殊状態無効",
+          "abilityEffectDescription": "敵に神忍がいると、3回行動まで弱体系特殊状態無効",
+          "effectIdx1": "3316",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3316,"
+        },
+        {
+          "abilityId": "310101",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に破神が生存していると、確率で敵の地形効果無効",
+          "abilityEffectDescription": "敵に破神が生存していると、確率で敵の地形効果無効",
+          "effectIdx1": "3317",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3317,"
+        },
+        {
+          "abilityId": "310102",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "開始時、敵に「ﾅﾙﾄ・ｻｽｹ・ｻｸﾗ・ｶｶｼ」がいると確率で救世状態化",
+          "abilityEffectDescription": "開始時、敵に「ﾅﾙﾄ・ｻｽｹ・ｻｸﾗ・ｶｶｼ」がいると確率で救世状態化",
+          "effectIdx1": "3323",
+          "effectIdx2": "3324",
+          "effectIdx3": "3325",
+          "effectIds": "3323,3324,3325,3326,"
+        },
+        {
+          "abilityId": "310103",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "バトル開始時、低確率で「地形効果：無限月読」を展開",
+          "abilityEffectDescription": "バトル開始時、低確率で「地形効果：無限月読」を展開",
+          "effectIdx1": "3335",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3335,"
+        },
+        {
+          "abilityId": "310104",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵に「ﾅﾙﾄ・ｻｽｹ・ｻｸﾗ・ｶｶｼ」がいると、HP0以下で2回HP全回復",
+          "abilityEffectDescription": "敵に「ﾅﾙﾄ・ｻｽｹ・ｻｸﾗ・ｶｶｼ」がいると、HP0以下で2回HP全回復",
+          "effectIdx1": "3327",
+          "effectIdx2": "3331",
+          "effectIdx3": "3328",
+          "effectIds": "3327,3331,3328,3332,3329,3333,3330,3334,"
+        },
+        {
+          "abilityId": "310105",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "バトル開始時、低確率で「地形効果：六赤陽陣」を展開 ",
+          "abilityEffectDescription": "バトル開始時、低確率で「地形効果：六赤陽陣」を展開 ",
+          "effectIdx1": "3336",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3336,"
+        },
+        {
+          "abilityId": "310106",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵に無所属がいると、バトル開始時低確率で敵全体を封殺状態",
+          "abilityEffectDescription": "敵に無所属がいると、バトル開始時低確率で敵全体を封殺状態",
+          "effectIdx1": "3337",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3337,"
+        },
+        {
+          "abilityId": "310107",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "バトル開始時、敵に破神がいると確率で先制攻撃",
+          "abilityEffectDescription": "バトル開始時、敵に破神がいると確率で先制攻撃",
+          "effectIdx1": "3018",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3018,"
+        },
+        {
+          "abilityId": "310108",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "2回行動まで弱体系特殊状態無効",
+          "abilityEffectDescription": "2回行動まで弱体系特殊状態無効",
+          "effectIdx1": "2772",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2772,"
         },
         {
           "abilityId": "801187",

@@ -23935,6 +23935,38 @@
           "recipeName": "サクラのクナイ"
         },
         {
+          "crystalId": "30917",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "2537",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "影に踏み込む一歩の証",
+          "crystalDescription": "低確率で再行動",
+          "crystalImageId": "309175",
+          "recipeId": "30917",
+          "recipeName": "影に踏み込む一歩の証"
+        },
+        {
+          "crystalId": "30918",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "682",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "最後に放つ最強の技",
+          "crystalDescription": "全スキルダメージ50%アップ",
+          "crystalImageId": "309185",
+          "recipeId": "30918",
+          "recipeName": "最後に放つ最強の技"
+        },
+        {
           "crystalId": "30919",
           "crystalType": "1",
           "crystalRare": "5",

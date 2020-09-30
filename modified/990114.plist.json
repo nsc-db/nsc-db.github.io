@@ -2879,6 +2879,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "294",
+          "category": "4",
+          "iconId": "1345",
+          "name": "血戦",
+          "description": "強化系特殊・神化状態解除&amp;無効化。スキル発動速度ダウン。うちはサスケのスキル攻撃が弱点化。",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "3"
+        },
+        {
           "cardUnusualId": "295",
           "category": "5",
           "iconId": "1",
