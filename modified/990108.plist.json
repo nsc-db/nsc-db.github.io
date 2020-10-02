@@ -15497,6 +15497,34 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1123",
+          "name": "蛇道を学びし烈女",
+          "description": "知属性の素早さとスキルダメージを50%アップする",
+          "effectIdx1": "112",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "effectIds": "112,682,",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1124",
+          "name": "未来へ託す光",
+          "description": "木ノ葉隠れの里所属の最大HP・素早さ90%アップ",
+          "effectIdx1": "10089",
+          "effectIdx2": "13089",
+          "effectIdx3": "0",
+          "effectIds": "10089,13089,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

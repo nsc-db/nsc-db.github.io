@@ -2879,6 +2879,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "293",
+          "category": "3",
+          "iconId": "1344",
+          "name": "心愛",
+          "description": "HP0以下で耐え、耐えた時心愛解除。耐えて心愛が解除された場合、自身以外の味方をアクション状態化",
+          "subScore": "0",
+          "color": "16774242",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "294",
           "category": "4",
           "iconId": "1345",

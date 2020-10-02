@@ -23981,5 +23981,37 @@
           "crystalImageId": "309195",
           "recipeId": "30919",
           "recipeName": "1900万DL記念ロゴ"
+        },
+        {
+          "crystalId": "31001",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "1436",
+          "effectIdx2": "3358",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "愛する者を守るクナイ",
+          "crystalDescription": "行動するたびに素早さ・スキルダメージ10%アップ（最大50%）",
+          "crystalImageId": "310015",
+          "recipeId": "31001",
+          "recipeName": "愛する者を守るクナイ"
+        },
+        {
+          "crystalId": "31002",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "745",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "黄色い閃光",
+          "crystalDescription": "弱体半減",
+          "crystalImageId": "310025",
+          "recipeId": "31002",
+          "recipeName": "黄色い閃光"
         }
       ]

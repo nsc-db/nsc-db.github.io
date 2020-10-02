@@ -7751,6 +7751,22 @@
           "name": "一人で背負うことが出来る"
         },
         {
+          "cardBattleSkillNameId": "3150",
+          "name": "衝打・蛇断ち"
+        },
+        {
+          "cardBattleSkillNameId": "3151",
+          "name": "逃さない…"
+        },
+        {
+          "cardBattleSkillNameId": "3152",
+          "name": "飛雷神・疾光ノ二段"
+        },
+        {
+          "cardBattleSkillNameId": "3153",
+          "name": "ここなら安全だよ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

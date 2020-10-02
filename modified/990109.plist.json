@@ -26179,6 +26179,46 @@
           "effectIds": "312,874,3341,3342,3343,3344,3345,3346,"
         },
         {
+          "abilityId": "2672",
+          "abilityName": "偵察潜入の才",
+          "abilityDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
+          "abilityEffectDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
+          "effectIdx1": "312",
+          "effectIdx2": "628",
+          "effectIdx3": "0",
+          "effectIds": "312,628,"
+        },
+        {
+          "abilityId": "2673",
+          "abilityName": "相討ちの覚悟",
+          "abilityDescription": "弱体と状態異常を半減する",
+          "abilityEffectDescription": "弱体と状態異常を半減する",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "776,"
+        },
+        {
+          "abilityId": "2674",
+          "abilityName": "忍たる覚悟と愛",
+          "abilityDescription": "素早さ500%アップ、味方に「クシナ・ナルト」生存でチャクラ消費量半減（どちらも生存でチャクラ消費量0）",
+          "abilityEffectDescription": "素早さ500%アップ、味方に「クシナ・ナルト」生存でチャクラ消費量半減（どちらも生存でチャクラ消費量0）",
+          "effectIdx1": "13103",
+          "effectIdx2": "3351",
+          "effectIdx3": "3350",
+          "effectIds": "13103,3351,3350,"
+        },
+        {
+          "abilityId": "2675",
+          "abilityName": "天賦の神速",
+          "abilityDescription": "バトル開始時1回行動まで心愛状態、敵に滅キャラが生存していると200%の確率でスキル回避",
+          "abilityEffectDescription": "バトル開始時1回行動まで心愛状態、敵に滅キャラが生存していると200%の確率でスキル回避",
+          "effectIdx1": "3349",
+          "effectIdx2": "3367",
+          "effectIdx3": "0",
+          "effectIds": "3349,3367,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

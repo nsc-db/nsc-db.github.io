@@ -3791,6 +3791,18 @@
           "voiceDeath": "sasuke_win_02_03"
         },
         {
+          "cardVoiceId": "320",
+          "cardId": "20061002",
+          "dirName": "minato",
+          "evolutionStep": "",
+          "voiceAppear": "minato_attack_02_03",
+          "voiceSkill1": "minato_gacha_tap_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "minato_battle_02_02",
+          "voiceDeath": "minato_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

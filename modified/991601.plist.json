@@ -4211,6 +4211,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "80010",
+          "name": "期間限定 連合戦参加券",
+          "description": "連合戦参加に必要なアイテム（11月15日11:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "28",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "80001",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "110000",
           "name": "デイリー限定ラーメン",
           "description": "スタミナを全回復するラーメン。(獲得した日限定）",
