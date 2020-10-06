@@ -15525,6 +15525,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1125",
+          "name": "宿業越える愛",
+          "description": "木ノ葉隠れの里所属の防御力・スキルダメージ90%アップ",
+          "effectIdx1": "12089",
+          "effectIdx2": "30008",
+          "effectIdx3": "0",
+          "effectIds": "12089,30008,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

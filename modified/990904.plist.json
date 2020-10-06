@@ -467,19 +467,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4124",
-          "worldAreaId": "5",
-          "priority": "2",
-          "name": "託された意志",
-          "description": "Ptランキング開催！\r\n初回クリア報酬は全て忍石獲得可能！\r\n個人Ptはイベント期間中のみ加算されます",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "4125",
           "worldAreaId": "5",
           "priority": "2",
@@ -1342,19 +1329,6 @@
           "worldAreaId": "9",
           "priority": "0",
           "name": "超×忍伝乱舞 〜昇級試験特別篇〜",
-          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
-          "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "8066",
-          "worldAreaId": "9",
-          "priority": "0",
-          "name": "第四十八回 昇級試験",
           "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
           "notice": "0",
           "type": "0",

@@ -24013,5 +24013,37 @@
           "crystalImageId": "310025",
           "recipeId": "31002",
           "recipeName": "黄色い閃光"
+        },
+        {
+          "crystalId": "31003",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "1436",
+          "effectIdx2": "3358",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "クシナの好物（塩ラーメン）",
+          "crystalDescription": "行動するたびに素早さ・スキルダメージ10%アップ（最大50%）",
+          "crystalImageId": "310035",
+          "recipeId": "31003",
+          "recipeName": "クシナの好物（塩ラーメン）"
+        },
+        {
+          "crystalId": "31004",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2586",
+          "effectIdx2": "3361",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "クシナの苦手な物（コーヒー）",
+          "crystalDescription": "2回行動までチャクラ消費量半減、3回行動以降チャクラ消費量25%減少",
+          "crystalImageId": "310045",
+          "recipeId": "31004",
+          "recipeName": "クシナの苦手な物（コーヒー）"
         }
       ]

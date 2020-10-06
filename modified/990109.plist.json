@@ -26219,6 +26219,26 @@
           "effectIds": "3349,3367,"
         },
         {
+          "abilityId": "2676",
+          "abilityName": "母の愛護",
+          "abilityDescription": "最大HP500%アップ、味方に「ミナト・ナルト」生存でチャクラ消費量半減（どちらも生存でチャクラ消費量0）",
+          "abilityEffectDescription": "最大HP500%アップ、味方に「ミナト・ナルト」生存でチャクラ消費量半減（どちらも生存でチャクラ消費量0）",
+          "effectIdx1": "10103",
+          "effectIdx2": "3352",
+          "effectIdx3": "3350",
+          "effectIds": "10103,3352,3350,"
+        },
+        {
+          "abilityId": "2677",
+          "abilityName": "うずまき一族の力",
+          "abilityDescription": "バトル開始時1回行動まで心愛状態、敵に無所属・滅キャラが生存でダメージ50%カット&amp;単体スキル攻撃をかばう",
+          "abilityEffectDescription": "バトル開始時1回行動まで心愛状態、敵に無所属・滅キャラが生存でダメージ50%カット&amp;単体スキル攻撃をかばう",
+          "effectIdx1": "3349",
+          "effectIdx2": "3354",
+          "effectIdx3": "3356",
+          "effectIds": "3349,3354,3356,3355,3357,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -27887,6 +27907,26 @@
           "effectIdx2": "3141",
           "effectIdx3": "0",
           "effectIds": "2525,3141,"
+        },
+        {
+          "abilityId": "100116",
+          "abilityName": "六道の生命力",
+          "abilityDescription": "最大チャクラ量250アップ、状態異常無効、敵に破神がいると最大HPと素早さ200%アップ",
+          "abilityEffectDescription": "最大チャクラ量250アップ、状態異常無効、敵に破神がいると最大HPと素早さ200%アップ",
+          "effectIdx1": "20044",
+          "effectIdx2": "82",
+          "effectIdx3": "2833",
+          "effectIds": "20044,82,2833,3362,"
+        },
+        {
+          "abilityId": "100117",
+          "abilityName": "仲間との絆",
+          "abilityDescription": "200%の確率でｽｷﾙ回避、HP0以下で2回全回復、死亡時味方全体を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効)",
+          "abilityEffectDescription": "200%の確率でｽｷﾙ回避、HP0以下で2回全回復、死亡時味方全体を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効)",
+          "effectIdx1": "1724",
+          "effectIdx2": "1057",
+          "effectIdx3": "874",
+          "effectIds": "1724,1057,874,3165,"
         },
         {
           "abilityId": "200001",
