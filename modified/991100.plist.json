@@ -8063,6 +8063,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "910001",
+          "charaId": "9100",
+          "name": "訓練用案山子",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "8000001",
           "charaId": "80000",
           "name": "うずまきナルト",

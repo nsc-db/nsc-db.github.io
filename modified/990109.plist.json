@@ -26779,6 +26779,16 @@
           "effectIds": "3079,3143,3144,3145,3146,3147,"
         },
         {
+          "abilityId": "16008",
+          "abilityName": "ダメージ上限＋耐性無視ダメージ0",
+          "abilityDescription": "ダメージ上限（上限値：1000000ダメージ）、耐性無視ダメージ0",
+          "abilityEffectDescription": "ダメージ上限（上限値：1000000ダメージ）、耐性無視ダメージ0",
+          "effectIdx1": "3079",
+          "effectIdx2": "1750",
+          "effectIdx3": "0",
+          "effectIds": "3079,1750,"
+        },
+        {
           "abilityId": "17000",
           "abilityName": "状態異常・幻・弱体系特殊状態・即死無効",
           "abilityDescription": "状態異常・幻・弱体系特殊状態・即死無効",

@@ -24045,5 +24045,37 @@
           "crystalImageId": "310045",
           "recipeId": "31004",
           "recipeName": "クシナの苦手な物（コーヒー）"
+        },
+        {
+          "crystalId": "31018",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "3369",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "100000",
+          "saleMoney": "2500",
+          "crystalName": "夢限の護符",
+          "crystalDescription": "訓練用案山子から受けるダメージ90%カット",
+          "crystalImageId": "310185",
+          "recipeId": "31018",
+          "recipeName": "夢限の護符"
+        },
+        {
+          "crystalId": "31019",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "3368",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "100000",
+          "saleMoney": "2500",
+          "crystalName": "訓練用案山子(破)",
+          "crystalDescription": "破神キャラの場合、3回行動するまで弱体系特殊状態を無効化",
+          "crystalImageId": "310195",
+          "recipeId": "31019",
+          "recipeName": "訓練用案山子(破)"
         }
       ]
