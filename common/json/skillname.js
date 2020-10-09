@@ -7752,6 +7752,38 @@ window.skillname=[
           "name": "一人で背負うことが出来る"
         },
         {
+          "cardBattleSkillNameId": "3150",
+          "name": "衝打・蛇断ち"
+        },
+        {
+          "cardBattleSkillNameId": "3151",
+          "name": "逃さない…"
+        },
+        {
+          "cardBattleSkillNameId": "3152",
+          "name": "飛雷神・疾光ノ二段"
+        },
+        {
+          "cardBattleSkillNameId": "3153",
+          "name": "ここなら安全だよ"
+        },
+        {
+          "cardBattleSkillNameId": "3154",
+          "name": "金剛封鎖・縛護"
+        },
+        {
+          "cardBattleSkillNameId": "3155",
+          "name": "……そして夢をもって…"
+        },
+        {
+          "cardBattleSkillNameId": "3156",
+          "name": "超大玉尾獣螺旋手裏剣・光誕"
+        },
+        {
+          "cardBattleSkillNameId": "3157",
+          "name": "分かってんだろ！！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
@@ -7926,6 +7958,26 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20908",
           "name": "単体攻撃＋全体HP回復"
+        },
+        {
+          "cardBattleSkillNameId": "20909",
+          "name": "単体攻撃＆通常追撃＋全体HP回復"
+        },
+        {
+          "cardBattleSkillNameId": "20910",
+          "name": "全体耐性無視攻撃＆通常追撃＋強化系特殊状態解除"
+        },
+        {
+          "cardBattleSkillNameId": "20911",
+          "name": "全体割合攻撃＆耐性無視追撃"
+        },
+        {
+          "cardBattleSkillNameId": "20912",
+          "name": "単体耐性無視攻撃＆通常追撃"
+        },
+        {
+          "cardBattleSkillNameId": "20913",
+          "name": "味方単体蘇生"
         },
         {
           "cardBattleSkillNameId": "21000",

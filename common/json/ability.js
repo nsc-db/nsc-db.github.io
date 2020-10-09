@@ -26180,6 +26180,86 @@ window.ability=[
           "effectIds": "312,874,3341,3342,3343,3344,3345,3346,"
         },
         {
+          "abilityId": "2672",
+          "abilityName": "偵察潜入の才",
+          "abilityDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
+          "abilityEffectDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
+          "effectIdx1": "312",
+          "effectIdx2": "628",
+          "effectIdx3": "0",
+          "effectIds": "312,628,"
+        },
+        {
+          "abilityId": "2673",
+          "abilityName": "相討ちの覚悟",
+          "abilityDescription": "弱体と状態異常を半減する",
+          "abilityEffectDescription": "弱体と状態異常を半減する",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "776,"
+        },
+        {
+          "abilityId": "2674",
+          "abilityName": "忍たる覚悟と愛",
+          "abilityDescription": "素早さ500%アップ、味方に「クシナ・ナルト」生存でチャクラ消費量半減（どちらも生存でチャクラ消費量0）",
+          "abilityEffectDescription": "素早さ500%アップ、味方に「クシナ・ナルト」生存でチャクラ消費量半減（どちらも生存でチャクラ消費量0）",
+          "effectIdx1": "13103",
+          "effectIdx2": "3351",
+          "effectIdx3": "3350",
+          "effectIds": "13103,3351,3350,"
+        },
+        {
+          "abilityId": "2675",
+          "abilityName": "天賦の神速",
+          "abilityDescription": "バトル開始時1回行動まで心愛状態、敵に滅キャラが生存していると200%の確率でスキル回避",
+          "abilityEffectDescription": "バトル開始時1回行動まで心愛状態、敵に滅キャラが生存していると200%の確率でスキル回避",
+          "effectIdx1": "3349",
+          "effectIdx2": "3367",
+          "effectIdx3": "0",
+          "effectIds": "3349,3367,"
+        },
+        {
+          "abilityId": "2676",
+          "abilityName": "母の愛護",
+          "abilityDescription": "最大HP500%アップ、味方に「ミナト・ナルト」生存でチャクラ消費量半減（どちらも生存でチャクラ消費量0）",
+          "abilityEffectDescription": "最大HP500%アップ、味方に「ミナト・ナルト」生存でチャクラ消費量半減（どちらも生存でチャクラ消費量0）",
+          "effectIdx1": "10103",
+          "effectIdx2": "3352",
+          "effectIdx3": "3350",
+          "effectIds": "10103,3352,3350,"
+        },
+        {
+          "abilityId": "2677",
+          "abilityName": "うずまき一族の力",
+          "abilityDescription": "バトル開始時1回行動まで心愛状態、敵に無所属・滅キャラが生存でダメージ50%カット&amp;単体スキル攻撃をかばう",
+          "abilityEffectDescription": "バトル開始時1回行動まで心愛状態、敵に無所属・滅キャラが生存でダメージ50%カット&amp;単体スキル攻撃をかばう",
+          "effectIdx1": "3349",
+          "effectIdx2": "3354",
+          "effectIdx3": "3356",
+          "effectIds": "3349,3354,3356,3355,3357,"
+        },
+        {
+          "abilityId": "2678",
+          "abilityName": "未踏の忍道で得た答え",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲（一部ﾁｬｸﾗ回復）、敵に破神生存時確実にｽｷﾙ2で急襲&amp;行動後確率で敵の地形解除",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲（一部ﾁｬｸﾗ回復）、敵に破神生存時確実にｽｷﾙ2で急襲&amp;行動後確率で敵の地形解除",
+          "effectIdx1": "0",
+          "effectIdx2": "2840",
+          "effectIdx3": "2919",
+          "effectIds": "2840,2919,3370,"
+        },
+        {
+          "abilityId": "2679",
+          "abilityName": "無二の友を救う誓い",
+          "abilityDescription": "HP0以下で2回HP全回復、敵にサスケ・カグヤが生存時それぞれ素早さ250%アップ&amp;即死無効&amp;敵の地形効果無効",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、敵にサスケ・カグヤが生存時それぞれ素早さ250%アップ&amp;即死無効&amp;敵の地形効果無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3068",
+          "effectIds": "1057,874,3068,3342,3364,3344,3365,3366,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -26718,6 +26798,16 @@ window.ability=[
           "effectIdx2": "3143",
           "effectIdx3": "3144",
           "effectIds": "3079,3143,3144,3145,3146,3147,"
+        },
+        {
+          "abilityId": "16008",
+          "abilityName": "ダメージ上限＋耐性無視ダメージ0",
+          "abilityDescription": "ダメージ上限（上限値：1000000ダメージ）、耐性無視ダメージ0",
+          "abilityEffectDescription": "ダメージ上限（上限値：1000000ダメージ）、耐性無視ダメージ0",
+          "effectIdx1": "3079",
+          "effectIdx2": "1750",
+          "effectIdx3": "0",
+          "effectIds": "3079,1750,"
         },
         {
           "abilityId": "17000",
@@ -27848,6 +27938,26 @@ window.ability=[
           "effectIdx2": "3141",
           "effectIdx3": "0",
           "effectIds": "2525,3141,"
+        },
+        {
+          "abilityId": "100116",
+          "abilityName": "六道の生命力",
+          "abilityDescription": "最大チャクラ量250アップ、状態異常無効、敵に破神がいると最大HPと素早さ200%アップ",
+          "abilityEffectDescription": "最大チャクラ量250アップ、状態異常無効、敵に破神がいると最大HPと素早さ200%アップ",
+          "effectIdx1": "20044",
+          "effectIdx2": "82",
+          "effectIdx3": "2833",
+          "effectIds": "20044,82,2833,3362,"
+        },
+        {
+          "abilityId": "100117",
+          "abilityName": "仲間との絆",
+          "abilityDescription": "200%の確率でｽｷﾙ回避、HP0以下で2回全回復、死亡時味方全体を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効)",
+          "abilityEffectDescription": "200%の確率でｽｷﾙ回避、HP0以下で2回全回復、死亡時味方全体を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効)",
+          "effectIdx1": "1724",
+          "effectIdx2": "1057",
+          "effectIdx3": "874",
+          "effectIds": "1724,1057,874,3165,"
         },
         {
           "abilityId": "200001",
@@ -29408,6 +29518,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "2772,"
+        },
+        {
+          "abilityId": "310109",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方の木ノ葉隠れの里所属1人につき素早さ30%アップ（自身含）",
+          "abilityEffectDescription": "味方の木ノ葉隠れの里所属1人につき素早さ30%アップ（自身含）",
+          "effectIdx1": "1226",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1226,"
         },
         {
           "abilityId": "801187",
