@@ -1858,6 +1858,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11146",
+          "name": "期間限定ラーメン（10月19日15:59まで）",
+          "description": "スタミナを全回復するラーメン（10月19日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",
@@ -3889,6 +3902,19 @@
           "itemId": "52071",
           "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書（10月11日15:59まで）",
           "description": "バトルでの獲得ドロップ数が２倍になります。（10月11日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "52072",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書（10月19日15:59まで）",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（10月19日15:59まで期間限定）",
           "resultWord": "忍/素材ドロップ数２倍",
           "itemCategoryId": "10",
           "itemValue": "20000",

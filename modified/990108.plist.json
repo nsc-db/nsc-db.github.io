@@ -15539,6 +15539,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1126",
+          "name": "遥かなる夢の体現者",
+          "description": "全属性のスキル発動速度1段階アップ、3回行動まで敵の地形効果無効",
+          "effectIdx1": "1840",
+          "effectIdx2": "3286",
+          "effectIdx3": "0",
+          "effectIds": "1840,3286,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

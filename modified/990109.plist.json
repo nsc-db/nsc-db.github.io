@@ -26239,6 +26239,26 @@
           "effectIds": "3349,3354,3356,3355,3357,"
         },
         {
+          "abilityId": "2678",
+          "abilityName": "未踏の忍道で得た答え",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲（一部ﾁｬｸﾗ回復）、敵に破神生存時確実にｽｷﾙ2で急襲&amp;行動後確率で敵の地形解除",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲（一部ﾁｬｸﾗ回復）、敵に破神生存時確実にｽｷﾙ2で急襲&amp;行動後確率で敵の地形解除",
+          "effectIdx1": "0",
+          "effectIdx2": "2840",
+          "effectIdx3": "2919",
+          "effectIds": "2840,2919,3370,"
+        },
+        {
+          "abilityId": "2679",
+          "abilityName": "無二の友を救う誓い",
+          "abilityDescription": "HP0以下で2回HP全回復、敵にサスケ・カグヤが生存時それぞれ素早さ250%アップ&amp;即死無効&amp;敵の地形効果無効",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、敵にサスケ・カグヤが生存時それぞれ素早さ250%アップ&amp;即死無効&amp;敵の地形効果無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3068",
+          "effectIds": "1057,874,3068,3342,3364,3344,3365,3366,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29497,6 +29517,16 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "2772,"
+        },
+        {
+          "abilityId": "310109",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方の木ノ葉隠れの里所属1人につき素早さ30%アップ（自身含）",
+          "abilityEffectDescription": "味方の木ノ葉隠れの里所属1人につき素早さ30%アップ（自身含）",
+          "effectIdx1": "1226",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1226,"
         },
         {
           "abilityId": "801187",

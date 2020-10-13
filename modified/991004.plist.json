@@ -5885,6 +5885,12 @@
           "speechCharactorName": "加藤ダン"
         },
         {
+          "speechCharactorId": "5106",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "0"
+        },
+        {
           "speechCharactorId": "9000",
           "cardId": "0",
           "speechCharactorImgId": "9000",
@@ -6111,5 +6117,17 @@
           "cardId": "20060704",
           "speechCharactorImgId": "20060704",
           "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "10035",
+          "cardId": "20001765",
+          "speechCharactorImgId": "20001765",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "10036",
+          "cardId": "20001766",
+          "speechCharactorImgId": "20001766",
+          "speechCharactorName": "うちはサスケ"
         }
       ]

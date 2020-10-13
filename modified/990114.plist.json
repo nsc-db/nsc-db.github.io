@@ -2907,5 +2907,15 @@
           "subScore": "0",
           "color": "0",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "296",
+          "category": "4",
+          "iconId": "1346",
+          "name": "忍道",
+          "description": "HP0以下で何度もHP全回復。付与時&amp;被攻撃時味方神忍ｱｸｼｮﾝ（付与は自身除く）解除時味方神忍生存時ｱｸｼｮﾝ",
+          "subScore": "0",
+          "color": "16752899",
+          "type": "2"
         }
       ]

@@ -1187,6 +1187,24 @@
           "customSphereList": "9100333,9100334,9100335,9100336"
         },
         {
+          "sphereBoardPanelId": "9100031",
+          "panelType": "1",
+          "panelMaterial": "0",
+          "needMoney": "0",
+          "normalSphereList": "9100149,9100150,9100151,9100152,9100153,9100154,9100155,9100156,9100157,9100158,9100159,9100160,9100161,9100162,9100163",
+          "lastSphereId": "9100164",
+          "customSphereList": "9100165,9100166,9100167,9100168"
+        },
+        {
+          "sphereBoardPanelId": "9100032",
+          "panelType": "2",
+          "panelMaterial": "4:1",
+          "needMoney": "24000000",
+          "normalSphereList": "9100541,9100542,9100543,9100544,9100545,9100546,9100547,9100548,9100549,9100550,9100551,9100552,9100553,9100554,9100555",
+          "lastSphereId": "9100556",
+          "customSphereList": "9100557,9100558,9100559,9100560"
+        },
+        {
           "sphereBoardPanelId": "9200001",
           "panelType": "1",
           "panelMaterial": "0",
