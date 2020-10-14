@@ -13929,5 +13929,29 @@
           "effectIdx2": "1840",
           "effectIdx3": "895",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1179",
+          "targetCrystal": "31007",
+          "description": "5回行動するまでキャンセル無効、最大HP100%アップ、スキル発動速度1段階アップ",
+          "charaIds": "50903,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2963",
+          "effectIdx2": "684",
+          "effectIdx3": "1840",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1180",
+          "targetCrystal": "31008",
+          "description": "最大チャクラ量100アップ、高確率でスキル回避",
+          "charaIds": "50903,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "813",
+          "effectIdx2": "968",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]

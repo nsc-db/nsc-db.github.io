@@ -24079,6 +24079,38 @@
           "recipeName": "超大玉螺旋手裏剣"
         },
         {
+          "crystalId": "31007",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2962",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "想い人の記憶",
+          "crystalDescription": "3回行動するまで確率でキャンセル無効",
+          "crystalImageId": "310075",
+          "recipeId": "31007",
+          "recipeName": "想い人の記憶"
+        },
+        {
+          "crystalId": "31008",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "20002",
+          "effectIdx2": "679",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "六道オビトの額の突起物",
+          "crystalDescription": "最大チャクラ量30アップ、確率でスキル回避",
+          "crystalImageId": "310085",
+          "recipeId": "31008",
+          "recipeName": "六道オビトの額の突起物"
+        },
+        {
           "crystalId": "31017",
           "crystalType": "14",
           "crystalRare": "5",

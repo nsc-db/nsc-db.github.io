@@ -26259,6 +26259,26 @@
           "effectIds": "1057,874,3068,3342,3364,3344,3365,3366,"
         },
         {
+          "abilityId": "2684",
+          "abilityName": "深愛の記憶",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時敵に木ノ葉所属か超忍ｷｬﾗがいる場合、確率で「ｽｷﾙ2」で急襲攻撃（どちらもいると確率ｱｯﾌﾟ）（ﾁｬｸﾗ大回復）",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時敵に木ノ葉所属か超忍ｷｬﾗがいる場合、確率で「ｽｷﾙ2」で急襲攻撃（どちらもいると確率ｱｯﾌﾟ）（ﾁｬｸﾗ大回復）",
+          "effectIdx1": "3394",
+          "effectIdx2": "3395",
+          "effectIdx3": "0",
+          "effectIds": "3394,3395,"
+        },
+        {
+          "abilityId": "2685",
+          "abilityName": "新たな六道の力",
+          "abilityDescription": "HP0以下で1回耐える、1回行動までチャクラ消費0＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP0以下で1回耐える、1回行動までチャクラ消費0＆スキル発動速度1段階アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "1378",
+          "effectIdx3": "1539",
+          "effectIds": "312,1378,1539,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
