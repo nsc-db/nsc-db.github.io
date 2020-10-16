@@ -15553,6 +15553,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1127",
+          "name": "悲憤の奔流",
+          "description": "敵に木ノ葉所属がいると、バトル開始時高確率で味方の人数に応じて乱舞カウント1減少&amp;行動後チャクラ10%回復",
+          "effectIdx1": "3371",
+          "effectIdx2": "3372",
+          "effectIdx3": "0",
+          "effectIds": "3371,3372,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1129",
           "name": "久遠の夢を願う者",
           "description": "無所属のスキルダメージを150%アップ、スキル発動速度1段階アップ",

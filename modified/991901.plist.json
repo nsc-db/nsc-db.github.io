@@ -1077,5 +1077,17 @@
           "cardId": "50060801",
           "normalPanelList": "5011001,5011002,5011003",
           "specialPanelList": "5011004,5011005,5011006"
+        },
+        {
+          "sphereBoardId": "5000013",
+          "boardName": "外道魔像",
+          "boardDescription": "長門【悲憤の奔流】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50061001",
+          "normalPanelList": "5012001,5012002,5012003",
+          "specialPanelList": "5012004,5012005,5012006"
         }
       ]

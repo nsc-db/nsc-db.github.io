@@ -26259,6 +26259,26 @@
           "effectIds": "1057,874,3068,3342,3364,3344,3365,3366,"
         },
         {
+          "abilityId": "2680",
+          "abilityName": "絶望の共鳴",
+          "abilityDescription": "被ダメージ時、低確率で乱舞カウントを1減少する",
+          "abilityEffectDescription": "被ダメージ時、低確率で乱舞カウントを1減少する",
+          "effectIdx1": "3375",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3375,"
+        },
+        {
+          "abilityId": "2681",
+          "abilityName": "無情の吸生",
+          "abilityDescription": "敵に木ノ葉所属がいると、行動毎にチャクラ15％回復＆攻防速60％アップ",
+          "abilityEffectDescription": "敵に木ノ葉所属がいると、行動毎にチャクラ15％回復＆攻防速60％アップ",
+          "effectIdx1": "3373",
+          "effectIdx2": "3374",
+          "effectIdx3": "0",
+          "effectIds": "3373,3374,"
+        },
+        {
           "abilityId": "2684",
           "abilityName": "深愛の記憶",
           "abilityDescription": "ﾊﾞﾄﾙ開始時敵に木ノ葉所属か超忍ｷｬﾗがいる場合、確率で「ｽｷﾙ2」で急襲攻撃（どちらもいると確率ｱｯﾌﾟ）（ﾁｬｸﾗ大回復）",
