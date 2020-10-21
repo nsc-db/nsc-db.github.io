@@ -24111,6 +24111,38 @@
           "recipeName": "六道オビトの額の突起物"
         },
         {
+          "crystalId": "31009",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "3390",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "シスイの忠実な相棒",
+          "crystalDescription": "味方にうちはイタチが生存していると、チャクラ消費量25%減少",
+          "crystalImageId": "310095",
+          "recipeId": "31009",
+          "recipeName": "シスイの忠実な相棒"
+        },
+        {
+          "crystalId": "31010",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "3393",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "別天神を宿し瞳",
+          "crystalDescription": "行動するたびにスキルダメージ15%アップ（最大150%）",
+          "crystalImageId": "310105",
+          "recipeId": "31010",
+          "recipeName": "別天神を宿し瞳"
+        },
+        {
           "crystalId": "31017",
           "crystalType": "14",
           "crystalRare": "5",

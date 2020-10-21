@@ -26279,6 +26279,26 @@
           "effectIds": "3373,3374,"
         },
         {
+          "abilityId": "2682",
+          "abilityName": "平和を望む心",
+          "abilityDescription": "防御行動時、自身に短い間暗影付与＆自身の弱体系特殊・神化状態解除＆確率で敵展開の地形効果を破壊・解除",
+          "abilityEffectDescription": "防御行動時、自身に短い間暗影付与＆自身の弱体系特殊・神化状態解除＆確率で敵展開の地形効果を破壊・解除",
+          "effectIdx1": "3382",
+          "effectIdx2": "3383",
+          "effectIdx3": "3384",
+          "effectIds": "3382,3383,3384,3385,"
+        },
+        {
+          "abilityId": "2683",
+          "abilityName": "窮地の瞬身",
+          "abilityDescription": "バトル開始時短い間暗影付与、2回行動以降素早さ150%アップ、HP0以下で1回耐える、最大チャクラ量100アップ",
+          "abilityEffectDescription": "バトル開始時短い間暗影付与、2回行動以降素早さ150%アップ、HP0以下で1回耐える、最大チャクラ量100アップ",
+          "effectIdx1": "3386",
+          "effectIdx2": "3387",
+          "effectIdx3": "312",
+          "effectIds": "3386,3387,312,20009,"
+        },
+        {
           "abilityId": "2684",
           "abilityName": "深愛の記憶",
           "abilityDescription": "ﾊﾞﾄﾙ開始時敵に木ノ葉所属か超忍ｷｬﾗがいる場合、確率で「ｽｷﾙ2」で急襲攻撃（どちらもいると確率ｱｯﾌﾟ）（ﾁｬｸﾗ大回復）",
@@ -29567,6 +29587,26 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "1226,"
+        },
+        {
+          "abilityId": "310110",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に神忍がいると、確率で再行動",
+          "abilityEffectDescription": "敵に神忍がいると、確率で再行動",
+          "effectIdx1": "3380",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3380,"
+        },
+        {
+          "abilityId": "310111",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に神忍がいると、即死無効",
+          "abilityEffectDescription": "敵に神忍がいると、即死無効",
+          "effectIdx1": "3381",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3381,"
         },
         {
           "abilityId": "801187",

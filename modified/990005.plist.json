@@ -1217,5 +1217,15 @@
           "uiIdx": "10023",
           "partyEffects": "3245,3246,3247,3248,3253,",
           "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "10024",
+          "name": "平和ヘノ誓イ",
+          "category": "3",
+          "scriptId": "10024",
+          "overWrite": "1",
+          "uiIdx": "10024",
+          "partyEffects": "13099,3376,",
+          "enemyEffects": "3377,3378,3379,"
         }
       ]

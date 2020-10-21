@@ -13931,6 +13931,30 @@
           "effectIdx4": "0"
         },
         {
+          "crystalOverwriteEffectId": "1177",
+          "targetCrystal": "31009",
+          "description": "行動後にチャクラ25%回復、チャクラ消費量半減、味方にうちはイタチが生存でチャクラ消費量0",
+          "charaIds": "4102,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3207",
+          "effectIdx2": "895",
+          "effectIdx3": "3391",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1178",
+          "targetCrystal": "31010",
+          "description": "スキル発動速度1段階アップ、行動するたびにスキルダメージ50%アップ（最大150%）",
+          "charaIds": "4102,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "3392",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
           "crystalOverwriteEffectId": "1179",
           "targetCrystal": "31007",
           "description": "5回行動するまでキャンセル無効、最大HP100%アップ、スキル発動速度1段階アップ",

@@ -15567,6 +15567,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1128",
+          "name": "明鏡の心瞳",
+          "description": "味方にうちはイタチがいると、バトル開始時に味方の編成人数に応じ確率で「地形効果：平和ヘノ誓イ」を展開",
+          "effectIdx1": "3388",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3388,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1129",
           "name": "久遠の夢を願う者",
           "description": "無所属のスキルダメージを150%アップ、スキル発動速度1段階アップ",

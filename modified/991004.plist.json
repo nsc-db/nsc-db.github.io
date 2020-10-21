@@ -5573,6 +5573,12 @@
           "speechCharactorName": "シホ"
         },
         {
+          "speechCharactorId": "949",
+          "cardId": "949",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ミトク"
+        },
+        {
           "speechCharactorId": "950",
           "cardId": "950",
           "speechCharactorImgId": "0",
@@ -5711,6 +5717,30 @@
           "speechCharactorName": "トビ"
         },
         {
+          "speechCharactorId": "975",
+          "cardId": "20060301",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "山中いのいち"
+        },
+        {
+          "speechCharactorId": "976",
+          "cardId": "976",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "カルイ"
+        },
+        {
+          "speechCharactorId": "977",
+          "cardId": "977",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "エー"
+        },
+        {
+          "speechCharactorId": "978",
+          "cardId": "978",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "シズネ"
+        },
+        {
           "speechCharactorId": "980",
           "cardId": "20001706",
           "speechCharactorImgId": "0",
@@ -5827,6 +5857,12 @@
         {
           "speechCharactorId": "1002",
           "cardId": "1002",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "1022",
+          "cardId": "20031210",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはサスケ"
         },
