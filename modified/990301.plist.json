@@ -24143,6 +24143,38 @@
           "recipeName": "別天神を宿し瞳"
         },
         {
+          "crystalId": "31011",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "3408",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "柱間のサンダル",
+          "crystalDescription": "攻撃力・防御力・素早さ40%アップ",
+          "crystalImageId": "310115",
+          "recipeId": "31011",
+          "recipeName": "柱間のサンダル"
+        },
+        {
+          "crystalId": "31012",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "3409",
+          "effectIdx2": "3230",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "友を止める意志",
+          "crystalDescription": "敵にうちは一族が生存で行動後に低確率で再行動するが、行動後にチャクラ50%減少※再行動後に再行動不可",
+          "crystalImageId": "310125",
+          "recipeId": "31012",
+          "recipeName": "友を止める意志"
+        },
+        {
           "crystalId": "31017",
           "crystalType": "14",
           "crystalRare": "5",

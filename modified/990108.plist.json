@@ -15595,6 +15595,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1130",
+          "name": "創樹の仙雄",
+          "description": "敵にうちは一族がいると、バトル開始時敵全体に短い間「強化系特殊状態不可」付与",
+          "effectIdx1": "3397",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3397,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

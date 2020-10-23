@@ -6873,6 +6873,13 @@
           "assetNum": "1"
         },
         {
+          "worldPhaseMissionRewardId": "4138",
+          "worldPhaseId": "8230",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "1"
+        },
+        {
           "worldPhaseMissionRewardId": "11101",
           "worldPhaseId": "41871",
           "assetCategoryId": "1",

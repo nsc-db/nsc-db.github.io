@@ -3839,6 +3839,18 @@
           "voiceDeath": "obito_death_02_04"
         },
         {
+          "cardVoiceId": "324",
+          "cardId": "20061007",
+          "dirName": "hashirama",
+          "evolutionStep": "",
+          "voiceAppear": "hashirama_pursuit_02_01",
+          "voiceSkill1": "hashirama_win_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hashirama_win_02_02",
+          "voiceDeath": "hashirama_damage_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

@@ -13977,5 +13977,29 @@
           "effectIdx2": "968",
           "effectIdx3": "0",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1181",
+          "targetCrystal": "31011",
+          "description": "攻撃力・防御力・素早さ100%アップ、行動後にチャクラ30%回復",
+          "charaIds": "1901,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1832",
+          "effectIdx2": "2524",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1182",
+          "targetCrystal": "31012",
+          "description": "敵にうちは一族が生存していると、行動後に確率で再行動※再行動後に再行動不可",
+          "charaIds": "1901,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3410",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
         }
       ]

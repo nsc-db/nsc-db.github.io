@@ -26319,6 +26319,26 @@
           "effectIds": "312,1378,1539,"
         },
         {
+          "abilityId": "2686",
+          "abilityName": "平和を守る覚悟",
+          "abilityDescription": "敵に滅キャラ・無所属が生存で、被攻撃時に攻撃者へ確率で耐性無視して封印状態付与、HP0以下で3回耐える",
+          "abilityEffectDescription": "敵に滅キャラ・無所属が生存で、被攻撃時に攻撃者へ確率で耐性無視して封印状態付与、HP0以下で3回耐える",
+          "effectIdx1": "3398",
+          "effectIdx2": "3399",
+          "effectIdx3": "1789",
+          "effectIds": "3398,3399,1789,"
+        },
+        {
+          "abilityId": "2687",
+          "abilityName": "“火の意志”の元祖",
+          "abilityDescription": "10回行動まで確率で再行動&amp;耐えた時・被攻撃時にそれぞれ確率で即アクション※再行動後に再行動不可",
+          "abilityEffectDescription": "10回行動まで確率で再行動&amp;耐えた時・被攻撃時にそれぞれ確率で即アクション※再行動後に再行動不可",
+          "effectIdx1": "3411",
+          "effectIdx2": "3412",
+          "effectIdx3": "3413",
+          "effectIds": "3411,3412,3413,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
