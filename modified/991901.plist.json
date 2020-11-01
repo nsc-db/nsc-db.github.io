@@ -455,6 +455,18 @@
           "specialPanelList": "9000022,9000023,9000024"
         },
         {
+          "sphereBoardId": "10051",
+          "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
+          "boardDescription": "大蛇丸【猛り狂う狡知】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061008",
+          "normalPanelList": "9000025,9000026,9000027",
+          "specialPanelList": "9000028,9000029,9000030"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -945,6 +957,18 @@
           "cardId": "20061006",
           "normalPanelList": "9100007,9100008,9100009",
           "specialPanelList": "9100010,9100011,9100012"
+        },
+        {
+          "sphereBoardId": "50042",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
+          "boardDescription": "サソリ【朱染めの伝説】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061009",
+          "normalPanelList": "9100013,9100014,9100015",
+          "specialPanelList": "9100016,9100017,9100018"
         },
         {
           "sphereBoardId": "60001",

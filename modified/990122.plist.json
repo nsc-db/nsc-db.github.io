@@ -3851,6 +3851,42 @@
           "voiceDeath": "hashirama_damage_02_02"
         },
         {
+          "cardVoiceId": "325",
+          "cardId": "20061008",
+          "dirName": "orochimaru",
+          "evolutionStep": "",
+          "voiceAppear": "orochimaru_pursuit_02_01",
+          "voiceSkill1": "orochimaru_skill_02_05",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "orochimaru_pursuit_02_02",
+          "voiceDeath": "orochimaru_death_02_01"
+        },
+        {
+          "cardVoiceId": "326",
+          "cardId": "20061010",
+          "dirName": "kabuto",
+          "evolutionStep": "",
+          "voiceAppear": "kabuto_battle_01_01",
+          "voiceSkill1": "kabuto_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kabuto_win_01_02",
+          "voiceDeath": "kabuto_death_01_02"
+        },
+        {
+          "cardVoiceId": "328",
+          "cardId": "20061009",
+          "dirName": "sasori",
+          "evolutionStep": "",
+          "voiceAppear": "sasori_pursuit_02_01",
+          "voiceSkill1": "sasori_battle_02_01,sasori_skill_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasori_win_02_02",
+          "voiceDeath": "sasori_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

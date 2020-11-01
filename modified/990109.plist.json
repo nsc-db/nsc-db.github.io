@@ -26339,6 +26339,86 @@
           "effectIds": "3411,3412,3413,"
         },
         {
+          "abilityId": "2688",
+          "abilityName": "伝説の“人傀儡”",
+          "abilityDescription": "3回行動まで弱体系特殊状態無効。敵に破神生存時素早さ250%アップ。HP0以下で1回HP全回復",
+          "abilityEffectDescription": "3回行動まで弱体系特殊状態無効。敵に破神生存時素早さ250%アップ。HP0以下で1回HP全回復",
+          "effectIdx1": "2722",
+          "effectIdx2": "312",
+          "effectIdx3": "874",
+          "effectIds": "2722,312,874,2786,"
+        },
+        {
+          "abilityId": "2689",
+          "abilityName": "砂鉄の脅威",
+          "abilityDescription": "敵に五大隠れ里所属か破神がいるとバトル開始時に敵全体に耐性を無視して毒状態付与&amp;それぞれ確率で先制",
+          "abilityEffectDescription": "敵に五大隠れ里所属か破神がいるとバトル開始時に敵全体に耐性を無視して毒状態付与&amp;それぞれ確率で先制",
+          "effectIdx1": "3018",
+          "effectIdx2": "3415",
+          "effectIdx3": "3416",
+          "effectIds": "3018,3415,3416,3417,"
+        },
+        {
+          "abilityId": "2690",
+          "abilityName": "狡猾な悪意",
+          "abilityDescription": "HP0以下で1回耐える、敵に超忍か木ノ葉の里所属がいると素早さ&amp;攻撃力150%アップ、どちらもいると300%アップ",
+          "abilityEffectDescription": "HP0以下で1回耐える、敵に超忍か木ノ葉の里所属がいると素早さ&amp;攻撃力150%アップ、どちらもいると300%アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "3240",
+          "effectIdx3": "3425",
+          "effectIds": "312,3240,3425,3419,3420,"
+        },
+        {
+          "abilityId": "2691",
+          "abilityName": "生死の蛇行",
+          "abilityDescription": "敵に超忍か木ノ葉の里所属がいると先制攻撃、1回行動までチャクラ消費0",
+          "abilityEffectDescription": "敵に超忍か木ノ葉の里所属がいると先制攻撃、1回行動までチャクラ消費0",
+          "effectIdx1": "3149",
+          "effectIdx2": "3421",
+          "effectIdx3": "1378",
+          "effectIds": "3149,3421,1378,"
+        },
+        {
+          "abilityId": "2692",
+          "abilityName": "隠れた実力者",
+          "abilityDescription": "HP0以下で1回耐え、味方に「大蛇丸」が生存しているとスキルダメージ100％アップ",
+          "abilityEffectDescription": "HP0以下で1回耐え、味方に「大蛇丸」が生存しているとスキルダメージ100％アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "3423",
+          "effectIdx3": "0",
+          "effectIds": "312,3423,"
+        },
+        {
+          "abilityId": "2693",
+          "abilityName": "卓抜の医療忍術",
+          "abilityDescription": "最大HPを100%アップし、確率でスキルを回避する",
+          "abilityEffectDescription": "最大HPを100%アップし、確率でスキルを回避する",
+          "effectIdx1": "684",
+          "effectIdx2": "1423",
+          "effectIdx3": "0",
+          "effectIds": "684,1423,"
+        },
+        {
+          "abilityId": "2696",
+          "abilityName": "暗闘のくノ一",
+          "abilityDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "abilityEffectDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "effectIdx1": "689",
+          "effectIdx2": "312",
+          "effectIdx3": "0",
+          "effectIds": "689,312,"
+        },
+        {
+          "abilityId": "2697",
+          "abilityName": "秘めし想い",
+          "abilityDescription": "3回行動するまで確率でスキル回避",
+          "abilityEffectDescription": "3回行動するまで確率でスキル回避",
+          "effectIdx1": "2293",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2293,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29627,6 +29707,26 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3381,"
+        },
+        {
+          "abilityId": "310119",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "3回行動まで敵の地形効果無効",
+          "abilityEffectDescription": "3回行動まで敵の地形効果無効",
+          "effectIdx1": "3286",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3286,"
+        },
+        {
+          "abilityId": "310120",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "確率で即死無効",
+          "abilityEffectDescription": "確率で即死無効",
+          "effectIdx1": "3422",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3422,"
         },
         {
           "abilityId": "801187",

@@ -2885,6 +2885,24 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "490",
+          "itemName": "里の人数",
+          "measure": "人",
+          "itemImgId": "299"
+        },
+        {
+          "shopExchangeItemId": "491",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "492",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -3897,6 +3915,18 @@
           "itemName": "ランキング忍具交換券",
           "measure": "0",
           "itemImgId": "2098"
+        },
+        {
+          "shopExchangeItemId": "2099",
+          "itemName": "5.5th記念札",
+          "measure": "0",
+          "itemImgId": "2099"
+        },
+        {
+          "shopExchangeItemId": "2100",
+          "itemName": "湯煙交換券",
+          "measure": "0",
+          "itemImgId": "2100"
         },
         {
           "shopExchangeItemId": "2500",

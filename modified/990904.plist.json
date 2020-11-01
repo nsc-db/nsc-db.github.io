@@ -415,6 +415,32 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1368",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "大蛇丸の音隠れの里発展計画！",
+          "description": "里の人数を増やすと\r\nステージがどんどん解放されるぞ！\r\n大蛇丸の新規固有忍具や\r\n11月のイベントで特効効果を発揮する\r\n★6 薬師カブト【狡猾鋭才の策士】を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1369",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "大激闘任務-霜月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2097",
           "worldAreaId": "5",
           "priority": "5",
@@ -467,10 +493,10 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4125",
+          "worldStageId": "4126",
           "worldAreaId": "5",
           "priority": "2",
-          "name": "NARUTO軌跡集「LAST BATTLE 序章」",
+          "name": "NARUTO軌跡集「LAST BATTLE」",
           "description": "Ptランキング開催！\r\n初回クリア報酬は全て忍石獲得可能！\r\n個人Ptはイベント期間中のみ加算されます",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
@@ -480,11 +506,11 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4126",
+          "worldStageId": "4127",
           "worldAreaId": "5",
-          "priority": "2",
-          "name": "NARUTO軌跡集「LAST BATTLE」",
-          "description": "Ptランキング開催！\r\n初回クリア報酬は全て忍石獲得可能！\r\n個人Ptはイベント期間中のみ加算されます",
+          "priority": "4",
+          "name": "天才傀儡師“赤砂”-悪しき風習の末路-",
+          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",

@@ -2491,6 +2491,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "12102",
+          "charaId": "121",
+          "name": "サソリ",
+          "detail": "暁",
+          "charaLoveAffinityGroupId": "12110",
+          "birthday": "1108",
+          "constellation": "8",
+          "height": "16410",
+          "weight": "4730",
+          "bloodType": "4",
+          "age": "35",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "12201",
           "charaId": "122",
           "name": "ヒルコ",
