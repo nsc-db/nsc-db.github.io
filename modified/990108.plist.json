@@ -15651,6 +15651,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1134",
+          "name": "奇想天外の造形師",
+          "description": "敵に木ノ葉隠れの里所属かうちは一族が生存していると、味方全体が低確率で再行動(どちらもいると確率アップ)",
+          "effectIdx1": "3428",
+          "effectIdx2": "3429",
+          "effectIdx3": "0",
+          "effectIds": "3428,3429,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1135",
           "name": "暗部に咲く花",
           "description": "体属性の最大HPと素早さを50%アップする",
@@ -15661,6 +15675,34 @@
           "compType": "1",
           "target1Category": "1",
           "target1Param": "3",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1136",
+          "name": "予言の先導者",
+          "description": "味方に「うずまきナルト」か「波風ミナト」がいると味方全体の攻防速60%アップ（どちらもいると120%アップ）",
+          "effectIdx1": "3436",
+          "effectIdx2": "3437",
+          "effectIdx3": "0",
+          "effectIds": "3436,3437,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1137",
+          "name": "闘忍の覇者",
+          "description": "木ノ葉隠れの里所属のスキル発動速度1段階アップ＆1回行動するまでチャクラ消費0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1378",
+          "effectIdx3": "0",
+          "effectIds": "1840,1378,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
         },

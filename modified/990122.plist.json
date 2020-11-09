@@ -3875,6 +3875,18 @@
           "voiceDeath": "kabuto_death_01_02"
         },
         {
+          "cardVoiceId": "327",
+          "cardId": "20061102",
+          "dirName": "deidara",
+          "evolutionStep": "",
+          "voiceAppear": "deidara_attack_02_02",
+          "voiceSkill1": "deidara_gacha_tap_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "deidara_menu_01",
+          "voiceDeath": "deidara_death_02_01"
+        },
+        {
           "cardVoiceId": "328",
           "cardId": "20061009",
           "dirName": "sasori",
@@ -3885,6 +3897,30 @@
           "voicePursuit": "",
           "voiceWin": "sasori_win_02_02",
           "voiceDeath": "sasori_death_02_01"
+        },
+        {
+          "cardVoiceId": "329",
+          "cardId": "20061104",
+          "dirName": "jiraiya",
+          "evolutionStep": "",
+          "voiceAppear": "jiraiya_pursuit_02_02",
+          "voiceSkill1": "jiraiya_win_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "jiraiya_win_02_02",
+          "voiceDeath": "jiraiya_death_02_02"
+        },
+        {
+          "cardVoiceId": "330",
+          "cardId": "20061103",
+          "dirName": "guy",
+          "evolutionStep": "",
+          "voiceAppear": "guy_attack_02_02",
+          "voiceSkill1": "guy_attack_02_01,guy_pursuit_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "guy_win_02_03",
+          "voiceDeath": "guy_damage_02_02"
         },
         {
           "cardVoiceId": "8001",

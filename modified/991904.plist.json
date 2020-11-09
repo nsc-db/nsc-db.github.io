@@ -297,5 +297,10 @@
           "sphereMaterialId": "60010",
           "materialName": "連の証",
           "materialRare": "5"
+        },
+        {
+          "sphereMaterialId": "60011",
+          "materialName": "闘の証",
+          "materialRare": "5"
         }
       ]

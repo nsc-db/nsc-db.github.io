@@ -1910,6 +1910,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11152",
+          "name": "期間限定ラーメン（11月23日15:59まで）",
+          "description": "スタミナを全回復するラーメン（11月23日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "15001",
           "name": "共闘コイン",
           "description": "共闘コインガチャの実行に必要なコイン。",
@@ -3028,6 +3041,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "51068",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（11月10日 15:59まで期間限定）",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "52000",
           "name": "限定ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。（1月4日15:59まで期間限定）",
@@ -3993,6 +4019,19 @@
           "itemId": "52074",
           "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書（11月10日15:59まで）",
           "description": "バトルでの獲得ドロップ数が２倍になります。（11月10日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "52077",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書（11月23日15:59まで）",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（11月23日15:59まで期間限定）",
           "resultWord": "忍/素材ドロップ数２倍",
           "itemCategoryId": "10",
           "itemValue": "20000",

@@ -455,6 +455,42 @@
           "specialPanelList": "9000022,9000023,9000024"
         },
         {
+          "sphereBoardId": "10048",
+          "boardName": "Temp_Ct40_心属性_の潜在覚醒盤",
+          "boardDescription": "テンテン【秋露の悠々娘】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051117",
+          "normalPanelList": "9000001,9000002,9000003",
+          "specialPanelList": "9000004,9000005,9000006"
+        },
+        {
+          "sphereBoardId": "10049",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "春野サクラ【秋風に舞う湯桜】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051118",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018"
+        },
+        {
+          "sphereBoardId": "10050",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "日向ヒナタ【秋澄みの木ノ香】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051119",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012"
+        },
+        {
           "sphereBoardId": "10051",
           "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
           "boardDescription": "大蛇丸【猛り狂う狡知】",
@@ -465,6 +501,18 @@
           "cardId": "20061008",
           "normalPanelList": "9000025,9000026,9000027",
           "specialPanelList": "9000028,9000029,9000030"
+        },
+        {
+          "sphereBoardId": "10052",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "デイダラ【奇想天外の造形師】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061102",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012"
         },
         {
           "sphereBoardId": "50001",
@@ -971,6 +1019,18 @@
           "specialPanelList": "9100016,9100017,9100018"
         },
         {
+          "sphereBoardId": "50043",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤",
+          "boardDescription": "自来也【予言の先導者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061104",
+          "normalPanelList": "9100001,9100002,9100003",
+          "specialPanelList": "9100004,9100005,9100006"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
@@ -981,6 +1041,18 @@
           "cardId": "60060700",
           "normalPanelList": "9200007,9200008,9200009",
           "specialPanelList": "9200010,9200011,9200012"
+        },
+        {
+          "sphereBoardId": "70001",
+          "boardName": "Temp_Ct100_知属性_の潜在覚醒盤",
+          "boardDescription": "マイト・ガイ【闘忍の覇者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061103",
+          "normalPanelList": "9300019,9300020,9300021",
+          "specialPanelList": "9300022,9300023,9300024"
         },
         {
           "sphereBoardId": "5000001",

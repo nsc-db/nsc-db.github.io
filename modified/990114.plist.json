@@ -2927,5 +2927,15 @@
           "subScore": "0",
           "color": "13216390",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "298",
+          "category": "4",
+          "iconId": "1348",
+          "name": "蝦蟇神仙",
+          "description": "攻撃時、敵全体に耐性無視ダメージ追撃。被攻撃時、攻撃者に高確率で蝦蟇錯乱状態付与。",
+          "subScore": "0",
+          "color": "16774242",
+          "type": "2"
         }
       ]

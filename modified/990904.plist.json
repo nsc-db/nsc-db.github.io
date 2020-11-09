@@ -363,32 +363,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1363",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "誕生日だってばよ！",
-          "description": "盛りだくさんの豪華報酬を獲得しよう！\r\n■「誕生日ケーキ」の個人Pt達成報酬：\r\n　推薦状★5、新規忍具、忍具ガチャチケットなど\r\n■周回報酬：\r\n　禁忌の至宝・神、乱舞の至宝、神忍推薦状★5など",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "1365",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "終末の谷-最後の戦い-",
-          "description": "初回クリア報酬で忍石獲得可能！\r\n待望のボイスイベント開催！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1366",
           "worldAreaId": "5",
           "priority": "4",
@@ -454,6 +428,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "2098",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "テンテンの忍具指南コレクション",
+          "description": "個人Ptを集めて忍具や忍具チケットと交換！\r\n特別達成報酬は全て忍石！\r\n※今回獲得できる個人Ptは11月交換所のみ\r\n適用されます。",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "4095",
           "worldAreaId": "5",
           "priority": "1",
@@ -493,11 +480,11 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4126",
+          "worldStageId": "4127",
           "worldAreaId": "5",
-          "priority": "2",
-          "name": "NARUTO軌跡集「LAST BATTLE」",
-          "description": "Ptランキング開催！\r\n初回クリア報酬は全て忍石獲得可能！\r\n個人Ptはイベント期間中のみ加算されます",
+          "priority": "4",
+          "name": "天才傀儡師“赤砂”-悪しき風習の末路-",
+          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
@@ -506,11 +493,24 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4127",
+          "worldStageId": "4128",
+          "worldAreaId": "5",
+          "priority": "3",
+          "name": "NARUTO軌跡集-自来也- 序章・予言",
+          "description": "自来也の軌跡を追体験！\r\nNARUTO軌跡集-自来也-  前篇、後篇で特効の\r\n★５自来也【鯉幟の勇士】を獲得しよう!!",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "4129",
           "worldAreaId": "5",
           "priority": "4",
-          "name": "天才傀儡師“赤砂”-悪しき風習の末路-",
-          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
+          "name": "NARUTO軌跡集-自来也-黄昏",
+          "description": "自来也の軌跡を追体験！\r\n個人Ptを集めて、自来也の固有忍具を獲得しよう！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
@@ -1351,10 +1351,10 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "8067",
+          "worldStageId": "8068",
           "worldAreaId": "9",
           "priority": "0",
-          "name": "第四十九回 昇級試験",
+          "name": "超×忍伝乱舞 〜昇級試験特別篇〜",
           "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
           "notice": "0",
           "type": "0",
@@ -1364,10 +1364,10 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "8068",
+          "worldStageId": "8069",
           "worldAreaId": "9",
           "priority": "0",
-          "name": "超×忍伝乱舞 〜昇級試験特別篇〜",
+          "name": "第五十回昇級試験",
           "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
           "notice": "0",
           "type": "0",
@@ -1960,19 +1960,6 @@
           "openWeek": null,
           "openTime": "2017.12.31 17:00:00",
           "closeTime": "2018.01.04 15:59:59"
-        },
-        {
-          "worldStageId": "40004",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "夢限の大樹",
-          "description": "初回クリア報酬で忍石やガチャチケットをGET！\r\nここでしか手に入らない特別な忍具を生成しよう！\r\n\r\n[高難易度]Extraステージで『禁忌の至宝』や\r\n『ﾗﾝｷﾝｸﾞ忍具・極ｶﾞﾁｬﾁｹｯﾄ』獲得のチャンス！",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
         },
         {
           "worldStageId": "60012",

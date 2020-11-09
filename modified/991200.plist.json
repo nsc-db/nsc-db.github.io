@@ -14049,5 +14049,65 @@
           "effectIdx2": "887",
           "effectIdx3": "30011",
           "effectIdx4": "1840"
+        },
+        {
+          "crystalOverwriteEffectId": "1187",
+          "targetCrystal": "31101",
+          "description": "ｽｷﾙﾀﾞﾒｰｼﾞが50%ｱｯﾌﾟし､確率で再行動(再行動後再行動不可)｡さらに敵に木ノ葉ｷｬﾗがいるとｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ",
+          "charaIds": "12001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "682",
+          "effectIdx2": "3431",
+          "effectIdx3": "439",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1188",
+          "targetCrystal": "31102",
+          "description": "2回行動まで全スキル無効。スキル発動速度1段階アップ",
+          "charaIds": "12001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "2343",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1191",
+          "targetCrystal": "31104",
+          "description": "2回行動まで高確率で弱体系特殊状態無効。敵に“暁”生存で行動後高確率で自身の弱体系特殊状態解除",
+          "charaIds": "2404,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3442",
+          "effectIdx2": "3443",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1192",
+          "targetCrystal": "31105",
+          "description": "仙術タイプのスキルダメージ200%アップ。行動後にHP・チャクラ25%回復",
+          "charaIds": "2404,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3444",
+          "effectIdx2": "1892",
+          "effectIdx3": "3207",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1193",
+          "targetCrystal": "31103",
+          "description": "全スキルダメージ150%アップ、スキル発動速度1段階アップ、敵に破神キャラ生存で素早さ200%アップ",
+          "charaIds": "1603,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1840",
+          "effectIdx3": "3026",
+          "effectIdx4": "0"
         }
       ]

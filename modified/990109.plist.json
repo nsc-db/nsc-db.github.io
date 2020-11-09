@@ -26399,6 +26399,26 @@
           "effectIds": "684,1423,"
         },
         {
+          "abilityId": "2694",
+          "abilityName": "起爆粘土に込める芸術観",
+          "abilityDescription": "敵に木ノ葉隠れの里所属かうちは一族存在で開始時敵全体絶望&amp;確率でｽｷﾙ2で急襲(どちらもいると確率ｱｯﾌﾟ)(ﾁｬｸﾗ大回復)",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属かうちは一族存在で開始時敵全体絶望&amp;確率でｽｷﾙ2で急襲(どちらもいると確率ｱｯﾌﾟ)(ﾁｬｸﾗ大回復)",
+          "effectIdx1": "2983",
+          "effectIdx2": "3050",
+          "effectIdx3": "3148",
+          "effectIds": "2983,3050,3148,3427,"
+        },
+        {
+          "abilityId": "2695",
+          "abilityName": "搦め手よりの起爆",
+          "abilityDescription": "HP0以下で3回耐え、1回行動まで弱体系特殊状態無効",
+          "abilityEffectDescription": "HP0以下で3回耐え、1回行動まで弱体系特殊状態無効",
+          "effectIdx1": "1789",
+          "effectIdx2": "3237",
+          "effectIdx3": "0",
+          "effectIds": "1789,3237,"
+        },
+        {
           "abilityId": "2696",
           "abilityName": "暗闘のくノ一",
           "abilityDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
@@ -26417,6 +26437,46 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "2293,"
+        },
+        {
+          "abilityId": "2698",
+          "abilityName": "二大仙人の助力",
+          "abilityDescription": "バトル開始時自身を蝦蟇神仙化。被攻撃時高確率で即アクション。超忍・滅・創から受けるダメージ50%カット",
+          "abilityEffectDescription": "バトル開始時自身を蝦蟇神仙化。被攻撃時高確率で即アクション。超忍・滅・創から受けるダメージ50%カット",
+          "effectIdx1": "3439",
+          "effectIdx2": "3440",
+          "effectIdx3": "2708",
+          "effectIds": "3439,3440,2708,"
+        },
+        {
+          "abilityId": "2699",
+          "abilityName": "師の役目",
+          "abilityDescription": "HP0以下で5回耐え、味方に「ナルト・ミナト」が生存していると何度でも耐える。最大チャクラ量180アップ",
+          "abilityEffectDescription": "HP0以下で5回耐え、味方に「ナルト・ミナト」が生存していると何度でも耐える。最大チャクラ量180アップ",
+          "effectIdx1": "1512",
+          "effectIdx2": "2014",
+          "effectIdx3": "3438",
+          "effectIds": "1512,2014,3438,20017,"
+        },
+        {
+          "abilityId": "2700",
+          "abilityName": "華麗なる体捌き",
+          "abilityDescription": "敵に破神がいると、バトル開始時にそれぞれ確率で敵全体を竦み状態＆先制攻撃",
+          "abilityEffectDescription": "敵に破神がいると、バトル開始時にそれぞれ確率で敵全体を竦み状態＆先制攻撃",
+          "effectIdx1": "3451",
+          "effectIdx2": "3018",
+          "effectIdx3": "0",
+          "effectIds": "3451,3018,"
+        },
+        {
+          "abilityId": "2701",
+          "abilityName": "終わりなき熱血青春",
+          "abilityDescription": "最大チャクラ量100アップ、1回行動までチャクラ消費0、敵に破神が生存していると確率で再行動",
+          "abilityEffectDescription": "最大チャクラ量100アップ、1回行動までチャクラ消費0、敵に破神が生存していると確率で再行動",
+          "effectIdx1": "813",
+          "effectIdx2": "1378",
+          "effectIdx3": "3450",
+          "effectIds": "813,1378,3450,"
         },
         {
           "abilityId": "10000",
@@ -28119,6 +28179,26 @@
           "effectIds": "1724,1057,874,3165,"
         },
         {
+          "abilityId": "100118",
+          "abilityName": "華麗なる体捌き",
+          "abilityDescription": "敵に破神がいると、バトル開始時に敵全体を竦み状態＆先制攻撃",
+          "abilityEffectDescription": "敵に破神がいると、バトル開始時に敵全体を竦み状態＆先制攻撃",
+          "effectIdx1": "3452",
+          "effectIdx2": "3017",
+          "effectIdx3": "0",
+          "effectIds": "3452,3017,"
+        },
+        {
+          "abilityId": "100119",
+          "abilityName": "終わりなき熱血青春",
+          "abilityDescription": "最大チャクラ量250アップ、3回行動までチャクラ消費0、敵に破神が生存していると再行動",
+          "abilityEffectDescription": "最大チャクラ量250アップ、3回行動までチャクラ消費0、敵に破神が生存していると再行動",
+          "effectIdx1": "20044",
+          "effectIdx2": "1949",
+          "effectIdx3": "2526",
+          "effectIds": "20044,1949,2526,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -29709,6 +29789,76 @@
           "effectIds": "3381,"
         },
         {
+          "abilityId": "310112",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "被ダメージ時、確率で自身を湯状態にする",
+          "abilityEffectDescription": "被ダメージ時、確率で自身を湯状態にする",
+          "effectIdx1": "3401",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3401,"
+        },
+        {
+          "abilityId": "310113",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "男性キャラから受ける全スキルを低確率で無効",
+          "abilityEffectDescription": "男性キャラから受ける全スキルを低確率で無効",
+          "effectIdx1": "3403",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3403,"
+        },
+        {
+          "abilityId": "310114",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "男性キャラから受ける耐性無視ダメ―ジを低確率で0にする",
+          "abilityEffectDescription": "男性キャラから受ける耐性無視ダメ―ジを低確率で0にする",
+          "effectIdx1": "3402",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3402,"
+        },
+        {
+          "abilityId": "310115",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "男性キャラから受けるダメ―ジを低確率で50%カット",
+          "abilityEffectDescription": "男性キャラから受けるダメ―ジを低確率で50%カット",
+          "effectIdx1": "3404",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3404,"
+        },
+        {
+          "abilityId": "310116",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "1回行動までチャクラ消費0&amp;敵に心属性がいると確率で先制攻撃",
+          "abilityEffectDescription": "1回行動までチャクラ消費0&amp;敵に心属性がいると確率で先制攻撃",
+          "effectIdx1": "1378",
+          "effectIdx2": "3405",
+          "effectIdx3": "0",
+          "effectIds": "1378,3405,"
+        },
+        {
+          "abilityId": "310117",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "1回行動までチャクラ消費0&amp;敵に技属性がいると確率で先制攻撃",
+          "abilityEffectDescription": "1回行動までチャクラ消費0&amp;敵に技属性がいると確率で先制攻撃",
+          "effectIdx1": "1378",
+          "effectIdx2": "3406",
+          "effectIdx3": "0",
+          "effectIds": "1378,3406,"
+        },
+        {
+          "abilityId": "310118",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "1回行動までチャクラ消費0&amp;敵に体属性がいると確率で先制攻撃",
+          "abilityEffectDescription": "1回行動までチャクラ消費0&amp;敵に体属性がいると確率で先制攻撃",
+          "effectIdx1": "1378",
+          "effectIdx2": "3407",
+          "effectIdx3": "0",
+          "effectIds": "1378,3407,"
+        },
+        {
           "abilityId": "310119",
           "abilityName": "Bマス用_禁忌",
           "abilityDescription": "3回行動まで敵の地形効果無効",
@@ -29727,6 +29877,56 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3422,"
+        },
+        {
+          "abilityId": "310122",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると、攻防速60%アップ",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると、攻防速60%アップ",
+          "effectIdx1": "3374",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3374,"
+        },
+        {
+          "abilityId": "310123",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると、スキルダメージ80%アップ",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると、スキルダメージ80%アップ",
+          "effectIdx1": "3430",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3430,"
+        },
+        {
+          "abilityId": "310124",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に“暁”所属が生存で、確率で再行動※再行動後に再行動不可",
+          "abilityEffectDescription": "敵に“暁”所属が生存で、確率で再行動※再行動後に再行動不可",
+          "effectIdx1": "3445",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3445,"
+        },
+        {
+          "abilityId": "310125",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "味方に「ナルト・ミナト」生存で敵の地形効果無効",
+          "abilityEffectDescription": "味方に「ナルト・ミナト」生存で敵の地形効果無効",
+          "effectIdx1": "3446",
+          "effectIdx2": "3447",
+          "effectIdx3": "0",
+          "effectIds": "3446,3447,"
+        },
+        {
+          "abilityId": "310126",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "味方に「ﾅﾙﾄ・ﾐﾅﾄ」存在でﾁｬｸﾗ消費半減（両者存在でﾁｬｸﾗ消費0）",
+          "abilityEffectDescription": "味方に「ﾅﾙﾄ・ﾐﾅﾄ」存在でﾁｬｸﾗ消費半減（両者存在でﾁｬｸﾗ消費0）",
+          "effectIdx1": "3448",
+          "effectIdx2": "3449",
+          "effectIdx3": "0",
+          "effectIds": "3448,3449,"
         },
         {
           "abilityId": "801187",
