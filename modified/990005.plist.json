@@ -1227,5 +1227,15 @@
           "uiIdx": "10024",
           "partyEffects": "13099,3376,",
           "enemyEffects": "3377,3378,3379,"
+        },
+        {
+          "battleFieldEffectId": "10025",
+          "name": "魔像ノ掌",
+          "category": "3",
+          "scriptId": "10025",
+          "overWrite": "1",
+          "uiIdx": "10025",
+          "partyEffects": "3464,3465,3466,3467,",
+          "enemyEffects": "3468,3469,"
         }
       ]

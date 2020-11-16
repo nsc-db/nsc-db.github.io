@@ -14109,5 +14109,53 @@
           "effectIdx2": "1840",
           "effectIdx3": "3026",
           "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1194",
+          "targetCrystal": "31106",
+          "description": "全スキルダメージ100%アップ、3回行動まで高確率でスキルを回避",
+          "charaIds": "51001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "2099",
+          "effectIdx3": "0",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1195",
+          "targetCrystal": "31107",
+          "description": "最大HP100%アップ、行動後にHP25%回復、1回行動まで弱体系特殊状態無効",
+          "charaIds": "51001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "1892",
+          "effectIdx3": "3237",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1196",
+          "targetCrystal": "31108",
+          "description": "スキル発動速度1段階アップ、全スキルダメージ80%アップ、行動後チャクラ20%回復",
+          "charaIds": "11802,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "694",
+          "effectIdx3": "1768",
+          "effectIdx4": "0"
+        },
+        {
+          "crystalOverwriteEffectId": "1197",
+          "targetCrystal": "31109",
+          "description": "スキル発動速度2段階アップ、素早さ120%アップ、確率で即死無効",
+          "charaIds": "11802,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "1335",
+          "effectIdx3": "3422",
+          "effectIdx4": "0"
         }
       ]

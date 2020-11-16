@@ -515,6 +515,42 @@
           "specialPanelList": "9000010,9000011,9000012"
         },
         {
+          "sphereBoardId": "10053",
+          "boardName": "Temp_Ct40_心属性_の潜在覚醒盤",
+          "boardDescription": "のはらリン【夢を導く鈴花】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061105",
+          "normalPanelList": "9000001,9000002,9000003",
+          "specialPanelList": "9000004,9000005,9000006"
+        },
+        {
+          "sphereBoardId": "10054",
+          "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
+          "boardDescription": "はたけカカシ【恭敬ノ雷哭】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050614",
+          "normalPanelList": "9000025,9000026,9000027",
+          "specialPanelList": "9000028,9000029,9000030"
+        },
+        {
+          "sphereBoardId": "10055",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "うちはオビト【英雄への意志】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050913",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -979,8 +1015,8 @@
           "costMax": "0",
           "attribute": "0",
           "cardId": "20060910",
-          "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "normalPanelList": "9100019,9100020,9100021,9100033",
+          "specialPanelList": "9100022,9100023,9100024,9100034"
         },
         {
           "sphereBoardId": "50040",
@@ -1029,6 +1065,30 @@
           "cardId": "20061104",
           "normalPanelList": "9100001,9100002,9100003",
           "specialPanelList": "9100004,9100005,9100006"
+        },
+        {
+          "sphereBoardId": "50044",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤",
+          "boardDescription": "波風ミナト【共闘する閃光】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050504",
+          "normalPanelList": "9100001,9100002,9100003",
+          "specialPanelList": "9100004,9100005,9100006"
+        },
+        {
+          "sphereBoardId": "50045",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "ペイン【壊滅の啓示】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061106",
+          "normalPanelList": "9100019,9100020,9100021,9100033",
+          "specialPanelList": "9100022,9100023,9100024,9100034"
         },
         {
           "sphereBoardId": "60001",

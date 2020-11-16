@@ -26479,6 +26479,46 @@
           "effectIds": "813,1378,3450,"
         },
         {
+          "abilityId": "2702",
+          "abilityName": "医療忍術への誇り",
+          "abilityDescription": "敵に滅キャラがいると、バトル開始時に敵全体に「強化系特殊状態不可」を付与＆先制攻撃",
+          "abilityEffectDescription": "敵に滅キャラがいると、バトル開始時に敵全体に「強化系特殊状態不可」を付与＆先制攻撃",
+          "effectIdx1": "3453",
+          "effectIdx2": "3267",
+          "effectIdx3": "0",
+          "effectIds": "3453,3267,"
+        },
+        {
+          "abilityId": "2703",
+          "abilityName": "夢を見届ける想い",
+          "abilityDescription": "HP0以下で3回耐え、死亡時に味方全体をマルチ無効(状態異常/幻/弱体系特殊状態/即死無効)",
+          "abilityEffectDescription": "HP0以下で3回耐え、死亡時に味方全体をマルチ無効(状態異常/幻/弱体系特殊状態/即死無効)",
+          "effectIdx1": "1789",
+          "effectIdx2": "3454",
+          "effectIdx3": "0",
+          "effectIds": "1789,3454,"
+        },
+        {
+          "abilityId": "2704",
+          "abilityName": "ペインの筆頭",
+          "abilityDescription": "HP0以下で5回までHP全回復、被攻撃時確率で敵全体の行動をキャンセル（敵に神忍キャラが生存時確実）",
+          "abilityEffectDescription": "HP0以下で5回までHP全回復、被攻撃時確率で敵全体の行動をキャンセル（敵に神忍キャラが生存時確実）",
+          "effectIdx1": "1512",
+          "effectIdx2": "874",
+          "effectIdx3": "3245",
+          "effectIds": "1512,874,3245,3456,"
+        },
+        {
+          "abilityId": "2705",
+          "abilityName": "魔像へ封じし力",
+          "abilityDescription": "敵に神忍生存時耐えたとき地形効果：魔像ノ掌を展開&amp;高確率で先制、被攻撃時素早さ44%アップ（最大440%）",
+          "abilityEffectDescription": "敵に神忍生存時耐えたとき地形効果：魔像ノ掌を展開&amp;高確率で先制、被攻撃時素早さ44%アップ（最大440%）",
+          "effectIdx1": "3457",
+          "effectIdx2": "3458",
+          "effectIdx3": "3459",
+          "effectIds": "3457,3458,3459,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -28199,6 +28239,36 @@
           "effectIds": "20044,1949,2526,"
         },
         {
+          "abilityId": "100120",
+          "abilityName": "忍の尊心",
+          "abilityDescription": "HP30%以上の時ｽｷﾙﾀﾞﾒｰｼﾞ200%ｱｯﾌﾟ、班の木ノ葉隠れの里所属1体につき素早さ・最大HP50%ｱｯﾌﾟ（自身含む）",
+          "abilityEffectDescription": "HP30%以上の時ｽｷﾙﾀﾞﾒｰｼﾞ200%ｱｯﾌﾟ、班の木ノ葉隠れの里所属1体につき素早さ・最大HP50%ｱｯﾌﾟ（自身含む）",
+          "effectIdx1": "31219",
+          "effectIdx2": "1333",
+          "effectIdx3": "2322",
+          "effectIds": "31219,1333,2322,"
+        },
+        {
+          "abilityId": "100121",
+          "abilityName": "写輪眼目覚めの時",
+          "abilityDescription": "HP0以下で2回耐える、1回行動までチャクラ消費0、3回行動以降スキルダメージ200%アップ",
+          "abilityEffectDescription": "HP0以下で2回耐える、1回行動までチャクラ消費0、3回行動以降スキルダメージ200%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "1378",
+          "effectIdx3": "3455",
+          "effectIds": "1057,1378,3455,"
+        },
+        {
+          "abilityId": "100122",
+          "abilityName": "蘇る家族の絆",
+          "abilityDescription": "HP0以下で1回HP全回復、最大チャクラ量100アップ、全スキルダメージ100％アップ",
+          "abilityEffectDescription": "HP0以下で1回HP全回復、最大チャクラ量100アップ、全スキルダメージ100％アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "20009",
+          "effectIds": "312,874,20009,774,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -29879,6 +29949,16 @@
           "effectIds": "3422,"
         },
         {
+          "abilityId": "310121",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "2回行動まで敵の地形効果無効",
+          "abilityEffectDescription": "2回行動まで敵の地形効果無効",
+          "effectIdx1": "3426",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3426,"
+        },
+        {
           "abilityId": "310122",
           "abilityName": "Bマス用_通常",
           "abilityDescription": "敵に木ノ葉隠れの里所属がいると、攻防速60%アップ",
@@ -29927,6 +30007,26 @@
           "effectIdx2": "3449",
           "effectIdx3": "0",
           "effectIds": "3448,3449,"
+        },
+        {
+          "abilityId": "310127",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "班の“暁”所属の人数に応じて素早さ30%アップ（自身含）",
+          "abilityEffectDescription": "班の“暁”所属の人数に応じて素早さ30%アップ（自身含）",
+          "effectIdx1": "3460",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3460,"
+        },
+        {
+          "abilityId": "310128",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵に神忍祭限定キャラが生存時ダメージ50%カット",
+          "abilityEffectDescription": "敵に神忍祭限定キャラが生存時ダメージ50%カット",
+          "effectIdx1": "3461",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3461,"
         },
         {
           "abilityId": "801187",

@@ -15707,6 +15707,34 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1138",
+          "name": "夢を導く鈴花",
+          "description": "心属性の最大チャクラ量100アップ、バトル開始時にチャクラ50%回復",
+          "effectIdx1": "20009",
+          "effectIdx2": "1115",
+          "effectIdx3": "0",
+          "effectIds": "20009,1115,",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1139",
+          "name": "壊滅の啓示",
+          "description": "“暁”所属がHP0以下で1回耐え、耐えた時弱体系特殊・神化状態解除",
+          "effectIdx1": "3471",
+          "effectIdx2": "3472",
+          "effectIdx3": "312",
+          "effectIds": "3471,3472,312,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
