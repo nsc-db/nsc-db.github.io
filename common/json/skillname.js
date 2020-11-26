@@ -7784,6 +7784,138 @@ window.skillname=[
           "name": "分かってんだろ！！！"
         },
         {
+          "cardBattleSkillNameId": "3158",
+          "name": "外道魔像・虚龍乱舞"
+        },
+        {
+          "cardBattleSkillNameId": "3159",
+          "name": "別天神・八面玲瓏"
+        },
+        {
+          "cardBattleSkillNameId": "3160",
+          "name": "それがオレの願いです"
+        },
+        {
+          "cardBattleSkillNameId": "3161",
+          "name": "陰陽遁・塵界滅消"
+        },
+        {
+          "cardBattleSkillNameId": "3162",
+          "name": "哀れだな……"
+        },
+        {
+          "cardBattleSkillNameId": "3163",
+          "name": "木遁・龍王破"
+        },
+        {
+          "cardBattleSkillNameId": "3164",
+          "name": "名を火影"
+        },
+        {
+          "cardBattleSkillNameId": "3165",
+          "name": "人傀儡・三代目風影"
+        },
+        {
+          "cardBattleSkillNameId": "3166",
+          "name": "さて、もうやるか"
+        },
+        {
+          "cardBattleSkillNameId": "3167",
+          "name": "蛇剣刺咬"
+        },
+        {
+          "cardBattleSkillNameId": "3168",
+          "name": "我不滅！"
+        },
+        {
+          "cardBattleSkillNameId": "3169",
+          "name": "手断切開"
+        },
+        {
+          "cardBattleSkillNameId": "3170",
+          "name": "止めておく！！"
+        },
+        {
+          "cardBattleSkillNameId": "3171",
+          "name": "起爆粘土・千廻百足"
+        },
+        {
+          "cardBattleSkillNameId": "3172",
+          "name": "その程度かよ！"
+        },
+        {
+          "cardBattleSkillNameId": "3173",
+          "name": "月想の刃"
+        },
+        {
+          "cardBattleSkillNameId": "3174",
+          "name": "ハヤテ…"
+        },
+        {
+          "cardBattleSkillNameId": "3175",
+          "name": "超大玉螺旋丸・空裂"
+        },
+        {
+          "cardBattleSkillNameId": "3176",
+          "name": "さっさとやってしまいますぞ"
+        },
+        {
+          "cardBattleSkillNameId": "3177",
+          "name": "昼虎・青春追掌"
+        },
+        {
+          "cardBattleSkillNameId": "3178",
+          "name": "青春フルパワーで行くぞ！"
+        },
+        {
+          "cardBattleSkillNameId": "3179",
+          "name": "鈴花尖刃"
+        },
+        {
+          "cardBattleSkillNameId": "3180",
+          "name": "ここは私に任せて！"
+        },
+        {
+          "cardBattleSkillNameId": "3181",
+          "name": "天道・魔斥掌"
+        },
+        {
+          "cardBattleSkillNameId": "3182",
+          "name": "世界を征服する…"
+        },
+        {
+          "cardBattleSkillNameId": "3183",
+          "name": "口寄せの術・犬牙痛撃"
+        },
+        {
+          "cardBattleSkillNameId": "3184",
+          "name": "封印術・虎視眈弾"
+        },
+        {
+          "cardBattleSkillNameId": "3185",
+          "name": "今のボクには仲間たちがいる"
+        },
+        {
+          "cardBattleSkillNameId": "3186",
+          "name": "忍法・毒霧"
+        },
+        {
+          "cardBattleSkillNameId": "3187",
+          "name": "傷は私が治します！"
+        },
+        {
+          "cardBattleSkillNameId": "3188",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3189",
+          "name": "木ノ葉旋風・蒼燦"
+        },
+        {
+          "cardBattleSkillNameId": "3190",
+          "name": "悲しくなんかありません！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

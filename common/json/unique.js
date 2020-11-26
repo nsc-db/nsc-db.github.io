@@ -9,7 +9,8 @@ window.unique=[
           "effectIdx1": "494",
           "effectIdx2": "537",
           "effectIdx3": "376",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "2",
@@ -21,7 +22,8 @@ window.unique=[
           "effectIdx1": "554",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "3",
@@ -33,7 +35,8 @@ window.unique=[
           "effectIdx1": "555",
           "effectIdx2": "111",
           "effectIdx3": "82",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "4",
@@ -45,7 +48,8 @@ window.unique=[
           "effectIdx1": "550",
           "effectIdx2": "551",
           "effectIdx3": "552",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "5",
@@ -57,7 +61,8 @@ window.unique=[
           "effectIdx1": "561",
           "effectIdx2": "52",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "6",
@@ -69,7 +74,8 @@ window.unique=[
           "effectIdx1": "78",
           "effectIdx2": "159",
           "effectIdx3": "69",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "7",
@@ -81,7 +87,8 @@ window.unique=[
           "effectIdx1": "39",
           "effectIdx2": "121",
           "effectIdx3": "66",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "8",
@@ -93,7 +100,8 @@ window.unique=[
           "effectIdx1": "43",
           "effectIdx2": "22",
           "effectIdx3": "65",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "9",
@@ -105,7 +113,8 @@ window.unique=[
           "effectIdx1": "79",
           "effectIdx2": "52",
           "effectIdx3": "528",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "10",
@@ -117,7 +126,8 @@ window.unique=[
           "effectIdx1": "582",
           "effectIdx2": "264",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "11",
@@ -129,7 +139,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "109",
           "effectIdx3": "85",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "12",
@@ -141,7 +152,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "0",
           "effectIdx3": "64",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "13",
@@ -153,7 +165,8 @@ window.unique=[
           "effectIdx1": "580",
           "effectIdx2": "52",
           "effectIdx3": "528",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "14",
@@ -165,7 +178,8 @@ window.unique=[
           "effectIdx1": "241",
           "effectIdx2": "581",
           "effectIdx3": "494",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "15",
@@ -177,7 +191,8 @@ window.unique=[
           "effectIdx1": "550",
           "effectIdx2": "591",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "16",
@@ -189,7 +204,8 @@ window.unique=[
           "effectIdx1": "589",
           "effectIdx2": "348",
           "effectIdx3": "590",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "17",
@@ -201,7 +217,8 @@ window.unique=[
           "effectIdx1": "550",
           "effectIdx2": "111",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "18",
@@ -213,7 +230,8 @@ window.unique=[
           "effectIdx1": "595",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "19",
@@ -225,7 +243,8 @@ window.unique=[
           "effectIdx1": "78",
           "effectIdx2": "494",
           "effectIdx3": "377",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "20",
@@ -237,7 +256,8 @@ window.unique=[
           "effectIdx1": "590",
           "effectIdx2": "382",
           "effectIdx3": "596",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "21",
@@ -249,7 +269,8 @@ window.unique=[
           "effectIdx1": "259",
           "effectIdx2": "204",
           "effectIdx3": "607",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "22",
@@ -261,7 +282,8 @@ window.unique=[
           "effectIdx1": "597",
           "effectIdx2": "598",
           "effectIdx3": "494",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "23",
@@ -273,7 +295,8 @@ window.unique=[
           "effectIdx1": "613",
           "effectIdx2": "612",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "24",
@@ -285,7 +308,8 @@ window.unique=[
           "effectIdx1": "611",
           "effectIdx2": "614",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "25",
@@ -297,7 +321,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "110",
           "effectIdx3": "538",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "26",
@@ -309,7 +334,8 @@ window.unique=[
           "effectIdx1": "637",
           "effectIdx2": "638",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "27",
@@ -321,7 +347,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "259",
           "effectIdx3": "607",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "28",
@@ -333,7 +360,8 @@ window.unique=[
           "effectIdx1": "378",
           "effectIdx2": "633",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "29",
@@ -345,7 +373,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "561",
           "effectIdx3": "357",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "30",
@@ -357,7 +386,8 @@ window.unique=[
           "effectIdx1": "651",
           "effectIdx2": "638",
           "effectIdx3": "607",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "31",
@@ -369,7 +399,8 @@ window.unique=[
           "effectIdx1": "251",
           "effectIdx2": "112",
           "effectIdx3": "647",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "32",
@@ -381,7 +412,8 @@ window.unique=[
           "effectIdx1": "648",
           "effectIdx2": "615",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "33",
@@ -393,7 +425,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "550",
           "effectIdx3": "650",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "34",
@@ -405,7 +438,8 @@ window.unique=[
           "effectIdx1": "678",
           "effectIdx2": "378",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "35",
@@ -417,7 +451,8 @@ window.unique=[
           "effectIdx1": "679",
           "effectIdx2": "680",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "36",
@@ -429,7 +464,8 @@ window.unique=[
           "effectIdx1": "695",
           "effectIdx2": "697",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "37",
@@ -441,7 +477,8 @@ window.unique=[
           "effectIdx1": "37",
           "effectIdx2": "111",
           "effectIdx3": "698",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "38",
@@ -453,7 +490,8 @@ window.unique=[
           "effectIdx1": "425",
           "effectIdx2": "64",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "39",
@@ -465,7 +503,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "53",
           "effectIdx3": "52",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "40",
@@ -477,7 +516,8 @@ window.unique=[
           "effectIdx1": "680",
           "effectIdx2": "112",
           "effectIdx3": "322",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "41",
@@ -489,7 +529,8 @@ window.unique=[
           "effectIdx1": "680",
           "effectIdx2": "276",
           "effectIdx3": "64",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "42",
@@ -501,7 +542,8 @@ window.unique=[
           "effectIdx1": "680",
           "effectIdx2": "251",
           "effectIdx3": "500",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "43",
@@ -513,7 +555,8 @@ window.unique=[
           "effectIdx1": "470",
           "effectIdx2": "182",
           "effectIdx3": "694",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "44",
@@ -525,7 +568,8 @@ window.unique=[
           "effectIdx1": "691",
           "effectIdx2": "251",
           "effectIdx3": "112",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "45",
@@ -537,7 +581,8 @@ window.unique=[
           "effectIdx1": "713",
           "effectIdx2": "678",
           "effectIdx3": "590",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "46",
@@ -549,7 +594,8 @@ window.unique=[
           "effectIdx1": "8",
           "effectIdx2": "694",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "47",
@@ -561,7 +607,8 @@ window.unique=[
           "effectIdx1": "668",
           "effectIdx2": "494",
           "effectIdx3": "376",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "48",
@@ -573,7 +620,8 @@ window.unique=[
           "effectIdx1": "680",
           "effectIdx2": "251",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "49",
@@ -585,7 +633,8 @@ window.unique=[
           "effectIdx1": "251",
           "effectIdx2": "112",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "50",
@@ -597,7 +646,8 @@ window.unique=[
           "effectIdx1": "650",
           "effectIdx2": "112",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "51",
@@ -609,7 +659,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "251",
           "effectIdx3": "276",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "52",
@@ -621,7 +672,8 @@ window.unique=[
           "effectIdx1": "550",
           "effectIdx2": "719",
           "effectIdx3": "111",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "53",
@@ -633,7 +685,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "734",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "54",
@@ -645,7 +698,8 @@ window.unique=[
           "effectIdx1": "680",
           "effectIdx2": "276",
           "effectIdx3": "735",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "55",
@@ -657,7 +711,8 @@ window.unique=[
           "effectIdx1": "8",
           "effectIdx2": "27",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "56",
@@ -669,7 +724,8 @@ window.unique=[
           "effectIdx1": "736",
           "effectIdx2": "615",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "57",
@@ -681,7 +737,8 @@ window.unique=[
           "effectIdx1": "615",
           "effectIdx2": "745",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "58",
@@ -693,7 +750,8 @@ window.unique=[
           "effectIdx1": "425",
           "effectIdx2": "205",
           "effectIdx3": "470",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "59",
@@ -705,7 +763,8 @@ window.unique=[
           "effectIdx1": "204",
           "effectIdx2": "205",
           "effectIdx3": "110",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "60",
@@ -717,7 +776,8 @@ window.unique=[
           "effectIdx1": "205",
           "effectIdx2": "110",
           "effectIdx3": "373",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "61",
@@ -729,7 +789,8 @@ window.unique=[
           "effectIdx1": "747",
           "effectIdx2": "20",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "62",
@@ -741,7 +802,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "182",
           "effectIdx3": "110",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "63",
@@ -753,7 +815,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "251",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "64",
@@ -765,7 +828,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "52",
           "effectIdx3": "767",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "65",
@@ -777,7 +841,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "470",
           "effectIdx3": "182",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "66",
@@ -789,7 +854,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "583",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "67",
@@ -801,7 +867,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "251",
           "effectIdx3": "112",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "68",
@@ -813,7 +880,8 @@ window.unique=[
           "effectIdx1": "773",
           "effectIdx2": "615",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "69",
@@ -825,7 +893,8 @@ window.unique=[
           "effectIdx1": "776",
           "effectIdx2": "27",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "70",
@@ -837,7 +906,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "109",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "71",
@@ -849,7 +919,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "723",
           "effectIdx3": "774",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "72",
@@ -861,7 +932,8 @@ window.unique=[
           "effectIdx1": "615",
           "effectIdx2": "628",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "73",
@@ -873,7 +945,8 @@ window.unique=[
           "effectIdx1": "615",
           "effectIdx2": "357",
           "effectIdx3": "53",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "74",
@@ -885,7 +958,8 @@ window.unique=[
           "effectIdx1": "615",
           "effectIdx2": "583",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "75",
@@ -897,7 +971,8 @@ window.unique=[
           "effectIdx1": "680",
           "effectIdx2": "112",
           "effectIdx3": "82",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "76",
@@ -909,7 +984,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "110",
           "effectIdx3": "801",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "77",
@@ -921,7 +997,8 @@ window.unique=[
           "effectIdx1": "638",
           "effectIdx2": "30011",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "78",
@@ -933,7 +1010,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "719",
           "effectIdx3": "30011",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "79",
@@ -945,7 +1023,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "251",
           "effectIdx3": "712",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "80",
@@ -957,7 +1036,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "470",
           "effectIdx3": "110",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "81",
@@ -969,7 +1049,8 @@ window.unique=[
           "effectIdx1": "182",
           "effectIdx2": "12029",
           "effectIdx3": "110",
-          "effectIdx4": "723"
+          "effectIdx4": "723",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "82",
@@ -981,7 +1062,8 @@ window.unique=[
           "effectIdx1": "85",
           "effectIdx2": "37",
           "effectIdx3": "204",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "83",
@@ -993,7 +1075,8 @@ window.unique=[
           "effectIdx1": "736",
           "effectIdx2": "109",
           "effectIdx3": "30002",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "84",
@@ -1005,7 +1088,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "684",
           "effectIdx3": "30004",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "85",
@@ -1017,7 +1101,8 @@ window.unique=[
           "effectIdx1": "27",
           "effectIdx2": "425",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "86",
@@ -1029,7 +1114,8 @@ window.unique=[
           "effectIdx1": "30003",
           "effectIdx2": "82",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "87",
@@ -1041,7 +1127,8 @@ window.unique=[
           "effectIdx1": "30003",
           "effectIdx2": "10039",
           "effectIdx3": "13039",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "88",
@@ -1053,7 +1140,8 @@ window.unique=[
           "effectIdx1": "111",
           "effectIdx2": "10079",
           "effectIdx3": "719",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "89",
@@ -1065,7 +1153,8 @@ window.unique=[
           "effectIdx1": "30004",
           "effectIdx2": "251",
           "effectIdx3": "276",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "90",
@@ -1077,7 +1166,8 @@ window.unique=[
           "effectIdx1": "66",
           "effectIdx2": "251",
           "effectIdx3": "112",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "91",
@@ -1089,7 +1179,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "682",
           "effectIdx3": "628",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "92",
@@ -1101,7 +1192,8 @@ window.unique=[
           "effectIdx1": "322",
           "effectIdx2": "583",
           "effectIdx3": "276",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "93",
@@ -1113,7 +1205,8 @@ window.unique=[
           "effectIdx1": "679",
           "effectIdx2": "583",
           "effectIdx3": "628",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "94",
@@ -1125,7 +1218,8 @@ window.unique=[
           "effectIdx1": "736",
           "effectIdx2": "652",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "95",
@@ -1137,7 +1231,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "264",
           "effectIdx3": "53",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "96",
@@ -1149,7 +1244,8 @@ window.unique=[
           "effectIdx1": "734",
           "effectIdx2": "813",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "97",
@@ -1161,7 +1257,8 @@ window.unique=[
           "effectIdx1": "20500",
           "effectIdx2": "470",
           "effectIdx3": "373",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "98",
@@ -1173,7 +1270,8 @@ window.unique=[
           "effectIdx1": "550",
           "effectIdx2": "694",
           "effectIdx3": "27",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "99",
@@ -1185,7 +1283,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "690",
           "effectIdx3": "30004",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "100",
@@ -1197,7 +1296,8 @@ window.unique=[
           "effectIdx1": "378",
           "effectIdx2": "30005",
           "effectIdx3": "723",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "101",
@@ -1209,7 +1309,8 @@ window.unique=[
           "effectIdx1": "827",
           "effectIdx2": "10049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "102",
@@ -1221,7 +1322,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "645",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "103",
@@ -1233,7 +1335,8 @@ window.unique=[
           "effectIdx1": "30005",
           "effectIdx2": "377",
           "effectIdx3": "111",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "104",
@@ -1245,7 +1348,8 @@ window.unique=[
           "effectIdx1": "550",
           "effectIdx2": "649",
           "effectIdx3": "13039",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "105",
@@ -1257,7 +1361,8 @@ window.unique=[
           "effectIdx1": "736",
           "effectIdx2": "183",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "106",
@@ -1269,7 +1374,8 @@ window.unique=[
           "effectIdx1": "645",
           "effectIdx2": "8",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "107",
@@ -1281,7 +1387,8 @@ window.unique=[
           "effectIdx1": "866",
           "effectIdx2": "425",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "108",
@@ -1293,7 +1400,8 @@ window.unique=[
           "effectIdx1": "10079",
           "effectIdx2": "11079",
           "effectIdx3": "30001",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "109",
@@ -1305,7 +1413,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "376",
           "effectIdx3": "377",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "110",
@@ -1317,7 +1426,8 @@ window.unique=[
           "effectIdx1": "276",
           "effectIdx2": "42",
           "effectIdx3": "679",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "111",
@@ -1329,7 +1439,8 @@ window.unique=[
           "effectIdx1": "550",
           "effectIdx2": "719",
           "effectIdx3": "30001",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "112",
@@ -1341,7 +1452,8 @@ window.unique=[
           "effectIdx1": "713",
           "effectIdx2": "10049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "113",
@@ -1353,7 +1465,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "10049",
           "effectIdx3": "276",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "114",
@@ -1365,7 +1478,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "13049",
           "effectIdx3": "101",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "115",
@@ -1377,7 +1491,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "251",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "116",
@@ -1389,7 +1504,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "835",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "117",
@@ -1401,7 +1517,8 @@ window.unique=[
           "effectIdx1": "878",
           "effectIdx2": "10039",
           "effectIdx3": "679",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "118",
@@ -1413,7 +1530,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "119",
@@ -1425,7 +1543,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "10049",
           "effectIdx3": "276",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "120",
@@ -1437,7 +1556,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "684",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "121",
@@ -1449,7 +1569,8 @@ window.unique=[
           "effectIdx1": "20500",
           "effectIdx2": "82",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "122",
@@ -1461,7 +1582,8 @@ window.unique=[
           "effectIdx1": "881",
           "effectIdx2": "874",
           "effectIdx3": "312",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "123",
@@ -1473,7 +1595,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "13049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "124",
@@ -1485,7 +1608,8 @@ window.unique=[
           "effectIdx1": "881",
           "effectIdx2": "874",
           "effectIdx3": "312",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "125",
@@ -1497,7 +1621,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "10099",
           "effectIdx3": "30002",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "126",
@@ -1509,7 +1634,8 @@ window.unique=[
           "effectIdx1": "645",
           "effectIdx2": "30002",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "127",
@@ -1521,7 +1647,8 @@ window.unique=[
           "effectIdx1": "597",
           "effectIdx2": "259",
           "effectIdx3": "885",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "128",
@@ -1533,7 +1660,8 @@ window.unique=[
           "effectIdx1": "30004",
           "effectIdx2": "884",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "129",
@@ -1545,7 +1673,8 @@ window.unique=[
           "effectIdx1": "20500",
           "effectIdx2": "376",
           "effectIdx3": "377",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "130",
@@ -1557,7 +1686,8 @@ window.unique=[
           "effectIdx1": "30004",
           "effectIdx2": "884",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "131",
@@ -1569,7 +1699,8 @@ window.unique=[
           "effectIdx1": "322",
           "effectIdx2": "470",
           "effectIdx3": "373",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "132",
@@ -1581,7 +1712,8 @@ window.unique=[
           "effectIdx1": "30004",
           "effectIdx2": "884",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "133",
@@ -1593,7 +1725,8 @@ window.unique=[
           "effectIdx1": "792",
           "effectIdx2": "470",
           "effectIdx3": "110",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "134",
@@ -1605,7 +1738,8 @@ window.unique=[
           "effectIdx1": "10069",
           "effectIdx2": "11069",
           "effectIdx3": "111",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "135",
@@ -1617,7 +1751,8 @@ window.unique=[
           "effectIdx1": "13579",
           "effectIdx2": "830",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "136",
@@ -1629,7 +1764,8 @@ window.unique=[
           "effectIdx1": "30006",
           "effectIdx2": "111",
           "effectIdx3": "357",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "137",
@@ -1641,7 +1777,8 @@ window.unique=[
           "effectIdx1": "907",
           "effectIdx2": "30804",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "141",
@@ -1653,7 +1790,8 @@ window.unique=[
           "effectIdx1": "10069",
           "effectIdx2": "11069",
           "effectIdx3": "12069",
-          "effectIdx4": "446"
+          "effectIdx4": "446",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "142",
@@ -1665,7 +1803,8 @@ window.unique=[
           "effectIdx1": "357",
           "effectIdx2": "20004",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "143",
@@ -1677,7 +1816,8 @@ window.unique=[
           "effectIdx1": "204",
           "effectIdx2": "11019",
           "effectIdx3": "12019",
-          "effectIdx4": "10019"
+          "effectIdx4": "10019",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "144",
@@ -1689,7 +1829,8 @@ window.unique=[
           "effectIdx1": "776",
           "effectIdx2": "53",
           "effectIdx3": "52",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "145",
@@ -1701,7 +1842,8 @@ window.unique=[
           "effectIdx1": "20004",
           "effectIdx2": "30004",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "146",
@@ -1713,7 +1855,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "30004",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "147",
@@ -1725,7 +1868,8 @@ window.unique=[
           "effectIdx1": "723",
           "effectIdx2": "30006",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "148",
@@ -1737,7 +1881,8 @@ window.unique=[
           "effectIdx1": "357",
           "effectIdx2": "53",
           "effectIdx3": "927",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "149",
@@ -1749,7 +1894,8 @@ window.unique=[
           "effectIdx1": "47",
           "effectIdx2": "76",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "150",
@@ -1761,7 +1907,8 @@ window.unique=[
           "effectIdx1": "348",
           "effectIdx2": "218",
           "effectIdx3": "105",
-          "effectIdx4": "109"
+          "effectIdx4": "109",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "151",
@@ -1773,7 +1920,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "928",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "152",
@@ -1785,7 +1933,8 @@ window.unique=[
           "effectIdx1": "204",
           "effectIdx2": "357",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "153",
@@ -1797,7 +1946,8 @@ window.unique=[
           "effectIdx1": "908",
           "effectIdx2": "615",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "154",
@@ -1809,7 +1959,8 @@ window.unique=[
           "effectIdx1": "679",
           "effectIdx2": "10039",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "155",
@@ -1821,7 +1972,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "561",
           "effectIdx3": "357",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "156",
@@ -1833,7 +1985,8 @@ window.unique=[
           "effectIdx1": "936",
           "effectIdx2": "182",
           "effectIdx3": "12029",
-          "effectIdx4": "110"
+          "effectIdx4": "110",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "157",
@@ -1845,7 +1998,8 @@ window.unique=[
           "effectIdx1": "938",
           "effectIdx2": "939",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "158",
@@ -1857,7 +2011,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "680",
           "effectIdx3": "940",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "159",
@@ -1869,7 +2024,8 @@ window.unique=[
           "effectIdx1": "827",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "160",
@@ -1881,7 +2037,8 @@ window.unique=[
           "effectIdx1": "941",
           "effectIdx2": "942",
           "effectIdx3": "943",
-          "effectIdx4": "944"
+          "effectIdx4": "944",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "161",
@@ -1893,7 +2050,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "947",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "162",
@@ -1905,7 +2063,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "12039",
           "effectIdx3": "692",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "163",
@@ -1917,7 +2076,8 @@ window.unique=[
           "effectIdx1": "949",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "164",
@@ -1929,7 +2089,8 @@ window.unique=[
           "effectIdx1": "322",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "165",
@@ -1941,7 +2102,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "111",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "166",
@@ -1953,7 +2115,8 @@ window.unique=[
           "effectIdx1": "30006",
           "effectIdx2": "12069",
           "effectIdx3": "745",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "167",
@@ -1965,7 +2128,8 @@ window.unique=[
           "effectIdx1": "615",
           "effectIdx2": "53",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "168",
@@ -1977,7 +2141,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "550",
           "effectIdx3": "719",
-          "effectIdx4": "13079"
+          "effectIdx4": "13079",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "169",
@@ -1989,7 +2154,8 @@ window.unique=[
           "effectIdx1": "78",
           "effectIdx2": "628",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "170",
@@ -2001,7 +2167,8 @@ window.unique=[
           "effectIdx1": "679",
           "effectIdx2": "82",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "171",
@@ -2013,7 +2180,8 @@ window.unique=[
           "effectIdx1": "847",
           "effectIdx2": "12099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "172",
@@ -2025,7 +2193,8 @@ window.unique=[
           "effectIdx1": "959",
           "effectIdx2": "550",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "174",
@@ -2037,7 +2206,8 @@ window.unique=[
           "effectIdx1": "30007",
           "effectIdx2": "470",
           "effectIdx3": "110",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "177",
@@ -2049,7 +2219,8 @@ window.unique=[
           "effectIdx1": "30007",
           "effectIdx2": "10039",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "178",
@@ -2061,7 +2232,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "109",
           "effectIdx3": "30004",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "179",
@@ -2073,7 +2245,8 @@ window.unique=[
           "effectIdx1": "827",
           "effectIdx2": "30001",
           "effectIdx3": "960",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "180",
@@ -2085,7 +2258,8 @@ window.unique=[
           "effectIdx1": "30002",
           "effectIdx2": "884",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "181",
@@ -2097,7 +2271,8 @@ window.unique=[
           "effectIdx1": "975",
           "effectIdx2": "971",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "182",
@@ -2109,7 +2284,8 @@ window.unique=[
           "effectIdx1": "830",
           "effectIdx2": "766",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "183",
@@ -2121,7 +2297,8 @@ window.unique=[
           "effectIdx1": "10089",
           "effectIdx2": "21000",
           "effectIdx3": "12089",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "184",
@@ -2133,7 +2310,8 @@ window.unique=[
           "effectIdx1": "980",
           "effectIdx2": "976",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "185",
@@ -2145,7 +2323,8 @@ window.unique=[
           "effectIdx1": "977",
           "effectIdx2": "13039",
           "effectIdx3": "979",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "186",
@@ -2157,7 +2336,8 @@ window.unique=[
           "effectIdx1": "776",
           "effectIdx2": "970",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "187",
@@ -2169,7 +2349,8 @@ window.unique=[
           "effectIdx1": "990",
           "effectIdx2": "798",
           "effectIdx3": "799",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "188",
@@ -2181,7 +2362,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "13049",
           "effectIdx3": "679",
-          "effectIdx4": "30004"
+          "effectIdx4": "30004",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "189",
@@ -2193,7 +2375,8 @@ window.unique=[
           "effectIdx1": "20001",
           "effectIdx2": "991",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "190",
@@ -2205,7 +2388,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "12049",
           "effectIdx3": "964",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "191",
@@ -2217,7 +2401,8 @@ window.unique=[
           "effectIdx1": "11039",
           "effectIdx2": "1006",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "192",
@@ -2229,7 +2414,8 @@ window.unique=[
           "effectIdx1": "10079",
           "effectIdx2": "996",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "193",
@@ -2241,7 +2427,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "13049",
           "effectIdx3": "302",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "194",
@@ -2253,7 +2440,8 @@ window.unique=[
           "effectIdx1": "11039",
           "effectIdx2": "30005",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "195",
@@ -2265,7 +2453,8 @@ window.unique=[
           "effectIdx1": "10099",
           "effectIdx2": "11099",
           "effectIdx3": "735",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "196",
@@ -2277,7 +2466,8 @@ window.unique=[
           "effectIdx1": "30007",
           "effectIdx2": "53",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "197",
@@ -2289,7 +2479,8 @@ window.unique=[
           "effectIdx1": "776",
           "effectIdx2": "191",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "198",
@@ -2301,7 +2492,8 @@ window.unique=[
           "effectIdx1": "30007",
           "effectIdx2": "10059",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "199",
@@ -2313,7 +2505,8 @@ window.unique=[
           "effectIdx1": "10099",
           "effectIdx2": "11099",
           "effectIdx3": "12099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "200",
@@ -2325,7 +2518,8 @@ window.unique=[
           "effectIdx1": "542",
           "effectIdx2": "679",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "201",
@@ -2337,7 +2531,8 @@ window.unique=[
           "effectIdx1": "30007",
           "effectIdx2": "52",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "202",
@@ -2349,7 +2544,8 @@ window.unique=[
           "effectIdx1": "35",
           "effectIdx2": "679",
           "effectIdx3": "41",
-          "effectIdx4": "47"
+          "effectIdx4": "47",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "203",
@@ -2361,7 +2557,8 @@ window.unique=[
           "effectIdx1": "827",
           "effectIdx2": "10049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "204",
@@ -2373,7 +2570,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "348",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "205",
@@ -2385,7 +2583,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "10029",
           "effectIdx3": "183",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "206",
@@ -2397,7 +2596,8 @@ window.unique=[
           "effectIdx1": "20004",
           "effectIdx2": "52",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "207",
@@ -2409,7 +2609,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "208",
@@ -2421,7 +2622,8 @@ window.unique=[
           "effectIdx1": "1008",
           "effectIdx2": "10049",
           "effectIdx3": "11049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "209",
@@ -2433,7 +2635,8 @@ window.unique=[
           "effectIdx1": "11069",
           "effectIdx2": "30006",
           "effectIdx3": "20004",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "210",
@@ -2445,7 +2648,8 @@ window.unique=[
           "effectIdx1": "11059",
           "effectIdx2": "1020",
           "effectIdx3": "69",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "211",
@@ -2457,7 +2661,8 @@ window.unique=[
           "effectIdx1": "11059",
           "effectIdx2": "1022",
           "effectIdx3": "66",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "212",
@@ -2469,7 +2674,8 @@ window.unique=[
           "effectIdx1": "1021",
           "effectIdx2": "591",
           "effectIdx3": "322",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "213",
@@ -2481,7 +2687,8 @@ window.unique=[
           "effectIdx1": "11029",
           "effectIdx2": "12029",
           "effectIdx3": "1023",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "214",
@@ -2493,7 +2700,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13049",
           "effectIdx3": "30004",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "215",
@@ -2505,7 +2713,8 @@ window.unique=[
           "effectIdx1": "85",
           "effectIdx2": "631",
           "effectIdx3": "10039",
-          "effectIdx4": "13039"
+          "effectIdx4": "13039",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "216",
@@ -2517,7 +2726,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "11049",
           "effectIdx3": "13049",
-          "effectIdx4": "30002"
+          "effectIdx4": "30002",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "217",
@@ -2529,7 +2739,8 @@ window.unique=[
           "effectIdx1": "1033",
           "effectIdx2": "1034",
           "effectIdx3": "1035",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "218",
@@ -2541,7 +2752,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "1041",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "219",
@@ -2553,7 +2765,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "30004",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "220",
@@ -2565,7 +2778,8 @@ window.unique=[
           "effectIdx1": "10029",
           "effectIdx2": "11099",
           "effectIdx3": "679",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "221",
@@ -2577,7 +2791,8 @@ window.unique=[
           "effectIdx1": "1043",
           "effectIdx2": "30409",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "222",
@@ -2589,7 +2804,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "30004",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "223",
@@ -2601,7 +2817,8 @@ window.unique=[
           "effectIdx1": "11069",
           "effectIdx2": "30006",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "224",
@@ -2613,7 +2830,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "13049",
           "effectIdx3": "30004",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "225",
@@ -2625,7 +2843,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "30003",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "226",
@@ -2637,7 +2856,8 @@ window.unique=[
           "effectIdx1": "11079",
           "effectIdx2": "13079",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "227",
@@ -2649,7 +2869,8 @@ window.unique=[
           "effectIdx1": "13029",
           "effectIdx2": "1056",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "228",
@@ -2661,7 +2882,8 @@ window.unique=[
           "effectIdx1": "10079",
           "effectIdx2": "13079",
           "effectIdx3": "30003",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "229",
@@ -2673,7 +2895,8 @@ window.unique=[
           "effectIdx1": "1068",
           "effectIdx2": "1069",
           "effectIdx3": "1070",
-          "effectIdx4": "1071"
+          "effectIdx4": "1071",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "230",
@@ -2685,7 +2908,8 @@ window.unique=[
           "effectIdx1": "10069",
           "effectIdx2": "11069",
           "effectIdx3": "13069",
-          "effectIdx4": "52"
+          "effectIdx4": "52",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "231",
@@ -2697,7 +2921,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "1072",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "232",
@@ -2709,7 +2934,8 @@ window.unique=[
           "effectIdx1": "745",
           "effectIdx2": "1073",
           "effectIdx3": "13039",
-          "effectIdx4": "30003"
+          "effectIdx4": "30003",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "233",
@@ -2721,7 +2947,8 @@ window.unique=[
           "effectIdx1": "10039",
           "effectIdx2": "30009",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "234",
@@ -2733,7 +2960,8 @@ window.unique=[
           "effectIdx1": "30004",
           "effectIdx2": "1085",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "235",
@@ -2745,7 +2973,8 @@ window.unique=[
           "effectIdx1": "10039",
           "effectIdx2": "30009",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "236",
@@ -2757,7 +2986,8 @@ window.unique=[
           "effectIdx1": "30002",
           "effectIdx2": "52",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "237",
@@ -2769,7 +2999,8 @@ window.unique=[
           "effectIdx1": "1099",
           "effectIdx2": "1100",
           "effectIdx3": "1101",
-          "effectIdx4": "1102"
+          "effectIdx4": "1102",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "238",
@@ -2781,7 +3012,8 @@ window.unique=[
           "effectIdx1": "713",
           "effectIdx2": "11039",
           "effectIdx3": "692",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "239",
@@ -2793,7 +3025,8 @@ window.unique=[
           "effectIdx1": "30002",
           "effectIdx2": "13029",
           "effectIdx3": "776",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "240",
@@ -2805,7 +3038,8 @@ window.unique=[
           "effectIdx1": "10079",
           "effectIdx2": "11079",
           "effectIdx3": "1126",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "241",
@@ -2817,7 +3051,8 @@ window.unique=[
           "effectIdx1": "30002",
           "effectIdx2": "10029",
           "effectIdx3": "776",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "242",
@@ -2829,7 +3064,8 @@ window.unique=[
           "effectIdx1": "1099",
           "effectIdx2": "1127",
           "effectIdx3": "1101",
-          "effectIdx4": "1128"
+          "effectIdx4": "1128",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "243",
@@ -2841,7 +3077,8 @@ window.unique=[
           "effectIdx1": "713",
           "effectIdx2": "11039",
           "effectIdx3": "30003",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "244",
@@ -2853,7 +3090,8 @@ window.unique=[
           "effectIdx1": "10069",
           "effectIdx2": "11069",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "245",
@@ -2865,7 +3103,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "246",
@@ -2877,7 +3116,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "11019",
           "effectIdx3": "662",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "247",
@@ -2889,7 +3129,8 @@ window.unique=[
           "effectIdx1": "768",
           "effectIdx2": "13029",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "248",
@@ -2901,7 +3142,8 @@ window.unique=[
           "effectIdx1": "357",
           "effectIdx2": "53",
           "effectIdx3": "1020",
-          "effectIdx4": "668"
+          "effectIdx4": "668",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "249",
@@ -2913,7 +3155,8 @@ window.unique=[
           "effectIdx1": "10099",
           "effectIdx2": "11099",
           "effectIdx3": "30001",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "250",
@@ -2925,7 +3168,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "30001",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "251",
@@ -2937,7 +3181,8 @@ window.unique=[
           "effectIdx1": "27",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "252",
@@ -2949,7 +3194,8 @@ window.unique=[
           "effectIdx1": "204",
           "effectIdx2": "11029",
           "effectIdx3": "30002",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "253",
@@ -2961,7 +3207,8 @@ window.unique=[
           "effectIdx1": "938",
           "effectIdx2": "1142",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "254",
@@ -2973,7 +3220,8 @@ window.unique=[
           "effectIdx1": "1023",
           "effectIdx2": "11019",
           "effectIdx3": "12019",
-          "effectIdx4": "13019"
+          "effectIdx4": "13019",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "255",
@@ -2985,7 +3233,8 @@ window.unique=[
           "effectIdx1": "10079",
           "effectIdx2": "11079",
           "effectIdx3": "30001",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "256",
@@ -2997,7 +3246,8 @@ window.unique=[
           "effectIdx1": "1141",
           "effectIdx2": "1122",
           "effectIdx3": "1109",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "257",
@@ -3009,7 +3259,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "12049",
-          "effectIdx4": "13049"
+          "effectIdx4": "13049",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "258",
@@ -3021,7 +3272,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11069",
           "effectIdx3": "12069",
-          "effectIdx4": "13069"
+          "effectIdx4": "13069",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "259",
@@ -3033,7 +3285,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11049",
           "effectIdx3": "12099",
-          "effectIdx4": "13049"
+          "effectIdx4": "13049",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "260",
@@ -3045,7 +3298,8 @@ window.unique=[
           "effectIdx1": "30006",
           "effectIdx2": "13039",
           "effectIdx3": "53",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "261",
@@ -3057,7 +3311,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "11049",
           "effectIdx3": "30004",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "262",
@@ -3069,7 +3324,8 @@ window.unique=[
           "effectIdx1": "30004",
           "effectIdx2": "1169",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "263",
@@ -3081,7 +3337,8 @@ window.unique=[
           "effectIdx1": "30002",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "264",
@@ -3093,7 +3350,8 @@ window.unique=[
           "effectIdx1": "1180",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "265",
@@ -3105,7 +3363,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "1181",
           "effectIdx3": "1182",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "266",
@@ -3117,7 +3376,8 @@ window.unique=[
           "effectIdx1": "537",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "267",
@@ -3129,7 +3389,8 @@ window.unique=[
           "effectIdx1": "10099",
           "effectIdx2": "191",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "268",
@@ -3141,7 +3402,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "269",
@@ -3153,7 +3415,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "12099",
           "effectIdx3": "306",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "270",
@@ -3165,7 +3428,8 @@ window.unique=[
           "effectIdx1": "10099",
           "effectIdx2": "11099",
           "effectIdx3": "1197",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "271",
@@ -3177,7 +3441,8 @@ window.unique=[
           "effectIdx1": "52",
           "effectIdx2": "1164",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "272",
@@ -3189,7 +3454,8 @@ window.unique=[
           "effectIdx1": "723",
           "effectIdx2": "30001",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "273",
@@ -3201,7 +3467,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "13049",
           "effectIdx3": "30002",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "274",
@@ -3213,7 +3480,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "682",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "275",
@@ -3225,7 +3493,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "13049",
           "effectIdx3": "884",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "276",
@@ -3237,7 +3506,8 @@ window.unique=[
           "effectIdx1": "10029",
           "effectIdx2": "12029",
           "effectIdx3": "78",
-          "effectIdx4": "35"
+          "effectIdx4": "35",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "277",
@@ -3249,7 +3519,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "12049",
           "effectIdx3": "13049",
-          "effectIdx4": "615"
+          "effectIdx4": "615",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "278",
@@ -3261,7 +3532,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "64",
           "effectIdx3": "792",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "279",
@@ -3273,7 +3545,8 @@ window.unique=[
           "effectIdx1": "662",
           "effectIdx2": "583",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "280",
@@ -3285,7 +3558,8 @@ window.unique=[
           "effectIdx1": "20500",
           "effectIdx2": "680",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "281",
@@ -3297,7 +3571,8 @@ window.unique=[
           "effectIdx1": "814",
           "effectIdx2": "30504",
           "effectIdx3": "1227",
-          "effectIdx4": "1228"
+          "effectIdx4": "1228",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "282",
@@ -3309,7 +3584,8 @@ window.unique=[
           "effectIdx1": "830",
           "effectIdx2": "682",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "284",
@@ -3321,7 +3597,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "12099",
           "effectIdx3": "590",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "285",
@@ -3333,7 +3610,8 @@ window.unique=[
           "effectIdx1": "745",
           "effectIdx2": "792",
           "effectIdx3": "446",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "286",
@@ -3345,7 +3623,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "12099",
           "effectIdx3": "11049",
-          "effectIdx4": "13049"
+          "effectIdx4": "13049",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "287",
@@ -3357,7 +3636,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11069",
           "effectIdx3": "12069",
-          "effectIdx4": "13069"
+          "effectIdx4": "13069",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "288",
@@ -3369,7 +3649,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "12049",
-          "effectIdx4": "13049"
+          "effectIdx4": "13049",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "289",
@@ -3381,7 +3662,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "290",
@@ -3393,7 +3675,8 @@ window.unique=[
           "effectIdx1": "678",
           "effectIdx2": "528",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "291",
@@ -3405,7 +3688,8 @@ window.unique=[
           "effectIdx1": "745",
           "effectIdx2": "20500",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "292",
@@ -3417,7 +3701,8 @@ window.unique=[
           "effectIdx1": "30008",
           "effectIdx2": "10049",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "293",
@@ -3429,7 +3714,8 @@ window.unique=[
           "effectIdx1": "528",
           "effectIdx2": "52",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "294",
@@ -3441,7 +3727,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "719",
           "effectIdx3": "1065",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "295",
@@ -3453,7 +3740,8 @@ window.unique=[
           "effectIdx1": "528",
           "effectIdx2": "52",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "296",
@@ -3465,7 +3753,8 @@ window.unique=[
           "effectIdx1": "10059",
           "effectIdx2": "12059",
           "effectIdx3": "767",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "297",
@@ -3477,7 +3766,8 @@ window.unique=[
           "effectIdx1": "20001",
           "effectIdx2": "458",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "298",
@@ -3489,7 +3779,8 @@ window.unique=[
           "effectIdx1": "792",
           "effectIdx2": "682",
           "effectIdx3": "29",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "299",
@@ -3501,7 +3792,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13099",
           "effectIdx3": "52",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "300",
@@ -3513,7 +3805,8 @@ window.unique=[
           "effectIdx1": "1250",
           "effectIdx2": "1249",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "301",
@@ -3525,7 +3818,8 @@ window.unique=[
           "effectIdx1": "11059",
           "effectIdx2": "12059",
           "effectIdx3": "13059",
-          "effectIdx4": "10059"
+          "effectIdx4": "10059",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "302",
@@ -3537,7 +3831,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "712",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "303",
@@ -3549,7 +3844,8 @@ window.unique=[
           "effectIdx1": "11079",
           "effectIdx2": "13079",
           "effectIdx3": "53",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "304",
@@ -3561,7 +3857,8 @@ window.unique=[
           "effectIdx1": "70009",
           "effectIdx2": "692",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "305",
@@ -3573,7 +3870,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "11079",
           "effectIdx3": "52",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "306",
@@ -3585,7 +3883,8 @@ window.unique=[
           "effectIdx1": "64",
           "effectIdx2": "1120",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "307",
@@ -3597,7 +3896,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "11079",
           "effectIdx3": "662",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "308",
@@ -3609,7 +3909,8 @@ window.unique=[
           "effectIdx1": "678",
           "effectIdx2": "1265",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "309",
@@ -3621,7 +3922,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "182",
           "effectIdx3": "183",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "310",
@@ -3633,7 +3935,8 @@ window.unique=[
           "effectIdx1": "40",
           "effectIdx2": "10039",
           "effectIdx3": "12039",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "311",
@@ -3645,7 +3948,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "10049",
           "effectIdx3": "614",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "312",
@@ -3657,7 +3961,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "10049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "313",
@@ -3669,7 +3974,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "314",
@@ -3681,7 +3987,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "13079",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "315",
@@ -3693,7 +4000,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "884",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "316",
@@ -3705,7 +4013,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "13079",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "317",
@@ -3717,7 +4026,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "12079",
           "effectIdx3": "745",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "318",
@@ -3729,7 +4039,8 @@ window.unique=[
           "effectIdx1": "615",
           "effectIdx2": "1114",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "319",
@@ -3741,7 +4052,8 @@ window.unique=[
           "effectIdx1": "1272",
           "effectIdx2": "10029",
           "effectIdx3": "110",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "320",
@@ -3753,7 +4065,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "182",
           "effectIdx3": "183",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "321",
@@ -3765,7 +4078,8 @@ window.unique=[
           "effectIdx1": "1274",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "322",
@@ -3777,7 +4091,8 @@ window.unique=[
           "effectIdx1": "10039",
           "effectIdx2": "11039",
           "effectIdx3": "1273",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "323",
@@ -3789,7 +4104,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "694",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "324",
@@ -3801,7 +4117,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "325",
@@ -3813,7 +4130,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "326",
@@ -3825,7 +4143,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "327",
@@ -3837,7 +4156,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "328",
@@ -3849,7 +4169,8 @@ window.unique=[
           "effectIdx1": "547",
           "effectIdx2": "13049",
           "effectIdx3": "745",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "329",
@@ -3861,7 +4182,8 @@ window.unique=[
           "effectIdx1": "928",
           "effectIdx2": "11099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "330",
@@ -3873,7 +4195,8 @@ window.unique=[
           "effectIdx1": "1311",
           "effectIdx2": "1320",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "331",
@@ -3885,7 +4208,8 @@ window.unique=[
           "effectIdx1": "10029",
           "effectIdx2": "1311",
           "effectIdx3": "1321",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "332",
@@ -3897,7 +4221,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "1317",
           "effectIdx3": "1322",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "333",
@@ -3909,7 +4234,8 @@ window.unique=[
           "effectIdx1": "1313",
           "effectIdx2": "1323",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "334",
@@ -3921,7 +4247,8 @@ window.unique=[
           "effectIdx1": "182",
           "effectIdx2": "1313",
           "effectIdx3": "1324",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "335",
@@ -3933,7 +4260,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "1317",
           "effectIdx3": "1325",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "336",
@@ -3945,7 +4273,8 @@ window.unique=[
           "effectIdx1": "1315",
           "effectIdx2": "1090",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "337",
@@ -3957,7 +4286,8 @@ window.unique=[
           "effectIdx1": "183",
           "effectIdx2": "1315",
           "effectIdx3": "591",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "338",
@@ -3969,7 +4299,8 @@ window.unique=[
           "effectIdx1": "13049",
           "effectIdx2": "1317",
           "effectIdx3": "1142",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "339",
@@ -3981,7 +4312,8 @@ window.unique=[
           "effectIdx1": "11059",
           "effectIdx2": "12059",
           "effectIdx3": "13059",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "340",
@@ -3993,7 +4325,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "1164",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "341",
@@ -4005,7 +4338,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11069",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "342",
@@ -4017,7 +4351,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "11049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "343",
@@ -4029,7 +4364,8 @@ window.unique=[
           "effectIdx1": "20003",
           "effectIdx2": "1342",
           "effectIdx3": "1343",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "344",
@@ -4041,7 +4377,8 @@ window.unique=[
           "effectIdx1": "20003",
           "effectIdx2": "1342",
           "effectIdx3": "1343",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "345",
@@ -4053,7 +4390,8 @@ window.unique=[
           "effectIdx1": "30008",
           "effectIdx2": "1085",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "346",
@@ -4065,7 +4403,8 @@ window.unique=[
           "effectIdx1": "10089",
           "effectIdx2": "11089",
           "effectIdx3": "52",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "347",
@@ -4077,7 +4416,8 @@ window.unique=[
           "effectIdx1": "860",
           "effectIdx2": "10039",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "348",
@@ -4089,7 +4429,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "377",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "349",
@@ -4101,7 +4442,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "13039",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "350",
@@ -4113,7 +4455,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "10039",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "351",
@@ -4125,7 +4468,8 @@ window.unique=[
           "effectIdx1": "745",
           "effectIdx2": "682",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "352",
@@ -4137,7 +4481,8 @@ window.unique=[
           "effectIdx1": "860",
           "effectIdx2": "11049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "353",
@@ -4149,7 +4494,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "354",
@@ -4161,7 +4507,8 @@ window.unique=[
           "effectIdx1": "1381",
           "effectIdx2": "30501",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "355",
@@ -4173,7 +4520,8 @@ window.unique=[
           "effectIdx1": "1382",
           "effectIdx2": "30501",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "356",
@@ -4185,7 +4533,8 @@ window.unique=[
           "effectIdx1": "1124",
           "effectIdx2": "70009",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "357",
@@ -4197,7 +4546,8 @@ window.unique=[
           "effectIdx1": "1142",
           "effectIdx2": "264",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "358",
@@ -4209,7 +4559,8 @@ window.unique=[
           "effectIdx1": "1124",
           "effectIdx2": "70009",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "359",
@@ -4221,7 +4572,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "112",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "360",
@@ -4233,7 +4585,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "182",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "361",
@@ -4245,7 +4598,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "183",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "362",
@@ -4257,7 +4611,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "363",
@@ -4269,7 +4624,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "960",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "364",
@@ -4281,7 +4637,8 @@ window.unique=[
           "effectIdx1": "1395",
           "effectIdx2": "1396",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "365",
@@ -4293,7 +4650,8 @@ window.unique=[
           "effectIdx1": "615",
           "effectIdx2": "859",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "366",
@@ -4305,7 +4663,8 @@ window.unique=[
           "effectIdx1": "688",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "367",
@@ -4317,7 +4676,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13099",
           "effectIdx3": "53",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "368",
@@ -4329,7 +4689,8 @@ window.unique=[
           "effectIdx1": "860",
           "effectIdx2": "615",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "369",
@@ -4341,7 +4702,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13099",
           "effectIdx3": "52",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "370",
@@ -4353,7 +4715,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "11049",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "371",
@@ -4365,7 +4728,8 @@ window.unique=[
           "effectIdx1": "11069",
           "effectIdx2": "637",
           "effectIdx3": "1407",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "372",
@@ -4377,7 +4741,8 @@ window.unique=[
           "effectIdx1": "11069",
           "effectIdx2": "598",
           "effectIdx3": "1408",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "373",
@@ -4389,7 +4754,8 @@ window.unique=[
           "effectIdx1": "251",
           "effectIdx2": "940",
           "effectIdx3": "528",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "374",
@@ -4401,7 +4767,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "251",
           "effectIdx3": "112",
-          "effectIdx4": "615"
+          "effectIdx4": "615",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "375",
@@ -4413,7 +4780,8 @@ window.unique=[
           "effectIdx1": "941",
           "effectIdx2": "942",
           "effectIdx3": "943",
-          "effectIdx4": "944"
+          "effectIdx4": "944",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "376",
@@ -4425,7 +4793,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "11069",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "377",
@@ -4437,7 +4806,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "182",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "378",
@@ -4449,7 +4819,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "182",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "379",
@@ -4461,7 +4832,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "10029",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "380",
@@ -4473,7 +4845,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "183",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "381",
@@ -4485,7 +4858,8 @@ window.unique=[
           "effectIdx1": "1382",
           "effectIdx2": "30501",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "382",
@@ -4497,7 +4871,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "383",
@@ -4509,7 +4884,8 @@ window.unique=[
           "effectIdx1": "11069",
           "effectIdx2": "12069",
           "effectIdx3": "13069",
-          "effectIdx4": "615"
+          "effectIdx4": "615",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "384",
@@ -4521,7 +4897,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "1268",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "385",
@@ -4533,7 +4910,8 @@ window.unique=[
           "effectIdx1": "53",
           "effectIdx2": "10029",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "386",
@@ -4545,7 +4923,8 @@ window.unique=[
           "effectIdx1": "10029",
           "effectIdx2": "12029",
           "effectIdx3": "1422",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "387",
@@ -4557,7 +4936,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "109",
           "effectIdx3": "662",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "388",
@@ -4569,7 +4949,8 @@ window.unique=[
           "effectIdx1": "10069",
           "effectIdx2": "259",
           "effectIdx3": "13069",
-          "effectIdx4": "615"
+          "effectIdx4": "615",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "389",
@@ -4581,7 +4962,8 @@ window.unique=[
           "effectIdx1": "767",
           "effectIdx2": "326",
           "effectIdx3": "960",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "390",
@@ -4593,7 +4975,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "391",
@@ -4605,7 +4988,8 @@ window.unique=[
           "effectIdx1": "1382",
           "effectIdx2": "30501",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "392",
@@ -4617,7 +5001,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "30804",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "393",
@@ -4629,7 +5014,8 @@ window.unique=[
           "effectIdx1": "1432",
           "effectIdx2": "1433",
           "effectIdx3": "1434",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "394",
@@ -4641,7 +5027,8 @@ window.unique=[
           "effectIdx1": "1432",
           "effectIdx2": "1433",
           "effectIdx3": "1434",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "395",
@@ -4653,7 +5040,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "30804",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "396",
@@ -4665,7 +5053,8 @@ window.unique=[
           "effectIdx1": "713",
           "effectIdx2": "10039",
           "effectIdx3": "692",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "397",
@@ -4677,7 +5066,8 @@ window.unique=[
           "effectIdx1": "20003",
           "effectIdx2": "10029",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "398",
@@ -4689,7 +5079,8 @@ window.unique=[
           "effectIdx1": "1444",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "399",
@@ -4701,7 +5092,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "884",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "400",
@@ -4713,7 +5105,8 @@ window.unique=[
           "effectIdx1": "1446",
           "effectIdx2": "947",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "401",
@@ -4725,7 +5118,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "402",
@@ -4737,7 +5131,8 @@ window.unique=[
           "effectIdx1": "648",
           "effectIdx2": "735",
           "effectIdx3": "20004",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "403",
@@ -4749,7 +5144,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "182",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "404",
@@ -4761,7 +5157,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "10029",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "405",
@@ -4773,7 +5170,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "183",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "406",
@@ -4785,7 +5183,8 @@ window.unique=[
           "effectIdx1": "11049",
           "effectIdx2": "13049",
           "effectIdx3": "1249",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "407",
@@ -4797,7 +5196,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "408",
@@ -4809,7 +5209,8 @@ window.unique=[
           "effectIdx1": "351",
           "effectIdx2": "798",
           "effectIdx3": "799",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "409",
@@ -4821,7 +5222,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "359",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "410",
@@ -4833,7 +5235,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "31609",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "411",
@@ -4845,7 +5248,8 @@ window.unique=[
           "effectIdx1": "528",
           "effectIdx2": "357",
           "effectIdx3": "1466",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "412",
@@ -4857,7 +5261,8 @@ window.unique=[
           "effectIdx1": "54",
           "effectIdx2": "1467",
           "effectIdx3": "1101",
-          "effectIdx4": "1071"
+          "effectIdx4": "1071",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "413",
@@ -4869,7 +5274,8 @@ window.unique=[
           "effectIdx1": "1468",
           "effectIdx2": "628",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "414",
@@ -4881,7 +5287,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "182",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "415",
@@ -4893,7 +5300,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "416",
@@ -4905,7 +5313,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "417",
@@ -4917,7 +5326,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "418",
@@ -4929,7 +5339,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "419",
@@ -4941,7 +5352,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "420",
@@ -4953,7 +5365,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "421",
@@ -4965,7 +5378,8 @@ window.unique=[
           "effectIdx1": "1474",
           "effectIdx2": "723",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "422",
@@ -4977,7 +5391,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "423",
@@ -4989,7 +5404,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "11079",
           "effectIdx3": "13079",
-          "effectIdx4": "528"
+          "effectIdx4": "528",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "424",
@@ -5001,7 +5417,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "1484",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "425",
@@ -5013,7 +5430,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "11079",
           "effectIdx3": "12079",
-          "effectIdx4": "13079"
+          "effectIdx4": "13079",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "426",
@@ -5025,7 +5443,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "11079",
           "effectIdx3": "1483",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "427",
@@ -5037,7 +5456,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "10039",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "428",
@@ -5049,7 +5469,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "774",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "429",
@@ -5061,7 +5482,8 @@ window.unique=[
           "effectIdx1": "1235",
           "effectIdx2": "1489",
           "effectIdx3": "30302",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "430",
@@ -5073,7 +5495,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "431",
@@ -5085,7 +5508,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "432",
@@ -5097,7 +5521,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "10049",
           "effectIdx3": "614",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "433",
@@ -5109,7 +5534,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "10049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "434",
@@ -5121,7 +5547,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "435",
@@ -5133,7 +5560,8 @@ window.unique=[
           "effectIdx1": "713",
           "effectIdx2": "1212",
           "effectIdx3": "1494",
-          "effectIdx4": "652"
+          "effectIdx4": "652",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "436",
@@ -5145,7 +5573,8 @@ window.unique=[
           "effectIdx1": "713",
           "effectIdx2": "1212",
           "effectIdx3": "1499",
-          "effectIdx4": "628"
+          "effectIdx4": "628",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "437",
@@ -5157,7 +5586,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "11079",
           "effectIdx3": "12079",
-          "effectIdx4": "191"
+          "effectIdx4": "191",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "438",
@@ -5169,7 +5599,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "975",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "439",
@@ -5181,7 +5612,8 @@ window.unique=[
           "effectIdx1": "1510",
           "effectIdx2": "10049",
           "effectIdx3": "112",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "440",
@@ -5193,7 +5625,8 @@ window.unique=[
           "effectIdx1": "1511",
           "effectIdx2": "615",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "441",
@@ -5205,7 +5638,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "357",
           "effectIdx3": "528",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "442",
@@ -5217,7 +5651,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "12099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "443",
@@ -5229,7 +5664,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "10029",
           "effectIdx3": "182",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "444",
@@ -5241,7 +5677,8 @@ window.unique=[
           "effectIdx1": "968",
           "effectIdx2": "1525",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "445",
@@ -5253,7 +5690,8 @@ window.unique=[
           "effectIdx1": "1526",
           "effectIdx2": "11049",
           "effectIdx3": "276",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "446",
@@ -5265,7 +5703,8 @@ window.unique=[
           "effectIdx1": "11069",
           "effectIdx2": "12069",
           "effectIdx3": "13069",
-          "effectIdx4": "69"
+          "effectIdx4": "69",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "447",
@@ -5277,7 +5716,8 @@ window.unique=[
           "effectIdx1": "20003",
           "effectIdx2": "682",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "448",
@@ -5289,7 +5729,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "12099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "449",
@@ -5301,7 +5742,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "583",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "450",
@@ -5313,7 +5755,8 @@ window.unique=[
           "effectIdx1": "11059",
           "effectIdx2": "678",
           "effectIdx3": "64",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "451",
@@ -5325,7 +5768,8 @@ window.unique=[
           "effectIdx1": "1533",
           "effectIdx2": "689",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "452",
@@ -5337,7 +5781,8 @@ window.unique=[
           "effectIdx1": "1531",
           "effectIdx2": "13049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "453",
@@ -5349,7 +5794,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "13079",
           "effectIdx3": "734",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "454",
@@ -5361,7 +5807,8 @@ window.unique=[
           "effectIdx1": "1530",
           "effectIdx2": "64",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "455",
@@ -5373,7 +5820,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "456",
@@ -5385,7 +5833,8 @@ window.unique=[
           "effectIdx1": "1433",
           "effectIdx2": "1434",
           "effectIdx3": "13699",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "457",
@@ -5397,7 +5846,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "458",
@@ -5409,7 +5859,8 @@ window.unique=[
           "effectIdx1": "1433",
           "effectIdx2": "1434",
           "effectIdx3": "13699",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "459",
@@ -5421,7 +5872,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "1548",
           "effectIdx3": "1006",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "460",
@@ -5433,7 +5885,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1549",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "461",
@@ -5445,7 +5898,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "357",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "462",
@@ -5457,7 +5911,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "463",
@@ -5469,7 +5924,8 @@ window.unique=[
           "effectIdx1": "1468",
           "effectIdx2": "20001",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "464",
@@ -5481,7 +5937,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "465",
@@ -5493,7 +5950,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "528",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "466",
@@ -5505,7 +5963,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "467",
@@ -5517,7 +5976,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "468",
@@ -5529,7 +5989,8 @@ window.unique=[
           "effectIdx1": "64",
           "effectIdx2": "1549",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "469",
@@ -5541,7 +6002,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "968",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "470",
@@ -5553,7 +6015,8 @@ window.unique=[
           "effectIdx1": "11069",
           "effectIdx2": "1556",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "471",
@@ -5565,7 +6028,8 @@ window.unique=[
           "effectIdx1": "241",
           "effectIdx2": "78",
           "effectIdx3": "847",
-          "effectIdx4": "1559"
+          "effectIdx4": "1559",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "472",
@@ -5577,7 +6041,8 @@ window.unique=[
           "effectIdx1": "1566",
           "effectIdx2": "528",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "473",
@@ -5589,7 +6054,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11049",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "474",
@@ -5601,7 +6067,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "12099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "475",
@@ -5613,7 +6080,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "476",
@@ -5625,7 +6093,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "477",
@@ -5637,7 +6106,8 @@ window.unique=[
           "effectIdx1": "647",
           "effectIdx2": "82",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "478",
@@ -5649,7 +6119,8 @@ window.unique=[
           "effectIdx1": "736",
           "effectIdx2": "1121",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "479",
@@ -5661,7 +6132,8 @@ window.unique=[
           "effectIdx1": "204",
           "effectIdx2": "528",
           "effectIdx3": "635",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "480",
@@ -5673,7 +6145,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "12099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "481",
@@ -5685,7 +6158,8 @@ window.unique=[
           "effectIdx1": "13079",
           "effectIdx2": "774",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "482",
@@ -5697,7 +6171,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "1584",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "483",
@@ -5709,7 +6184,8 @@ window.unique=[
           "effectIdx1": "1532",
           "effectIdx2": "496",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "484",
@@ -5721,7 +6197,8 @@ window.unique=[
           "effectIdx1": "736",
           "effectIdx2": "12111",
           "effectIdx3": "13059",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "485",
@@ -5733,7 +6210,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "684",
           "effectIdx3": "774",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "486",
@@ -5745,7 +6223,8 @@ window.unique=[
           "effectIdx1": "1591",
           "effectIdx2": "684",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "487",
@@ -5757,7 +6236,8 @@ window.unique=[
           "effectIdx1": "20004",
           "effectIdx2": "11099",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "488",
@@ -5769,7 +6249,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "684",
           "effectIdx3": "774",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "489",
@@ -5781,7 +6262,8 @@ window.unique=[
           "effectIdx1": "1592",
           "effectIdx2": "684",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "490",
@@ -5793,7 +6275,8 @@ window.unique=[
           "effectIdx1": "20004",
           "effectIdx2": "11099",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "491",
@@ -5805,7 +6288,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "191",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "492",
@@ -5817,7 +6301,8 @@ window.unique=[
           "effectIdx1": "10100",
           "effectIdx2": "11099",
           "effectIdx3": "486",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "493",
@@ -5829,7 +6314,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "494",
@@ -5841,7 +6327,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13069",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "495",
@@ -5853,7 +6340,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "12099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "496",
@@ -5865,7 +6353,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "628",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "497",
@@ -5877,7 +6366,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "12099",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "498",
@@ -5889,7 +6379,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1602",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "499",
@@ -5901,7 +6392,8 @@ window.unique=[
           "effectIdx1": "582",
           "effectIdx2": "990",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "500",
@@ -5913,7 +6405,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "501",
@@ -5925,7 +6418,8 @@ window.unique=[
           "effectIdx1": "20004",
           "effectIdx2": "682",
           "effectIdx3": "554",
-          "effectIdx4": "1609"
+          "effectIdx4": "1609",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "502",
@@ -5937,7 +6431,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "11049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "503",
@@ -5949,7 +6444,8 @@ window.unique=[
           "effectIdx1": "800",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "504",
@@ -5961,7 +6457,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "1520",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "505",
@@ -5973,7 +6470,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "1520",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "506",
@@ -5985,7 +6483,8 @@ window.unique=[
           "effectIdx1": "1322",
           "effectIdx2": "695",
           "effectIdx3": "191",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "507",
@@ -5997,7 +6496,8 @@ window.unique=[
           "effectIdx1": "1325",
           "effectIdx2": "695",
           "effectIdx3": "191",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "508",
@@ -6009,7 +6509,8 @@ window.unique=[
           "effectIdx1": "1142",
           "effectIdx2": "1548",
           "effectIdx3": "191",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "509",
@@ -6021,7 +6522,8 @@ window.unique=[
           "effectIdx1": "10039",
           "effectIdx2": "13039",
           "effectIdx3": "1623",
-          "effectIdx4": "1624"
+          "effectIdx4": "1624",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "510",
@@ -6033,7 +6535,8 @@ window.unique=[
           "effectIdx1": "1621",
           "effectIdx2": "1625",
           "effectIdx3": "1485",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "511",
@@ -6045,7 +6548,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "512",
@@ -6057,7 +6561,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "968",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "513",
@@ -6069,7 +6574,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "12099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "514",
@@ -6081,7 +6587,8 @@ window.unique=[
           "effectIdx1": "13079",
           "effectIdx2": "774",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "515",
@@ -6093,7 +6600,8 @@ window.unique=[
           "effectIdx1": "20005",
           "effectIdx2": "11099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "516",
@@ -6105,7 +6613,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "13049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "517",
@@ -6117,7 +6626,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "11049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "518",
@@ -6129,7 +6639,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "1484",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "519",
@@ -6141,7 +6652,8 @@ window.unique=[
           "effectIdx1": "1268",
           "effectIdx2": "13049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "520",
@@ -6153,7 +6665,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "1268",
           "effectIdx3": "1174",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "521",
@@ -6165,7 +6678,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "522",
@@ -6177,7 +6691,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "12099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "523",
@@ -6189,7 +6704,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "1268",
           "effectIdx3": "1638",
-          "effectIdx4": "2202"
+          "effectIdx4": "2202",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "524",
@@ -6201,7 +6717,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "583",
           "effectIdx3": "13079",
-          "effectIdx4": "20004"
+          "effectIdx4": "20004",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "525",
@@ -6213,7 +6730,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "682",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "526",
@@ -6225,7 +6743,8 @@ window.unique=[
           "effectIdx1": "10049",
           "effectIdx2": "682",
           "effectIdx3": "20004",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "527",
@@ -6237,7 +6756,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "10049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "528",
@@ -6249,7 +6769,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "8",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "529",
@@ -6261,7 +6782,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "615",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "530",
@@ -6273,7 +6795,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "13099",
           "effectIdx3": "968",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "531",
@@ -6285,7 +6808,8 @@ window.unique=[
           "effectIdx1": "554",
           "effectIdx2": "30807",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "532",
@@ -6297,7 +6821,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "684",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "533",
@@ -6309,7 +6834,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "12099",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "534",
@@ -6321,7 +6847,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "10049",
           "effectIdx3": "614",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "535",
@@ -6333,7 +6860,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "10049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "536",
@@ -6345,7 +6873,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "537",
@@ -6357,7 +6886,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "11069",
           "effectIdx3": "12069",
-          "effectIdx4": "13069"
+          "effectIdx4": "13069",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "538",
@@ -6369,7 +6899,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "10069",
           "effectIdx3": "11069",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "539",
@@ -6381,7 +6912,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "30209",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "540",
@@ -6393,7 +6925,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1649",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "541",
@@ -6405,7 +6938,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "264",
           "effectIdx3": "12099",
-          "effectIdx4": "615"
+          "effectIdx4": "615",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "542",
@@ -6417,7 +6951,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "264",
           "effectIdx3": "990",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "543",
@@ -6429,7 +6964,8 @@ window.unique=[
           "effectIdx1": "2398",
           "effectIdx2": "774",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "544",
@@ -6441,7 +6977,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "13069",
           "effectIdx3": "1654",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "545",
@@ -6453,7 +6990,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "13069",
           "effectIdx3": "1325",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "546",
@@ -6465,7 +7003,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "547",
@@ -6477,7 +7016,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1667",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "548",
@@ -6489,7 +7029,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1668",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "549",
@@ -6501,7 +7042,8 @@ window.unique=[
           "effectIdx1": "10100",
           "effectIdx2": "1510",
           "effectIdx3": "611",
-          "effectIdx4": "613"
+          "effectIdx4": "613",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "550",
@@ -6513,7 +7055,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "551",
@@ -6525,7 +7068,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "552",
@@ -6537,7 +7081,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "1602",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "553",
@@ -6549,7 +7094,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "20004",
           "effectIdx3": "682",
-          "effectIdx4": "13049"
+          "effectIdx4": "13049",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "554",
@@ -6561,7 +7107,8 @@ window.unique=[
           "effectIdx1": "1433",
           "effectIdx2": "1434",
           "effectIdx3": "13699",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "555",
@@ -6573,7 +7120,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "556",
@@ -6585,7 +7133,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "12099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "557",
@@ -6597,7 +7146,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1245",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "558",
@@ -6609,7 +7159,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "425",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "559",
@@ -6621,7 +7172,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "1548",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "560",
@@ -6633,7 +7185,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "561",
@@ -6645,7 +7198,8 @@ window.unique=[
           "effectIdx1": "1124",
           "effectIdx2": "1548",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "562",
@@ -6657,7 +7211,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "583",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "563",
@@ -6669,7 +7224,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1583",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "564",
@@ -6681,7 +7237,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "968",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "565",
@@ -6693,7 +7250,8 @@ window.unique=[
           "effectIdx1": "689",
           "effectIdx2": "682",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "566",
@@ -6705,7 +7263,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "21000",
           "effectIdx3": "648",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "567",
@@ -6717,7 +7276,8 @@ window.unique=[
           "effectIdx1": "1004",
           "effectIdx2": "1217",
           "effectIdx3": "1218",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "568",
@@ -6729,7 +7289,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1684",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "569",
@@ -6741,7 +7302,8 @@ window.unique=[
           "effectIdx1": "1114",
           "effectIdx2": "95",
           "effectIdx3": "11059",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "571",
@@ -6753,7 +7315,8 @@ window.unique=[
           "effectIdx1": "79",
           "effectIdx2": "46",
           "effectIdx3": "11099",
-          "effectIdx4": "13099"
+          "effectIdx4": "13099",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "572",
@@ -6765,7 +7328,8 @@ window.unique=[
           "effectIdx1": "20003",
           "effectIdx2": "528",
           "effectIdx3": "694",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "575",
@@ -6777,7 +7341,8 @@ window.unique=[
           "effectIdx1": "1268",
           "effectIdx2": "10069",
           "effectIdx3": "13069",
-          "effectIdx4": "652"
+          "effectIdx4": "652",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "576",
@@ -6789,7 +7354,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "577",
@@ -6801,7 +7367,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13099",
           "effectIdx3": "628",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "578",
@@ -6813,7 +7380,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "1006",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "579",
@@ -6825,7 +7393,8 @@ window.unique=[
           "effectIdx1": "1696",
           "effectIdx2": "1695",
           "effectIdx3": "1690",
-          "effectIdx4": "1732"
+          "effectIdx4": "1732",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "580",
@@ -6837,7 +7406,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "694",
           "effectIdx3": "1699",
-          "effectIdx4": "1693"
+          "effectIdx4": "1693",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "581",
@@ -6849,7 +7419,8 @@ window.unique=[
           "effectIdx1": "1268",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "582",
@@ -6861,7 +7432,8 @@ window.unique=[
           "effectIdx1": "820",
           "effectIdx2": "652",
           "effectIdx3": "1704",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "583",
@@ -6873,7 +7445,8 @@ window.unique=[
           "effectIdx1": "30008",
           "effectIdx2": "968",
           "effectIdx3": "1699",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "584",
@@ -6885,7 +7458,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "12099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "585",
@@ -6897,7 +7471,8 @@ window.unique=[
           "effectIdx1": "957",
           "effectIdx2": "678",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "586",
@@ -6909,7 +7484,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "689",
           "effectIdx3": "734",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "587",
@@ -6921,7 +7497,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "528",
-          "effectIdx4": "774"
+          "effectIdx4": "774",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "588",
@@ -6933,7 +7510,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "684",
           "effectIdx3": "30011",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "589",
@@ -6945,7 +7523,8 @@ window.unique=[
           "effectIdx1": "326",
           "effectIdx2": "678",
           "effectIdx3": "1718",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "590",
@@ -6957,7 +7536,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "689",
           "effectIdx3": "27",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "591",
@@ -6969,7 +7549,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "13099",
           "effectIdx3": "528",
-          "effectIdx4": "774"
+          "effectIdx4": "774",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "592",
@@ -6981,7 +7562,8 @@ window.unique=[
           "effectIdx1": "682",
           "effectIdx2": "21000",
           "effectIdx3": "1120",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "593",
@@ -6993,7 +7575,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "684",
           "effectIdx3": "774",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "594",
@@ -7005,7 +7588,8 @@ window.unique=[
           "effectIdx1": "13099",
           "effectIdx2": "774",
           "effectIdx3": "581",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "595",
@@ -7017,7 +7601,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "596",
@@ -7029,7 +7614,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "957",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "597",
@@ -7041,7 +7627,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "1459",
           "effectIdx3": "1268",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "598",
@@ -7053,7 +7640,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "736",
           "effectIdx3": "486",
-          "effectIdx4": "830"
+          "effectIdx4": "830",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "599",
@@ -7065,7 +7653,8 @@ window.unique=[
           "effectIdx1": "13049",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "600",
@@ -7077,7 +7666,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "10049",
           "effectIdx3": "11049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "601",
@@ -7089,7 +7679,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "13049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "602",
@@ -7101,7 +7692,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "1747",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "603",
@@ -7113,7 +7705,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "1174",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "604",
@@ -7125,7 +7718,8 @@ window.unique=[
           "effectIdx1": "1433",
           "effectIdx2": "1434",
           "effectIdx3": "13699",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "605",
@@ -7137,7 +7731,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "606",
@@ -7149,7 +7744,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "12099",
-          "effectIdx4": "191"
+          "effectIdx4": "191",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "607",
@@ -7161,7 +7757,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "501",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "608",
@@ -7173,7 +7770,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "774",
           "effectIdx3": "745",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "609",
@@ -7185,7 +7783,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "736",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "610",
@@ -7197,7 +7796,8 @@ window.unique=[
           "effectIdx1": "968",
           "effectIdx2": "1762",
           "effectIdx3": "694",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "611",
@@ -7209,7 +7809,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "736",
           "effectIdx3": "12111",
-          "effectIdx4": "13079"
+          "effectIdx4": "13079",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "612",
@@ -7221,7 +7822,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "21000",
           "effectIdx3": "734",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "613",
@@ -7233,7 +7835,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "1764",
           "effectIdx3": "663",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "614",
@@ -7245,7 +7848,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "31704",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "615",
@@ -7257,7 +7861,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "12099",
           "effectIdx3": "13049",
-          "effectIdx4": "1141"
+          "effectIdx4": "1141",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "617",
@@ -7269,7 +7874,8 @@ window.unique=[
           "effectIdx1": "1772",
           "effectIdx2": "1771",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "618",
@@ -7281,7 +7887,8 @@ window.unique=[
           "effectIdx1": "1772",
           "effectIdx2": "1771",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "619",
@@ -7293,7 +7900,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1780",
           "effectIdx3": "1778",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "620",
@@ -7305,7 +7913,8 @@ window.unique=[
           "effectIdx1": "10100",
           "effectIdx2": "1779",
           "effectIdx3": "1777",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "621",
@@ -7317,7 +7926,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "689",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "622",
@@ -7329,7 +7939,8 @@ window.unique=[
           "effectIdx1": "628",
           "effectIdx2": "1777",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "623",
@@ -7341,7 +7952,8 @@ window.unique=[
           "effectIdx1": "689",
           "effectIdx2": "8",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "624",
@@ -7353,7 +7965,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "968",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "625",
@@ -7365,7 +7978,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "736",
           "effectIdx3": "1335",
-          "effectIdx4": "1794"
+          "effectIdx4": "1794",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "626",
@@ -7377,7 +7991,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "628",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "627",
@@ -7389,7 +8004,8 @@ window.unique=[
           "effectIdx1": "1796",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "628",
@@ -7401,7 +8017,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "13049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "629",
@@ -7413,7 +8030,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "895",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "630",
@@ -7425,7 +8043,8 @@ window.unique=[
           "effectIdx1": "1772",
           "effectIdx2": "46",
           "effectIdx3": "689",
-          "effectIdx4": "183"
+          "effectIdx4": "183",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "631",
@@ -7437,7 +8056,8 @@ window.unique=[
           "effectIdx1": "20004",
           "effectIdx2": "860",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "632",
@@ -7449,7 +8069,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "21000",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "633",
@@ -7461,7 +8082,8 @@ window.unique=[
           "effectIdx1": "968",
           "effectIdx2": "652",
           "effectIdx3": "13069",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "634",
@@ -7473,7 +8095,8 @@ window.unique=[
           "effectIdx1": "1772",
           "effectIdx2": "628",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "635",
@@ -7485,7 +8108,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "253",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "636",
@@ -7497,7 +8121,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "253",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "637",
@@ -7509,7 +8134,8 @@ window.unique=[
           "effectIdx1": "615",
           "effectIdx2": "528",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "638",
@@ -7521,7 +8147,8 @@ window.unique=[
           "effectIdx1": "528",
           "effectIdx2": "860",
           "effectIdx3": "615",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "639",
@@ -7533,7 +8160,8 @@ window.unique=[
           "effectIdx1": "79",
           "effectIdx2": "11069",
           "effectIdx3": "13069",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "640",
@@ -7545,7 +8173,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "11049",
           "effectIdx3": "10049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "641",
@@ -7557,7 +8186,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "684",
           "effectIdx3": "11099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "642",
@@ -7569,7 +8199,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "11049",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "643",
@@ -7581,7 +8212,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "684",
           "effectIdx3": "11099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "644",
@@ -7593,7 +8225,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1538",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "645",
@@ -7605,7 +8238,8 @@ window.unique=[
           "effectIdx1": "689",
           "effectIdx2": "1164",
           "effectIdx3": "1830",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "646",
@@ -7617,7 +8251,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "652",
           "effectIdx3": "13069",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "647",
@@ -7629,7 +8264,8 @@ window.unique=[
           "effectIdx1": "745",
           "effectIdx2": "20501",
           "effectIdx3": "694",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "648",
@@ -7641,7 +8277,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "11049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "649",
@@ -7653,7 +8290,8 @@ window.unique=[
           "effectIdx1": "13019",
           "effectIdx2": "21000",
           "effectIdx3": "357",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "650",
@@ -7665,7 +8303,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1273",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "651",
@@ -7677,7 +8316,8 @@ window.unique=[
           "effectIdx1": "1423",
           "effectIdx2": "860",
           "effectIdx3": "1470",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "652",
@@ -7689,7 +8329,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "583",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "653",
@@ -7701,7 +8342,8 @@ window.unique=[
           "effectIdx1": "1268",
           "effectIdx2": "112",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "654",
@@ -7713,7 +8355,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "655",
@@ -7725,7 +8368,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "684",
           "effectIdx3": "264",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "656",
@@ -7737,7 +8381,8 @@ window.unique=[
           "effectIdx1": "329",
           "effectIdx2": "11514",
           "effectIdx3": "12514",
-          "effectIdx4": "1842"
+          "effectIdx4": "1842",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "657",
@@ -7749,7 +8394,8 @@ window.unique=[
           "effectIdx1": "11089",
           "effectIdx2": "12089",
           "effectIdx3": "13089",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "658",
@@ -7761,7 +8407,8 @@ window.unique=[
           "effectIdx1": "64",
           "effectIdx2": "638",
           "effectIdx3": "652",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "659",
@@ -7773,7 +8420,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "13059",
           "effectIdx3": "678",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "660",
@@ -7785,7 +8433,8 @@ window.unique=[
           "effectIdx1": "628",
           "effectIdx2": "1768",
           "effectIdx3": "761",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "661",
@@ -7797,7 +8446,8 @@ window.unique=[
           "effectIdx1": "813",
           "effectIdx2": "1844",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "662",
@@ -7809,7 +8459,8 @@ window.unique=[
           "effectIdx1": "1845",
           "effectIdx2": "1846",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "663",
@@ -7821,7 +8472,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "11049",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "664",
@@ -7833,7 +8485,8 @@ window.unique=[
           "effectIdx1": "1521",
           "effectIdx2": "1847",
           "effectIdx3": "1848",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "665",
@@ -7845,7 +8498,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "666",
@@ -7857,7 +8511,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "860",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "667",
@@ -7869,7 +8524,8 @@ window.unique=[
           "effectIdx1": "628",
           "effectIdx2": "11069",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "668",
@@ -7881,7 +8537,8 @@ window.unique=[
           "effectIdx1": "628",
           "effectIdx2": "11039",
           "effectIdx3": "12039",
-          "effectIdx4": "13039"
+          "effectIdx4": "13039",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "669",
@@ -7893,7 +8550,8 @@ window.unique=[
           "effectIdx1": "628",
           "effectIdx2": "590",
           "effectIdx3": "678",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "670",
@@ -7905,7 +8563,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "264",
           "effectIdx3": "547",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "671",
@@ -7917,7 +8576,8 @@ window.unique=[
           "effectIdx1": "792",
           "effectIdx2": "376",
           "effectIdx3": "111",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "672",
@@ -7929,7 +8589,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "13069",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "673",
@@ -7941,7 +8602,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1692",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "674",
@@ -7953,7 +8615,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "13069",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "675",
@@ -7965,7 +8628,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "30109",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "676",
@@ -7977,7 +8641,8 @@ window.unique=[
           "effectIdx1": "20009",
           "effectIdx2": "1115",
           "effectIdx3": "1768",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "677",
@@ -7989,7 +8654,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "1840",
           "effectIdx3": "1869",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "678",
@@ -8001,7 +8667,8 @@ window.unique=[
           "effectIdx1": "1768",
           "effectIdx2": "859",
           "effectIdx3": "1378",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "679",
@@ -8013,7 +8680,8 @@ window.unique=[
           "effectIdx1": "1750",
           "effectIdx2": "13079",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "680",
@@ -8025,7 +8693,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "13099",
           "effectIdx3": "628",
-          "effectIdx4": "583"
+          "effectIdx4": "583",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "681",
@@ -8037,7 +8706,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1538",
           "effectIdx3": "1848",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "682",
@@ -8049,7 +8719,8 @@ window.unique=[
           "effectIdx1": "1124",
           "effectIdx2": "1285",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "683",
@@ -8061,7 +8732,8 @@ window.unique=[
           "effectIdx1": "10607",
           "effectIdx2": "11550",
           "effectIdx3": "12550",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "684",
@@ -8073,7 +8745,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "12099",
           "effectIdx3": "13049",
-          "effectIdx4": "1885"
+          "effectIdx4": "1885",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "685",
@@ -8085,7 +8758,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "686",
@@ -8097,7 +8771,8 @@ window.unique=[
           "effectIdx1": "1892",
           "effectIdx2": "663",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "687",
@@ -8109,7 +8784,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "1840",
           "effectIdx3": "880",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "688",
@@ -8121,7 +8797,8 @@ window.unique=[
           "effectIdx1": "1895",
           "effectIdx2": "820",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "689",
@@ -8133,7 +8810,8 @@ window.unique=[
           "effectIdx1": "30019",
           "effectIdx2": "649",
           "effectIdx3": "13079",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "690",
@@ -8145,7 +8823,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "13049",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "691",
@@ -8157,7 +8836,8 @@ window.unique=[
           "effectIdx1": "800",
           "effectIdx2": "183",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "692",
@@ -8169,7 +8849,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "300012",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "693",
@@ -8181,7 +8862,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "628",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "694",
@@ -8193,7 +8875,8 @@ window.unique=[
           "effectIdx1": "528",
           "effectIdx2": "1899",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "695",
@@ -8205,7 +8888,8 @@ window.unique=[
           "effectIdx1": "638",
           "effectIdx2": "86",
           "effectIdx3": "79",
-          "effectIdx4": "112"
+          "effectIdx4": "112",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "696",
@@ -8217,7 +8901,8 @@ window.unique=[
           "effectIdx1": "649",
           "effectIdx2": "13079",
           "effectIdx3": "82",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "697",
@@ -8229,7 +8914,8 @@ window.unique=[
           "effectIdx1": "689",
           "effectIdx2": "628",
           "effectIdx3": "1768",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "698",
@@ -8241,7 +8927,8 @@ window.unique=[
           "effectIdx1": "1905",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "699",
@@ -8253,7 +8940,8 @@ window.unique=[
           "effectIdx1": "95",
           "effectIdx2": "774",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "700",
@@ -8265,7 +8953,8 @@ window.unique=[
           "effectIdx1": "1910",
           "effectIdx2": "774",
           "effectIdx3": "183",
-          "effectIdx4": "1913"
+          "effectIdx4": "1913",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "702",
@@ -8277,7 +8966,8 @@ window.unique=[
           "effectIdx1": "1268",
           "effectIdx2": "1916",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "703",
@@ -8289,7 +8979,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "10049",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "704",
@@ -8301,7 +8992,8 @@ window.unique=[
           "effectIdx1": "528",
           "effectIdx2": "1212",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "705",
@@ -8313,7 +9005,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "1897",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "706",
@@ -8325,7 +9018,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "1840",
           "effectIdx3": "648",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "707",
@@ -8337,7 +9031,8 @@ window.unique=[
           "effectIdx1": "1922",
           "effectIdx2": "357",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "708",
@@ -8349,7 +9044,8 @@ window.unique=[
           "effectIdx1": "1929",
           "effectIdx2": "1928",
           "effectIdx3": "1927",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "709",
@@ -8361,7 +9057,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "1212",
           "effectIdx3": "1268",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "710",
@@ -8373,7 +9070,8 @@ window.unique=[
           "effectIdx1": "112",
           "effectIdx2": "10049",
           "effectIdx3": "735",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "711",
@@ -8385,7 +9083,8 @@ window.unique=[
           "effectIdx1": "968",
           "effectIdx2": "1646",
           "effectIdx3": "1337",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "712",
@@ -8397,7 +9096,8 @@ window.unique=[
           "effectIdx1": "1530",
           "effectIdx2": "1221",
           "effectIdx3": "736",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "713",
@@ -8409,7 +9109,8 @@ window.unique=[
           "effectIdx1": "813",
           "effectIdx2": "1938",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "714",
@@ -8421,7 +9122,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "12099",
           "effectIdx3": "968",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "715",
@@ -8433,7 +9135,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "1838",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "716",
@@ -8445,7 +9148,8 @@ window.unique=[
           "effectIdx1": "10100",
           "effectIdx2": "776",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "717",
@@ -8457,7 +9161,8 @@ window.unique=[
           "effectIdx1": "1943",
           "effectIdx2": "1944",
           "effectIdx3": "1391",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "718",
@@ -8469,7 +9174,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "719",
@@ -8481,7 +9187,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "1950",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "720",
@@ -8493,7 +9200,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "112",
           "effectIdx3": "1212",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "721",
@@ -8505,7 +9213,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "736",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "722",
@@ -8517,7 +9226,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "13079",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "723",
@@ -8529,7 +9239,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "1958",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "724",
@@ -8541,7 +9252,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1840",
           "effectIdx3": "13079",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "725",
@@ -8553,7 +9265,8 @@ window.unique=[
           "effectIdx1": "968",
           "effectIdx2": "10100",
           "effectIdx3": "12099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "726",
@@ -8565,7 +9278,8 @@ window.unique=[
           "effectIdx1": "1964",
           "effectIdx2": "1840",
           "effectIdx3": "1838",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "727",
@@ -8577,7 +9291,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "1768",
           "effectIdx3": "628",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "728",
@@ -8589,7 +9304,8 @@ window.unique=[
           "effectIdx1": "13069",
           "effectIdx2": "1113",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "729",
@@ -8601,7 +9317,8 @@ window.unique=[
           "effectIdx1": "1978",
           "effectIdx2": "1972",
           "effectIdx3": "1974",
-          "effectIdx4": "20009"
+          "effectIdx4": "20009",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "730",
@@ -8613,7 +9330,8 @@ window.unique=[
           "effectIdx1": "1976",
           "effectIdx2": "1385",
           "effectIdx3": "689",
-          "effectIdx4": "895"
+          "effectIdx4": "895",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "731",
@@ -8625,7 +9343,8 @@ window.unique=[
           "effectIdx1": "64",
           "effectIdx2": "13079",
           "effectIdx3": "968",
-          "effectIdx4": "1794"
+          "effectIdx4": "1794",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "732",
@@ -8637,7 +9356,8 @@ window.unique=[
           "effectIdx1": "652",
           "effectIdx2": "13069",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "733",
@@ -8649,7 +9369,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1982",
           "effectIdx3": "648",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "734",
@@ -8661,7 +9382,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "268",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "735",
@@ -8673,7 +9395,8 @@ window.unique=[
           "effectIdx1": "10100",
           "effectIdx2": "967",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "736",
@@ -8685,7 +9408,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "1988",
           "effectIdx3": "1987",
-          "effectIdx4": "82"
+          "effectIdx4": "82",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "737",
@@ -8697,7 +9421,8 @@ window.unique=[
           "effectIdx1": "554",
           "effectIdx2": "1992",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "738",
@@ -8709,7 +9434,8 @@ window.unique=[
           "effectIdx1": "10609",
           "effectIdx2": "880",
           "effectIdx3": "968",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "739",
@@ -8721,7 +9447,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "689",
           "effectIdx3": "1649",
-          "effectIdx4": "820"
+          "effectIdx4": "820",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "740",
@@ -8733,7 +9460,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "1268",
           "effectIdx3": "13089",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "741",
@@ -8745,7 +9473,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1699",
           "effectIdx3": "1995",
-          "effectIdx4": "1996"
+          "effectIdx4": "1996",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "742",
@@ -8757,7 +9486,8 @@ window.unique=[
           "effectIdx1": "10125",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "743",
@@ -8769,7 +9499,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "967",
           "effectIdx3": "1646",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "744",
@@ -8781,7 +9512,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "2004",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "745",
@@ -8793,7 +9525,8 @@ window.unique=[
           "effectIdx1": "968",
           "effectIdx2": "13089",
           "effectIdx3": "1840",
-          "effectIdx4": "1378"
+          "effectIdx4": "1378",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "746",
@@ -8805,7 +9538,8 @@ window.unique=[
           "effectIdx1": "13069",
           "effectIdx2": "1840",
           "effectIdx3": "614",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "747",
@@ -8817,7 +9551,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1642",
           "effectIdx3": "880",
-          "effectIdx4": "1897"
+          "effectIdx4": "1897",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "748",
@@ -8829,7 +9564,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1995",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "749",
@@ -8841,7 +9577,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "13079",
           "effectIdx3": "682",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "750",
@@ -8853,7 +9590,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "13079",
           "effectIdx3": "734",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "751",
@@ -8865,7 +9603,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "13079",
           "effectIdx3": "20501",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "752",
@@ -8877,7 +9616,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1335",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "753",
@@ -8889,7 +9629,8 @@ window.unique=[
           "effectIdx1": "1692",
           "effectIdx2": "2043",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "754",
@@ -8901,7 +9642,8 @@ window.unique=[
           "effectIdx1": "2029",
           "effectIdx2": "2035",
           "effectIdx3": "2042",
-          "effectIdx4": "2036"
+          "effectIdx4": "2036",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "755",
@@ -8913,7 +9655,8 @@ window.unique=[
           "effectIdx1": "1914",
           "effectIdx2": "13079",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "756",
@@ -8925,7 +9668,8 @@ window.unique=[
           "effectIdx1": "2025",
           "effectIdx2": "2031",
           "effectIdx3": "2038",
-          "effectIdx4": "2032"
+          "effectIdx4": "2032",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "757",
@@ -8937,7 +9681,8 @@ window.unique=[
           "effectIdx1": "1914",
           "effectIdx2": "2043",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "758",
@@ -8949,7 +9694,8 @@ window.unique=[
           "effectIdx1": "2027",
           "effectIdx2": "2033",
           "effectIdx3": "2040",
-          "effectIdx4": "2034"
+          "effectIdx4": "2034",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "759",
@@ -8961,7 +9707,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "300012",
           "effectIdx3": "820",
-          "effectIdx4": "64"
+          "effectIdx4": "64",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "760",
@@ -8973,7 +9720,8 @@ window.unique=[
           "effectIdx1": "2051",
           "effectIdx2": "1840",
           "effectIdx3": "1751",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "761",
@@ -8985,7 +9733,8 @@ window.unique=[
           "effectIdx1": "10100",
           "effectIdx2": "1913",
           "effectIdx3": "2062",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "762",
@@ -8997,7 +9746,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "895",
           "effectIdx3": "1851",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "763",
@@ -9009,7 +9759,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "880",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "764",
@@ -9021,7 +9772,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "794",
           "effectIdx3": "13703",
-          "effectIdx4": "2067"
+          "effectIdx4": "2067",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "765",
@@ -9033,7 +9785,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "112",
           "effectIdx3": "1212",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "766",
@@ -9045,7 +9798,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "1212",
           "effectIdx3": "1268",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "767",
@@ -9057,7 +9811,8 @@ window.unique=[
           "effectIdx1": "628",
           "effectIdx2": "1777",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "768",
@@ -9069,7 +9824,8 @@ window.unique=[
           "effectIdx1": "628",
           "effectIdx2": "1777",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "769",
@@ -9081,7 +9837,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "13099",
           "effectIdx3": "968",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "770",
@@ -9093,7 +9850,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "820",
           "effectIdx3": "1335",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "771",
@@ -9105,7 +9863,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "21000",
           "effectIdx3": "357",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "772",
@@ -9117,7 +9876,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "820",
           "effectIdx3": "20002",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "773",
@@ -9129,7 +9889,8 @@ window.unique=[
           "effectIdx1": "776",
           "effectIdx2": "1549",
           "effectIdx3": "1751",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "774",
@@ -9141,7 +9902,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "13079",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "775",
@@ -9153,7 +9915,8 @@ window.unique=[
           "effectIdx1": "776",
           "effectIdx2": "1549",
           "effectIdx3": "1751",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "776",
@@ -9165,7 +9928,8 @@ window.unique=[
           "effectIdx1": "859",
           "effectIdx2": "13079",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "777",
@@ -9177,7 +9941,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "82",
           "effectIdx3": "663",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "778",
@@ -9189,7 +9954,8 @@ window.unique=[
           "effectIdx1": "13099",
           "effectIdx2": "1646",
           "effectIdx3": "2079",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "779",
@@ -9201,7 +9967,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "21000",
           "effectIdx3": "20009",
-          "effectIdx4": "1115"
+          "effectIdx4": "1115",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "780",
@@ -9213,7 +9980,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "1268",
           "effectIdx3": "13699",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "781",
@@ -9225,7 +9993,8 @@ window.unique=[
           "effectIdx1": "13099",
           "effectIdx2": "2083",
           "effectIdx3": "1646",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "782",
@@ -9237,7 +10006,8 @@ window.unique=[
           "effectIdx1": "1772",
           "effectIdx2": "46",
           "effectIdx3": "20501",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "783",
@@ -9249,7 +10019,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1839",
           "effectIdx3": "1914",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "784",
@@ -9261,7 +10032,8 @@ window.unique=[
           "effectIdx1": "2084",
           "effectIdx2": "13699",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "785",
@@ -9273,7 +10045,8 @@ window.unique=[
           "effectIdx1": "30214",
           "effectIdx2": "21000",
           "effectIdx3": "1115",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "786",
@@ -9285,7 +10058,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "2089",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "787",
@@ -9297,7 +10071,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1768",
           "effectIdx3": "1646",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "788",
@@ -9309,7 +10084,8 @@ window.unique=[
           "effectIdx1": "13099",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "789",
@@ -9321,7 +10097,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "968",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "790",
@@ -9333,7 +10110,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "1268",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "791",
@@ -9345,7 +10123,8 @@ window.unique=[
           "effectIdx1": "13079",
           "effectIdx2": "968",
           "effectIdx3": "1988",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "792",
@@ -9357,7 +10136,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1838",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "793",
@@ -9369,7 +10149,8 @@ window.unique=[
           "effectIdx1": "736",
           "effectIdx2": "1335",
           "effectIdx3": "895",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "794",
@@ -9381,7 +10162,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1273",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "795",
@@ -9393,7 +10175,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "895",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "796",
@@ -9405,7 +10188,8 @@ window.unique=[
           "effectIdx1": "2099",
           "effectIdx2": "1961",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "797",
@@ -9417,7 +10201,8 @@ window.unique=[
           "effectIdx1": "967",
           "effectIdx2": "1914",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "798",
@@ -9429,7 +10214,8 @@ window.unique=[
           "effectIdx1": "30019",
           "effectIdx2": "268",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "799",
@@ -9441,7 +10227,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "820",
           "effectIdx3": "1335",
-          "effectIdx4": "2200"
+          "effectIdx4": "2200",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "800",
@@ -9453,7 +10240,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "1423",
           "effectIdx3": "542",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "801",
@@ -9465,7 +10253,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "21000",
           "effectIdx3": "1950",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "802",
@@ -9477,7 +10266,8 @@ window.unique=[
           "effectIdx1": "800",
           "effectIdx2": "2108",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "803",
@@ -9489,7 +10279,8 @@ window.unique=[
           "effectIdx1": "2053",
           "effectIdx2": "2108",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "804",
@@ -9501,7 +10292,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "2109",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "805",
@@ -9513,7 +10305,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "1115",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "806",
@@ -9525,7 +10318,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "1335",
           "effectIdx3": "895",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "807",
@@ -9537,7 +10331,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "13079",
           "effectIdx3": "1521",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "808",
@@ -9549,7 +10344,8 @@ window.unique=[
           "effectIdx1": "678",
           "effectIdx2": "13059",
           "effectIdx3": "1379",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "809",
@@ -9561,7 +10357,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "1268",
           "effectIdx3": "21000",
-          "effectIdx4": "30"
+          "effectIdx4": "30",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "810",
@@ -9573,7 +10370,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "2117",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "811",
@@ -9585,7 +10383,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "11099",
           "effectIdx3": "774",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "812",
@@ -9597,7 +10396,8 @@ window.unique=[
           "effectIdx1": "13079",
           "effectIdx2": "820",
           "effectIdx3": "1646",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "813",
@@ -9609,7 +10409,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1423",
           "effectIdx3": "1838",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "814",
@@ -9621,7 +10422,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "1335",
           "effectIdx3": "82",
-          "effectIdx4": "1751"
+          "effectIdx4": "1751",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "815",
@@ -9633,7 +10435,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1780",
           "effectIdx3": "82",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "816",
@@ -9645,7 +10448,8 @@ window.unique=[
           "effectIdx1": "13079",
           "effectIdx2": "694",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "817",
@@ -9657,7 +10461,8 @@ window.unique=[
           "effectIdx1": "1335",
           "effectIdx2": "1646",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "818",
@@ -9669,7 +10474,8 @@ window.unique=[
           "effectIdx1": "64",
           "effectIdx2": "1840",
           "effectIdx3": "774",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "819",
@@ -9681,7 +10487,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "1279",
           "effectIdx3": "13049",
-          "effectIdx4": "30"
+          "effectIdx4": "30",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "820",
@@ -9693,7 +10500,8 @@ window.unique=[
           "effectIdx1": "1794",
           "effectIdx2": "1840",
           "effectIdx3": "82",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "821",
@@ -9705,7 +10513,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "13079",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "822",
@@ -9717,7 +10526,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "880",
           "effectIdx3": "1273",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "823",
@@ -9729,7 +10539,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "774",
           "effectIdx3": "2140",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "824",
@@ -9741,7 +10552,8 @@ window.unique=[
           "effectIdx1": "2133",
           "effectIdx2": "1381",
           "effectIdx3": "82",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "825",
@@ -9753,7 +10565,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1840",
           "effectIdx3": "1838",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "826",
@@ -9765,7 +10578,8 @@ window.unique=[
           "effectIdx1": "689",
           "effectIdx2": "895",
           "effectIdx3": "1910",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "827",
@@ -9777,7 +10591,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "968",
-          "effectIdx4": "820"
+          "effectIdx4": "820",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "828",
@@ -9789,7 +10604,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1961",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "829",
@@ -9801,7 +10617,8 @@ window.unique=[
           "effectIdx1": "13068",
           "effectIdx2": "30022",
           "effectIdx3": "2164",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "830",
@@ -9813,7 +10630,8 @@ window.unique=[
           "effectIdx1": "13068",
           "effectIdx2": "30022",
           "effectIdx3": "2164",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "831",
@@ -9825,7 +10643,8 @@ window.unique=[
           "effectIdx1": "13068",
           "effectIdx2": "30022",
           "effectIdx3": "2164",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "832",
@@ -9837,7 +10656,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1840",
           "effectIdx3": "1378",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "833",
@@ -9849,7 +10669,8 @@ window.unique=[
           "effectIdx1": "10100",
           "effectIdx2": "1840",
           "effectIdx3": "1115",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "834",
@@ -9861,7 +10682,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "12099",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "835",
@@ -9873,7 +10695,8 @@ window.unique=[
           "effectIdx1": "1268",
           "effectIdx2": "1916",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "836",
@@ -9885,7 +10708,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "300012",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "837",
@@ -9897,7 +10721,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "13079",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "838",
@@ -9909,7 +10734,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "895",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "839",
@@ -9921,7 +10747,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "30011",
           "effectIdx3": "1646",
-          "effectIdx4": "2002"
+          "effectIdx4": "2002",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "840",
@@ -9933,7 +10760,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1840",
           "effectIdx3": "2199",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "841",
@@ -9945,7 +10773,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "1268",
           "effectIdx3": "183",
-          "effectIdx4": "30"
+          "effectIdx4": "30",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "842",
@@ -9957,7 +10786,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "13599",
           "effectIdx3": "1839",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "843",
@@ -9969,7 +10799,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1840",
           "effectIdx3": "2230",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "844",
@@ -9981,7 +10812,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1840",
           "effectIdx3": "2231",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "845",
@@ -9993,7 +10825,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "846",
@@ -10005,7 +10838,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "684",
           "effectIdx3": "652",
-          "effectIdx4": "1695"
+          "effectIdx4": "1695",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "847",
@@ -10017,7 +10851,8 @@ window.unique=[
           "effectIdx1": "20009",
           "effectIdx2": "684",
           "effectIdx3": "13069",
-          "effectIdx4": "820"
+          "effectIdx4": "820",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "848",
@@ -10029,7 +10864,8 @@ window.unique=[
           "effectIdx1": "1699",
           "effectIdx2": "2226",
           "effectIdx3": "110",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "849",
@@ -10041,7 +10877,8 @@ window.unique=[
           "effectIdx1": "2241",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "850",
@@ -10053,7 +10890,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "968",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "851",
@@ -10065,7 +10903,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "652",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "852",
@@ -10077,7 +10916,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "1268",
           "effectIdx3": "1115",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "853",
@@ -10089,7 +10929,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "2259",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "854",
@@ -10101,7 +10942,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "694",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "855",
@@ -10113,7 +10955,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "2246",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "856",
@@ -10125,7 +10968,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "1699",
           "effectIdx3": "1996",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "857",
@@ -10137,7 +10981,8 @@ window.unique=[
           "effectIdx1": "322",
           "effectIdx2": "684",
           "effectIdx3": "82",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "858",
@@ -10149,7 +10994,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "13099",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "859",
@@ -10161,7 +11007,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1537",
           "effectIdx3": "300012",
-          "effectIdx4": "820"
+          "effectIdx4": "820",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "860",
@@ -10173,7 +11020,8 @@ window.unique=[
           "effectIdx1": "968",
           "effectIdx2": "13079",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "861",
@@ -10185,7 +11033,8 @@ window.unique=[
           "effectIdx1": "300012",
           "effectIdx2": "820",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "862",
@@ -10197,7 +11046,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "2133",
           "effectIdx3": "1423",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "863",
@@ -10209,7 +11059,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "1423",
           "effectIdx3": "300012",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "864",
@@ -10221,7 +11072,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "682",
           "effectIdx3": "895",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "865",
@@ -10233,7 +11085,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1995",
           "effectIdx3": "1830",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "866",
@@ -10245,7 +11098,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "1642",
           "effectIdx3": "694",
-          "effectIdx4": "300012"
+          "effectIdx4": "300012",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "868",
@@ -10257,7 +11111,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "859",
           "effectIdx3": "1649",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "869",
@@ -10269,7 +11124,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "628",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "870",
@@ -10281,7 +11137,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "968",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "871",
@@ -10293,7 +11150,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "1043",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "872",
@@ -10305,7 +11163,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "13059",
           "effectIdx3": "1511",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "873",
@@ -10317,7 +11176,8 @@ window.unique=[
           "effectIdx1": "2285",
           "effectIdx2": "684",
           "effectIdx3": "12099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "874",
@@ -10329,7 +11189,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "31508",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "875",
@@ -10341,7 +11202,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "1327",
-          "effectIdx4": "1328"
+          "effectIdx4": "1328",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "876",
@@ -10353,7 +11215,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "13059",
           "effectIdx3": "2293",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "877",
@@ -10365,7 +11228,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "1876",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "878",
@@ -10377,7 +11241,8 @@ window.unique=[
           "effectIdx1": "1699",
           "effectIdx2": "1996",
           "effectIdx3": "628",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "879",
@@ -10389,7 +11254,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "13049",
           "effectIdx3": "300012",
-          "effectIdx4": "820"
+          "effectIdx4": "820",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "880",
@@ -10401,7 +11267,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "13059",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "881",
@@ -10413,7 +11280,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "968",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "882",
@@ -10425,7 +11293,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "883",
@@ -10437,7 +11306,8 @@ window.unique=[
           "effectIdx1": "2317",
           "effectIdx2": "82",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "884",
@@ -10449,7 +11319,8 @@ window.unique=[
           "effectIdx1": "13079",
           "effectIdx2": "968",
           "effectIdx3": "1190",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "885",
@@ -10461,7 +11332,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "1043",
           "effectIdx3": "1423",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "886",
@@ -10473,7 +11345,8 @@ window.unique=[
           "effectIdx1": "1699",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "887",
@@ -10485,7 +11358,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "1840",
           "effectIdx3": "859",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "888",
@@ -10497,7 +11371,8 @@ window.unique=[
           "effectIdx1": "583",
           "effectIdx2": "628",
           "effectIdx3": "1115",
-          "effectIdx4": "13089"
+          "effectIdx4": "13089",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "889",
@@ -10509,7 +11384,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "2345",
           "effectIdx3": "1718",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "890",
@@ -10521,7 +11397,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "968",
           "effectIdx3": "880",
-          "effectIdx4": "1642"
+          "effectIdx4": "1642",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "891",
@@ -10533,7 +11410,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "820",
           "effectIdx3": "1043",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "892",
@@ -10545,7 +11423,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "13059",
           "effectIdx3": "1115",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "894",
@@ -10557,7 +11436,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "820",
           "effectIdx3": "1423",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "895",
@@ -10569,7 +11449,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "896",
@@ -10581,7 +11462,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "253",
           "effectIdx3": "20501",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "897",
@@ -10593,7 +11475,8 @@ window.unique=[
           "effectIdx1": "1984",
           "effectIdx2": "1794",
           "effectIdx3": "110",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "898",
@@ -10605,7 +11488,8 @@ window.unique=[
           "effectIdx1": "1501",
           "effectIdx2": "1840",
           "effectIdx3": "1949",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "899",
@@ -10617,7 +11501,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1163",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "900",
@@ -10629,7 +11514,8 @@ window.unique=[
           "effectIdx1": "813",
           "effectIdx2": "1115",
           "effectIdx3": "1043",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "901",
@@ -10641,7 +11527,8 @@ window.unique=[
           "effectIdx1": "0",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "902",
@@ -10653,7 +11540,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "13059",
           "effectIdx3": "1043",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "903",
@@ -10665,7 +11553,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "1423",
           "effectIdx3": "628",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "904",
@@ -10677,7 +11566,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1794",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "905",
@@ -10689,7 +11579,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "13059",
           "effectIdx3": "1910",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "906",
@@ -10701,7 +11592,8 @@ window.unique=[
           "effectIdx1": "20501",
           "effectIdx2": "2089",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "907",
@@ -10713,7 +11605,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "22009",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "908",
@@ -10725,7 +11618,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "1268",
           "effectIdx3": "895",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "909",
@@ -10737,7 +11631,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "13069",
           "effectIdx3": "1423",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "910",
@@ -10749,7 +11644,8 @@ window.unique=[
           "effectIdx1": "2413",
           "effectIdx2": "30",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "911",
@@ -10761,7 +11657,8 @@ window.unique=[
           "effectIdx1": "1540",
           "effectIdx2": "1268",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "912",
@@ -10773,7 +11670,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1768",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "913",
@@ -10785,7 +11683,8 @@ window.unique=[
           "effectIdx1": "1539",
           "effectIdx2": "13099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "914",
@@ -10797,7 +11696,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "820",
           "effectIdx3": "20501",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "915",
@@ -10809,7 +11709,8 @@ window.unique=[
           "effectIdx1": "2051",
           "effectIdx2": "684",
           "effectIdx3": "1423",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "916",
@@ -10821,7 +11722,8 @@ window.unique=[
           "effectIdx1": "13043",
           "effectIdx2": "30023",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "917",
@@ -10833,7 +11735,8 @@ window.unique=[
           "effectIdx1": "13043",
           "effectIdx2": "30023",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "918",
@@ -10845,7 +11748,8 @@ window.unique=[
           "effectIdx1": "2473",
           "effectIdx2": "2424",
           "effectIdx3": "2425",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "919",
@@ -10857,7 +11761,8 @@ window.unique=[
           "effectIdx1": "2435",
           "effectIdx2": "1583",
           "effectIdx3": "2425",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "920",
@@ -10869,7 +11774,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1840",
           "effectIdx3": "2051",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "921",
@@ -10881,7 +11787,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "820",
           "effectIdx3": "300012",
-          "effectIdx4": "1423"
+          "effectIdx4": "1423",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "922",
@@ -10893,7 +11800,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "11099",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "923",
@@ -10905,7 +11813,8 @@ window.unique=[
           "effectIdx1": "2463",
           "effectIdx2": "820",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "924",
@@ -10917,7 +11826,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "13599",
           "effectIdx3": "2465",
-          "effectIdx4": "2466"
+          "effectIdx4": "2466",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "925",
@@ -10929,7 +11839,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "13649",
           "effectIdx3": "880",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "926",
@@ -10941,7 +11852,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "1484",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "927",
@@ -10953,7 +11865,8 @@ window.unique=[
           "effectIdx1": "2141",
           "effectIdx2": "22007",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "928",
@@ -10965,7 +11878,8 @@ window.unique=[
           "effectIdx1": "1876",
           "effectIdx2": "820",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "929",
@@ -10977,7 +11891,8 @@ window.unique=[
           "effectIdx1": "253",
           "effectIdx2": "684",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "930",
@@ -10989,7 +11904,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "931",
@@ -11001,7 +11917,8 @@ window.unique=[
           "effectIdx1": "2472",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "932",
@@ -11013,7 +11930,8 @@ window.unique=[
           "effectIdx1": "2489",
           "effectIdx2": "2490",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "933",
@@ -11025,7 +11943,8 @@ window.unique=[
           "effectIdx1": "30019",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "934",
@@ -11037,7 +11956,8 @@ window.unique=[
           "effectIdx1": "2491",
           "effectIdx2": "264",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "935",
@@ -11049,7 +11969,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "2490",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "936",
@@ -11061,7 +11982,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1538",
           "effectIdx3": "1768",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "937",
@@ -11073,7 +11995,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "13069",
           "effectIdx3": "1167",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "938",
@@ -11085,7 +12008,8 @@ window.unique=[
           "effectIdx1": "1800",
           "effectIdx2": "1539",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "939",
@@ -11097,7 +12021,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "2506",
           "effectIdx3": "774",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "940",
@@ -11109,7 +12034,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "941",
@@ -11121,7 +12047,8 @@ window.unique=[
           "effectIdx1": "20009",
           "effectIdx2": "2507",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "942",
@@ -11133,7 +12060,8 @@ window.unique=[
           "effectIdx1": "13099",
           "effectIdx2": "2446",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "943",
@@ -11145,7 +12073,8 @@ window.unique=[
           "effectIdx1": "2517",
           "effectIdx2": "13069",
           "effectIdx3": "895",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "944",
@@ -11157,7 +12086,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "945",
@@ -11169,7 +12099,8 @@ window.unique=[
           "effectIdx1": "11079",
           "effectIdx2": "12079",
           "effectIdx3": "13079",
-          "effectIdx4": "2512"
+          "effectIdx4": "2512",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "946",
@@ -11181,7 +12112,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1379",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "947",
@@ -11193,7 +12125,8 @@ window.unique=[
           "effectIdx1": "2530",
           "effectIdx2": "1958",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "948",
@@ -11205,7 +12138,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "2531",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "949",
@@ -11217,7 +12151,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "2529",
           "effectIdx3": "1187",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "950",
@@ -11229,7 +12164,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "439",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "951",
@@ -11241,7 +12177,8 @@ window.unique=[
           "effectIdx1": "1210",
           "effectIdx2": "13099",
           "effectIdx3": "30",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "952",
@@ -11253,7 +12190,8 @@ window.unique=[
           "effectIdx1": "1268",
           "effectIdx2": "734",
           "effectIdx3": "2524",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "954",
@@ -11265,7 +12203,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1538",
           "effectIdx3": "1768",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "955",
@@ -11277,7 +12216,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "684",
           "effectIdx3": "1423",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "956",
@@ -11289,7 +12229,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "2555",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "957",
@@ -11301,7 +12242,8 @@ window.unique=[
           "effectIdx1": "2554",
           "effectIdx2": "1958",
           "effectIdx3": "2556",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "958",
@@ -11313,7 +12255,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "11079",
           "effectIdx3": "12079",
-          "effectIdx4": "13079"
+          "effectIdx4": "13079",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "959",
@@ -11325,7 +12268,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1379",
           "effectIdx3": "2070",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "960",
@@ -11337,7 +12281,8 @@ window.unique=[
           "effectIdx1": "10100",
           "effectIdx2": "2532",
           "effectIdx3": "2533",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "961",
@@ -11349,7 +12294,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1538",
           "effectIdx3": "1768",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "962",
@@ -11361,7 +12307,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1538",
           "effectIdx3": "1768",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "963",
@@ -11373,7 +12320,8 @@ window.unique=[
           "effectIdx1": "240",
           "effectIdx2": "1998",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "964",
@@ -11385,7 +12333,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "2574",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "965",
@@ -11397,7 +12346,8 @@ window.unique=[
           "effectIdx1": "2577",
           "effectIdx2": "1794",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "966",
@@ -11409,7 +12359,8 @@ window.unique=[
           "effectIdx1": "647",
           "effectIdx2": "1131",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "967",
@@ -11421,7 +12372,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "2508",
           "effectIdx3": "2582",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "968",
@@ -11433,7 +12385,8 @@ window.unique=[
           "effectIdx1": "1997",
           "effectIdx2": "30",
           "effectIdx3": "1646",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "969",
@@ -11445,7 +12398,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "2593",
           "effectIdx3": "1961",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "970",
@@ -11457,7 +12411,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1646",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "971",
@@ -11469,7 +12424,8 @@ window.unique=[
           "effectIdx1": "2336",
           "effectIdx2": "1961",
           "effectIdx3": "2602",
-          "effectIdx4": "895"
+          "effectIdx4": "895",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "972",
@@ -11481,7 +12437,8 @@ window.unique=[
           "effectIdx1": "2603",
           "effectIdx2": "2604",
           "effectIdx3": "2605",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "973",
@@ -11493,7 +12450,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "13079",
           "effectIdx3": "895",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "974",
@@ -11505,7 +12463,8 @@ window.unique=[
           "effectIdx1": "689",
           "effectIdx2": "1115",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "975",
@@ -11517,7 +12476,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "13079",
           "effectIdx3": "2524",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "976",
@@ -11529,7 +12489,8 @@ window.unique=[
           "effectIdx1": "689",
           "effectIdx2": "1115",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "977",
@@ -11541,7 +12502,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "13079",
           "effectIdx3": "2524",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "978",
@@ -11553,7 +12515,8 @@ window.unique=[
           "effectIdx1": "689",
           "effectIdx2": "1115",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "979",
@@ -11565,7 +12528,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "2343",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "980",
@@ -11577,7 +12541,8 @@ window.unique=[
           "effectIdx1": "13079",
           "effectIdx2": "1840",
           "effectIdx3": "895",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "981",
@@ -11589,7 +12554,8 @@ window.unique=[
           "effectIdx1": "1984",
           "effectIdx2": "684",
           "effectIdx3": "1699",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "982",
@@ -11601,7 +12567,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1995",
           "effectIdx3": "880",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "983",
@@ -11613,7 +12580,8 @@ window.unique=[
           "effectIdx1": "679",
           "effectIdx2": "2465",
           "effectIdx3": "2446",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "984",
@@ -11625,7 +12593,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "2631",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "985",
@@ -11637,7 +12606,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "2631",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "986",
@@ -11649,7 +12619,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "2631",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "987",
@@ -11661,7 +12632,8 @@ window.unique=[
           "effectIdx1": "20009",
           "effectIdx2": "1115",
           "effectIdx3": "2524",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "988",
@@ -11673,7 +12645,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "12099",
           "effectIdx3": "1998",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "989",
@@ -11685,7 +12658,8 @@ window.unique=[
           "effectIdx1": "2634",
           "effectIdx2": "952",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "990",
@@ -11697,7 +12671,8 @@ window.unique=[
           "effectIdx1": "13089",
           "effectIdx2": "880",
           "effectIdx3": "2633",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "991",
@@ -11709,7 +12684,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1268",
           "effectIdx3": "968",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "992",
@@ -11721,7 +12697,8 @@ window.unique=[
           "effectIdx1": "1994",
           "effectIdx2": "1538",
           "effectIdx3": "1120",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "993",
@@ -11733,7 +12710,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "2644",
           "effectIdx3": "1510",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "994",
@@ -11745,7 +12723,8 @@ window.unique=[
           "effectIdx1": "2070",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "995",
@@ -11757,7 +12736,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "2646",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "996",
@@ -11769,7 +12749,8 @@ window.unique=[
           "effectIdx1": "2652",
           "effectIdx2": "2653",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "997",
@@ -11781,7 +12762,8 @@ window.unique=[
           "effectIdx1": "2652",
           "effectIdx2": "880",
           "effectIdx3": "2275",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "998",
@@ -11793,7 +12775,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "2665",
           "effectIdx3": "2666",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "999",
@@ -11805,7 +12788,8 @@ window.unique=[
           "effectIdx1": "735",
           "effectIdx2": "2667",
           "effectIdx3": "2668",
-          "effectIdx4": "1583"
+          "effectIdx4": "1583",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1000",
@@ -11817,7 +12801,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "679",
           "effectIdx3": "1646",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1001",
@@ -11829,7 +12814,8 @@ window.unique=[
           "effectIdx1": "22008",
           "effectIdx2": "2674",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1002",
@@ -11841,7 +12827,8 @@ window.unique=[
           "effectIdx1": "2694",
           "effectIdx2": "880",
           "effectIdx3": "2275",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1003",
@@ -11853,7 +12840,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "2698",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1004",
@@ -11865,7 +12853,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1994",
           "effectIdx3": "2699",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1005",
@@ -11877,7 +12866,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "2700",
           "effectIdx3": "2701",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1006",
@@ -11889,7 +12879,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "2700",
           "effectIdx3": "2702",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1007",
@@ -11901,7 +12892,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "2700",
           "effectIdx3": "2703",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1008",
@@ -11913,7 +12905,8 @@ window.unique=[
           "effectIdx1": "813",
           "effectIdx2": "1646",
           "effectIdx3": "2719",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1009",
@@ -11925,7 +12918,8 @@ window.unique=[
           "effectIdx1": "1379",
           "effectIdx2": "2712",
           "effectIdx3": "2713",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1010",
@@ -11937,7 +12931,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "2714",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1011",
@@ -11949,7 +12944,8 @@ window.unique=[
           "effectIdx1": "1204",
           "effectIdx2": "880",
           "effectIdx3": "1115",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1012",
@@ -11961,7 +12957,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "2555",
           "effectIdx3": "2726",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1013",
@@ -11973,7 +12970,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1758",
           "effectIdx3": "2727",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1014",
@@ -11985,7 +12983,8 @@ window.unique=[
           "effectIdx1": "13079",
           "effectIdx2": "1961",
           "effectIdx3": "82",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1015",
@@ -11997,7 +12996,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "2732",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1016",
@@ -12009,7 +13009,8 @@ window.unique=[
           "effectIdx1": "64",
           "effectIdx2": "1221",
           "effectIdx3": "30011",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1017",
@@ -12021,7 +13022,8 @@ window.unique=[
           "effectIdx1": "2739",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1018",
@@ -12033,7 +13035,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "2740",
           "effectIdx3": "82",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1019",
@@ -12045,7 +13048,8 @@ window.unique=[
           "effectIdx1": "1994",
           "effectIdx2": "1646",
           "effectIdx3": "64",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1020",
@@ -12057,7 +13061,8 @@ window.unique=[
           "effectIdx1": "798",
           "effectIdx2": "1285",
           "effectIdx3": "2741",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1021",
@@ -12069,7 +13074,8 @@ window.unique=[
           "effectIdx1": "2770",
           "effectIdx2": "2771",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1022",
@@ -12081,7 +13087,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "2719",
           "effectIdx3": "20002",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1023",
@@ -12093,7 +13100,8 @@ window.unique=[
           "effectIdx1": "2776",
           "effectIdx2": "2777",
           "effectIdx3": "2778",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1024",
@@ -12105,7 +13113,8 @@ window.unique=[
           "effectIdx1": "1226",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1025",
@@ -12117,7 +13126,8 @@ window.unique=[
           "effectIdx1": "82",
           "effectIdx2": "1751",
           "effectIdx3": "2781",
-          "effectIdx4": "2782"
+          "effectIdx4": "2782",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1026",
@@ -12129,7 +13139,8 @@ window.unique=[
           "effectIdx1": "13074",
           "effectIdx2": "1840",
           "effectIdx3": "1378",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1027",
@@ -12141,7 +13152,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "1838",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1028",
@@ -12153,7 +13165,8 @@ window.unique=[
           "effectIdx1": "2104",
           "effectIdx2": "1840",
           "effectIdx3": "1089",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1029",
@@ -12165,7 +13178,8 @@ window.unique=[
           "effectIdx1": "13079",
           "effectIdx2": "694",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1030",
@@ -12177,7 +13191,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1910",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1031",
@@ -12189,7 +13204,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "2804",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1032",
@@ -12201,7 +13217,8 @@ window.unique=[
           "effectIdx1": "2632",
           "effectIdx2": "2336",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1033",
@@ -12213,7 +13230,8 @@ window.unique=[
           "effectIdx1": "2806",
           "effectIdx2": "774",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1034",
@@ -12225,7 +13243,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "12099",
           "effectIdx3": "13079",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1035",
@@ -12237,7 +13256,8 @@ window.unique=[
           "effectIdx1": "2807",
           "effectIdx2": "1892",
           "effectIdx3": "1909",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1036",
@@ -12249,7 +13269,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "647",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1037",
@@ -12261,7 +13282,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "13049",
           "effectIdx3": "300012",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1038",
@@ -12273,7 +13295,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "13049",
           "effectIdx3": "300012",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1039",
@@ -12285,7 +13308,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "13049",
           "effectIdx3": "300012",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1040",
@@ -12297,7 +13321,8 @@ window.unique=[
           "effectIdx1": "10671",
           "effectIdx2": "2099",
           "effectIdx3": "1204",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1041",
@@ -12309,7 +13334,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "13049",
           "effectIdx3": "300012",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1042",
@@ -12321,7 +13347,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "13099",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1043",
@@ -12333,7 +13360,8 @@ window.unique=[
           "effectIdx1": "10100",
           "effectIdx2": "30019",
           "effectIdx3": "2817",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1044",
@@ -12345,7 +13373,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "1210",
           "effectIdx3": "2352",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1045",
@@ -12357,7 +13386,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "1840",
           "effectIdx3": "2824",
-          "effectIdx4": "2825"
+          "effectIdx4": "2825",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1046",
@@ -12369,7 +13399,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "30011",
           "effectIdx3": "2829",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1047",
@@ -12381,7 +13412,8 @@ window.unique=[
           "effectIdx1": "2835",
           "effectIdx2": "2423",
           "effectIdx3": "2275",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1048",
@@ -12393,7 +13425,8 @@ window.unique=[
           "effectIdx1": "2838",
           "effectIdx2": "2839",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1049",
@@ -12405,7 +13438,8 @@ window.unique=[
           "effectIdx1": "2343",
           "effectIdx2": "2858",
           "effectIdx3": "2500",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1050",
@@ -12417,7 +13451,8 @@ window.unique=[
           "effectIdx1": "30021",
           "effectIdx2": "2859",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1051",
@@ -12429,7 +13464,8 @@ window.unique=[
           "effectIdx1": "2867",
           "effectIdx2": "2011",
           "effectIdx3": "13039",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1052",
@@ -12441,7 +13477,8 @@ window.unique=[
           "effectIdx1": "2868",
           "effectIdx2": "2869",
           "effectIdx3": "2870",
-          "effectIdx4": "1958"
+          "effectIdx4": "1958",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1053",
@@ -12453,7 +13490,8 @@ window.unique=[
           "effectIdx1": "2871",
           "effectIdx2": "1378",
           "effectIdx3": "2872",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1054",
@@ -12465,7 +13503,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "2849",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1055",
@@ -12477,7 +13516,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1115",
           "effectIdx3": "20009",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1056",
@@ -12489,7 +13529,8 @@ window.unique=[
           "effectIdx1": "11079",
           "effectIdx2": "12079",
           "effectIdx3": "13079",
-          "effectIdx4": "2633"
+          "effectIdx4": "2633",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1057",
@@ -12501,7 +13542,8 @@ window.unique=[
           "effectIdx1": "2895",
           "effectIdx2": "2500",
           "effectIdx3": "583",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1058",
@@ -12513,7 +13555,8 @@ window.unique=[
           "effectIdx1": "30011",
           "effectIdx2": "684",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1059",
@@ -12525,7 +13568,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "652",
           "effectIdx3": "13069",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1060",
@@ -12537,7 +13581,8 @@ window.unique=[
           "effectIdx1": "2632",
           "effectIdx2": "1994",
           "effectIdx3": "2524",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1061",
@@ -12549,7 +13594,8 @@ window.unique=[
           "effectIdx1": "2907",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1062",
@@ -12561,7 +13607,8 @@ window.unique=[
           "effectIdx1": "326",
           "effectIdx2": "794",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1063",
@@ -12573,7 +13620,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1840",
           "effectIdx3": "1378",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1064",
@@ -12585,7 +13633,8 @@ window.unique=[
           "effectIdx1": "736",
           "effectIdx2": "12111",
           "effectIdx3": "13079",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1065",
@@ -12597,7 +13646,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1768",
           "effectIdx3": "2914",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1066",
@@ -12609,7 +13659,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1961",
           "effectIdx3": "1423",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1067",
@@ -12621,7 +13672,8 @@ window.unique=[
           "effectIdx1": "11099",
           "effectIdx2": "13099",
           "effectIdx3": "813",
-          "effectIdx4": "2524"
+          "effectIdx4": "2524",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1068",
@@ -12633,7 +13685,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "2644",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1069",
@@ -12645,7 +13698,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "1201",
           "effectIdx3": "2382",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1070",
@@ -12657,7 +13711,8 @@ window.unique=[
           "effectIdx1": "2056",
           "effectIdx2": "1218",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1071",
@@ -12669,7 +13724,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "774",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1072",
@@ -12681,7 +13737,8 @@ window.unique=[
           "effectIdx1": "2940",
           "effectIdx2": "1646",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1073",
@@ -12693,7 +13750,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "2941",
           "effectIdx3": "2950",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1074",
@@ -12705,7 +13763,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "2070",
           "effectIdx3": "2505",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1075",
@@ -12717,7 +13776,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "684",
           "effectIdx3": "2944",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1076",
@@ -12729,7 +13789,8 @@ window.unique=[
           "effectIdx1": "2942",
           "effectIdx2": "2943",
           "effectIdx3": "2524",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1077",
@@ -12741,7 +13802,8 @@ window.unique=[
           "effectIdx1": "2413",
           "effectIdx2": "300012",
           "effectIdx3": "2524",
-          "effectIdx4": "112"
+          "effectIdx4": "112",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1078",
@@ -12753,7 +13815,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "10100",
           "effectIdx3": "112",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1079",
@@ -12765,7 +13828,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "11099",
           "effectIdx3": "112",
-          "effectIdx4": "813"
+          "effectIdx4": "813",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1080",
@@ -12777,7 +13841,8 @@ window.unique=[
           "effectIdx1": "2413",
           "effectIdx2": "300012",
           "effectIdx3": "2524",
-          "effectIdx4": "112"
+          "effectIdx4": "112",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1081",
@@ -12789,7 +13854,8 @@ window.unique=[
           "effectIdx1": "2963",
           "effectIdx2": "13054",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1082",
@@ -12801,7 +13867,8 @@ window.unique=[
           "effectIdx1": "2672",
           "effectIdx2": "13054",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1083",
@@ -12813,7 +13880,8 @@ window.unique=[
           "effectIdx1": "1838",
           "effectIdx2": "2996",
           "effectIdx3": "1218",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1084",
@@ -12825,7 +13893,8 @@ window.unique=[
           "effectIdx1": "2160",
           "effectIdx2": "1840",
           "effectIdx3": "2500",
-          "effectIdx4": "583"
+          "effectIdx4": "583",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1085",
@@ -12837,7 +13906,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1838",
           "effectIdx3": "2719",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1086",
@@ -12849,7 +13919,8 @@ window.unique=[
           "effectIdx1": "2446",
           "effectIdx2": "1949",
           "effectIdx3": "2632",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1087",
@@ -12861,7 +13932,8 @@ window.unique=[
           "effectIdx1": "22007",
           "effectIdx2": "1909",
           "effectIdx3": "2997",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1088",
@@ -12873,7 +13945,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "2644",
           "effectIdx3": "64",
-          "effectIdx4": "13079"
+          "effectIdx4": "13079",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1089",
@@ -12885,7 +13958,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "895",
           "effectIdx3": "1638",
-          "effectIdx4": "13079"
+          "effectIdx4": "13079",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1090",
@@ -12897,7 +13971,8 @@ window.unique=[
           "effectIdx1": "1892",
           "effectIdx2": "1909",
           "effectIdx3": "3025",
-          "effectIdx4": "2382"
+          "effectIdx4": "2382",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1091",
@@ -12909,7 +13984,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "13099",
           "effectIdx3": "12099",
-          "effectIdx4": "684"
+          "effectIdx4": "684",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1092",
@@ -12921,7 +13997,8 @@ window.unique=[
           "effectIdx1": "1892",
           "effectIdx2": "1909",
           "effectIdx3": "3025",
-          "effectIdx4": "2070"
+          "effectIdx4": "2070",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1093",
@@ -12933,7 +14010,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "2712",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1094",
@@ -12945,7 +14023,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "1840",
           "effectIdx3": "3026",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1095",
@@ -12957,7 +14036,8 @@ window.unique=[
           "effectIdx1": "1994",
           "effectIdx2": "1772",
           "effectIdx3": "13079",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1096",
@@ -12969,7 +14049,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "694",
           "effectIdx3": "20009",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1097",
@@ -12981,7 +14062,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "3042",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1098",
@@ -12993,7 +14075,8 @@ window.unique=[
           "effectIdx1": "3043",
           "effectIdx2": "2655",
           "effectIdx3": "1830",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1099",
@@ -13005,7 +14088,8 @@ window.unique=[
           "effectIdx1": "11069",
           "effectIdx2": "12069",
           "effectIdx3": "13069",
-          "effectIdx4": "583"
+          "effectIdx4": "583",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1100",
@@ -13017,7 +14101,8 @@ window.unique=[
           "effectIdx1": "3044",
           "effectIdx2": "3045",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1101",
@@ -13029,7 +14114,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "13079",
           "effectIdx3": "2446",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1102",
@@ -13041,7 +14127,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "880",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1103",
@@ -13053,7 +14140,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "13069",
           "effectIdx3": "1638",
-          "effectIdx4": "64"
+          "effectIdx4": "64",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1104",
@@ -13065,7 +14153,8 @@ window.unique=[
           "effectIdx1": "2644",
           "effectIdx2": "694",
           "effectIdx3": "2530",
-          "effectIdx4": "990"
+          "effectIdx4": "990",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1105",
@@ -13077,7 +14166,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "774",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1106",
@@ -13089,7 +14179,8 @@ window.unique=[
           "effectIdx1": "64",
           "effectIdx2": "1984",
           "effectIdx3": "1994",
-          "effectIdx4": "1794"
+          "effectIdx4": "1794",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1107",
@@ -13101,7 +14192,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "694",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1108",
@@ -13113,7 +14205,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1994",
           "effectIdx3": "859",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1109",
@@ -13125,7 +14218,8 @@ window.unique=[
           "effectIdx1": "2537",
           "effectIdx2": "13049",
           "effectIdx3": "2644",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1110",
@@ -13137,7 +14231,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "1840",
           "effectIdx3": "3094",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1111",
@@ -13149,7 +14244,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "12099",
           "effectIdx3": "774",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1112",
@@ -13161,7 +14257,8 @@ window.unique=[
           "effectIdx1": "1688",
           "effectIdx2": "3095",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1113",
@@ -13173,7 +14270,8 @@ window.unique=[
           "effectIdx1": "1994",
           "effectIdx2": "1226",
           "effectIdx3": "1225",
-          "effectIdx4": "2851"
+          "effectIdx4": "2851",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1114",
@@ -13185,7 +14283,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "1840",
           "effectIdx3": "3081",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1115",
@@ -13197,7 +14296,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1840",
           "effectIdx3": "2807",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1116",
@@ -13209,7 +14309,8 @@ window.unique=[
           "effectIdx1": "1378",
           "effectIdx2": "1840",
           "effectIdx3": "13049",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1117",
@@ -13221,7 +14322,8 @@ window.unique=[
           "effectIdx1": "3114",
           "effectIdx2": "3115",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1118",
@@ -13233,7 +14335,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "2644",
-          "effectIdx4": "1994"
+          "effectIdx4": "1994",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1119",
@@ -13245,7 +14348,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "774",
           "effectIdx3": "1510",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1120",
@@ -13257,7 +14361,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "13079",
           "effectIdx3": "820",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1121",
@@ -13269,7 +14374,8 @@ window.unique=[
           "effectIdx1": "20051",
           "effectIdx2": "3120",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1122",
@@ -13281,7 +14387,8 @@ window.unique=[
           "effectIdx1": "1794",
           "effectIdx2": "1378",
           "effectIdx3": "1910",
-          "effectIdx4": "13069"
+          "effectIdx4": "13069",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1123",
@@ -13293,7 +14400,8 @@ window.unique=[
           "effectIdx1": "30017",
           "effectIdx2": "3098",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1124",
@@ -13305,7 +14413,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "794",
           "effectIdx3": "1958",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1125",
@@ -13317,7 +14426,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "794",
           "effectIdx3": "2465",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1126",
@@ -13329,7 +14439,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "794",
           "effectIdx3": "2809",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1127",
@@ -13341,7 +14452,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "794",
           "effectIdx3": "2246",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1128",
@@ -13353,7 +14465,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "794",
           "effectIdx3": "880",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1129",
@@ -13365,7 +14478,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "1840",
           "effectIdx3": "3026",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1130",
@@ -13377,7 +14491,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "2524",
           "effectIdx3": "1538",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1131",
@@ -13389,7 +14504,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "774",
           "effectIdx3": "3157",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1132",
@@ -13401,7 +14517,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "13079",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1133",
@@ -13413,7 +14530,8 @@ window.unique=[
           "effectIdx1": "2246",
           "effectIdx2": "13054",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1134",
@@ -13425,7 +14543,8 @@ window.unique=[
           "effectIdx1": "3168",
           "effectIdx2": "451",
           "effectIdx3": "13054",
-          "effectIdx4": "1840"
+          "effectIdx4": "1840",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1135",
@@ -13437,7 +14556,8 @@ window.unique=[
           "effectIdx1": "3195",
           "effectIdx2": "967",
           "effectIdx3": "794",
-          "effectIdx4": "1549"
+          "effectIdx4": "1549",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1136",
@@ -13449,7 +14569,8 @@ window.unique=[
           "effectIdx1": "3196",
           "effectIdx2": "1892",
           "effectIdx3": "1909",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1137",
@@ -13461,7 +14582,8 @@ window.unique=[
           "effectIdx1": "3219",
           "effectIdx2": "3197",
           "effectIdx3": "1892",
-          "effectIdx4": "1909"
+          "effectIdx4": "1909",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1138",
@@ -13473,7 +14595,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "774",
-          "effectIdx4": "1840"
+          "effectIdx4": "1840",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1139",
@@ -13485,7 +14608,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1838",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1140",
@@ -13497,7 +14621,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "774",
-          "effectIdx4": "1840"
+          "effectIdx4": "1840",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1141",
@@ -13509,7 +14634,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "1838",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1142",
@@ -13521,7 +14647,8 @@ window.unique=[
           "effectIdx1": "2722",
           "effectIdx2": "1840",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1143",
@@ -13533,7 +14660,8 @@ window.unique=[
           "effectIdx1": "1115",
           "effectIdx2": "895",
           "effectIdx3": "3062",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1144",
@@ -13545,7 +14673,8 @@ window.unique=[
           "effectIdx1": "1424",
           "effectIdx2": "689",
           "effectIdx3": "1840",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1145",
@@ -13557,7 +14686,8 @@ window.unique=[
           "effectIdx1": "439",
           "effectIdx2": "1751",
           "effectIdx3": "64",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1146",
@@ -13569,7 +14699,8 @@ window.unique=[
           "effectIdx1": "2672",
           "effectIdx2": "2963",
           "effectIdx3": "20501",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1147",
@@ -13581,7 +14712,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "2732",
           "effectIdx3": "13099",
-          "effectIdx4": "774"
+          "effectIdx4": "774",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1148",
@@ -13593,7 +14725,8 @@ window.unique=[
           "effectIdx1": "880",
           "effectIdx2": "2099",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1149",
@@ -13605,7 +14738,8 @@ window.unique=[
           "effectIdx1": "1221",
           "effectIdx2": "30011",
           "effectIdx3": "1646",
-          "effectIdx4": "3236"
+          "effectIdx4": "3236",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1150",
@@ -13617,7 +14751,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "1995",
           "effectIdx3": "2620",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1151",
@@ -13629,7 +14764,8 @@ window.unique=[
           "effectIdx1": "1549",
           "effectIdx2": "682",
           "effectIdx3": "3249",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1152",
@@ -13641,7 +14777,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "21000",
           "effectIdx3": "13099",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1153",
@@ -13653,7 +14790,8 @@ window.unique=[
           "effectIdx1": "264",
           "effectIdx2": "253",
           "effectIdx3": "813",
-          "effectIdx4": "1794"
+          "effectIdx4": "1794",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1154",
@@ -13665,7 +14803,8 @@ window.unique=[
           "effectIdx1": "694",
           "effectIdx2": "1840",
           "effectIdx3": "880",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1155",
@@ -13677,7 +14816,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "3279",
           "effectIdx3": "1378",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1156",
@@ -13689,7 +14829,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "3280",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1157",
@@ -13701,7 +14842,8 @@ window.unique=[
           "effectIdx1": "684",
           "effectIdx2": "13099",
           "effectIdx3": "3280",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1158",
@@ -13713,7 +14855,8 @@ window.unique=[
           "effectIdx1": "3207",
           "effectIdx2": "3279",
           "effectIdx3": "1378",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1159",
@@ -13725,7 +14868,8 @@ window.unique=[
           "effectIdx1": "1949",
           "effectIdx2": "3288",
           "effectIdx3": "30211",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1160",
@@ -13737,7 +14881,8 @@ window.unique=[
           "effectIdx1": "2644",
           "effectIdx2": "1840",
           "effectIdx3": "3289",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1161",
@@ -13749,7 +14894,8 @@ window.unique=[
           "effectIdx1": "10089",
           "effectIdx2": "13089",
           "effectIdx3": "30011",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1162",
@@ -13761,7 +14907,8 @@ window.unique=[
           "effectIdx1": "2275",
           "effectIdx2": "1839",
           "effectIdx3": "1838",
-          "effectIdx4": "21000"
+          "effectIdx4": "21000",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1163",
@@ -13773,7 +14920,8 @@ window.unique=[
           "effectIdx1": "774",
           "effectIdx2": "3295",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1164",
@@ -13785,7 +14933,8 @@ window.unique=[
           "effectIdx1": "1751",
           "effectIdx2": "3218",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1165",
@@ -13797,7 +14946,8 @@ window.unique=[
           "effectIdx1": "895",
           "effectIdx2": "3207",
           "effectIdx3": "3296",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1166",
@@ -13809,7 +14959,8 @@ window.unique=[
           "effectIdx1": "1212",
           "effectIdx2": "3297",
           "effectIdx3": "794",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1167",
@@ -13821,7 +14972,8 @@ window.unique=[
           "effectIdx1": "794",
           "effectIdx2": "1459",
           "effectIdx3": "21000",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1168",
@@ -13833,7 +14985,8 @@ window.unique=[
           "effectIdx1": "1839",
           "effectIdx2": "2807",
           "effectIdx3": "968",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1169",
@@ -13845,7 +14998,8 @@ window.unique=[
           "effectIdx1": "439",
           "effectIdx2": "2772",
           "effectIdx3": "895",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1170",
@@ -13857,7 +15011,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1335",
           "effectIdx3": "774",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1171",
@@ -13869,7 +15024,8 @@ window.unique=[
           "effectIdx1": "1424",
           "effectIdx2": "3359",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1172",
@@ -13881,7 +15037,8 @@ window.unique=[
           "effectIdx1": "64",
           "effectIdx2": "1840",
           "effectIdx3": "3207",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1173",
@@ -13893,7 +15050,8 @@ window.unique=[
           "effectIdx1": "1424",
           "effectIdx2": "3359",
           "effectIdx3": "0",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1174",
@@ -13905,7 +15063,8 @@ window.unique=[
           "effectIdx1": "1646",
           "effectIdx2": "3360",
           "effectIdx3": "1995",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1175",
@@ -13917,7 +15076,8 @@ window.unique=[
           "effectIdx1": "1840",
           "effectIdx2": "1089",
           "effectIdx3": "682",
-          "effectIdx4": "2524"
+          "effectIdx4": "2524",
+          "effectIds": null
         },
         {
           "crystalOverwriteEffectId": "1176",
@@ -13929,6 +15089,332 @@ window.unique=[
           "effectIdx1": "13099",
           "effectIdx2": "1840",
           "effectIdx3": "895",
-          "effectIdx4": "0"
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1177",
+          "targetCrystal": "31009",
+          "description": "行動後にチャクラ25%回復、チャクラ消費量半減、味方にうちはイタチが生存でチャクラ消費量0",
+          "charaIds": "4102",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3207",
+          "effectIdx2": "895",
+          "effectIdx3": "3391",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1178",
+          "targetCrystal": "31010",
+          "description": "スキル発動速度1段階アップ、行動するたびにスキルダメージ50%アップ（最大150%）",
+          "charaIds": "4102",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "3392",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1179",
+          "targetCrystal": "31007",
+          "description": "5回行動するまでキャンセル無効、最大HP100%アップ、スキル発動速度1段階アップ",
+          "charaIds": "50903",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2963",
+          "effectIdx2": "684",
+          "effectIdx3": "1840",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1180",
+          "targetCrystal": "31008",
+          "description": "最大チャクラ量100アップ、高確率でスキル回避",
+          "charaIds": "50903",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "813",
+          "effectIdx2": "968",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1181",
+          "targetCrystal": "31011",
+          "description": "攻撃力・防御力・素早さ100%アップ、行動後にチャクラ30%回復",
+          "charaIds": "1901",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1832",
+          "effectIdx2": "2524",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1182",
+          "targetCrystal": "31012",
+          "description": "敵にうちは一族が生存していると、行動後に確率で再行動※再行動後に再行動不可",
+          "charaIds": "1901",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3410",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1183",
+          "targetCrystal": "31015",
+          "description": "スキル発動速度1段階アップ、1回行動までチャクラ消費0、行動後チャクラ30%回復",
+          "charaIds": "12102",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1378",
+          "effectIdx3": "2524",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1184",
+          "targetCrystal": "31016",
+          "description": "スキル発動速度2段階アップ、チャクラ消費量半減、素早さ100%アップ、全スキルダメージ100%アップ",
+          "charaIds": "12102",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "895",
+          "effectIdx3": "13099",
+          "effectIdx4": "774",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1185",
+          "targetCrystal": "31013",
+          "description": "最大チャクラ量100アップ、行動後チャクラ60%回復",
+          "charaIds": "10301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "20009",
+          "effectIdx2": "3249",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1186",
+          "targetCrystal": "31014",
+          "description": "最大HP・攻撃力・全スキルダメージ120%アップ、スキル発動速度1段階アップ",
+          "charaIds": "10301",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "887",
+          "effectIdx3": "30011",
+          "effectIdx4": "1840",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1187",
+          "targetCrystal": "31101",
+          "description": "ｽｷﾙﾀﾞﾒｰｼﾞが50%ｱｯﾌﾟし､確率で再行動(再行動後再行動不可)｡さらに敵に木ノ葉ｷｬﾗがいるとｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ",
+          "charaIds": "12001",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "682",
+          "effectIdx2": "3431",
+          "effectIdx3": "439",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1188",
+          "targetCrystal": "31102",
+          "description": "2回行動まで全スキル無効。スキル発動速度1段階アップ",
+          "charaIds": "12001",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "2343",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1191",
+          "targetCrystal": "31104",
+          "description": "2回行動まで高確率で弱体系特殊状態無効。敵に“暁”生存で行動後高確率で自身の弱体系特殊状態解除",
+          "charaIds": "2404",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3442",
+          "effectIdx2": "3443",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1192",
+          "targetCrystal": "31105",
+          "description": "仙術タイプのスキルダメージ200%アップ。行動後にHP・チャクラ25%回復",
+          "charaIds": "2404",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3444",
+          "effectIdx2": "1892",
+          "effectIdx3": "3207",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1193",
+          "targetCrystal": "31103",
+          "description": "全スキルダメージ150%アップ、スキル発動速度1段階アップ、敵に破神キャラ生存で素早さ200%アップ",
+          "charaIds": "1603",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1840",
+          "effectIdx3": "3026",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1194",
+          "targetCrystal": "31106",
+          "description": "全スキルダメージ100%アップ、3回行動まで高確率でスキルを回避",
+          "charaIds": "51001",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "774",
+          "effectIdx2": "2099",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1195",
+          "targetCrystal": "31107",
+          "description": "最大HP100%アップ、行動後にHP25%回復、1回行動まで弱体系特殊状態無効",
+          "charaIds": "51001",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "1892",
+          "effectIdx3": "3237",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1196",
+          "targetCrystal": "31108",
+          "description": "スキル発動速度1段階アップ、全スキルダメージ80%アップ、行動後チャクラ20%回復",
+          "charaIds": "11802",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "694",
+          "effectIdx3": "1768",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1197",
+          "targetCrystal": "31109",
+          "description": "スキル発動速度2段階アップ、素早さ120%アップ、確率で即死無効",
+          "charaIds": "11802",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "1335",
+          "effectIdx3": "3422",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1198",
+          "targetCrystal": "31110",
+          "description": "3回行動までスキップ無効、2回行動までチャクラ消費0、3回行動以降チャクラ消費半減",
+          "charaIds": "3701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2382",
+          "effectIdx2": "1646",
+          "effectIdx3": "2719",
+          "effectIdx4": "0",
+          "effectIds": null
+        },
+        {
+          "crystalOverwriteEffectId": "1199",
+          "targetCrystal": "31111",
+          "description": "スキル発動速度1段階アップ、全スキルダメージ100%アップ、行動ごとに素早さ30%アップ（最大300%）",
+          "charaIds": "3701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "662",
+          "effectIdx3": "3484",
+          "effectIdx4": "662",
+          "effectIds": "1840,662,3484,662,662,662,662"
+        },
+        {
+          "crystalOverwriteEffectId": "1200",
+          "targetCrystal": "31114",
+          "description": "スキル発動速度1段階アップ、チャクラ消費量半減、味方にうちは一族がいると素早さ200%アップ",
+          "charaIds": "13703",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3498",
+          "effectIdx2": "1840",
+          "effectIdx3": "895",
+          "effectIdx4": "0",
+          "effectIds": "3498,1840,895"
+        },
+        {
+          "crystalOverwriteEffectId": "1201",
+          "targetCrystal": "31115",
+          "description": "ｽｷﾙ発動速度2段階ｱｯﾌﾟ、耐えた時確率で即ｱｸｼｮﾝ、味方か敵に千手柱間存在時それぞれHP0以下で1回耐える",
+          "charaIds": "13703",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3499",
+          "effectIdx2": "3500",
+          "effectIdx3": "1549",
+          "effectIdx4": "3241",
+          "effectIds": "3499,3500,1549,3241"
+        },
+        {
+          "crystalOverwriteEffectId": "1202",
+          "targetCrystal": "31112",
+          "description": "最大HP・攻撃力・防御力120%アップ、素早さ69%アップ",
+          "charaIds": "1103",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "12111",
+          "effectIdx4": "13068",
+          "effectIds": "1221,736,12111,13068"
+        },
+        {
+          "crystalOverwriteEffectId": "1203",
+          "targetCrystal": "31113",
+          "description": "全スキルダメージ150%アップ、スキル発動速度1段階アップ",
+          "charaIds": "1103",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "794,1840"
         }
         ]
