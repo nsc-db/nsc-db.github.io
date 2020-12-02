@@ -1457,6 +1457,54 @@
           "materialImageId": "249"
         },
         {
+          "materialId": "250",
+          "materialName": "普通のきのこ",
+          "materialRare": "5",
+          "materialImageId": "250"
+        },
+        {
+          "materialId": "251",
+          "materialName": "水玉のきのこ",
+          "materialRare": "5",
+          "materialImageId": "251"
+        },
+        {
+          "materialId": "252",
+          "materialName": "れもん色のきのこ",
+          "materialRare": "5",
+          "materialImageId": "252"
+        },
+        {
+          "materialId": "253",
+          "materialName": "新鮮な川魚",
+          "materialRare": "5",
+          "materialImageId": "253"
+        },
+        {
+          "materialId": "254",
+          "materialName": "すごく青い魚",
+          "materialRare": "5",
+          "materialImageId": "254"
+        },
+        {
+          "materialId": "255",
+          "materialName": "油揚げ",
+          "materialRare": "5",
+          "materialImageId": "255"
+        },
+        {
+          "materialId": "256",
+          "materialName": "しおむすび",
+          "materialRare": "5",
+          "materialImageId": "256"
+        },
+        {
+          "materialId": "257",
+          "materialName": "ラーメンカップ",
+          "materialRare": "5",
+          "materialImageId": "257"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

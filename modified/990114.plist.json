@@ -2937,5 +2937,25 @@
           "subScore": "0",
           "color": "16774242",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "299",
+          "category": "3",
+          "iconId": "1352",
+          "name": "増獣ノ迸",
+          "description": "行動するたびに高確率で乱舞カウントが減少。カウント数に応じて、自身の追撃攻撃回数が増加",
+          "subScore": "0",
+          "color": "16316664",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "300",
+          "category": "4",
+          "iconId": "1350",
+          "name": "神絶",
+          "description": "強化系特殊・神化解除&amp;無効。即ｱｸｼｮﾝ・ｽｷﾙ回避不可。最大HP以外ｽﾃｰﾀｽ変化減。ｱｸｼｮﾝ時高確率敵ﾏﾀﾞﾗｶｯﾄｲﾝ",
+          "subScore": "0",
+          "color": "12434877",
+          "type": "3"
         }
       ]

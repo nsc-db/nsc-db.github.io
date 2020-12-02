@@ -5807,6 +5807,12 @@
           "speechCharactorName": "タジ"
         },
         {
+          "speechCharactorId": "993",
+          "cardId": "993",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "カツユ"
+        },
+        {
           "speechCharactorId": "994",
           "cardId": "50000001",
           "speechCharactorImgId": "0",
@@ -5861,10 +5867,88 @@
           "speechCharactorName": "うちはサスケ"
         },
         {
+          "speechCharactorId": "1019",
+          "cardId": "20060401",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "秋道チョウザ"
+        },
+        {
           "speechCharactorId": "1022",
           "cardId": "20031210",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "1026",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "木ノ葉隠れの住民"
+        },
+        {
+          "speechCharactorId": "1027",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "連絡蛙"
+        },
+        {
+          "speechCharactorId": "1028",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "リュウスイ"
+        },
+        {
+          "speechCharactorId": "1029",
+          "cardId": "20001795",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(天道)"
+        },
+        {
+          "speechCharactorId": "1030",
+          "cardId": "21000280",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(畜生道)"
+        },
+        {
+          "speechCharactorId": "1031",
+          "cardId": "21000241",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(地獄道)"
+        },
+        {
+          "speechCharactorId": "1032",
+          "cardId": "20050211",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(天道)"
+        },
+        {
+          "speechCharactorId": "1033",
+          "cardId": "50000001",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "木ノ葉隠れの忍"
+        },
+        {
+          "speechCharactorId": "1034",
+          "cardId": "20040910",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手柱間"
+        },
+        {
+          "speechCharactorId": "1035",
+          "cardId": "20031103",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "千手扉間"
+        },
+        {
+          "speechCharactorId": "1036",
+          "cardId": "20031115",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(天道)"
+        },
+        {
+          "speechCharactorId": "1037",
+          "cardId": "20050205",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(畜生道)"
         },
         {
           "speechCharactorId": "5001",
@@ -6165,5 +6249,35 @@
           "cardId": "20001766",
           "speechCharactorImgId": "20001766",
           "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "10037",
+          "cardId": "20040910",
+          "speechCharactorImgId": "20040910",
+          "speechCharactorName": "千手柱間"
+        },
+        {
+          "speechCharactorId": "10038",
+          "cardId": "20041009",
+          "speechCharactorImgId": "20041009",
+          "speechCharactorName": "千手柱間"
+        },
+        {
+          "speechCharactorId": "10039",
+          "cardId": "20031103",
+          "speechCharactorImgId": "20031103",
+          "speechCharactorName": "千手扉間"
+        },
+        {
+          "speechCharactorId": "10040",
+          "cardId": "20001814",
+          "speechCharactorImgId": "20001814",
+          "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "10041",
+          "cardId": "20030812",
+          "speechCharactorImgId": "20030812",
+          "speechCharactorName": "うちはマダラ"
         }
       ]

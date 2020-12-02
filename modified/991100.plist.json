@@ -2631,6 +2631,20 @@
           "gender": "0"
         },
         {
+          "charaProfileId": "12602",
+          "charaId": "126",
+          "name": "ペイン畜生道",
+          "detail": null,
+          "charaLoveAffinityGroupId": "12610",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "0"
+        },
+        {
           "charaProfileId": "12701",
           "charaId": "127",
           "name": "修羅道",
@@ -8089,6 +8103,48 @@
           "bloodType": "0",
           "age": "0",
           "gender": "1"
+        },
+        {
+          "charaProfileId": "900094",
+          "charaId": "9001",
+          "name": "きのこ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "0"
+        },
+        {
+          "charaProfileId": "900095",
+          "charaId": "9001",
+          "name": "川魚",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "0"
+        },
+        {
+          "charaProfileId": "900096",
+          "charaId": "9001",
+          "name": "いなりずし",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "0"
         },
         {
           "charaProfileId": "910001",

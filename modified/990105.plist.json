@@ -7883,6 +7883,42 @@
           "name": "世界を征服する…"
         },
         {
+          "cardBattleSkillNameId": "3183",
+          "name": "口寄せの術・犬牙痛撃"
+        },
+        {
+          "cardBattleSkillNameId": "3184",
+          "name": "封印術・虎視眈弾"
+        },
+        {
+          "cardBattleSkillNameId": "3185",
+          "name": "今のボクには仲間たちがいる"
+        },
+        {
+          "cardBattleSkillNameId": "3186",
+          "name": "忍法・毒霧"
+        },
+        {
+          "cardBattleSkillNameId": "3187",
+          "name": "傷は私が治します！"
+        },
+        {
+          "cardBattleSkillNameId": "3188",
+          "name": "本気でやるのは久しいからな"
+        },
+        {
+          "cardBattleSkillNameId": "3189",
+          "name": "木ノ葉旋風・蒼燦"
+        },
+        {
+          "cardBattleSkillNameId": "3190",
+          "name": "悲しくなんかありません！！"
+        },
+        {
+          "cardBattleSkillNameId": "3191",
+          "name": "もうゲームクリアぜよ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
@@ -8025,6 +8061,14 @@
         {
           "cardBattleSkillNameId": "20603",
           "name": "麺の怒り"
+        },
+        {
+          "cardBattleSkillNameId": "20604",
+          "name": "のこ…のこ…"
+        },
+        {
+          "cardBattleSkillNameId": "20605",
+          "name": "にょき…にょき…"
         },
         {
           "cardBattleSkillNameId": "20900",

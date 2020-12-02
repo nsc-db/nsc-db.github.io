@@ -5240,5 +5240,68 @@
           "assetCategoryId": "12",
           "materialId": "31018",
           "materialNum": "5"
+        },
+        {
+          "crystalRecipeId": "831",
+          "recipeId": "31116",
+          "assetCategoryId": "13",
+          "materialId": "250",
+          "materialNum": "40"
+        },
+        {
+          "crystalRecipeId": "832",
+          "recipeId": "31116",
+          "assetCategoryId": "13",
+          "materialId": "256",
+          "materialNum": "1"
+        },
+        {
+          "crystalRecipeId": "833",
+          "recipeId": "31116",
+          "assetCategoryId": "13",
+          "materialId": "257",
+          "materialNum": "4"
+        },
+        {
+          "crystalRecipeId": "834",
+          "recipeId": "31119",
+          "assetCategoryId": "13",
+          "materialId": "252",
+          "materialNum": "4"
+        },
+        {
+          "crystalRecipeId": "835",
+          "recipeId": "31119",
+          "assetCategoryId": "13",
+          "materialId": "256",
+          "materialNum": "1"
+        },
+        {
+          "crystalRecipeId": "836",
+          "recipeId": "31119",
+          "assetCategoryId": "13",
+          "materialId": "257",
+          "materialNum": "4"
+        },
+        {
+          "crystalRecipeId": "837",
+          "recipeId": "31120",
+          "assetCategoryId": "13",
+          "materialId": "251",
+          "materialNum": "4"
+        },
+        {
+          "crystalRecipeId": "838",
+          "recipeId": "31120",
+          "assetCategoryId": "13",
+          "materialId": "256",
+          "materialNum": "1"
+        },
+        {
+          "crystalRecipeId": "839",
+          "recipeId": "31120",
+          "assetCategoryId": "13",
+          "materialId": "257",
+          "materialNum": "4"
         }
       ]
