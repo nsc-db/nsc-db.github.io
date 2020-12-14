@@ -989,6 +989,36 @@
           "enemyEffects": "80001,3396,1782,"
         },
         {
+          "battleFieldEffectId": "111",
+          "name": "紅き猛獣となる時",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12049,",
+          "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "112",
+          "name": "紅き猛獣となる時",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12099,13049,",
+          "enemyEffects": "300016,50005,"
+        },
+        {
+          "battleFieldEffectId": "113",
+          "name": "紅き猛獣となる時",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "12122,13099,",
+          "enemyEffects": "300017,50000,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

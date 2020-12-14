@@ -1091,6 +1091,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "1604",
+          "charaId": "16",
+          "name": "マイト・ガイ",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "1620",
+          "birthday": "101",
+          "constellation": "10",
+          "height": "18400",
+          "weight": "7600",
+          "bloodType": "2",
+          "age": "31",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "1701",
           "charaId": "17",
           "name": "はたけカカシ",
@@ -3714,6 +3728,20 @@
           "name": "うちはオビト",
           "detail": null,
           "charaLoveAffinityGroupId": "50950",
+          "birthday": "210",
+          "constellation": "11",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "3",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "50908",
+          "charaId": "509",
+          "name": "うちはオビト",
+          "detail": null,
+          "charaLoveAffinityGroupId": "50910",
           "birthday": "210",
           "constellation": "11",
           "height": "0",

@@ -623,6 +623,30 @@
           "specialPanelList": "9000028,9000029,9000030"
         },
         {
+          "sphereBoardId": "10063",
+          "boardName": "Temp_Ct40_知属性_の潜在覚醒盤",
+          "boardDescription": "うちはイズナ【緋炎の英傑】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061202",
+          "normalPanelList": "9000019,9000020,9000021",
+          "specialPanelList": "9000022,9000023,9000024"
+        },
+        {
+          "sphereBoardId": "10064",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "我愛羅【流隆の礫烈風】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061203",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1175,6 +1199,18 @@
           "specialPanelList": "9100010,9100011,9100012,9100036"
         },
         {
+          "sphereBoardId": "50048",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "マイト・ガイ【紅く燃ゆる信念の誇り】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061204",
+          "normalPanelList": "9100013,9100014,9100015,9100039",
+          "specialPanelList": "9100016,9100017,9100018,9100040"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
@@ -1365,5 +1401,17 @@
           "cardId": "50061101",
           "normalPanelList": "5013001,5013002,5013003",
           "specialPanelList": "5013004,5013005,5013006"
+        },
+        {
+          "sphereBoardId": "5000015",
+          "boardName": "十尾",
+          "boardDescription": "うちはオビト【暴欲の樹獣】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50061201",
+          "normalPanelList": "5014001,5014002,5014003",
+          "specialPanelList": "5014004,5014005,5014006"
         }
       ]

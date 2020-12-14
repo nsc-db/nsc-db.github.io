@@ -2957,5 +2957,25 @@
           "subScore": "0",
           "color": "12434877",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "301",
+          "category": "6",
+          "iconId": "1351",
+          "name": "十ノ終",
+          "description": "強化系特殊・神化状態解除&amp;無効化。被攻撃時確率で耐える・HP0以下で全回復・HP0で不死無効※一部除く",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "302",
+          "category": "5",
+          "iconId": "1355",
+          "name": "真紅に燃える青春",
+          "description": "最高素早さ500更新。様々な不利効果無効。ﾁｬｸﾗ消費0。通常攻撃強化。防御無視。ﾀｰﾝか敵を倒すと状態解除",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
         }
       ]

@@ -8174,6 +8174,11 @@
           "gachaTicketImgId": "4244"
         },
         {
+          "gachaTicketId": "4245",
+          "gachaTicketName": "2020年忍具[9月]ガチャチケット",
+          "gachaTicketImgId": "4245"
+        },
+        {
           "gachaTicketId": "4249",
           "gachaTicketName": "★6確定 デイダラ誕生記念ガチャチケット",
           "gachaTicketImgId": "4249"
@@ -10129,6 +10134,26 @@
           "gachaTicketImgId": "4126"
         },
         {
+          "gachaTicketId": "4654",
+          "gachaTicketName": "イズナ・マダラ確定特別ガチャチケット",
+          "gachaTicketImgId": "4654"
+        },
+        {
+          "gachaTicketId": "4655",
+          "gachaTicketName": "イズナ・マダラ確定ガチャチケット",
+          "gachaTicketImgId": "4655"
+        },
+        {
+          "gachaTicketId": "4656",
+          "gachaTicketName": "緋炎の英傑ガチャチケット",
+          "gachaTicketImgId": "4656"
+        },
+        {
+          "gachaTicketId": "4657",
+          "gachaTicketName": "緋炎の英傑・祭",
+          "gachaTicketImgId": "4656"
+        },
+        {
           "gachaTicketId": "4658",
           "gachaTicketName": "LvMAX！昇級選抜・特別ガチャチケット",
           "gachaTicketImgId": "4658"
@@ -10189,6 +10214,41 @@
           "gachaTicketImgId": "4669"
         },
         {
+          "gachaTicketId": "4670",
+          "gachaTicketName": "流隆の礫烈風・特別ガチャチケット",
+          "gachaTicketImgId": "4670"
+        },
+        {
+          "gachaTicketId": "4671",
+          "gachaTicketName": "流隆の礫烈風ガチャチケット",
+          "gachaTicketImgId": "4671"
+        },
+        {
+          "gachaTicketId": "4672",
+          "gachaTicketName": "流隆の礫烈風・祭",
+          "gachaTicketImgId": "4671"
+        },
+        {
+          "gachaTicketId": "4679",
+          "gachaTicketName": "赤雲の黒衣 “暁”-光-ガチャチケット",
+          "gachaTicketImgId": "4679"
+        },
+        {
+          "gachaTicketId": "4680",
+          "gachaTicketName": "赤雲の黒衣 “暁”-闇-ガチャチケット",
+          "gachaTicketImgId": "4680"
+        },
+        {
+          "gachaTicketId": "4681",
+          "gachaTicketName": "★6“暁”確定ガチャチケット",
+          "gachaTicketImgId": "4681"
+        },
+        {
+          "gachaTicketId": "4682",
+          "gachaTicketName": "赤雲の黒衣 “暁”ガチャチケット",
+          "gachaTicketImgId": "4682"
+        },
+        {
           "gachaTicketId": "4683",
           "gachaTicketName": "2000万DL記念ガチャチケット",
           "gachaTicketImgId": "4683"
@@ -10197,6 +10257,61 @@
           "gachaTicketId": "4684",
           "gachaTicketName": "2000万DL記念ガチャチケット・祝",
           "gachaTicketImgId": "4684"
+        },
+        {
+          "gachaTicketId": "4690",
+          "gachaTicketName": "乱舞確定・尾獣ガチャチケット",
+          "gachaTicketImgId": "4690"
+        },
+        {
+          "gachaTicketId": "4691",
+          "gachaTicketName": "暴欲の樹獣・特別ガチャチケット",
+          "gachaTicketImgId": "4691"
+        },
+        {
+          "gachaTicketId": "4692",
+          "gachaTicketName": "暴欲の樹獣ガチャチケット",
+          "gachaTicketImgId": "4692"
+        },
+        {
+          "gachaTicketId": "4693",
+          "gachaTicketName": "暴欲の樹獣・祭",
+          "gachaTicketImgId": "4692"
+        },
+        {
+          "gachaTicketId": "4694",
+          "gachaTicketName": "紅く燃ゆる信念の誇り・極ガチャチケット",
+          "gachaTicketImgId": "4694"
+        },
+        {
+          "gachaTicketId": "4695",
+          "gachaTicketName": "紅く燃ゆる信念の誇り・特別ガチャチケット",
+          "gachaTicketImgId": "4695"
+        },
+        {
+          "gachaTicketId": "4696",
+          "gachaTicketName": "紅く燃ゆる信念の誇りガチャチケット",
+          "gachaTicketImgId": "4696"
+        },
+        {
+          "gachaTicketId": "4697",
+          "gachaTicketName": "神忍・破神確定 -紅く燃ゆる信念の誇り-",
+          "gachaTicketImgId": "4697"
+        },
+        {
+          "gachaTicketId": "4715",
+          "gachaTicketName": "2020年忍具[10月]ガチャチケット",
+          "gachaTicketImgId": "4246"
+        },
+        {
+          "gachaTicketId": "4716",
+          "gachaTicketName": "2020年忍具[11月]ガチャチケット",
+          "gachaTicketImgId": "4247"
+        },
+        {
+          "gachaTicketId": "4717",
+          "gachaTicketName": "2020年忍具[12月]ガチャチケット",
+          "gachaTicketImgId": "4248"
         },
         {
           "gachaTicketId": "100084",

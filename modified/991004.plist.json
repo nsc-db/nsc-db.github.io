@@ -2880,7 +2880,7 @@
         },
         {
           "speechCharactorId": "482",
-          "cardId": "0",
+          "cardId": "99999998",
           "speechCharactorImgId": "9000",
           "speechCharactorName": "はたけカカシ"
         },
@@ -3396,13 +3396,13 @@
         },
         {
           "speechCharactorId": "570",
-          "cardId": "0",
+          "cardId": "99999998",
           "speechCharactorImgId": "0",
           "speechCharactorName": "マイト・ガイ"
         },
         {
           "speechCharactorId": "571",
-          "cardId": "0",
+          "cardId": "99999998",
           "speechCharactorImgId": "0",
           "speechCharactorName": "はたけサクモ"
         },
@@ -5865,6 +5865,90 @@
           "cardId": "1002",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "1005",
+          "cardId": "20051218",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "1006",
+          "cardId": "1006",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "1007",
+          "cardId": "20060112",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "猿飛木ノ葉丸"
+        },
+        {
+          "speechCharactorId": "1008",
+          "cardId": "1008",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "猿飛木ノ葉丸"
+        },
+        {
+          "speechCharactorId": "1009",
+          "cardId": "20060216",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "モエギ"
+        },
+        {
+          "speechCharactorId": "1010",
+          "cardId": "20060311",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ウドン"
+        },
+        {
+          "speechCharactorId": "1011",
+          "cardId": "20060413",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "カンクロウ"
+        },
+        {
+          "speechCharactorId": "1012",
+          "cardId": "20060509",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "左近右近"
+        },
+        {
+          "speechCharactorId": "1013",
+          "cardId": "20060610",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "バキ"
+        },
+        {
+          "speechCharactorId": "1014",
+          "cardId": "20060710",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "1015",
+          "cardId": "20060811",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "綱手"
+        },
+        {
+          "speechCharactorId": "1016",
+          "cardId": "20060911",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "山中いの"
+        },
+        {
+          "speechCharactorId": "1017",
+          "cardId": "20061010",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "薬師カブト"
+        },
+        {
+          "speechCharactorId": "1018",
+          "cardId": "20061110",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "シズネ"
         },
         {
           "speechCharactorId": "1019",

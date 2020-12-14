@@ -1910,6 +1910,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11150",
+          "name": "期間限定きのこ雑炊味",
+          "description": "スタミナを全回復するラーメン（12月22日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11150",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "11152",
           "name": "期間限定ラーメン（11月23日15:59まで）",
           "description": "スタミナを全回復するラーメン（11月23日15:59まで期間限定）",
@@ -2178,6 +2191,32 @@
           "itemValue": "0",
           "itemNum": "0",
           "itemImageId": "16012",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "16013",
+          "name": "ナルコレ総選挙2020メダル",
+          "description": "ナルコレ総選挙2020 -抽選会-で使用できるメダル。（2021年1月20日15:59まで使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "15000",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16013",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "16015",
+          "name": "WチャンスUP",
+          "description": "所持しているとナルコレ総選挙2020 -Wチャンス-でWチャンスPtが2倍になるアイテム（2021年1月20日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "15000",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16015",
           "needCount": "1",
           "priority": "1",
           "selectType": "3"
@@ -3083,6 +3122,19 @@
           "itemId": "51069",
           "name": "期間限定 昇級Pt倍化薬",
           "description": "昇級試験での獲得Ptが2倍になります（11月24日 15:59まで期間限定）",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "51070",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（12月8日15:59まで期間限定）",
           "resultWord": "昇級試験 獲得Pt2倍",
           "itemCategoryId": "11",
           "itemValue": "20000",
@@ -4068,6 +4120,19 @@
           "selectType": "2"
         },
         {
+          "itemId": "52075",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書（12月22日15:59まで）",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（12月22日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "52077",
           "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書（11月23日15:59まで）",
           "description": "バトルでの獲得ドロップ数が２倍になります。（11月23日15:59まで期間限定）",
@@ -4258,6 +4323,32 @@
           "itemValue": "0",
           "itemNum": "0",
           "itemImageId": "60012",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "60013",
+          "name": "ナルコレ総選挙2020−予選-投票券",
+          "description": "ナルコレ総選挙2020 -予選-で投票に必要なアイテム。（12月23日23:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "20",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "60013",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "60014",
+          "name": "ナルコレ総選挙2020−本選-投票券",
+          "description": "ナルコレ総選挙2020 -本選-で投票に必要なアイテム。（1月12日23:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "20",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "60014",
           "needCount": "1",
           "priority": "1",
           "selectType": "3"
