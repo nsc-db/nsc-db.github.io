@@ -2977,5 +2977,15 @@
           "subScore": "0",
           "color": "16711680",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "303",
+          "category": "3",
+          "iconId": "1356",
+          "name": "プレゼント",
+          "description": "攻撃力・防御力・素早さ・回避率ダウン",
+          "subScore": "0",
+          "color": "16510971",
+          "type": "3"
         }
       ]

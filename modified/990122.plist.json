@@ -3971,6 +3971,18 @@
           "voiceDeath": "lee_death_02_03"
         },
         {
+          "cardVoiceId": "335",
+          "cardId": "20061205",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_pursuit_02_01",
+          "voiceSkill1": "sakura_skill_02_07",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "",
+          "voiceDeath": "sakura_pursuit_02_05"
+        },
+        {
           "cardVoiceId": "337",
           "cardId": "20061203",
           "dirName": "gaara",

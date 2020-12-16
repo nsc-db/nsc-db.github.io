@@ -26094,6 +26094,23 @@
           "recipeName": "きのこ雑炊ラーメン"
         },
         {
+          "crystalId": "31117",
+          "crystalType": "10",
+          "crystalRare": "5",
+          "effectIdx1": "3516",
+          "effectIdx2": "30101",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "3516,30101,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "新鮮な川魚ラーメン",
+          "crystalDescription": "2.000回行動まで素早さ＆全スキルダメージ20.00%アップ",
+          "crystalImageId": "311175",
+          "recipeId": "31117",
+          "recipeName": "新鮮な川魚ラーメン"
+        },
+        {
           "crystalId": "31119",
           "crystalType": "10",
           "crystalRare": "5",
@@ -26126,6 +26143,23 @@
           "crystalImageId": "311205",
           "recipeId": "31120",
           "recipeName": "きのこ雑炊ﾗｰﾒﾝ・黒"
+        },
+        {
+          "crystalId": "31121",
+          "crystalType": "10",
+          "crystalRare": "5",
+          "effectIdx1": "3520",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "3520,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "新鮮な川魚ﾗｰﾒﾝ・黒",
+          "crystalDescription": "防御力1アップ",
+          "crystalImageId": "311215",
+          "recipeId": "31121",
+          "recipeName": "新鮮な川魚ﾗｰﾒﾝ・黒"
         },
         {
           "crystalId": "31201",
@@ -26228,6 +26262,40 @@
           "crystalImageId": "312065",
           "recipeId": "31206",
           "recipeName": "第八死門"
+        },
+        {
+          "crystalId": "31207",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "3563",
+          "effectIdx2": "3564",
+          "effectIdx3": "3565",
+          "effectIdx4": "0",
+          "effectIds": "3563,3564,3565,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "サクラの帽子",
+          "crystalDescription": "現在HPが100%の時、それぞれ超低確率で全スキル・スキップ・キャンセル無効",
+          "crystalImageId": "312075",
+          "recipeId": "31207",
+          "recipeName": "サクラの帽子"
+        },
+        {
+          "crystalId": "31208",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "3569",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "3569,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "想いの詰まったプレゼント袋",
+          "crystalDescription": "行動毎にスキルダメージ12%アップ（最大120%）",
+          "crystalImageId": "312085",
+          "recipeId": "31208",
+          "recipeName": "想いの詰まったプレゼント袋"
         },
         {
           "crystalId": "31217",

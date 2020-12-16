@@ -15493,5 +15493,31 @@
           "effectIdx3": "3560",
           "effectIdx4": "0",
           "effectIds": "3558,3559,3560,"
+        },
+        {
+          "crystalOverwriteEffectId": "1210",
+          "targetCrystal": "31207",
+          "description": "現在HPが99%以上の時、それぞれ確率で全スキル・スキップ・キャンセル無効",
+          "charaIds": "303,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3566",
+          "effectIdx2": "3567",
+          "effectIdx3": "3568",
+          "effectIdx4": "0",
+          "effectIds": "3566,3567,3568,"
+        },
+        {
+          "crystalOverwriteEffectId": "1211",
+          "targetCrystal": "31208",
+          "description": "行動毎にスキルダメージ12%アップ（最大240%）&amp;HP15%・チャクラ25%回復",
+          "charaIds": "303,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3570",
+          "effectIdx2": "3207",
+          "effectIdx3": "735",
+          "effectIdx4": "0",
+          "effectIds": "3570,3207,735,"
         }
       ]
