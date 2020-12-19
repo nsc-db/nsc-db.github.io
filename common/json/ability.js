@@ -26581,9 +26581,9 @@ window.ability=[
         },
         {
           "abilityId": "2712",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "今の夢を壊す力",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいるとﾊﾞﾄﾙ開始時ｽｷﾙ1で急襲（一定ﾁｬｸﾗ回復）",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいるとﾊﾞﾄﾙ開始時ｽｷﾙ1で急襲（一定ﾁｬｸﾗ回復）",
           "effectIdx1": "3492",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -26591,9 +26591,9 @@ window.ability=[
         },
         {
           "abilityId": "2713",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "先の夢を知る瞳",
+          "abilityDescription": "HP0以下で1回HP全回復、行動毎に素早さ66%ｱｯﾌﾟ（最大660%）、1回行動まで再行動",
+          "abilityEffectDescription": "HP0以下で1回HP全回復、行動毎に素早さ66%ｱｯﾌﾟ（最大660%）、1回行動まで再行動",
           "effectIdx1": "312",
           "effectIdx2": "874",
           "effectIdx3": "3494",
@@ -26618,6 +26618,126 @@ window.ability=[
           "effectIdx2": "3514",
           "effectIdx3": "0",
           "effectIds": "3513,3514,"
+        },
+        {
+          "abilityId": "2716",
+          "abilityName": "蜘蛛忍法の使い手",
+          "abilityDescription": "HP80%以上の時、状態異常を半減＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80%以上の時、状態異常を半減＆スキル発動速度1段階アップ",
+          "effectIdx1": "851",
+          "effectIdx2": "1089",
+          "effectIdx3": "0",
+          "effectIds": "851,1089,"
+        },
+        {
+          "abilityId": "2717",
+          "abilityName": "一点必中の破壊弓",
+          "abilityDescription": "3回行動するまで攻撃力100%アップ",
+          "abilityEffectDescription": "3回行動するまで攻撃力100%アップ",
+          "effectIdx1": "56",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "56,"
+        },
+        {
+          "abilityId": "2718",
+          "abilityName": "うちはの瞳術",
+          "abilityDescription": "HP0以下で2回HP全回復。敵に木ノ葉隠れの里所属か超忍がいると、バトル開始時味方全体に短い間堅護状態付与",
+          "abilityEffectDescription": "HP0以下で2回HP全回復。敵に木ノ葉隠れの里所属か超忍がいると、バトル開始時味方全体に短い間堅護状態付与",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3526",
+          "effectIds": "1057,874,3526,3528,3527,3529,"
+        },
+        {
+          "abilityId": "2719",
+          "abilityName": "うちは一族の結束",
+          "abilityDescription": "行動後に確率で次回行動まで素早さ700%アップ。敵に超忍がいると超高確率で再行動※再行動後に再行動しない",
+          "abilityEffectDescription": "行動後に確率で次回行動まで素早さ700%アップ。敵に超忍がいると超高確率で再行動※再行動後に再行動しない",
+          "effectIdx1": "3530",
+          "effectIdx2": "3531",
+          "effectIdx3": "0",
+          "effectIds": "3530,3531,"
+        },
+        {
+          "abilityId": "2724",
+          "abilityName": "五代目風影",
+          "abilityDescription": "HP0以下で5回耐え、1回行動まで弱体系特殊状態無効",
+          "abilityEffectDescription": "HP0以下で5回耐え、1回行動まで弱体系特殊状態無効",
+          "effectIdx1": "1512",
+          "effectIdx2": "3237",
+          "effectIdx3": "0",
+          "effectIds": "1512,3237,"
+        },
+        {
+          "abilityId": "2725",
+          "abilityName": "繋がりを守る砂",
+          "abilityDescription": "敵に“暁”がいるとバトル開始時に耐性を無視して敵全体を拘束状態にする",
+          "abilityEffectDescription": "敵に“暁”がいるとバトル開始時に耐性を無視して敵全体を拘束状態にする",
+          "effectIdx1": "3538",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3538,"
+        },
+        {
+          "abilityId": "2726",
+          "abilityName": "解き放たれし心",
+          "abilityDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "abilityEffectDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+          "effectIdx1": "312",
+          "effectIdx2": "1424",
+          "effectIdx3": "0",
+          "effectIds": "312,1424,"
+        },
+        {
+          "abilityId": "2727",
+          "abilityName": "死角埋める覚悟",
+          "abilityDescription": "通常攻撃回避率が100%アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "通常攻撃回避率が100%アップし、高確率でスキルを回避する",
+          "effectIdx1": "1141",
+          "effectIdx2": "968",
+          "effectIdx3": "0",
+          "effectIds": "1141,968,"
+        },
+        {
+          "abilityId": "2728",
+          "abilityName": "獣禍集厄",
+          "abilityDescription": "敵に五大隠れ里所属が生存していると低確率でダメージ99%カット",
+          "abilityEffectDescription": "敵に五大隠れ里所属が生存していると低確率でダメージ99%カット",
+          "effectIdx1": "3546",
+          "effectIdx2": "3550",
+          "effectIdx3": "0",
+          "effectIds": "3546,3550,"
+        },
+        {
+          "abilityId": "2729",
+          "abilityName": "忍界蹂躙",
+          "abilityDescription": "味方の無所属1人につき、攻防速25%アップ",
+          "abilityEffectDescription": "味方の無所属1人につき、攻防速25%アップ",
+          "effectIdx1": "3547",
+          "effectIdx2": "3548",
+          "effectIdx3": "3549",
+          "effectIds": "3547,3548,3549,"
+        },
+        {
+          "abilityId": "2730",
+          "abilityName": "生き様を示す紅き蒸気",
+          "abilityDescription": "味方にﾅﾙﾄ・ﾐﾅﾄ・ｶｶｼか敵にﾏﾀﾞﾗがいるとﾊﾞﾄﾙ開始時にｽｷﾙ2で急襲（ﾁｬｸﾗ大回復）、HP0以下で3回HP全回復",
+          "abilityEffectDescription": "味方にﾅﾙﾄ・ﾐﾅﾄ・ｶｶｼか敵にﾏﾀﾞﾗがいるとﾊﾞﾄﾙ開始時にｽｷﾙ2で急襲（ﾁｬｸﾗ大回復）、HP0以下で3回HP全回復",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "3551",
+          "effectIds": "1789,874,3551,3552,3553,3554,"
+        },
+        {
+          "abilityId": "2731",
+          "abilityName": "死を賭して守りぬく気概",
+          "abilityDescription": "班の木ノ葉隠れの里所属への単体ｽｷﾙをかばい、かばった後自身に999回行動まで真紅に燃える青春付与&amp;即ｱｸｼｮﾝ",
+          "abilityEffectDescription": "班の木ノ葉隠れの里所属への単体ｽｷﾙをかばい、かばった後自身に999回行動まで真紅に燃える青春付与&amp;即ｱｸｼｮﾝ",
+          "effectIdx1": "1834",
+          "effectIdx2": "3555",
+          "effectIdx3": "3556",
+          "effectIds": "1834,3555,3556,"
         },
         {
           "abilityId": "10000",
@@ -27170,6 +27290,26 @@ window.ability=[
           "effectIds": "3079,1750,"
         },
         {
+          "abilityId": "16009",
+          "abilityName": "ダメージ上限",
+          "abilityDescription": "ダメージ上限（上限値：10000000ダメージ）",
+          "abilityEffectDescription": "ダメージ上限（上限値：10000000ダメージ）",
+          "effectIdx1": "300205",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "300205,"
+        },
+        {
+          "abilityId": "16010",
+          "abilityName": "ダメージ上限＋バトル開始時に強化系特殊・神化状態不可を付与",
+          "abilityDescription": "ダメージ上限（上限値：10000000ダメージ）、バトル開始時に強化系神化・特殊状態不可を付与",
+          "abilityEffectDescription": "ダメージ上限（上限値：10000000ダメージ）、バトル開始時に強化系神化・特殊状態不可を付与",
+          "effectIdx1": "300205",
+          "effectIdx2": "3561",
+          "effectIdx3": "0",
+          "effectIds": "300205,3561,"
+        },
+        {
           "abilityId": "17000",
           "abilityName": "状態異常・幻・弱体系特殊状態・即死無効",
           "abilityDescription": "状態異常・幻・弱体系特殊状態・即死無効",
@@ -27178,6 +27318,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": null
+        },
+        {
+          "abilityId": "17001",
+          "abilityName": "弱体系特殊・神化状態解除＆無効",
+          "abilityDescription": "弱体系特殊・神化状態解除＆無効",
+          "abilityEffectDescription": "弱体系特殊・神化状態解除＆無効",
+          "effectIdx1": "3562",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3562,"
         },
         {
           "abilityId": "20001",
@@ -28378,6 +28528,36 @@ window.ability=[
           "effectIdx2": "2915",
           "effectIdx3": "2841",
           "effectIds": "1057,2915,2841,3501,"
+        },
+        {
+          "abilityId": "100124",
+          "abilityName": "忍の風儀",
+          "abilityDescription": "確率で再行動、敵に滅キャラがいると確実に再行動、敵に無所属がいると素早さ200%アップ",
+          "abilityEffectDescription": "確率で再行動、敵に滅キャラがいると確実に再行動、敵に無所属がいると素早さ200%アップ",
+          "effectIdx1": "439",
+          "effectIdx2": "2536",
+          "effectIdx3": "2017",
+          "effectIds": "439,2536,2017,"
+        },
+        {
+          "abilityId": "100125",
+          "abilityName": "天才の面目",
+          "abilityDescription": "2回行動するまで、耐性無視スキルのダメージを0&amp;素早さ200%アップ",
+          "abilityEffectDescription": "2回行動するまで、耐性無視スキルのダメージを0&amp;素早さ200%アップ",
+          "effectIdx1": "1838",
+          "effectIdx2": "1693",
+          "effectIdx3": "0",
+          "effectIds": "1838,1693,"
+        },
+        {
+          "abilityId": "100126",
+          "abilityName": "命懸けの守護者",
+          "abilityDescription": "単体スキル攻撃をかばう、被ダメージ50%カット、スキルダメージ150%アップ",
+          "abilityEffectDescription": "単体スキル攻撃をかばう、被ダメージ50%カット、スキルダメージ150%アップ",
+          "effectIdx1": "2186",
+          "effectIdx2": "3502",
+          "effectIdx3": "794",
+          "effectIds": "2186,3502,794,"
         },
         {
           "abilityId": "200001",
@@ -30178,6 +30358,56 @@ window.ability=[
           "effectIdx2": "3506",
           "effectIdx3": "3507",
           "effectIds": "2842,3506,3507,"
+        },
+        {
+          "abilityId": "310133",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方に「ガイ・ネジ・リー」がいると確率で先制攻撃",
+          "abilityEffectDescription": "味方に「ガイ・ネジ・リー」がいると確率で先制攻撃",
+          "effectIdx1": "3508",
+          "effectIdx2": "3510",
+          "effectIdx3": "3509",
+          "effectIds": "3508,3510,3509,"
+        },
+        {
+          "abilityId": "310134",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方に「ネジ・リー・テンテン」がいると確率で先制攻撃",
+          "abilityEffectDescription": "味方に「ネジ・リー・テンテン」がいると確率で先制攻撃",
+          "effectIdx1": "3510",
+          "effectIdx2": "3509",
+          "effectIdx3": "3511",
+          "effectIds": "3510,3509,3511,"
+        },
+        {
+          "abilityId": "310135",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方に「ガイ・リー・テンテン」がいると確率で先制攻撃",
+          "abilityEffectDescription": "味方に「ガイ・リー・テンテン」がいると確率で先制攻撃",
+          "effectIdx1": "3508",
+          "effectIdx2": "3509",
+          "effectIdx3": "3511",
+          "effectIds": "3508,3509,3511,"
+        },
+        {
+          "abilityId": "310136",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に“暁”所属が生存していると、スキルダメージ70%アップ",
+          "abilityEffectDescription": "敵に“暁”所属が生存していると、スキルダメージ70%アップ",
+          "effectIdx1": "3295",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3295,"
+        },
+        {
+          "abilityId": "310139",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "2回行動まで即死無効",
+          "abilityEffectDescription": "2回行動まで即死無効",
+          "effectIdx1": "3284",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3284,"
         },
         {
           "abilityId": "801187",

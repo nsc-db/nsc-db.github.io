@@ -7905,7 +7905,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3188",
-          "name": "0"
+          "name": "本気でやるのは久しいからな"
         },
         {
           "cardBattleSkillNameId": "3189",
@@ -7914,6 +7914,42 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "3190",
           "name": "悲しくなんかありません！！"
+        },
+        {
+          "cardBattleSkillNameId": "3191",
+          "name": "もうゲームクリアぜよ"
+        },
+        {
+          "cardBattleSkillNameId": "3192",
+          "name": "火遁・竜炎昇"
+        },
+        {
+          "cardBattleSkillNameId": "3193",
+          "name": "一族を…兄さんを守る！"
+        },
+        {
+          "cardBattleSkillNameId": "3198",
+          "name": "砂漠・叛奴"
+        },
+        {
+          "cardBattleSkillNameId": "3199",
+          "name": "そこまでだ"
+        },
+        {
+          "cardBattleSkillNameId": "3200",
+          "name": "そこにいるのは分かってる"
+        },
+        {
+          "cardBattleSkillNameId": "3201",
+          "name": "十尾・集厄尾獣玉"
+        },
+        {
+          "cardBattleSkillNameId": "3202",
+          "name": "夜ガイ・龍震撃"
+        },
+        {
+          "cardBattleSkillNameId": "3203",
+          "name": "真紅に燃える時！！！"
         },
         {
           "cardBattleSkillNameId": "10136",
@@ -8058,6 +8094,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20603",
           "name": "麺の怒り"
+        },
+        {
+          "cardBattleSkillNameId": "20604",
+          "name": "のこ…のこ…"
+        },
+        {
+          "cardBattleSkillNameId": "20605",
+          "name": "にょき…にょき…"
         },
         {
           "cardBattleSkillNameId": "20900",
