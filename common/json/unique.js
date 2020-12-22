@@ -15524,7 +15524,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1212",
           "targetCrystal": "31209",
-          "description": "0",
+          "description": "敵に木ノ葉隠れの里所属生存で、スキップ・キャンセル無効。スキル発動速度2段階アップ",
           "charaIds": "13706",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -15537,7 +15537,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1213",
           "targetCrystal": "31210",
-          "description": "0",
+          "description": "3回行動までチャクラ消費0&amp;確率で全スキル無効。スキルダメージ・素早さ150%アップ",
           "charaIds": "13706",
           "cardIds": "0",
           "charaGroupIds": "0",

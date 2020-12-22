@@ -7928,6 +7928,22 @@ window.skillname=[
           "name": "一族を…兄さんを守る！"
         },
         {
+          "cardBattleSkillNameId": "3194",
+          "name": "剛腕可憐なプレゼント"
+        },
+        {
+          "cardBattleSkillNameId": "3195",
+          "name": "私が届けるわよ！"
+        },
+        {
+          "cardBattleSkillNameId": "3196",
+          "name": "六道・天焔星"
+        },
+        {
+          "cardBattleSkillNameId": "3197",
+          "name": "もうお前らには何もさせん"
+        },
+        {
           "cardBattleSkillNameId": "3198",
           "name": "砂漠・叛奴"
         },
@@ -8102,6 +8118,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20605",
           "name": "にょき…にょき…"
+        },
+        {
+          "cardBattleSkillNameId": "20606",
+          "name": "ぴち…ぴち…"
+        },
+        {
+          "cardBattleSkillNameId": "20607",
+          "name": "ざぶ…さぶ…"
         },
         {
           "cardBattleSkillNameId": "20900",

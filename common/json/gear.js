@@ -26309,11 +26309,11 @@ window.gear=[
           "effectIds": "3573,3574,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "神・樹界降誕",
+          "crystalDescription": "敵に木ノ葉隠れの里所属生存で、超低確率でスキップ・キャンセル無効",
           "crystalImageId": "312095",
           "recipeId": "31209",
-          "recipeName": "0"
+          "recipeName": "神・樹界降誕"
         },
         {
           "crystalId": "31210",
@@ -26326,11 +26326,11 @@ window.gear=[
           "effectIds": "3577,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "六道マダラの第三の眼",
+          "crystalDescription": "1回行動まで低確率で全スキル無効",
           "crystalImageId": "312105",
           "recipeId": "31210",
-          "recipeName": "0"
+          "recipeName": "六道マダラの第三の眼"
         },
         {
           "crystalId": "31217",

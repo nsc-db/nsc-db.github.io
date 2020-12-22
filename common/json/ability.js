@@ -26660,6 +26660,46 @@ window.ability=[
           "effectIds": "3530,3531,"
         },
         {
+          "abilityId": "2720",
+          "abilityName": "可憐なるプレゼンター",
+          "abilityDescription": "バトル開始時高確率で先制。1回行動までチャクラ消費0。味方の木ノ葉所属1人毎に攻防速30％アップ（自身含む）",
+          "abilityEffectDescription": "バトル開始時高確率で先制。1回行動までチャクラ消費0。味方の木ノ葉所属1人毎に攻防速30％アップ（自身含む）",
+          "effectIdx1": "3532",
+          "effectIdx2": "1378",
+          "effectIdx3": "953",
+          "effectIds": "3532,1378,953,1225,1226,"
+        },
+        {
+          "abilityId": "2721",
+          "abilityName": "聖夜に映える任務服",
+          "abilityDescription": "弱体・状態異常無効。被ダメージ時、低確率で相手をプレゼント状態にする※男性キャラの場合、高確率で付与",
+          "abilityEffectDescription": "弱体・状態異常無効。被ダメージ時、低確率で相手をプレゼント状態にする※男性キャラの場合、高確率で付与",
+          "effectIdx1": "880",
+          "effectIdx2": "3533",
+          "effectIdx3": "3534",
+          "effectIds": "880,3533,3534,"
+        },
+        {
+          "abilityId": "2722",
+          "abilityName": "本当の夢の完遂へ",
+          "abilityDescription": "敵に木ノ葉隠れの里所属生存時、防御無視効果を無効化＆バトル開始時から1回行動まで弱体系神化・特殊状態無効",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属生存時、防御無視効果を無効化＆バトル開始時から1回行動まで弱体系神化・特殊状態無効",
+          "effectIdx1": "3535",
+          "effectIdx2": "3536",
+          "effectIdx3": "0",
+          "effectIds": "3535,3536,"
+        },
+        {
+          "abilityId": "2723",
+          "abilityName": "異界に潜む四影",
+          "abilityDescription": "敵に神忍生存時、素早さ666％アップ＆バトル開始時スキル2で急襲（チャクラ大回復）。HP0以下で1回HP全回復",
+          "abilityEffectDescription": "敵に神忍生存時、素早さ666％アップ＆バトル開始時スキル2で急襲（チャクラ大回復）。HP0以下で1回HP全回復",
+          "effectIdx1": "2005",
+          "effectIdx2": "2549",
+          "effectIdx3": "312",
+          "effectIds": "2005,2549,312,874,"
+        },
+        {
           "abilityId": "2724",
           "abilityName": "五代目風影",
           "abilityDescription": "HP0以下で5回耐え、1回行動まで弱体系特殊状態無効",
@@ -30398,6 +30438,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3295,"
+        },
+        {
+          "abilityId": "310137",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "HP0以下で3回耐える",
+          "abilityEffectDescription": "HP0以下で3回耐える",
+          "effectIdx1": "1789",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1789,"
         },
         {
           "abilityId": "310139",

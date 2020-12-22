@@ -15834,6 +15834,34 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1147",
+          "name": "聖夜に舞う雪桜",
+          "description": "木ノ葉隠れの里所属のスキルダメージ100%アップ",
+          "effectIdx1": "774",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "774,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1148",
+          "name": "終わりなき夢の成就",
+          "description": "全属性のスキル発動速度2段階アップ",
+          "effectIdx1": "1549",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1549,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1149",
           "name": "流隆の礫烈風",
           "description": "砂隠れ・木ノ葉隠れの里所属の場合､低確率で再行動",
