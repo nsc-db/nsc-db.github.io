@@ -10274,6 +10274,16 @@
           "gachaTicketImgId": "4684"
         },
         {
+          "gachaTicketId": "4686",
+          "gachaTicketName": "LvMAX！くノ一昇級選抜特別ガチャチケット",
+          "gachaTicketImgId": "4686"
+        },
+        {
+          "gachaTicketId": "4687",
+          "gachaTicketName": "LvMAX！くノ一昇級選抜ガチャチケット",
+          "gachaTicketImgId": "4687"
+        },
+        {
           "gachaTicketId": "4688",
           "gachaTicketName": "神忍祭 -木ノ葉隠れの里- 極ガチャチケット",
           "gachaTicketImgId": "4688"
@@ -10322,6 +10332,11 @@
           "gachaTicketId": "4697",
           "gachaTicketName": "神忍・破神確定 -紅く燃ゆる信念の誇り-",
           "gachaTicketImgId": "4697"
+        },
+        {
+          "gachaTicketId": "4704",
+          "gachaTicketName": "0",
+          "gachaTicketImgId": "4704"
         },
         {
           "gachaTicketId": "4705",

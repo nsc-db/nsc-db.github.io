@@ -27189,6 +27189,16 @@
           "effectIds": null
         },
         {
+          "abilityId": "11904",
+          "abilityName": "HP0以下で2回耐える",
+          "abilityDescription": "HP0以下で2回耐える",
+          "abilityEffectDescription": "HP0以下で2回耐える",
+          "effectIdx1": "1057",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1057,"
+        },
+        {
           "abilityId": "12000",
           "abilityName": "高確率で通常攻撃を回避",
           "abilityDescription": "高確率で通常攻撃を回避",

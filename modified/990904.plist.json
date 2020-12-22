@@ -402,6 +402,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1377",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "ここ掘れ！！烏合の衆！！",
+          "description": "マダラ小判を最大100枚ゲットしよう！\r\n忍石も最大50個ゲット可能！\r\n\r\nすべての報酬を手に入れられるか…！？",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2099",
           "worldAreaId": "5",
           "priority": "5",
@@ -447,19 +460,6 @@
           "name": "キング・オブ・ダメラン-特別篇-～総合～",
           "description": "0",
           "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "4131",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "木ノ葉創生～二人の夢...終末の谷～",
-          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

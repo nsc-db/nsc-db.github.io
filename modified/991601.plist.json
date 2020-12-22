@@ -2222,6 +2222,19 @@
           "selectType": "3"
         },
         {
+          "itemId": "16014",
+          "name": "マダラ小判",
+          "description": "ガチャ『血湧き肉躍ってこそのガチャだ』で使用できる小判（12月25日23:59まで使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "15000",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16014",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
           "itemId": "16015",
           "name": "WチャンスUP",
           "description": "所持しているとナルコレ総選挙2020 -Wチャンス-でWチャンスPtが2倍になるアイテム（2021年1月20日15:59まで期間限定）",

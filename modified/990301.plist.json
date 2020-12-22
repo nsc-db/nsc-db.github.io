@@ -26111,6 +26111,23 @@
           "recipeName": "新鮮な川魚ラーメン"
         },
         {
+          "crystalId": "31118",
+          "crystalType": "10",
+          "crystalRare": "5",
+          "effectIdx1": "3517",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "3517,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "いなりずしラーメン",
+          "crystalDescription": "2.000回行動するまでダメージを受けるとチャクラが20.00%回復する",
+          "crystalImageId": "311185",
+          "recipeId": "31118",
+          "recipeName": "いなりずしラーメン"
+        },
+        {
           "crystalId": "31119",
           "crystalType": "10",
           "crystalRare": "5",
@@ -26160,6 +26177,23 @@
           "crystalImageId": "311215",
           "recipeId": "31121",
           "recipeName": "新鮮な川魚ﾗｰﾒﾝ・黒"
+        },
+        {
+          "crystalId": "31122",
+          "crystalType": "10",
+          "crystalRare": "5",
+          "effectIdx1": "10671",
+          "effectIdx2": "3521",
+          "effectIdx3": "3523",
+          "effectIdx4": "0",
+          "effectIds": "10671,3521,3523,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "いなりずしﾗｰﾒﾝ・超",
+          "crystalDescription": "最大HP200,000アップ、20.00回行動するまで素早さ＆全スキルダメージ120.00%アップ        ",
+          "crystalImageId": "311225",
+          "recipeId": "31122",
+          "recipeName": "いなりずしﾗｰﾒﾝ・超"
         },
         {
           "crystalId": "31201",
