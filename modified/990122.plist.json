@@ -3983,6 +3983,18 @@
           "voiceDeath": "sakura_pursuit_02_05"
         },
         {
+          "cardVoiceId": "336",
+          "cardId": "20061206",
+          "dirName": "madara",
+          "evolutionStep": "",
+          "voiceAppear": "madara_battle_02_02",
+          "voiceSkill1": "madara_skill_02_20,madara_attack_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "madara_skill_02_19",
+          "voiceDeath": "madara_damage_02_02"
+        },
+        {
           "cardVoiceId": "337",
           "cardId": "20061203",
           "dirName": "gaara",

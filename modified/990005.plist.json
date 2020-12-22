@@ -1267,5 +1267,15 @@
           "uiIdx": "10025",
           "partyEffects": "3464,3465,3466,3467,",
           "enemyEffects": "3468,3469,"
+        },
+        {
+          "battleFieldEffectId": "10026",
+          "name": "視エザル世界",
+          "category": "3",
+          "scriptId": "10026",
+          "overWrite": "1",
+          "uiIdx": "10026",
+          "partyEffects": "3543,",
+          "enemyEffects": "3541,3542,"
         }
       ]

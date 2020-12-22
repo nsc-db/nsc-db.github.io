@@ -1211,6 +1211,18 @@
           "specialPanelList": "9100010,9100011,9100012,9100036"
         },
         {
+          "sphereBoardId": "50047",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "うちはマダラ【終わりなき夢の成就】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061206",
+          "normalPanelList": "9100025,9100026,9100027,9100037",
+          "specialPanelList": "9100028,9100029,9100030,9100038"
+        },
+        {
           "sphereBoardId": "50048",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤_4枚あり",
           "boardDescription": "マイト・ガイ【紅く燃ゆる信念の誇り】",

@@ -26679,6 +26679,26 @@
           "effectIds": "880,3533,3534,"
         },
         {
+          "abilityId": "2722",
+          "abilityName": "本当の夢の完遂へ",
+          "abilityDescription": "敵に木ノ葉隠れの里所属生存時、防御無視効果を無効化＆バトル開始時から1回行動まで弱体系神化・特殊状態無効",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属生存時、防御無視効果を無効化＆バトル開始時から1回行動まで弱体系神化・特殊状態無効",
+          "effectIdx1": "3535",
+          "effectIdx2": "3536",
+          "effectIdx3": "0",
+          "effectIds": "3535,3536,"
+        },
+        {
+          "abilityId": "2723",
+          "abilityName": "異界に潜む四影",
+          "abilityDescription": "敵に神忍生存時、素早さ666％アップ＆バトル開始時スキル2で急襲（チャクラ大回復）。HP0以下で1回HP全回復",
+          "abilityEffectDescription": "敵に神忍生存時、素早さ666％アップ＆バトル開始時スキル2で急襲（チャクラ大回復）。HP0以下で1回HP全回復",
+          "effectIdx1": "2005",
+          "effectIdx2": "2549",
+          "effectIdx3": "312",
+          "effectIds": "2005,2549,312,874,"
+        },
+        {
           "abilityId": "2724",
           "abilityName": "五代目風影",
           "abilityDescription": "HP0以下で5回耐え、1回行動まで弱体系特殊状態無効",

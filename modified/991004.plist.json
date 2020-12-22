@@ -5741,6 +5741,12 @@
           "speechCharactorName": "シズネ"
         },
         {
+          "speechCharactorId": "979",
+          "cardId": "979",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "九喇嘛"
+        },
+        {
           "speechCharactorId": "980",
           "cardId": "20001706",
           "speechCharactorImgId": "0",
@@ -5865,6 +5871,18 @@
           "cardId": "1002",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "1003",
+          "cardId": "1003",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "黒ゼツ"
+        },
+        {
+          "speechCharactorId": "1004",
+          "cardId": "1004",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
         },
         {
           "speechCharactorId": "1005",
@@ -6033,6 +6051,12 @@
           "cardId": "20050205",
           "speechCharactorImgId": "0",
           "speechCharactorName": "ペイン(畜生道)"
+        },
+        {
+          "speechCharactorId": "1040",
+          "cardId": "20051101",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはマダラ"
         },
         {
           "speechCharactorId": "5001",

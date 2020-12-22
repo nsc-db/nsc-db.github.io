@@ -6614,6 +6614,15 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageOrnamentId": "2012002",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "137",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageOrnamentId": "2012601",
           "name": "その他",
           "rarity": "4",
