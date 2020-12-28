@@ -7968,6 +7968,50 @@ window.skillname=[
           "name": "真紅に燃える時！！！"
         },
         {
+          "cardBattleSkillNameId": "3204",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3205",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3206",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3207",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3208",
+          "name": "闘陣・雷吼獄炎衝"
+        },
+        {
+          "cardBattleSkillNameId": "3209",
+          "name": "打破・八卦六十四掌"
+        },
+        {
+          "cardBattleSkillNameId": "3210",
+          "name": "これが最後"
+        },
+        {
+          "cardBattleSkillNameId": "3211",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3212",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3213",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3214",
+          "name": "0"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
@@ -8126,6 +8170,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "20607",
           "name": "ざぶ…さぶ…"
+        },
+        {
+          "cardBattleSkillNameId": "20608",
+          "name": "びちゃっ"
+        },
+        {
+          "cardBattleSkillNameId": "20609",
+          "name": "じーっ…"
         },
         {
           "cardBattleSkillNameId": "20900",

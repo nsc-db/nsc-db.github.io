@@ -15546,5 +15546,83 @@ window.unique=[
           "effectIdx3": "794",
           "effectIdx4": "967",
           "effectIds": "1949,3578,794,967"
+        },
+        {
+          "crystalOverwriteEffectId": "1214",
+          "targetCrystal": "31215",
+          "description": "0",
+          "charaIds": "210",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "895",
+          "effectIdx3": "774",
+          "effectIdx4": "0",
+          "effectIds": "1840,895,774"
+        },
+        {
+          "crystalOverwriteEffectId": "1215",
+          "targetCrystal": "31216",
+          "description": "0",
+          "charaIds": "11601",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "3376",
+          "effectIdx3": "13099",
+          "effectIdx4": "0",
+          "effectIds": "1840,3376,13099"
+        },
+        {
+          "crystalOverwriteEffectId": "1216",
+          "targetCrystal": "31211",
+          "description": "1回行動するまで消費ﾁｬｸﾗ0、2回行動以降ﾁｬｸﾗ消費量半減。行動するたび素早さ50%ｱｯﾌﾟ（最大4回まで）",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1378",
+          "effectIdx2": "1538",
+          "effectIdx3": "1992",
+          "effectIdx4": "0",
+          "effectIds": "1378,1538,1992"
+        },
+        {
+          "crystalOverwriteEffectId": "1217",
+          "targetCrystal": "31212",
+          "description": "全スキルダメージが150%アップし、行動後確率で1回行動まで素早さ200%アップ",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "3581",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "794,3581"
+        },
+        {
+          "crystalOverwriteEffectId": "1218",
+          "targetCrystal": "31213",
+          "description": "0",
+          "charaIds": "1901",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "3591",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "30011,3591"
+        },
+        {
+          "crystalOverwriteEffectId": "1219",
+          "targetCrystal": "31214",
+          "description": "0",
+          "charaIds": "13702",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "3592",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "30011,3592"
         }
         ]

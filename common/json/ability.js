@@ -26780,6 +26780,106 @@ window.ability=[
           "effectIds": "1834,3555,3556,"
         },
         {
+          "abilityId": "2732",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3241",
+          "effectIds": "1057,874,3241,3587,3588,"
+        },
+        {
+          "abilityId": "2733",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3286",
+          "effectIdx2": "3018",
+          "effectIdx3": "3162",
+          "effectIds": "3286,3018,3162,"
+        },
+        {
+          "abilityId": "2734",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3241",
+          "effectIds": "1057,874,3241,3589,3590,"
+        },
+        {
+          "abilityId": "2735",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2722",
+          "effectIdx2": "3160",
+          "effectIdx3": "3161",
+          "effectIds": "2722,3160,3161,"
+        },
+        {
+          "abilityId": "2736",
+          "abilityName": "共に戦う覚悟",
+          "abilityDescription": "HP0以下で3回耐え、耐えたとき自身のHPを50%回復し、3回行動まで堅護状態にする",
+          "abilityEffectDescription": "HP0以下で3回耐え、耐えたとき自身のHPを50%回復し、3回行動まで堅護状態にする",
+          "effectIdx1": "1789",
+          "effectIdx2": "3096",
+          "effectIdx3": "3596",
+          "effectIds": "1789,3096,3596,"
+        },
+        {
+          "abilityId": "2737",
+          "abilityName": "一途な愛情",
+          "abilityDescription": "3回行動まで攻撃・素早さ200%アップ。敵に滅キャラが生存で攻撃・素早さ150％アップ",
+          "abilityEffectDescription": "3回行動まで攻撃・素早さ200%アップ。敵に滅キャラが生存で攻撃・素早さ150％アップ",
+          "effectIdx1": "3580",
+          "effectIdx2": "2530",
+          "effectIdx3": "3607",
+          "effectIds": "3580,2530,3607,3606,"
+        },
+        {
+          "abilityId": "2738",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3593",
+          "effectIdx2": "2509",
+          "effectIdx3": "0",
+          "effectIds": "3593,2509,"
+        },
+        {
+          "abilityId": "2739",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1057",
+          "effectIdx2": "3594",
+          "effectIdx3": "0",
+          "effectIds": "1057,3594,"
+        },
+        {
+          "abilityId": "2740",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2884",
+          "effectIdx2": "2958",
+          "effectIdx3": "0",
+          "effectIds": "2884,2958,"
+        },
+        {
+          "abilityId": "2741",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1057",
+          "effectIdx2": "3595",
+          "effectIdx3": "0",
+          "effectIds": "1057,3595,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -27188,6 +27288,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": null
+        },
+        {
+          "abilityId": "11904",
+          "abilityName": "HP0以下で2回耐える",
+          "abilityDescription": "HP0以下で2回耐える",
+          "abilityEffectDescription": "HP0以下で2回耐える",
+          "effectIdx1": "1057",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1057,"
         },
         {
           "abilityId": "12000",
@@ -28668,6 +28778,26 @@ window.ability=[
           "effectIdx2": "228150",
           "effectIdx3": "229404",
           "effectIds": "229104,228150,229404,228450,"
+        },
+        {
+          "abilityId": "200010",
+          "abilityName": "技・知属性特化",
+          "abilityDescription": "技・知属性へのスキル攻撃時に相手の耐性を弱点とする。技・知属性からのダメージを50%カット",
+          "abilityEffectDescription": "技・知属性へのスキル攻撃時に相手の耐性を弱点とする。技・知属性からのダメージを50%カット",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "229304",
+          "effectIds": "229104,228150,229304,228350,"
+        },
+        {
+          "abilityId": "200011",
+          "abilityName": "心・勇属性特化",
+          "abilityDescription": "心・勇属性へのスキル攻撃時に相手の耐性を弱点とする。心・勇属性からのダメージを50%カット",
+          "abilityEffectDescription": "心・勇属性へのスキル攻撃時に相手の耐性を弱点とする。心・勇属性からのダメージを50%カット",
+          "effectIdx1": "229004",
+          "effectIdx2": "228050",
+          "effectIdx3": "229404",
+          "effectIds": "229004,228050,229404,228450,"
         },
         {
           "abilityId": "210001",
@@ -30458,6 +30588,46 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3284,"
+        },
+        {
+          "abilityId": "310140",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "確率で滅キャラからのダメージ50％カット",
+          "abilityEffectDescription": "確率で滅キャラからのダメージ50％カット",
+          "effectIdx1": "3605",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3605,"
+        },
+        {
+          "abilityId": "310141",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "2回行動まで全スキル無効",
+          "abilityEffectDescription": "2回行動まで全スキル無効",
+          "effectIdx1": "2343",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2343,"
+        },
+        {
+          "abilityId": "310142",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "2回行動まで耐性無視ダメージ0",
+          "abilityEffectDescription": "2回行動まで耐性無視ダメージ0",
+          "effectIdx1": "1838",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1838,"
+        },
+        {
+          "abilityId": "310143",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "行動するたび攻防速25%アップ(3回まで)",
+          "abilityEffectDescription": "行動するたび攻防速25%アップ(3回まで)",
+          "effectIdx1": "872",
+          "effectIdx2": "873",
+          "effectIdx3": "897",
+          "effectIds": "872,873,897,"
         },
         {
           "abilityId": "801187",
