@@ -659,6 +659,42 @@
           "specialPanelList": "9000004,9000005,9000006"
         },
         {
+          "sphereBoardId": "10066",
+          "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
+          "boardDescription": "日向ヒナタ【双掌に込める想い】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061207",
+          "normalPanelList": "9000025,9000026,9000027",
+          "specialPanelList": "9000028,9000029,9000030"
+        },
+        {
+          "sphereBoardId": "10067",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "千手柱間【繁栄誓う新年】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061208",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018"
+        },
+        {
+          "sphereBoardId": "10068",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "うちはマダラ【夢酌み交わす祝賀】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20061209",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1245,6 +1281,18 @@
           "cardId": "60060700",
           "normalPanelList": "9200007,9200008,9200009",
           "specialPanelList": "9200010,9200011,9200012"
+        },
+        {
+          "sphereBoardId": "60002",
+          "boardName": "忍絵巻_心属性_の潜在覚醒盤",
+          "boardDescription": "サスケ＆イタチ【宿炎の忍絵巻-絆-】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "60061200",
+          "normalPanelList": "9200001,9200002,9200003",
+          "specialPanelList": "9200004,9200005,9200006"
         },
         {
           "sphereBoardId": "70001",

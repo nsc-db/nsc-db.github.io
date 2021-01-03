@@ -4,6 +4,6 @@
 <plist version="1.0">
     <dict>
         <key>990132</key>
-        <string>{"resData":{"990132":{"connectCardGroupM":[{"connectCardGroupId":"1","connectCardId":"60060700","cardId":"60060701","connectSkillId":"720000"},{"connectCardGroupId":"2","connectCardId":"60060700","cardId":"60060702","connectSkillId":"720001"}]}}}</string>
+        <string>{"resData":{"990132":{"connectCardGroupM":[{"connectCardGroupId":"1","connectCardId":"60060700","cardId":"60060701","connectSkillId":"720000"},{"connectCardGroupId":"2","connectCardId":"60060700","cardId":"60060702","connectSkillId":"720001"},{"connectCardGroupId":"3","connectCardId":"60061200","cardId":"60061201","connectSkillId":"0"},{"connectCardGroupId":"4","connectCardId":"60061200","cardId":"60061202","connectSkillId":"0"}]}}}</string>
     </dict>
 </plist>

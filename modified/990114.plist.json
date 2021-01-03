@@ -2987,5 +2987,55 @@
           "subScore": "0",
           "color": "16510971",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "304",
+          "category": "3",
+          "iconId": "1357",
+          "name": "破雷",
+          "description": "弱体特殊解除無効化。ｽｷｯﾌﾟ・ｷｬﾝｾﾙ無効。敵の地形解除&amp;確率地形展開無効。ｽｷﾙ攻撃時破神に耐性無視麻痺",
+          "subScore": "0",
+          "color": "49151",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "305",
+          "category": "3",
+          "iconId": "1358",
+          "name": "封炎",
+          "description": "弱体・状態異常・幻・弱体特殊神化解除無効。ｽｷﾙ攻撃時神忍に耐性無視封印&amp;1回強化特殊神化解除無効",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "306",
+          "category": "3",
+          "iconId": "1359",
+          "name": "新年細胞",
+          "description": "最大HPアップ、新年細胞状態の味方が行動するたびにHP回復",
+          "subScore": "0",
+          "color": "16777215",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "307",
+          "category": "3",
+          "iconId": "1360",
+          "name": "祝賀裂傷",
+          "description": "行動不能になり、行動後ダメージを受ける",
+          "subScore": "0",
+          "color": "16719647",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "309",
+          "category": "5",
+          "iconId": "0",
+          "name": "強化系特殊・神化状態無効",
+          "description": "強化系特殊・神化状態無効",
+          "subScore": "0",
+          "color": "0",
+          "type": "3"
         }
       ]

@@ -4717,5 +4717,21 @@
           "color": "0",
           "effectIds": "0",
           "equipStatus": "3"
+        },
+        {
+          "titleId": "5332",
+          "title": "宿炎の絆を紡ぎし者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5333",
+          "title": "宿炎の絆輝かせし者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
         }
       ]
