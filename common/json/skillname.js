@@ -7969,19 +7969,19 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3204",
-          "name": "0"
+          "name": "叫讐ノ雷"
         },
         {
           "cardBattleSkillNameId": "3205",
-          "name": "0"
+          "name": "目的を果たす時が来た"
         },
         {
           "cardBattleSkillNameId": "3206",
-          "name": "0"
+          "name": "火遁・闇刻焼"
         },
         {
           "cardBattleSkillNameId": "3207",
-          "name": "0"
+          "name": "オレには勝てはしない"
         },
         {
           "cardBattleSkillNameId": "3208",
@@ -7997,19 +7997,43 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3211",
-          "name": "0"
+          "name": "新春仙法・門樹ノ陣"
         },
         {
           "cardBattleSkillNameId": "3212",
-          "name": "0"
+          "name": "これから夢が現実になる"
         },
         {
           "cardBattleSkillNameId": "3213",
-          "name": "0"
+          "name": "迎春火遁・豪火扇乱"
         },
         {
           "cardBattleSkillNameId": "3214",
-          "name": "0"
+          "name": "届いたんだな…オレ達は"
+        },
+        {
+          "cardBattleSkillNameId": "3215",
+          "name": "桜敢撃"
+        },
+        {
+          "cardBattleSkillNameId": "3216",
+          "name": "…イメチェンよ！"
+        },
+        {
+          "cardBattleSkillNameId": "3217",
+          "name": "千殺水翔・凍柱華葬"
+        },
+        {
+          "cardBattleSkillNameId": "3218",
+          "name": "夢をつかみ取って下さい…"
+        },
+        {
+          "cardBattleSkillNameId": "3219",
+          "name": "水龍弾・逆鱗衝"
+        },
+        {
+          "cardBattleSkillNameId": "3220",
+          "name": "オレには勝てねーよ"
         },
         {
           "cardBattleSkillNameId": "10136",

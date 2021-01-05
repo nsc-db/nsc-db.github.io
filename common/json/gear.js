@@ -26411,11 +26411,11 @@ window.gear=[
           "effectIds": "678,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "里の平和を誓う盃",
+          "crystalDescription": "全スキルダメージ60%アップ",
           "crystalImageId": "312135",
           "recipeId": "31213",
-          "recipeName": "0"
+          "recipeName": "里の平和を誓う盃"
         },
         {
           "crystalId": "31214",
@@ -26428,11 +26428,11 @@ window.gear=[
           "effectIds": "678,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "夢の実現を誓う盃",
+          "crystalDescription": "全スキルダメージ60%アップ",
           "crystalImageId": "312145",
           "recipeId": "31214",
-          "recipeName": "0"
+          "recipeName": "夢の実現を誓う盃"
         },
         {
           "crystalId": "31215",
@@ -26445,11 +26445,11 @@ window.gear=[
           "effectIds": "694,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "憎しみの写輪眼",
+          "crystalDescription": "全スキルダメージ80%アップ",
           "crystalImageId": "312155",
           "recipeId": "31215",
-          "recipeName": "0"
+          "recipeName": "憎しみの写輪眼"
         },
         {
           "crystalId": "31216",
@@ -26462,11 +26462,11 @@ window.gear=[
           "effectIds": "13079,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "儚き万華鏡写輪眼",
+          "crystalDescription": "素早さ80%アップ",
           "crystalImageId": "312165",
           "recipeId": "31216",
-          "recipeName": "0"
+          "recipeName": "儚き万華鏡写輪眼"
         },
         {
           "crystalId": "31217",
@@ -26569,5 +26569,73 @@ window.gear=[
           "crystalImageId": "312225",
           "recipeId": "31222",
           "recipeName": "賀正ロゴ2021"
+        },
+        {
+          "crystalId": "40101",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "1773",
+          "effectIdx2": "661",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1773,661,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "白のサンダル",
+          "crystalDescription": "弱体と状態異常を軽減する",
+          "crystalImageId": "401015",
+          "recipeId": "40101",
+          "recipeName": "白のサンダル"
+        },
+        {
+          "crystalId": "40102",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "11049",
+          "effectIdx3": "12049",
+          "effectIdx4": "13106",
+          "effectIds": "10049,11049,12049,13106,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "白のネイル",
+          "crystalDescription": "最大HPと攻撃力と防御力が50％アップするが、素早さが20％ダウンする",
+          "crystalImageId": "401025",
+          "recipeId": "40102",
+          "recipeName": "白のネイル"
+        },
+        {
+          "crystalId": "40103",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1863",
+          "effectIdx2": "1773",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1863,1773,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "再不斬のサンダル（登場時）",
+          "crystalDescription": "2回行動するまでチャクラ消費量20%減少、弱体軽減",
+          "crystalImageId": "401035",
+          "recipeId": "40103",
+          "recipeName": "再不斬のサンダル（登場時）"
+        },
+        {
+          "crystalId": "40104",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10049",
+          "effectIdx2": "11049",
+          "effectIdx3": "12049",
+          "effectIdx4": "13106",
+          "effectIds": "10049,11049,12049,13106,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "再不斬のショルダーベルト",
+          "crystalDescription": "最大HPと攻撃力と防御力が50％アップするが、素早さが20％ダウンする",
+          "crystalImageId": "401045",
+          "recipeId": "40104",
+          "recipeName": "再不斬のショルダーベルト"
         }
 ]
