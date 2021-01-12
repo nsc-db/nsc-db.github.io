@@ -8036,6 +8036,14 @@ window.skillname=[
           "name": "オレには勝てねーよ"
         },
         {
+          "cardBattleSkillNameId": "3221",
+          "name": "砂瀑送葬・修羅葬呪"
+        },
+        {
+          "cardBattleSkillNameId": "3222",
+          "name": "うん、やろう！…母さん"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

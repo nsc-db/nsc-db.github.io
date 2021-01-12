@@ -938,6 +938,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "1306",
+          "charaId": "13",
+          "name": "我愛羅",
+          "detail": "少年篇",
+          "charaLoveAffinityGroupId": "1310",
+          "birthday": "119",
+          "constellation": "10",
+          "height": "14610",
+          "weight": "3900",
+          "bloodType": "4",
+          "age": "12",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "1401",
           "charaId": "14",
           "name": "テマリ",
@@ -4121,6 +4135,20 @@ window.charaname=[
           "name": "ナルト＆サスケ",
           "detail": "忍絵巻-絆-",
           "charaLoveAffinityGroupId": "60201",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "60501",
+          "charaId": "605",
+          "name": "サスケ＆イタチ",
+          "detail": "忍絵巻-絆-",
+          "charaLoveAffinityGroupId": "60501",
           "birthday": "0",
           "constellation": "0",
           "height": "0",

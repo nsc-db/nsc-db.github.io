@@ -26940,6 +26940,26 @@ window.ability=[
           "effectIds": "2919,3613,1693,"
         },
         {
+          "abilityId": "2748",
+          "abilityName": "砂の暴威",
+          "abilityDescription": "敵に神忍がいると、バトル開始時【地形効果：砂塵舞踊】展開&amp;愛状態付与&amp;「スキル1」で急襲（チャクラ大回復）",
+          "abilityEffectDescription": "敵に神忍がいると、バトル開始時【地形効果：砂塵舞踊】展開&amp;愛状態付与&amp;「スキル1」で急襲（チャクラ大回復）",
+          "effectIdx1": "3616",
+          "effectIdx2": "3617",
+          "effectIdx3": "3618",
+          "effectIds": "3616,3617,3618,"
+        },
+        {
+          "abilityId": "2749",
+          "abilityName": "憎悪の顕現",
+          "abilityDescription": "被攻撃時に確率で即アクション（神忍からの攻撃は確実）。最大チャクラ量180アップ。HP0以下で5回耐える",
+          "abilityEffectDescription": "被攻撃時に確率で即アクション（神忍からの攻撃は確実）。最大チャクラ量180アップ。HP0以下で5回耐える",
+          "effectIdx1": "3620",
+          "effectIdx2": "3619",
+          "effectIdx3": "20017",
+          "effectIds": "3620,3619,20017,1512,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -15676,5 +15676,31 @@ window.unique=[
           "effectIdx3": "12099",
           "effectIdx4": "2501",
           "effectIds": "684,11099,12099,2501"
+        },
+        {
+          "crystalOverwriteEffectId": "1224",
+          "targetCrystal": "40105",
+          "description": "チャクラ消費量半減、敵に神忍がいるとチャクラ消費0、スキルダメージ120%アップ",
+          "charaIds": "1306",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "895",
+          "effectIdx2": "3635",
+          "effectIdx3": "30011",
+          "effectIdx4": "0",
+          "effectIds": "895,3635,30011"
+        },
+        {
+          "crystalOverwriteEffectId": "1225",
+          "targetCrystal": "40106",
+          "description": "スキル発動速度1段階アップ、行動後にHP・チャクラ30%回復、味方が自身のみだと確率で再行動",
+          "charaIds": "1306",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "300012",
+          "effectIdx3": "2524",
+          "effectIdx4": "3636",
+          "effectIds": "1840,300012,2524,3636"
         }
         ]

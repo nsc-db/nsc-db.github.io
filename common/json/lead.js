@@ -16030,6 +16030,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1161",
+          "name": "殺戮の狂砂",
+          "description": "敵に神忍が生存時、全属性の素早さ・スキルダメージ150%アップ",
+          "effectIdx1": "3614",
+          "effectIdx2": "3615",
+          "effectIdx3": "0",
+          "effectIds": "3614,3615,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

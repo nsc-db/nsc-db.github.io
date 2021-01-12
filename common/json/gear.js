@@ -26637,5 +26637,39 @@ window.gear=[
           "crystalImageId": "401045",
           "recipeId": "40104",
           "recipeName": "再不斬のショルダーベルト"
+        },
+        {
+          "crystalId": "40105",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "3634",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "3634,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "我愛羅の額当て",
+          "crystalDescription": "3回行動までチャクラ消費量半減",
+          "crystalImageId": "401055",
+          "recipeId": "40105",
+          "recipeName": "我愛羅の額当て"
+        },
+        {
+          "crystalId": "40106",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1840",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1840,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "余人への憎悪",
+          "crystalDescription": "スキル発動速度1段階アップ",
+          "crystalImageId": "401065",
+          "recipeId": "40106",
+          "recipeName": "余人への憎悪"
         }
 ]
