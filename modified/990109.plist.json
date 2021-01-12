@@ -26899,6 +26899,66 @@
           "effectIds": "3097,"
         },
         {
+          "abilityId": "2744",
+          "abilityName": "悲劇の血族",
+          "abilityDescription": "味方に「桃地再不斬」がいるとバトル開始時に自身を霧&amp;再生状態にする｡HP0以下で2回耐える｡",
+          "abilityEffectDescription": "味方に「桃地再不斬」がいるとバトル開始時に自身を霧&amp;再生状態にする｡HP0以下で2回耐える｡",
+          "effectIdx1": "1057",
+          "effectIdx2": "3608",
+          "effectIdx3": "3609",
+          "effectIds": "1057,3608,3609,"
+        },
+        {
+          "abilityId": "2745",
+          "abilityName": "鬼人の寵児",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲攻撃(ﾁｬｸﾗ大回復)(味方に桃地再不斬がいると確実)2回行動するまで素早さ200%ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲攻撃(ﾁｬｸﾗ大回復)(味方に桃地再不斬がいると確実)2回行動するまで素早さ200%ｱｯﾌﾟ",
+          "effectIdx1": "2919",
+          "effectIdx2": "3612",
+          "effectIdx3": "1693",
+          "effectIds": "2919,3612,1693,"
+        },
+        {
+          "abilityId": "2746",
+          "abilityName": "血霧の悪夢",
+          "abilityDescription": "味方に「白」がいるとバトル開始時に自身を暗影&amp;奮起状態にする。HP0以下で2回耐える。",
+          "abilityEffectDescription": "味方に「白」がいるとバトル開始時に自身を暗影&amp;奮起状態にする。HP0以下で2回耐える。",
+          "effectIdx1": "1057",
+          "effectIdx2": "3611",
+          "effectIdx3": "3610",
+          "effectIds": "1057,3611,3610,"
+        },
+        {
+          "abilityId": "2747",
+          "abilityName": "鬼人の殺気",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲攻撃(ﾁｬｸﾗ大回復)(味方に白がいると確実)2回行動するまで素早さ200%ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲攻撃(ﾁｬｸﾗ大回復)(味方に白がいると確実)2回行動するまで素早さ200%ｱｯﾌﾟ",
+          "effectIdx1": "2919",
+          "effectIdx2": "3613",
+          "effectIdx3": "1693",
+          "effectIds": "2919,3613,1693,"
+        },
+        {
+          "abilityId": "2748",
+          "abilityName": "砂の暴威",
+          "abilityDescription": "敵に神忍がいると、バトル開始時【地形効果：砂塵舞踊】展開&amp;愛状態付与&amp;「スキル1」で急襲（チャクラ大回復）",
+          "abilityEffectDescription": "敵に神忍がいると、バトル開始時【地形効果：砂塵舞踊】展開&amp;愛状態付与&amp;「スキル1」で急襲（チャクラ大回復）",
+          "effectIdx1": "3616",
+          "effectIdx2": "3617",
+          "effectIdx3": "3618",
+          "effectIds": "3616,3617,3618,"
+        },
+        {
+          "abilityId": "2749",
+          "abilityName": "憎悪の顕現",
+          "abilityDescription": "被攻撃時に確率で即アクション（神忍からの攻撃は確実）。最大チャクラ量180アップ。HP0以下で5回耐える",
+          "abilityEffectDescription": "被攻撃時に確率で即アクション（神忍からの攻撃は確実）。最大チャクラ量180アップ。HP0以下で5回耐える",
+          "effectIdx1": "3620",
+          "effectIdx2": "3619",
+          "effectIdx3": "20017",
+          "effectIds": "3620,3619,20017,1512,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -30647,6 +30707,16 @@
           "effectIdx2": "873",
           "effectIdx3": "897",
           "effectIds": "872,873,897,"
+        },
+        {
+          "abilityId": "310144",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "確率で敵に滅キャラがいるとダメージ50％カット",
+          "abilityEffectDescription": "確率で敵に滅キャラがいるとダメージ50％カット",
+          "effectIdx1": "3621",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3621,"
         },
         {
           "abilityId": "801187",

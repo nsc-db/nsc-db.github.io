@@ -1277,5 +1277,15 @@
           "uiIdx": "10026",
           "partyEffects": "3543,",
           "enemyEffects": "3541,3542,"
+        },
+        {
+          "battleFieldEffectId": "10027",
+          "name": "砂塵舞踊",
+          "category": "3",
+          "scriptId": "10027",
+          "overWrite": "1",
+          "uiIdx": "10027",
+          "partyEffects": "3622,3623,3624,3625,3626,3637,",
+          "enemyEffects": "3155,"
         }
       ]

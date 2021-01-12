@@ -5981,6 +5981,18 @@
           "speechCharactorName": "うちはサスケ"
         },
         {
+          "speechCharactorId": "1023",
+          "cardId": "20050112",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "我愛羅"
+        },
+        {
+          "speechCharactorId": "1024",
+          "cardId": "1024",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "奈良シカマル"
+        },
+        {
           "speechCharactorId": "1026",
           "cardId": "50000013",
           "speechCharactorImgId": "0",

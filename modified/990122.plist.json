@@ -4079,6 +4079,18 @@
           "voiceDeath": "madara_menu_01"
         },
         {
+          "cardVoiceId": "344",
+          "cardId": "20070104",
+          "dirName": "gaara",
+          "evolutionStep": "",
+          "voiceAppear": "gaara_battle_01_01",
+          "voiceSkill1": "gaara_skill_01_04,gaara_attack_01_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "gaara_win_01_01",
+          "voiceDeath": "gaara_damage_01_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

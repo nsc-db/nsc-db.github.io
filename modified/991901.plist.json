@@ -695,6 +695,30 @@
           "specialPanelList": "9000010,9000011,9000012"
         },
         {
+          "sphereBoardId": "10069",
+          "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
+          "boardDescription": "白【忠愁の白雪】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070102",
+          "normalPanelList": "9000025,9000026,9000027",
+          "specialPanelList": "9000028,9000029,9000030"
+        },
+        {
+          "sphereBoardId": "10070",
+          "boardName": "Temp_Ct40_知属性_の潜在覚醒盤",
+          "boardDescription": "桃地再不斬【斬河の龍擬弾】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070103",
+          "normalPanelList": "9000019,9000020,9000021",
+          "specialPanelList": "9000022,9000023,9000024"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1267,6 +1291,18 @@
           "costMax": "0",
           "attribute": "0",
           "cardId": "20061204",
+          "normalPanelList": "9100013,9100014,9100015,9100039",
+          "specialPanelList": "9100016,9100017,9100018,9100040"
+        },
+        {
+          "sphereBoardId": "50049",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "我愛羅【殺戮の狂砂】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070104",
           "normalPanelList": "9100013,9100014,9100015,9100039",
           "specialPanelList": "9100016,9100017,9100018,9100040"
         },
