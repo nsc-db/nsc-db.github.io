@@ -33,19 +33,14 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	
 	<!-- DATABASE ENTRIES -->
- 	<script type="text/javascript" src="../common/eng/chara.js"></script>
- 	<script type="text/javascript" src="../common/eng/charaname.js"></script>
- 	<script type="text/javascript" src="../common/eng/skill.js"></script>
- 	<script type="text/javascript" src="../common/eng/skillname.js"></script>
- 	<script type="text/javascript" src="../common/eng/ability.js"></script>
- 	<script type="text/javascript" src="../common/eng/lead.js"></script>
+ 	<script type="text/javascript" src="../common/json/chara.js"></script>
  	<script type="text/javascript" src="../common/eng/key.js"></script>
+ 	<script type="text/javascript" src="../common/eng/detail.js"></script>
+ 	<script type="text/javascript" src="../common/eng/enggear.js"></script>
  	<script type="text/javascript" src="../common/json/charainfo.js"></script>
  	<script type="text/javascript" src="../common/json/gear.js"></script>
  	<script type="text/javascript" src="../common/json/unique.js"></script>
  	<script type="text/javascript" src="../common/json/evo.js"></script>
- 	<script type="text/javascript" src="../common/json/tags.js"></script>
- 	<script type="text/javascript" src="../common/json/vo.js"></script>
 
 
 
@@ -648,8 +643,97 @@
 															</table>
 														</div>
 														<div class="tab-pane fade" id="gear-six">
-															
-														</div>
+																<div class="base-gear">
+																	<div class="icon">
+																		<img src="../common/assets/img/gear/ningu_6405.png">
+																	</div>
+																	<div class="info">
+																		<div class="header">
+																			<div class="type">
+																				<h4 type="スキル強化">スキル強化</h4>
+																			</div>
+																			<div class="title">
+																				<h3>三代目雷影の入れ墨	</h3>
+																			</div>
+																		</div>
+																		<div class="description">
+																			<p>全タイプのスキルダメージと攻撃力が100％アップ</p>
+																		</div>
+																	</div>
+																</div>
+																<div class="base-gear">
+																	<div class="icon">
+																		<img src="../common/assets/img/gear/ningu_6415.png">
+																	</div>
+																	<div class="info">
+																		<div class="header">
+																			<div class="type">
+																				<h4 type="ステータス強化">ステータス強化</h4>
+																			</div>
+																			<div class="title">
+																				<h3>ダルイの刀	</h3>
+																			</div>
+																		</div>
+																		<div class="description">
+																			<p>最大HPと攻撃力と素早さが80%アップし、行動後にチャクラが10%回復する</p>
+																		</div>
+																	</div>
+																</div>
+																<div class="base-gear">
+																	<div class="icon">
+																		<img src="../common/assets/img/gear/ningu_8845.png">
+																	</div>
+																	<div class="info">
+																		<div class="header">
+																			<div class="type">
+																				<h4 type="チャクラ">チャクラ</h4>
+																			</div>
+																			<div class="title">
+																				<h3>琥珀の浄瓶</h3>
+																			</div>
+																		</div>
+																		<div class="description">
+																			<p>行動後にチャクラが30％回復し、全スキルダメージ70％アップ、尾獣・六道タイプのスキル無効化</p>
+																		</div>
+																	</div>
+																</div>
+																<div class="base-gear">
+																	<div class="icon">
+																		<img src="../common/assets/img/gear/ningu_9045.png">
+																	</div>
+																	<div class="info">
+																		<div class="header">
+																			<div class="type">
+																				<h4 type="ステータス強化">ステータス強化</h4>
+																			</div>
+																			<div class="title">
+																				<h3>ダルイの包帯</h3>
+																			</div>
+																		</div>
+																		<div class="description">
+																			<p>最大HPと攻撃力が120％アップし、ダメージを受けた時にHPとチャクラが10％回復</p>
+																		</div>
+																	</div>
+																</div>
+																<div class="base-gear">
+																	<div class="icon">
+																		<img src="../common/assets/img/gear/ningu_9055.png">
+																	</div>
+																	<div class="info">
+																		<div class="header">
+																			<div class="type">
+																				<h4 type="追加効果">追加効果</h4>
+																			</div>
+																			<div class="title">
+																				<h3>雷遁・感激波</h3>
+																			</div>
+																		</div>
+																		<div class="description">
+																			<p>素早さが50％アップし、スキル発動速度が1段階アップする</p>
+																		</div>
+																	</div>
+																</div>
+															</div>
 
 														<div class="tab-pane fade" id="info-six">
 															<div class="row">
@@ -789,19 +873,19 @@
 					<div id="filter-attribute" class="" style="padding: 5px; text-align: center;">
 						<div class="list-group">
 							<div class="col-md-2">
-							<a href="#" id="Heart" class="list-group-item">Heart</a>
+							<a href="#" id="心" class="list-group-item">Yellow</a>
 							</div>
 							<div class="col-md-2">
-							<a href="#" id="Technique" class="list-group-item">Technique</a>
+							<a href="#" id="技" class="list-group-item">Blue</a>
 							</div>
 							<div class="col-md-2">
-							<a href="#" id="Body" class="list-group-item">Body</a>
+							<a href="#" id="体" class="list-group-item">Red</a>
 							</div>
 							<div class="col-md-2">
-							<a href="#" id="Intellect" class="list-group-item">Intellect</a>
+							<a href="#" id="知" class="list-group-item">Black</a>
 							</div>
 							<div class="col-md-2">
-							<a href="#" id="Courage" class="list-group-item">Courage</a>
+							<a href="#" id="勇" class="list-group-item">White</a>
 							</div>
 						</div>
 					</div>
@@ -891,394 +975,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-12">
-					<div class="panel panel-default">
-						<div id="filter-skills-collapse" class="panel-heading" data-toggle="collapse" href="#filter-skills" style="cursor: pointer; text-align: center;">
-							<h3 class="panel-title">Usage</h3>
-						</div>
-						<div id="filter-skills" class="attribute-filter panel-collapse collapse">
-						   	<div id="filter-target" class="filter">
-						   		<h4>Target</h4>
-						   		<button id="One" type="button" class="btn">One</button>
-								<button id="All" type="button" class="btn">All</button>
-								<button id="Allies" type="button" class="btn">Allies</button>
-								<button id="Self" type="button" class="btn">Self</button>
-							</div>
-						   	<div id="filter-cast" class="filter">
-								<h4>Cast Speed</h4>			
-						   		<button id="Fastest" type="button" class="btn">Fastest</button>
-								<button id="Fast" type="button" class="btn">Fast</button>
-								<button id="Normal" type="button" class="btn">Normal</button>
-								<button id="Slow" type="button" class="btn">Slow</button>
-								<button id="Slowest" type="button" class="btn">Slowest</button>
-							</div>
-							<!--
-							<div id="filter-cost" class="filter">
-								<h4>Cost: <span id="cost"></span></h4>
- 								<input type="range" min="1" max="200" value="50" class="slider" id="chakraCost">
-							</div>-->
-
-							<div id="filter-damage" class="filter">
-								<h4>Type</h4>
-								<button id="Normal" type="button" class="btn">Normal</button>
-								<button id="Multiplier" type="button" class="btn">Multiplier</button>
-								<button id="Fixed" type="button" class="btn">Fixed</button>
-								<button id="Buff" type="button" class="btn">Buff</button>
-								<button id="Debuff" type="button" class="btn">Debuff</button>		 
-								<button id="Recovery" type="button" class="btn">Recovery</button>
-
-							</div>
-
-							<div id="filter-buff" class="filter">
-								<h4>Buff</h4>
-								<button id="selfatk" type="button" class="btn">Self ATK Buff</button>
-								<button id="selfdef" type="button" class="btn">Self DEF Buff</button>
-								<button id="selfspd" type="button" class="btn">Self SPD Buff</button>
-                                <button id="selfskilldamage" type="button" class="btn">Self Skill Damage Buff</button>
-                                <button id="selfdamagereduce" type="button" class="btn">Self Damage Reduction</button>
-                                <button id="selfcastspeed" type="button" class="btn">Self Cast Speed Buff</button>
-                                <button id="selfdodge" type="button" class="btn">Self Dodge</button>
-                                <dir></dir>
-                                <button id="selfchakracost" type="button" class="btn">Self Chakra Cost Reduction</button>
-                                <button id="allyatk" type="button" class="btn">Ally ATK Buff</button>
-								<button id="allydef" type="button" class="btn">Ally DEF Buff</button>
-								<button id="allyspd" type="button" class="btn">Ally SPD Buff</button>
-                                <button id="allyskilldamage" type="button" class="btn">Ally Skill Damage Buff</button>
-                                <button id="allydamagereduce" type="button" class="btn">Ally Damage Reduction</button>
-                                <button id="allycastspeed" type="button" class="btn">Ally Cast Speed Buff</button>
-                                <button id="allychakracost" type="button" class="btn">Ally Chakra Cost Reduction</button>
-                                <button id="allydodge" type="button" class="btn">Ally Dodge</button>
-                                <button id="defignore" type="button" class="btn">DEF Ignore</button>
-                                <div class="divider"/></div>
-                            </div>
-
-                            <div id="filter-debuff" class="filter">
-								<h4>Debuff</h4>
-								<button id="enemyatk" type="button" class="btn">Single ATK </button>
-								<button id="enemydef" type="button" class="btn">Single DEF </button>
-								<button id="enemyspd" type="button" class="btn">Single SPD </button>
-                                <button id="enemyskilldamage" type="button" class="btn">Single Skill Damage </button>
-                                <button id="enemycastspeed" type="button" class="btn">Single Cast Speed </button>
-                                <button id="enemychakracost" type="button" class="btn">Single Chakra Cost Increase</button>
-                                <button id="enemychakra" type="button" class="btn">Single Chakra Reduction</button>
-                                <button id="allatk" type="button" class="btn">All ATK </button>
-								<button id="alldef" type="button" class="btn">All DEF </button>
-								<button id="allspd" type="button" class="btn">All SPD </button>
-                                <button id="allskilldamage" type="button" class="btn">All Skill Damage </button>
-                                <button id="allcastspeed" type="button" class="btn">All Cast Speed </button>
-                                <button id="allchakracost" type="button" class="btn">All Chakra Cost Increase</button>
-                                <button id="allchakra" type="button" class="btn">All Chakra Reduction</button>
-                                <button id="weakeness" type="button" class="btn">Weakness</button>
-                                <div class="divider"/></div>
-                            </div>
-
-                            <div id="filter-survival" class="filter">
-								<h4>Survivability</h4>
-								<button id="revive" type="button" class="btn">Revive</button>
-								<button id="withstand" type="button" class="btn">Withstand</button>
-								<button id="allskillimmune" type="button" class="btn">All Skills Immunity</button>
-								<button id="fixedimmune" type="button" class="btn">Fixed Damage Immunity</button>
-								<button id="skillimmune" type="button" class="btn">Skill Immunity</button>
-								<button id="damagereduction" type="button" class="btn">Damage Reduction</button>
-								<button id="protector" type="button" class="btn">Protector</button>
-								<button id="statusimmune" type="button" class="btn">Status Effect Immunity</button>
-								<button id="debuffimmune" type="button" class="btn">Debuff Immunity</button>
-                                <div class="divider"/></div>
-                            </div>
-
-
-                            <div id="filter-health" class="filter">
-								<h4>Recovery</h4>
-								<button id="selfheal" type="button" class="btn">Self Healer</button>
-								<button id="allyheal" type="button" class="btn">Ally Healer</button>
-								<button id="selfhpreduce" type="button" class="btn">Self HP Reduction</button>
-								<button id="allyhpreduce" type="button" class="btn">Ally HP Reduction</button>
-								<button id="chakra" type="button" class="btn">Chakra Recover</button>
-								<button id="hprecovery" type="button" class="btn">HP Recovery</button>
-								<button id="chakrarecovery" type="button" class="btn">Chakra Recovery</button>
-                                <div class="divider"/></div>
-                            </div>
-
-							<div id="filter-special" class="filter">
-								<h4>Special</h4>
-								<button id="cancel" type="button" class="btn">Cancels</button>
-								<button id="skip" type="button" class="btn">Skips</button>
-								<button id="push" type="button" class="btn">Push</button>
-								<button id="statusinflict" type="button" class="btn">Status Effect Inflicter</button>
-								<button id="additional" type="button" class="btn">Additional Hits</button>
-								<button id="extraturn" type="button" class="btn">Extra Turn</button>
-								<button id="actiondisable" type="button" class="btn">Action Disable</button>
-								<button id="positiveremove" type="button" class="btn">Enemy Positive State Remover</button>
-								<button id="godremove" type="button" class="btn">Enemy God State Remover</button>
-								<button id="negativeremove" type="button" class="btn">Ally Negative State Remover</button>
-								<button id="counter" type="button" class="btn">Counterattack</button>
-								<button id="instakill" type="button" class="btn">Insta Kill</button>
-                                <button id="alwayshit" type="button" class="btn">Always Hit</button>
-                                <button id="upondeath" type="button" class="btn">Upon Death</button>
-                                <div class="divider"/></div>
-                            </div>
-
-
-                            <div id="filter-positivestate" class="filter">
-								<h4>Positive Special States</h4>
-								<button id="fan" type="button" class="btn">Fan</button>
-								<button id="penetrate" type="button" class="btn">Penetrate</button>
-								<button id="heal" type="button" class="btn">Heal</button>
-								<button id="resist" type="button" class="btn">Resist</button>
-								<button id="open" type="button" class="btn">Open</button>
-								<button id="resurrection" type="button" class="btn">Resurrection</button>
-								<button id="rally" type="button" class="btn">Rally</button>
-								<button id="battle" type="button" class="btn">Battle</button>
-								<button id="resolution" type="button" class="btn">Resolution</button>
-								<button id="solitude" type="button" class="btn">Solitude</button>
-								<button id="paperhuman" type="button" class="btn">Paper Human</button>
-								<button id="sagemode" type="button" class="btn">Sage Mode</button>
-								<button id="hatred" type="button" class="btn">Hatred</button>
-								<dir></dir>
-								<button id="concentration" type="button" class="btn">Concentration</button>
-								<button id="selfish" type="button" class="btn">Selfish</button>
-								<button id="twinlionfist" type="button" class="btn">Twin Lion Fist</button>
-								<button id="flashmode" type="button" class="btn">Flash Mode</button>
-								<button id="determined" type="button" class="btn">Determined</button>
-								<button id="connected" type="button" class="btn">Connected</button>
-								<button id="fist" type="button" class="btn">Fist</button>
-								<button id="gust" type="button" class="btn">Gust</button>
-								<button id="mitoticregeneration" type="button" class="btn">Mitotic Regeneration</button>
-								<button id="resonance" type="button" class="btn">Resonance</button>
-								<dir></dir>
-								<button id="sagechakraconcentration" type="button" class="btn">Sage Chakra Concentration</button>
-								<button id="encourage" type="button" class="btn">Encourage</button>
-								<button id="lightningchakramode" type="button" class="btn">Lightning Chakra Mode</button>
-								<button id="lightninggodmode" type="button" class="btn">Lightning God Mode</button>
-								<button id="smokescreen" type="button" class="btn">Smoke Screen</button>
-								<button id="thunderbeckon" type="button" class="btn">Thunder Beckon</button>
-								<dir></dir>
-								<button id="yatamirror" type="button" class="btn">Yata Mirror</button>
-								<button id="love" type="button" class="btn">Love</button>
-								<button id="previoushokage" type="button" class="btn">Previous Hokage</button>
-								<button id="demon" type="button" class="btn">Demon</button>
-								<button id="rotationprotection" type="button" class="btn">Rotation Protection</button>
-								<button id="kamuimode" type="button" class="btn">Kamui Mode</button>
-								<button id="sekizo" type="button" class="btn">Sekizo</button>
-								<button id="fullguidelightning" type="button" class="btn">Full Guide Lightning</button>
-								<button id="regeneration" type="button" class="btn">Regeneration</button>
-								<dir></dir>
-								<button id="convalescence" type="button" class="btn">Convalescence</button>
-								<button id="duel" type="button" class="btn">Duel</button>
-								<button id="curseseal" type="button" class="btn">Curse Seal</button>
-								<button id="Immortality" type="button" class="btn">Immortality</button>
-								<button id="izanami" type="button" class="btn">Izanagi</button>
-								<button id="livestream" type="button" class="btn">Live Stream</button>
-								<button id="bond" type="button" class="btn">Bond</button>
-								<button id="fate" type="button" class="btn">Fate</button>
-								<button id="bloodlife" type="button" class="btn">Blood Life</button>
-								<button id="blessing" type="button" class="btn">Blessing</button>
-								<button id="rotationfull" type="button" class="btn">Rotation: Full</button>
-								<dir></dir>
-								<button id="harden" type="button" class="btn">Harden</button>
-								<button id="throb" type="button" class="btn">Throb</button>
-								<button id="fullmoon" type="button" class="btn">Full Moon</button>
-								<button id="limbo" type="button" class="btn">Limbo</button>
-								<button id="chargingflow" type="button" class="btn">Charging Flow</button>
-								<button id="absolutedefense" type="button" class="btn">Absolute Defense</button>
-								<button id="path" type="button" class="btn">Path</button>
-								<button id="willoffire" type="button" class="btn">Will of Fire</button>
-								<button id="eternalisolation" type="button" class="btn">Eternal Isolation</button>
-								<button id="ancestor" type="button" class="btn">Ancestor</button>
-								<button id="harijizo" type="button" class="btn">Hari Jizo</button>
-								<dir></dir>
-								<button id="hokageprotection" type="button" class="btn">Hokage's Protection</button>
-								<button id="fifthgates" type="button" class="btn">Fifth Gates</button>
-								<button id="revolution" type="button" class="btn">Revolution</button>
-								<button id="salvation" type="button" class="btn">Salvation</button>
-								<button id="shadow" type="button" class="btn">Shadow</button>
-								<button id="festival" type="button" class="btn">Festival</button>
-								<button id="sacrednightrotation" type="button" class="btn">Sacred Night Rotation</button>
-								<button id="sporeabsorption" type="button" class="btn">Spore Absorption</button>
-								<button id="protection" type="button" class="btn">Protection</button>
-								<dir></dir>
-								<button id="sandshield" type="button" class="btn">Sand Shield</button>
-								<button id="isolation" type="button" class="btn">Isolation</button>
-								<button id="greatwind" type="button" class="btn">Great Wind</button>
-								<button id="sheafaffection" type="button" class="btn">Sheaf Affection</button>
-								<button id="authority" type="button" class="btn">Authority</button>
-								<button id="sky" type="button" class="btn">Sky</button>
-								<button id="snakepower" type="button" class="btn">Snake's Power</button>
-								<button id="crush" type="button" class="btn">Crush</button>
-								<button id="2marking" type="button" class="btn">2nd Hokage's Marking</button>
-								<button id="barrierfull" type="button" class="btn">Barrier: Full</button>
-								<button id="lighter" type="button" class="btn">Lighter</button>
-								<button id="insanity" type="button" class="btn">Insanity</button>
-								<button id="transparent" type="button" class="btn">Transparent</button>
-								<button id="cake" type="button" class="btn">Sweetened Rice-Flour Cake</button>
-								<button id="absorption" type="button" class="btn">Absorption</button>
-								<button id="snakesage" type="button" class="btn">Snake Sage</button>
-								<button id="fireprotection" type="button" class="btn">Fire Protection</button>
-								<button id="cellcreation" type="button" class="btn">Cell Creation</button>
-                                <button id="entrust" type="button" class="btn">Entrust</button>
-
-                                <div class="divider"/></div>
-                            </div>
-
-                            <div id="filter-negativestate" class="filter">
-								<h4>Negative Special States</h4>
-								<button id="gatesofthegreatgod" type="button" class="btn">Gates of the Great God</button>
-                                <button id="frogillusion" type="button" class="btn">Frog Illusion</button>
-                                <button id="deadlock" type="button" class="btn">Deadlock</button>
-                                <button id="sand" type="button" class="btn">Sand</button>
-                                <button id="despair" type="button" class="btn">Despair</button>
-                                <button id="cut" type="button" class="btn">Cut</button>
-                                <button id="c4" type="button" class="btn">C4</button>
-                                <button id="anger" type="button" class="btn">Anger</button>
-								<button id="bind" type="button" class="btn">Bind</button>
-								<button id="blood" type="button" class="btn">Blood</button>
-								<button id="blackflames" type="button" class="btn">Black Flames</button>
-								<button id="misery" type="button" class="btn">Misery</button>
-								<dir></dir>
-								<button id="bleed" type="button" class="btn">Bleed</button>
-								<button id="deficit" type="button" class="btn">Deficit</button>
-								<button id="reaper" type="button" class="btn">Reaper</button>
-								<button id="seal" type="button" class="btn">Seal</button>
-								<button id="flowertree" type="button" class="btn">Flower Tree</button>
-								<button id="greatfire" type="button" class="btn">Great Fire</button>
-								<button id="inferno" type="button" class="btn">Inferno</button>
-								<button id="fatalpoison" type="button" class="btn">Fatal Poison</button>
-								<button id="jetblack" type="button" class="btn">Jet Black</button>
-								<button id="chakrapoints" type="button" class="btn">Chakra Points</button>
-								<button id="restraint" type="button" class="btn">Restraint</button>
-								<button id="lava" type="button" class="btn">Lava</button>
-								<dir></dir>
-								<button id="flame" type="button" class="btn">Flame</button>
-								<button id="ignition" type="button" class="btn">Ignition</button>
-								<button id="deprive" type="button" class="btn">Deprive</button>
-								<button id="bubble" type="button" class="btn">Bubble</button>
-								<button id="befuddle" type="button" class="btn">Befuddle</button>
-								<button id="moonseal" type="button" class="btn">Moon Seal</button>
-								<button id="cower" type="button" class="btn">Cower</button>
-								<button id="wicked" type="button" class="btn">Wicked</button>
-								<button id="bloodpossession" type="button" class="btn">Blood Possession</button>
-								<button id="mist" type="button" class="btn">Mist</button>
-								<button id="flashdisorder" type="button" class="btn">Flash Disorder</button>
-								<button id="exhaust" type="button" class="btn">Exhaust</button>
-								<dir></dir>
-								<button id="abused" type="button" class="btn">Abused</button>
-								<button id="ink" type="button" class="btn">Ink</button>
-								<button id="hell" type="button" class="btn">Hell</button>
-								<button id="lacerate" type="button" class="btn">Lacerate</button>
-								<button id="chaos" type="button" class="btn">Chaos</button>
-								<button id="frenzy" type="button" class="btn">Frenzy</button>
-								<button id="sporedeprivation" type="button" class="btn">Spore Deprivation</button>
-								<button id="emperor" type="button" class="btn">Emperor</button>
-								<button id="dissolve" type="button" class="btn">Dissolve</button>
-								<button id="formulakunai" type="button" class="btn">Technique Formula Kunai</button>
-								<button id="slave" type="button" class="btn">Slave</button>
-								<button id="dull" type="button" class="btn">Dull</button>
-								<button id="instantdetonation" type="button" class="btn">Instant Detonation</button>
-								<button id="dull" type="button" class="btn">Dull</button>
-								<button id="break" type="button" class="btn">Break</button>
-								<button id="fourelephantspalm" type="button" class="btn">Four Elephant's Palm</button>
-                                <div class="divider"/></div>
-                            </div>
-
-                            <div id="filter-godstate" class="filter">
-								<h4>God Special States</h4>
-								<button id="rabbit" type="button" class="btn">Rabbit</button>
-								<button id="hope" type="button" class="btn">Hope</button>
-								<button id="flashgod" type="button" class="btn">Flash God</button>
-								<button id="savingfriend" type="button" class="btn">Saving Friend</button>
-								<button id="repulsiveforce" type="button" class="btn">Repulsive Force</button>
-								<button id="yatamirror" type="button" class="btn">Yata Mirror</button>
-                                <div class="divider"/></div>
-                            </div>
-
-                            <div id="filter-godstate" class="filter">
-								<h4>Terrain</h4>
-								<button id="originsphere" type="button" class="btn">Origin Sphere Space</button>
-								<button id="infinitetsukuyomi" type="button" class="btn">Infinite Tsukuyomi</button>
-                                <div class="divider"/></div>
-                            </div>
-
-							<div id="filter-nature" class="filter">
-								<h4>Nature</h4>
-								<button id="Fire" type="button" class="btn">Fire</button>
-								<div class="divider"/></div>
-								<button id="Water" type="button" class="btn">Water</button>
-                                <div class="divider"></div>
-								<button id="Earth" type="button" class="btn">Earth</button>
-                                <div class="divider"></div>
-								<button id="Wind" type="button" class="btn">Wind</button>
-                                <div class="divider"></div>
-								<button id="Lightning" type="button" class="btn">Lightning</button>
-                                <div class="divider"></div>
-								<button id="Wood" type="button" class="btn">Wood</button>
-                                <div class="divider"></div>
-								<button id="Healing" type="button" class="btn">Healing</button>
-                                <div class="divider"></div>
-								<button id="Resurrection" type="button" class="btn">Resurrection</button>
-                                <div class="divider"></div>
-								<button id="Space-Time" type="button" class="btn">Space-Time</button>
-                                <div class="divider"></div>
-								<button id="Weapon" type="button" class="btn">Weapon</button>
-                                <div class="divider"></div>
-								<button id="Clone" type="button" class="btn">Clone</button>
-                                <div class="divider"></div>
-								<button id="Barrier" type="button" class="btn">Barrier</button>
-                                <div class="divider"></div>
-								<button id="Unique" type="button" class="btn">Unique</button>
-                                <div class="divider"></div>
-								<button id="Summoning" type="button" class="btn">Summoning</button>
-                                <div class="divider"></div>
-								<button id="Taijutsu" type="button" class="btn">Taijutsu</button>
-                                <div class="divider"></div>
-								<button id="Genjutsu" type="button" class="btn">Genjutsu</button>
-                                <div class="divider"></div>
-								<button id="Curse-Seal" type="button" class="btn">Curse-Seal</button>
-                                <div class="divider"></div>
-								<button id="Sealing" type="button" class="btn">Sealing</button>
-                                <div class="divider"></div>
-								<button id="Secret" type="button" class="btn">Secret</button>
-                                <div class="divider"></div>
-								<button id="Sage" type="button" class="btn">Sage</button>
-                                <div class="divider"></div>
-								<button id="Sharingan" type="button" class="btn">Sharingan</button>
-                                <div class="divider"></div>
-								<button id="None" type="button" class="btn">None</button>
-                                <div class="divider"></div>
-								<button id="Byakugan" type="button" class="btn">Byakugan</button>
-                                <div class="divider"></div>
-								<button id="Rinnegan" type="button" class="btn">Rinnegan</button>
-                                <div class="divider"></div>
-								<button id="Ice" type="button" class="btn">Ice</button>
-                                <div class="divider"></div>
-								<button id="Inferno" type="button" class="btn">Inferno</button>
-                                <div class="divider"></div>
-								<button id="Lava" type="button" class="btn">Lava</button>
-                                <div class="divider"></div>
-								<button id="Mist" type="button" class="btn">Mist</button>
-                                <div class="divider"></div>
-								<button id="Boil" type="button" class="btn">Boil</button>
-                                <div class="divider"></div>
-								<button id="Storm" type="button" class="btn">Storm</button>
-                                <div class="divider"></div>
-								<button id="Explosion" type="button" class="btn">Explosion</button>
-                                <div class="divider"></div>
-								<button id="Scorch" type="button" class="btn">Scorch</button>
-                                <div class="divider"></div>
-								<button id="Magnet" type="button" class="btn">Magnet</button>
-                                <div class="divider"></div>
-								<button id="Dust" type="button" class="btn">Dust</button>
-                                <div class="divider"></div>
-								<button id="Six Paths" type="button" class="btn">Six Paths</button>
-                                <div class="divider"></div>
-								<button id="Rinne Sharingan" type="button" class="btn">Rinne Sharingan</button>
-                                <div class="divider"></div>
-								<button id="Tailed Beast" type="button" class="btn">Tailed Beast</button>
-                                <div class="divider"></div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+				
 				
 				<div class="row">
 					<div class="col-md-12">

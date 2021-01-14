@@ -16044,6 +16044,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1162",
+          "name": "豪快の侠炎",
+          "description": "スキル発動速度1段階アップ&amp;バトル開始時、班の木ノ葉隠れの里1人につき確率で乱舞カウントが1減少",
+          "effectIdx1": "1840",
+          "effectIdx2": "3629",
+          "effectIdx3": "0",
+          "effectIds": "1840,3629,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

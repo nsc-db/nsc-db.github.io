@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Naruto Shinobi Collection Database - Units</title>
+
+    <!--BOOTSTRAP -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+
+    <!--FAVICON-->
+	<link rel="apple-touch-icon" sizes="57x57" href="../../favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="../../favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="../../favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="../../favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="../../favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="../../favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="../../favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="../../favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="../../favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="../../favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="../../favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="../../favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="../../favicon/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="../../favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+    <!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="../../css/datatables.min.css"/>
+	<link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+	
+	<!-- DATABASE ENTRIES -->
+ 	<script type="text/javascript" src="../../../common/json/chara.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/charaname.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/skill.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/skillname.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/ability.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/lead.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/key.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/evo.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/tags.js"></script>
+
+
+
+	<link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
+
+	<style>
+		tr{cursor: pointer;}
+	</style>
+
+	
+</head>
+
+<body>	
+	<div class="container">
+		<div class="base-header">
+			<div class="row">
+				<div class="col-md-5 col-md-offset-7">
+					<h1>Naruto <span>Shinobi <br>Collection</span> Database</h1>
+					<p>Join  us in the Reddit: <a target="_blank" href="http://reddit.com/r/NarutoSc">/r/NarutoSc</a></p>
+					<p>Join  us on Discord: <a target="_blank" href="https://discord.gg/pYYHBwt">Here</a></p>
+				</div>
+				<div class="col-md-12">
+					<div class="base-menu">
+						<ul>
+							<!-- <li><a href="nsc-db.github.io/index.html" role="button">Front Page</a> -->
+							<li><a href="./../../../units/index.html" role="button">Units</a>
+							<li><a href="./../../../gear/index.html" role="button">Ninja Gear</a>
+							<li><a href="./../../../jp/index.html" role="button">JP</a>
+							<li><a href="https://docs.google.com/document/d/1AXol-kO5zPbIj85SRX-sOUnV4el2NDHKHcleXeUCiyM/edit#heading=h.taus803ytjm2" role="button">Account Recovery</a>
+							<li class="active"><a href="../../index.html" role="button">Summoning Simulator</a></li>
+							<!-- <li><a href="/guides" role="button">Guides</a>
+							<li><a href="/faq" role="button">FAQ</a> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="base-content">
+			<div class="row">
+				<div class="col-md-4">
+					<h2>Summon Simulator</h2>
+					
+				</div>
+			</div>
+
+			<div class="banner">
+				<div class="col-md-offset-2">
+					<img src="./../../../common/assets/img/banner/2902/future_1.png"alt="Gk gaara" width="600" />
+				</div>
+			</div>
+			<div class="banner">
+				<div class="col-md-offset-3">
+					<table>
+						<th>Gems Used</th>
+						<th id="gems">0</th>
+						<th>Money Spent</th>
+						<th id="money">$0</th>
+						<th>Summon</th>
+						<th id="summons">0</th>
+						<th>Multi Done</th>
+						<th id="multis">0</th>
+					</table>
+				</div>
+			</div>
+			<div class="button row">
+					<button class="single-btn btn-success col-md-4 col-md-offset-2" onClick="singleSummon()">Single</button>
+					<button class="multi-btn btn-success col-md-4 " onClick="multiSummon()">Multi</button>
+				</div>
+			<!-- Single-->
+			<div id="single" style="display:none">
+				<div class="row">
+					<div id="char" class="char col-md-4 col-md-offset-4" >
+						<img id="chara-summon" src="" width="100%" height="100%">
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+				</div>
+			</div>
+
+			
+			<div id="multi" style="display:none">
+				<div class="row">
+					<div class="char col-md-2 col-md-offset-1">
+						<img class="card" id="chara-summon-1" src="" width="100%" height="100%" />
+						<h2 class="name" ></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-2" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-3" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-4" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-5" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="char col-md-2 col-md-offset-1">
+						<img class="card" id="chara-summon-6" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-7" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-8" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-9" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+					<div class="char col-md-2">
+						<img class="card" id="chara-summon-10" src="" width="100%" height="100%" />
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+				</div>
+				<div class="row">
+					<div id="char" class="char col-md-2 col-md-offset-5" >
+						<img id="chara-summon-11" src="" width="100%" height="100%">
+						<h2 class="name"></h2>
+						<p class="subname"></p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="rates">
+					<div class="col-md-4 col-md-offset-5">
+						<button class="btn" onclick="showRates()">Show Character Pool</button>
+					</div>
+				</div>
+			</div>
+			<div id="rates-percent" style="display:none">
+				<div class="row">
+					<div class="feature col-md-6">
+						<h2>Feature (0.4% -> 2%)</h2>
+						<table>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_60061201_7.png" width="75"></td>
+							<td id="feature-pull">0</td>
+						</table>
+					</div>
+				</div>
+				<div class="row">
+					<div class="7godandgk col-md-6">
+						<h2>7★ God and GK (0.6%)</h2>
+						<table>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20061106_7.png" width="75"></td>
+							<td id="71">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20061104_7.png" width="75"></td>
+							<td id="72">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20061009_7.png" width="75"></td>
+							<td id="73">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20061006_7.png" width="75"></td>
+							<td id="74">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20061004_7.png" width="75"></td>
+							<td id="75">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060910_7.png" width="75"></td>
+							<td id="76">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060905_7.png" width="75"></td>
+							<td id="77">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060810_7.png" width="75"></td>
+							<td id="78">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060809_7.png" width="75"></td>
+							<td id="79">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060806_7.png" width="75"></td>
+							<td id="710">0</td>
+						</table>
+						<table>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060805_7.png" width="75"></td>
+							<td id="711">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060707_7.png" width="75"></td>
+							<td id="712">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060705_7.png" width="75"></td>
+							<td id="713">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060611_7.png" width="75"></td>
+							<td id="714">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060606_7.png" width="75"></td>
+							<td id="715">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060603_7.png" width="75"></td>
+							<td id="716">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060510_7.png" width="75"></td>
+							<td id="717">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060504_7.png" width="75"></td>
+							<td id="718">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060415_7.png" width="75"></td>
+							<td id="719">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20060414_7.png" width="75"></td>
+							<td id="720">0</td>
+						</table>
+					</div>
+				</div>
+				<div class="row">
+					<div class="6godandgk col-md-6">
+						<h2>6★ God and GK (2%)</h2>
+						<table>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20051202_7.png" width="75"></td>
+							<td id="61">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20051109_7.png" width="75"></td>
+							<td id="62">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20051103_7.png" width="75"></td>
+							<td id="63">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20051003_7.png" width="75"></td>
+							<td id="64">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050916_7.png" width="75"></td>
+							<td id="65">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050905_7.png" width="75"></td>
+							<td id="66">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050826_7.png" width="75"></td>
+							<td id="67">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050825_7.png" width="75"></td>
+							<td id="68">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050824_7.png" width="75"></td>
+							<td id="69">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050823_7.png" width="75"></td>
+							<td id="610">0</td>
+						</table>
+						<table>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050822_7.png" width="75"></td>
+							<td id="611">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050821_7.png" width="75"></td>
+							<td id="612">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050820_7.png" width="75"></td>
+							<td id="613">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050715_7.png" width="75"></td>
+							<td id="614">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050714_7.png" width="75"></td>
+							<td id="615">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050703_7.png" width="75"></td>
+							<td id="616">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050603_7.png" width="75"></td>
+							<td id="617">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050506_7.png" width="75"></td>
+							<td id="618">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050505_7.png" width="75"></td>
+							<td id="619">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050504_7.png" width="75"></td>
+							<td id="620">0</td>
+						</table>
+						<table>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050503_7.png" width="75"></td>
+							<td id="621">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050407_6.png" width="75"></td>
+							<td id="622">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050303_6.png" width="75"></td>
+							<td id="623">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050211_6.png" width="75"></td>
+							<td id="624">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050103_6.png" width="75"></td>
+							<td id="625">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041203_6.png" width="75"></td>
+							<td id="626">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041003_6.png" width="75"></td>
+							<td id="627">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040811_6.png" width="75"></td>
+							<td id="628">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040803_6.png" width="75"></td>
+							<td id="629">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040802_6.png" width="75"></td>
+							<td id="630">0</td>
+						</table>
+					</div>
+				</div>
+				<div class="row">
+					<div class="40c col-md-6">
+						<h2>40 Cost (7%)</h2>
+						<table>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050408_7.png" width="75"></td>
+							<td id="401">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050409_6.png" width="75"></td>
+							<td id="402">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050418_6.png" width="75"></td>
+							<td id="403">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050417_6.png" width="75"></td>
+							<td id="404">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050316_6.png" width="75"></td>
+							<td id="405">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050317_6.png" width="75"></td>
+							<td id="406">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050310_6.png" width="75"></td>
+							<td id="407">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050313_6.png" width="75"></td>
+							<td id="408">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050308_6.png" width="75"></td>
+							<td id="409">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050212_6.png" width="75"></td>
+							<td id="4010">0</td>
+						</table>
+						<table>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20050113_7.png" width="75"></td>
+							<td id="4011">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041206_7.png" width="75"></td>
+							<td id="4012">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041211_6.png" width="75"></td>
+							<td id="4013">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041210_6.png" width="75"></td>
+							<td id="4014">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041205_6.png" width="75"></td>
+							<td id="4015">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041110_7.png" width="75"></td>
+							<td id="4016">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041105_6.png" width="75"></td>
+							<td id="4017">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041006_7.png" width="75"></td>
+							<td id="4018">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20041009_6.png" width="75"></td>
+							<td id="4019">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040907_6.png" width="75"></td>
+							<td id="4020">0</td>	
+						</table>
+						<table>
+							
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040905_6.png" width="75"></td>
+							<td id="4021">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040702_7.png" width="75"></td>
+							<td id="4022">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040407_6.png" width="75"></td>
+							<td id="4023">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040309_7.png" width="75"></td>
+							<td id="4024">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040303_7.png" width="75"></td>
+							<td id="4025">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040304_7.png" width="75"></td>
+							<td id="4026">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040210_7.png" width="75"></td>
+							<td id="4027">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040201_7.png" width="75"></td>
+							<td id="4028">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20040115_7.png" width="75"></td>
+							<td id="4029">0</td>
+							<td><img src="./../../../common/assets/img/units/icons/thumb_20031011_7.png" width="75"></td>
+							<td id="4030">0</td>
+						</table>
+					</div>
+				</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="footer">
+						<hr>
+						<p class="note">Created by Yuyya, Noobiel and Book</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- JQUERY -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	
+	<!--BOOTSTRAP-->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<!--Summon-->
+	<script type="text/javascript" src="./summon.js"></script>
+	<script type="text/javascript" src="./../../js/dropdown.js"></script>
+
+
+
+</body>
+</html>

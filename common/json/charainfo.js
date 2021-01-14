@@ -3528,6 +3528,14 @@ window.charainfo=[
           "skillUrl": "https://www.youtube.com/embed/XCsSdkUDGc4?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
+          "gachaCardAdditionId": "453",
+          "targetCardId": "50070101",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "108",
+          "skillUrl": "https://www.youtube.com/embed/_Sps8DvERR4?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+        },
+        {
           "gachaCardAdditionId": "1001",
           "targetCardId": "20001600",
           "additionId": "0",

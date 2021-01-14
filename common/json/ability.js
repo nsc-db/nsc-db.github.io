@@ -26960,6 +26960,26 @@ window.ability=[
           "effectIds": "3620,3619,20017,1512,"
         },
         {
+          "abilityId": "2750",
+          "abilityName": "仁義の蝦蟇",
+          "abilityDescription": "味方の木ノ葉隠れの里所属1人につき攻防速20%アップ",
+          "abilityEffectDescription": "味方の木ノ葉隠れの里所属1人につき攻防速20%アップ",
+          "effectIdx1": "3630",
+          "effectIdx2": "3631",
+          "effectIdx3": "3632",
+          "effectIds": "3630,3631,3632,"
+        },
+        {
+          "abilityId": "2751",
+          "abilityName": "炎拡の墳油",
+          "abilityDescription": "被攻撃時に攻撃者に高確率で耐性を無視して豪炎状態付与",
+          "abilityEffectDescription": "被攻撃時に攻撃者に高確率で耐性を無視して豪炎状態付与",
+          "effectIdx1": "3633",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3633,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

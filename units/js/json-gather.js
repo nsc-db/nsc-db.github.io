@@ -1,7 +1,8 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, buff, debuff, survive, health, special, positivestate, negativestate, godstate){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, tag, type_tag){
 		var image;
+
 		//Rarity Check
 		if(rare == 7){
 			image = id + "_7.png";
@@ -20,7 +21,7 @@
 		//Create Entries in the Table
 		var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
 					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:none">' + data['cardId'] + '</td>'
-					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal">' + name + ", " + data["cardSubName"] + '</a></td>'
+					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal">' + name + '</a></td>'
 					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/rarity/' + type_tag + '" /><div style="display:none">' + type_tag + '</div></td>'
 					+'		<td class="text-center affiliation" affiliation="' + affi + '"><div style="display:none;">' + affi + '</div></td>'
 					+'		<td class="text-center rarity" rarity="' + rare + '"><div style="display:none">' + rare + '</div></td>'
@@ -29,23 +30,7 @@
 					+'		<td class="text-center">' + atk + '</td>'
 					+'		<td class="text-center">' + def + '</td>'
 					+'		<td class="text-center">' + spd + '</td>'
-					+'		<td class="text-center">' + rate + '</td>'					
 					+'		<td class="text-center">' + tag + '</td>'
-					+'		<td class="text-center">' + target + '</td>'		
-					+'		<td class="text-center">' + cast + '</td>'		
-					+'		<td class="text-center">' + damage + '</td>'	
-					+'		<td class="text-center">' + nature + '</td>'
-					+'		<td class="text-center">' + voiced + '</td>'
-					+'		<td class="text-center">' + pvp + '</td>'	
-					+'		<td class="text-center">' + nickname + '</td>'
-					+'		<td class="text-center">' + buff + '</td>'
-					+'		<td class="text-center">' + debuff + '</td>'
-					+'		<td class="text-center">' + survive + '</td>'	
-					+'		<td class="text-center">' + health + '</td>'
-					+'		<td class="text-center">' + special + '</td>'
-					+'		<td class="text-center">' + positivestate + '</td>'
-					+'		<td class="text-center">' + negativestate + '</td>'	
-					+'		<td class="text-center">' + godstate + '</td>'																																																																																																																																																				
 					+'</tr>';
 		return model;
 	}
@@ -67,193 +52,116 @@
 		var affi;		// Character Affiliation
 		var id;			// Character ID
 		var tags;		// Character Tag
-		var target = '';// Character Attack Target
-		var cast = '';	// Character Chakra Cost
-		var damage = '';// Character Damage Type
-		var nature = '';// Character Nature
-		var voiced = '';
-		var type_tag = '';
-		var pvp = '';
-		var nickname = '';
-		var buff = '';
-		var debuff = '';
-		var survive = '';
-		var health = '';
-		var special = '';
-		var positivestate = '';
-		var negativestate = '';
-		var godstate = '';
+		var type_tag = ''
 
-		for(var i in window.chara){
-			var unit = window.chara[i];
 
-			if(unit["translated"] == 1){
-				//Adds Character Name
-				for(var y in window.charaname){
-					if(window.charaname[y]["charaProfileId"] == unit["charaProfileId"]){
-						name = window.charaname[y]['name'];
+		for(var i in window.detail){
+			//Set Unit to Current Detail
+			var unitDetail = window.detail[i]
+			var chara;
+			name = unitDetail['name'] + ", " + unitDetail['subtext'];
+			id = unitDetail['id'];
+			for(var y in window.chara){
+				if(id == window.chara[y]["cardId"]){
+					chara = window.chara[y]
+					break;
+				}
+			}
+
+			//Set default max stats
+			hp = chara["hpMax"];
+			atk = chara["attackMax"];
+			def = chara["defenseMax"];
+			spd = chara["speedMax"];
+			rare = chara["rare"];
+			//Check Type and Convert to Kanji
+			type = checkType(chara);
+
+			//Add Stats from Evo Bonus
+			for(var n in window.evo){
+				if(id == window.evo[n]['cardId']){
+					hp = parseInt(hp,10) + parseInt(window.evo[n]['hp'], 10);
+					atk = parseInt(atk,10) + parseInt(window.evo[n]['attack'], 10);
+					def = parseInt(def,10) + parseInt(window.evo[n]['defense'], 10);
+					spd = parseInt(spd,10) + parseInt(window.evo[n]['speed'], 10);
+					if((chara["rare"] != window.evo[n]['rare']) && window.evo[n]['rare'] != 0){
+						rare = window.evo[n]['rare'];
 					}
 				}
-				//Set default max stats
-				hp = unit["hpMax"];
-				atk = unit["attackMax"];
-				def = unit["defenseMax"];
-				spd = unit["speedMax"];
-				rare = unit["rare"];
-				//Check Type and Convert to Kanji
-				type = checkType(unit);
+			}
 
-				//Add Stats from Evo Bonus
-				for(var n in window.evo){
-					if(unit["cardId"] == window.evo[n]['cardId']){
-						hp = parseInt(hp,10) + parseInt(window.evo[n]['hp'], 10);
-						atk = parseInt(atk,10) + parseInt(window.evo[n]['attack'], 10);
-						def = parseInt(def,10) + parseInt(window.evo[n]['defense'], 10);
-						spd = parseInt(spd,10) + parseInt(window.evo[n]['speed'], 10);
-						if((unit["rare"] != window.evo[n]['rare']) && window.evo[n]['rare'] != 0){
-							rare = window.evo[n]['rare'];
-						}
-					}
-				}
-				id = unit['cardId'];
-
-				//Affi
-				affi = checkAffi(unit);
-				rate = window.tags[i]['rolerating'];
-				tag = window.tags[i]['tag'];
-				pvp = window.tags[i]['pvp'];
-				nickname = window.tags[i]['nickname'];
-				buff = window.tags[i]['buff'];
-				debuff = window.tags[i]['debuff'];
-				survive = window.tags[i]['survive'];
-				health = window.tags[i]['health']
-				special = window.tags[i]['special'];
-				positivestate = window.tags[i]['positivestate'];
-				negativestate = window.tags[i]['negativestate'];
-				godstate = window.tags[i]['godstate'];				
-				type_tag += type + "_" + rare;
-				
-				if(tag == "ex-5" || tag == "ex-6"){
-					type_tag += "_ex.png";
-				}
-				else if(tag == "god"){
-					type_tag += "_god.png";
-				}
-				else if(tag == "pvp-reward"){
-					type_tag += "_pvp.png";
-				}
-				else{
-					type_tag += ".png";
-				}
-
-				//Find Skills Info
-				for(var n in window.skill){
-					//Find Skill 1 Info
-					if(unit["battleSkillId1"] == window.skill[n]["cardBattleSkillId"]){
-						if(target != ''){
-							target += checkTarget(window.skill[n]);
-							cast += checkWait(window.skill[n])
-							nature += checkSkill(window.skill[n]);
-							if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
-								if(checkDamage(window.skill[n]) == "強化"){
-									damage += "Debuff";
-								}
-								else{
-									damage += checkDamage(window.skill[n]);
-								}
-							}
-							else{
-								damage += checkDamage(window.skill[n]);
-							}
-						}
-						else{
-							target += checkTarget(window.skill[n]) +",";
-							cast += checkWait(window.skill[n]) + ",";
-							nature += checkSkill(window.skill[n]) + ",";
-							if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
-								if(checkDamage(window.skill[n]) == "強化"){
-									damage += "Debuff,";
-								}
-								else{
-									damage += checkDamage(window.skill[n]) + ",";
-								}
-							}
-							else{
-								damage += checkDamage(window.skill[n]) + ",";
-							}
-						}
-					}
-					//Find Skill 2 Info
-					if(unit["battleSkillId2"] == window.skill[n]["cardBattleSkillId"]){
-						if(target == ''){
-							target += checkTarget(window.skill[n]) + ",";
-							cast += checkWait(window.skill[n]) + ","; 
-							nature += checkSkill(window.skill[n]) + ",";
-							if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
-								if(checkDamage(window.skill[n]) == "強化"){
-									damage += "Debuff,";
-								}
-								else{
-									damage += checkDamage(window.skill[n]) + ",";
-								}
-							}
-							else{
-								damage += checkDamage(window.skill[n]) + ",";
-							}
-						}
-						else{
-							target += checkTarget(window.skill[n]);
-							cast += checkWait(window.skill[n]);
-							nature += checkSkill(window.skill[n]);
-							if(checkTarget(window.skill[n]) == "One" || checkTarget(window.skill[n]) == "All"){
-								if(checkDamage(window.skill[n]) == "強化"){
-									damage += "Debuff";
-								}
-								else{
-									damage += checkDamage(window.skill[n]);
-								}
-							}
-							else{
-								damage += checkDamage(window.skill[n]);
-							}
-						}
-
+			//Character Affi
+			affi = checkAffi(chara);
+			//Character Tag
+			for(var n in window.charainfo){
+				if(id == window.charainfo[n]["targetCardId"]){
+					switch(window.charainfo[n]["limitedFlg"]){
+						case "102":
+							tags = "ex"
+							break;
+						case "104":
+							tags = "god"
+							break;
+						case "105":
+							tags = "killers"
+							break;
+						case "106":
+							tags = "origin"
+							break;
+						case "107":
+							tags = "gk"
+							break;
+						case "108":
+							tags = "ranbu"
+							break;	
+						case "120":
+							tags = "pvp-reward"
+							break;
+						default:
+							tags = "other"
+							break;
 						
 					}
 				}
-
-				for(var n in window.vo){
-					if(id == window.vo[n]['cardId']){
-						voiced = 1;
-						break;
-					}
-					else{
-						voiced = 0;
-					}
-				}
-				
-				if(units.indexOf(chara[0]) == -1){ // << verifica se já criou o card pelo [ID]
-					units.push(unit[0]); // << Salvo o id do card, para impedir cards repetidos de existirem			
-					content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, rate, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, buff, debuff, survive, health, special, positivestate, negativestate, godstate); // chama a função passando os dados do card
-					target = '';
-					cast = '';
-					damage = '';
-					nature = '';
-					voiced = 0;
-					type_tag = '';
-					buff = '';
-					debuff = '';
-					survive = '';
-					health = '';
-					special = '';
-					positivestate = '';
-					negativestate = '';
-					godstate = '';
-
-				}
 			}
+
+			//Tag Image
+			type_tag += type + "_" + rare;
+			if(tags == "ex"){
+				type_tag += "_ex.png";
+			}
+			else if(tags == "god"){
+				type_tag += "_god.png";
+			}
+			else if(tags == "pvp-reward"){
+				type_tag += "_pvp.png";
+			}
+			else if(tags == "origin"){
+				type_tag += "_origin.png";
+			}
+			else if(tags == "gk"){
+				type_tag += "_gk.png";
+			}
+			else if(tags == "killers"){
+				type_tag += "_killers.png";
+			}
+			else if(tags == "ranbu"){
+				type_tag = "ranbu.png";
+			}
+			else{
+				type_tag += ".png";
+			}
+
+			if (id == "50051001" || id == "50060307"){
+				type_tag = "ranbu.png";
+			}
+			var passTag = type_tag
+			if(units.indexOf(chara[0]) == -1){
+				content += _createCard(chara, name, type, hp, atk, def, spd, rare, affi, id, tags, type_tag); // chama a função passando os dados do card
+				type_tag = ''
+			}
+
 		}
-		console.log(i, window.chara[i]);
 		
 		$('.cards').html(content);
 		
@@ -269,10 +177,10 @@
 				var unit = [];
 				var cid = 0;
 				// Procura pelas informações da unidade
-				for(i in window.chara){
-					i = window.chara[i];
+				for(i in window.detail){
+					i = window.detail[i];
 					// Verifica o ID da unidade
-					if(i["cardId"]==id) {
+					if(detail["id"]==id) {
 						/*
 							Se for o id que procuramos, salva o index 0 pra ser o 'five' e o index 1 para ser o 'six', para isso
 							  ▼ ID do card                                                 Raridade, 0 para 'five' e um para 'six' ▼ 
@@ -293,15 +201,27 @@
 				 		unit:chara[0]
 					}
 				}
-				console.log(cards);
-				_buildCardModal(id, thumb, cards, cid);
+				var unitData
+				for(var x in window.detail){
+					if(cid == window.detail[x]['id']){
+						unitData = window.detail[x]
+					}
+				}
+				var charaData
+				for(var y in window.chara){
+				if(cid == window.chara[y]["cardId"]){
+					charaData = window.chara[y]
+					break;
+				}
+			}
+				_buildCardModal(id, thumb, charaData, cid, unitData, passTag);
 		   }
 		});
 		
 		
 	});
 
-	function _buildCardModal(id, thumb, cards, cid){
+	function _buildCardModal(id, thumb, chara, cid, unit, type_tag){
 		// Icon
 		checkImage('../common/assets/img/units/icons/thumb_' + cid + '_7.png', 
 			function(){
@@ -315,65 +235,72 @@
 			  } );
 
 
-		var name = '';
-		for(var x in window.chara){
-			if(cid == window.chara[x]['cardId']){
-				for(var y in window.charaname){
-					if(window.charaname[y]["charaProfileId"] == window.chara[x]["charaProfileId"]){
-						name = window.charaname[y]['name'];
-					}
-				}
-			}
-		}
+		var name = unit['name']
+		var leadname = unit['subtext']
+		var lead = unit['lead']
+		var s1n = unit['s1n']
+		var s1 = unit['s1']
+		var s1ntr = unit['s1ntr']
+		var s1cs = unit['s1cs']
+		var s1c = unit['s1c']
+		var s2n = unit['s2n']
+		var s2 = unit['s2']
+		var s2ntr = unit['s2ntr']
+		var s2cs = unit['s2cs']
+		var s2c = unit['s2c']
+		var a1n = unit['a1n']
+		var a1 = unit['a1']
+		var a2n = unit['a2n']
+		var a2 = unit['a2']
+		var a3n = unit['a3n']
+		var a3 = unit['a3']
+		var charaId = chara['charaProfileId']
+
 		// Name
-		for(var y in window.chara){
-			if(cid == window.chara[y]['cardId']){
-				$('#name-unit').text(name + ', ' + window.chara[y]['cardSubName']);
-			}
-		}
+		var fullName = name + ", " + leadname
+		$('#name-unit').text(fullName);
+		$('#leadname-five').text(leadname);
+		$('#lead-five').text(lead);
+		$('#leadname-six').text(leadname);
+		$('#lead-six').text(lead);
+		$('#type-unit').attr('src', '../common/assets/img/rarity/' + type_tag); 
 
-		//Type
-		for(var x in window.chara){
-			if(cid == window.chara[x]['cardId']){
+		$('#skill1name-five').text(s1n);
+		$('#skill1-five').text(s1);
+		$('#skill1type-five').text(s1ntr);
+		$('#skill1speed-five').text(s1cs);
+		$('#skill1cost-five').text(s1c);
+		$('#skill1name-six').text(s1n);
+		$('#skill1-six').text(s1);
+		$('#skill1type-six').text(s1ntr);
+		$('#skill1speed-six').text(s1cs);
+		$('#skill1cost-six').text(s1c);
 
-				var change = 0;
-				var stuff = '';
-				var rare;
-				stuff += checkType(window.chara[x]);
+		$('#skill2name-five').text(s2n);
+		$('#skill2-five').text(s2);
+		$('#skill2type-five').text(s2ntr);
+		$('#skill2speed-five').text(s2cs);
+		$('#skill2cost-five').text(s2c);
+		$('#skill2name-six').text(s2n);
+		$('#skill2-six').text(s2);
+		$('#skill2type-six').text(s2ntr);
+		$('#skill2speed-six').text(s2cs);
+		$('#skill2cost-six').text(s2c);
 
-				//Add Stats from Evo Bonus
-				for(var n in window.evo){
-					if(window.chara[x]["cardId"] == window.evo[n]['cardId']){
-						if((window.chara[x]["rare"] != window.evo[n]['rare']) && window.evo[n]['rare'] != 0){
-							rare = window.evo[n]['rare'];
-							change = 1;
-						}
-					}
-				}
-				if (change == 0){
-					rare = window.chara[x]['rare']
-				}
-				stuff += "_" + rare;
+		$('#ability1name-five').text(a1n);
+		$('#ability1-five').text(a1);
+		$('#ability1name-six').text(a1n);
+		$('#ability1-six').text(a1);
 
+		$('#ability2name-five').text(a2n);
+		$('#ability2-five').text(a2);
+		$('#ability2name-six').text(a2n);
+		$('#ability2-six').text(a2);
 
-				if(window.tags[x]['tag'] == "ex-5" || window.tags[x]['tag'] == "ex-6"){
-					stuff += "_ex.png";
-				}
-				else if(window.tags[x]['tag'] == "god"){
-					stuff += "_god.png";
-				}
-				else if(window.tags[x]['tag'] == "pvp-reward"){
-					stuff += "_pvp.png";
-				}
-				else{
-					stuff += ".png";
-				}
-
-				$('#type-unit').attr('src', '../common/assets/img/rarity/' + stuff); 
-			}
-		}
-	
-		
+		$('#ability3name-five').text(a3n);
+		$('#ability3-five').text(a3);
+		$('#ability3name-six').text(a3n);
+		$('#ability3-six').text(a3);
 		//Character Image
 		checkImage('../common/assets/img/units/' + cid + '.png', 
 			function(){
@@ -400,483 +327,351 @@
 				break
 			}
 		}
-		/*
-			Usamos os nome five e six para determinar o ID a ser escrito os valores
-						   ▼ j				       ▼ i					▼ k
-			$('#' + nome_do_detalhe + '_' + ('five'|'six')).text(valor_do_detalhe);
-			
-			Nota: Precisamos determinar a regra das variaves dentro de [unit] pra poder escreve-las na modal, e também a thumb e as duas imagens do card
-			
-		*/
-		
+
+
 		// Character Stats
-		
-		
-		for(i in cards){
-			//Stats
-			var c = cards[i];
-			var ninguCharaId = [];
-			var ninguCardId = [];
-			var ninguGroup = [];
-			var ninguGearList = [];
+		for(var y in window.vo){
+			if(cid == window.vo[y]['cardId']){
+				
+				var dir = String(window.vo[y]['dirName']);
+				var appear = window.vo[y]['voiceAppear'];
+				var skill = window.vo[y]['voiceSkill1'];
+				var pursuit =  window.vo[y]['voicePursuit'];
+				var win = window.vo[y]['voiceWin'];
+				var death = window.vo[y]['voiceDeath'];
 
-			//Character Lead
-			for(var x in window.chara){
-				if(cid == window.chara[x]['cardId']){
+				var voice = '<h3>Voice:&ensp; </h3>'
+						  + '<button id="voiceAppear" class="" value="" onclick="voiceAppear()">Appear</button>'
+						  + '<button id="voiceSkill" class="" value="" onclick="voiceSkill()">Skill</button>'
+						  + '<button id="voiceWin" class="" value="" onclick="voiceWin()">Win</button>'
+						  + '<button id="voiceDeath" class="" value="" onclick="voiceDeath()">Death</button>';
+						 
 
-					//Character Voice
-					for(var y in window.vo){
-						if(cid == window.vo[y]['cardId']){
-							
-							var dir = String(window.vo[y]['dirName']);
-							var appear = window.vo[y]['voiceAppear'];
-							var skill = window.vo[y]['voiceSkill1'];
-							var pursuit =  window.vo[y]['voicePursuit'];
-							var win = window.vo[y]['voiceWin'];
-							var death = window.vo[y]['voiceDeath'];
+				document.getElementById("voice").innerHTML = voice;
+				$("#voiceAppear").attr('class', dir);
+				$("#voiceAppear").attr('value', appear);
+				$("#voiceSkill").attr('class', dir);
+				$("#voiceSkill").attr('value', skill);
+				$("#voicePursuit").attr('class', dir);
+				$("#voicePursuit").attr('value', pursuit);
+				$("#voiceWin").attr('class', dir);
+				$("#voiceWin").attr('value', win);
+				$("#voiceDeath").attr('class', dir);
+				$("#voiceDeath").attr('value', death);
+				break;
+			}
+			else{
+				document.getElementById("voice").innerHTML = "";
 
-							var voice = '<h3>Voice:&ensp; </h3>'
-									  + '<button id="voiceAppear" class="" value="" onclick="voiceAppear()">Appear</button>'
-									  + '<button id="voiceSkill" class="" value="" onclick="voiceSkill()">Skill</button>'
-									  + '<button id="voiceWin" class="" value="" onclick="voiceWin()">Win</button>'
-									  + '<button id="voiceDeath" class="" value="" onclick="voiceDeath()">Death</button>';
-									 
+			}
+		}
 
-							document.getElementById("voice").innerHTML = voice;
-							$("#voiceAppear").attr('class', dir);
-							$("#voiceAppear").attr('value', appear);
-							$("#voiceSkill").attr('class', dir);
-							$("#voiceSkill").attr('value', skill);
-							$("#voicePursuit").attr('class', dir);
-							$("#voicePursuit").attr('value', pursuit);
-							$("#voiceWin").attr('class', dir);
-							$("#voiceWin").attr('value', win);
-							$("#voiceDeath").attr('class', dir);
-							$("#voiceDeath").attr('value', death);
-							break;
-						}
-						else{
-							document.getElementById("voice").innerHTML = "";
+		var ninguCharaId = [];
+		var ninguCardId = [];
+		var ninguGroup = [];
+		var ninguGearList = [];
+		var gear = ''
 
-						}
-					}
+		for(var y in window.enggear){
+			var charaIdMatch = window.enggear[y]['charaIds'].split(",");
+			for(var z in charaId){
+				if(charaId == charaIdMatch[z]){
+					gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+				}
+			}
 
-					for(var y in window.unique){
-						var unique = window.unique[y]['charaIds'].split(",");
-						for(var z in unique){
-							if(window.chara[x]['charaProfileId'] == unique[z]){
-								ninguCharaId.push(window.unique[y]);
-								break;
-							}
-						}
-						var cardsID = window.unique[y]['cardIds'].split(",");
-						for(var z in cardsID){
-							if(window.chara[x]['cardId'] == cardsID[z]){
-								ninguCardId.push(window.unique[y]);
-								break;
-							}
-						}
-						var group = window.unique[y]['charaGroupIds'].split(",");
-						for(var z in group){
-							if(group == "600000" && window.chara[x]['charaType'] == '8'){
-								ninguGroup.push(window.unique[y]);
-								break;
-							}
-							if(group == "600001"){
-								if(window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" ||
-								window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" || window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" 
-								|| window.chara[x]['charaProfileId'] == "210" || window.chara[x]['charaProfileId'] == "4101" || window.chara[x]['charaProfileId'] == "4701" || window.chara[x]['charaProfileId'] == "11601" || window.chara[x]['charaProfileId'] == "11602" 
-								|| window.chara[x]['charaProfileId'] == "11603" || window.chara[x]['charaProfileId'] == "13701" || window.chara[x]['charaProfileId'] == "13702"  || window.chara[x]['charaProfileId'] == "13705"  || window.chara[x]['charaProfileId'] == "13801" 
-								|| window.chara[x]['charaProfileId'] == "50801" || window.chara[x]['charaProfileId'] == "50901" || window.chara[x]['charaProfileId'] == "50902" || window.chara[x]['charaProfileId'] == "50903" ){
-									ninguGroup.push(window.unique[y]);
-									break;
-								}
-							}
-							if(group == "700001"){
-								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903" ||　window.chara[x]['charaProfileId'] == "111"
-								|| window.chara[x]['charaProfileId'] == "1202"	){
-									ninguGroup.push(window.unique[y]);
-									break;
-								}
-							}
-							if(group == "700000"){
-								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "14001" ||　window.chara[x]['charaProfileId'] == "109" || window.chara[x]['charaProfileId'] == "50903"
-								|| window.chara[x]['charaProfileId'] == "1202" || window.chara[x]['charaProfileId'] == "20301"　|| window.chara[x]['charaProfileId'] == "402"	|| window.chara[x]['charaProfileId'] == "502"　|| window.chara[x]['charaProfileId'] == "602"){
-									ninguGroup.push(window.unique[y]);
-									break;
-								}
-							}
-							if(group == "100301"){
-								if(window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "106" ||　window.chara[x]['charaProfileId'] == "109"){
-									ninguGroup.push(window.unique[y]);
-									break;
-								}
-							}
-							if(group == "600002"){
-								if(window.chara[x]['charaProfileId'] == "11801" || window.chara[x]['charaProfileId'] == "13304" ||　window.chara[x]['charaProfileId'] == "13101"){
-									ninguGroup.push(window.unique[y]);
-									break;
-								}
-							}
-							if(group == "300001"){
-								if(window.chara[x]['charaProfileId'] == "1701" || window.chara[x]['charaProfileId'] == "1702" || window.chara[x]['charaProfileId'] == "1703" 
-								|| window.chara[x]['charaProfileId'] == "1704" || window.chara[x]['charaProfileId'] == "1706" ){
-									ninguGroup.push(window.unique[y]);
-									break;
-								}
-							}
-							if(group == "300002"){
-								if(window.chara[x]['charaProfileId'] == "101" || window.chara[x]['charaProfileId'] == "102" || window.chara[x]['charaProfileId'] == "103" || window.chara[x]['charaProfileId'] == "104" ||
-								window.chara[x]['charaProfileId'] == "105" ||	window.chara[x]['charaProfileId'] == "106" || window.chara[x]['charaProfileId'] == "107" || window.chara[x]['charaProfileId'] == "108" 
-								|| window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "111" ){
-									ninguGroup.push(window.unique[y]);
-									break;
-								}
-							}
-							if(group == "300003"){
-								if(window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" ||
-								window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" || window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" 
-								|| window.chara[x]['charaProfileId'] == "210" ){
-									ninguGroup.push(window.unique[y]);
-									break;
-								}
-							}
-							if(group == "300002,300003"){
-								if(window.chara[x]['charaProfileId'] == "101" || window.chara[x]['charaProfileId'] == "102" || window.chara[x]['charaProfileId'] == "103" || window.chara[x]['charaProfileId'] == "104" ||
-								window.chara[x]['charaProfileId'] == "105" ||	window.chara[x]['charaProfileId'] == "106" || window.chara[x]['charaProfileId'] == "107" || window.chara[x]['charaProfileId'] == "108" 
-								|| window.chara[x]['charaProfileId'] == "110" || window.chara[x]['charaProfileId'] == "111" || window.chara[x]['charaProfileId'] == "201" || window.chara[x]['charaProfileId'] == "202" || 
-								window.chara[x]['charaProfileId'] == "203" || window.chara[x]['charaProfileId'] == "204" || window.chara[x]['charaProfileId'] == "205" ||	window.chara[x]['charaProfileId'] == "206" ||
-								 window.chara[x]['charaProfileId'] == "207" || window.chara[x]['charaProfileId'] == "208" || window.chara[x]['charaProfileId'] == "210" ){
-									ninguGroup.push(window.unique[y]);
-									break;
-								}
-							}
-						}
-					}
-					
-					var gear = '';
-					for(var y in ninguCharaId){
-						for(var z in window.gear){
-							if(ninguCharaId[y]['targetCrystal'] == window.gear[z]['recipeId']){
-								var ningu = window.gear[z];
-								ninguGearList.push(window.gear[z]['crystalImageId']);
-								break;
-							}
-						}
-						var gearType = checkGearType(ningu);
+			var cardIds = window.enggear[y]['cardIds'].split(",");
+			for(var z in cardIds){
+				if(cid == cardIds[z]){
+					gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+				}
+			}
+
+			var group = window.enggear[y]['charaGroupIds'].split(",");
+			for(var z in group){
+				if(group == "600000" && chara['charaType'] == '8'){
+					gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+					break;
+				}
+				if(group == "600001"){
+					if(charaId == "201" || charaId == "202" || charaId == "203" || charaId == "204" ||
+					charaId == "205" ||	charaId == "206" || charaId == "207" || charaId == "208" 
+					|| charaId == "210" || charaId == "4101" || charaId == "4701" || charaId == "11601" || charaId == "11602" 
+					|| charaId == "11603" || charaId == "13701" || charaId == "13702"  || charaId == "13705"  || charaId == "13801" 
+					|| charaId == "50801" || charaId == "50901" || charaId == "50902" || charaId == "50903" ){
 						gear += '<div class="base-gear">' 
-								+		'<div class="icon">'
-								+			'<img src="../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
-								+		'</div>' 
-								+		'<div class="info">'
-								+			'<div class="header">'
-								+				'<div class="type">'
-								+					'<h4 type="' + gearType + '">' + gearType + '</h4>'
-								+				'</div>'
-								+			'<div class="title">'
-								+				'<h3>' + ningu['crystalName'] + '</h3>'
-								+			'</div>'
-								+		'</div>'
-								+		'<div class="description">'
-								+			'<p>' + ninguCharaId[y]['description'] + '</p>'
-								+		'</div>'
-								+	'</div>'
-								+'</div>';
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+						break;
 					}
-					for(var y in ninguCardId){
-						var dupe = 0;
-						for(var z in window.gear){
-							if(ninguCardId[y]['targetCrystal'] == window.gear[z]['recipeId']){
-								for(var g in ninguGearList){
-									if(ninguGearList[g] == window.gear[z]["crystalImageId"]){
-										 dupe = 1;
-									}
-								}
-								if(dupe == 0){
-									var ningu = window.gear[z];
-								}
-								break;
-							}
-						}
-						var gearType = checkGearType(ningu);
-						if(dupe == 0){
-							gear += '<div class="base-gear">' 
-									+		'<div class="icon">'
-									+			'<img src="../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
-									+		'</div>' 
-									+		'<div class="info">'
-									+			'<div class="header">'
-									+				'<div class="type">'
-									+					'<h4 type="' + gearType + '">' + gearType + '</h4>'
-									+				'</div>'
-									+			'<div class="title">'
-									+				'<h3>' + ningu['crystalName'] + '</h3>'
-									+			'</div>'
-									+		'</div>'
-									+		'<div class="description">'
-									+			'<p>' + ninguCardId[y]['description'] + '</p>'
-									+		'</div>'
-									+	'</div>'
-									+'</div>';
-						}
+				}
+				if(group == "700001"){
+					if(charaId == "110" || charaId == "14001" ||　charaId == "109" || charaId == "50903" ||　charaId == "111"
+					|| charaId == "1202"	){
+						gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+						break;
 					}
-					for(var y in ninguGroup){
-						var dupe = 0;
-						for(var z in window.gear){
-							if(ninguGroup[y]['targetCrystal'] == window.gear[z]['recipeId']){
-								for(var g in ninguGearList){
-									if(ninguGearList[g] == window.gear[z]["crystalImageId"]){
-										 dupe = 1;
-									}
-								}
-								if(dupe == 0){
-									var ningu = window.gear[z];
-								}
-								break;
-							}
-						}
-						var gearType = checkGearType(ningu);
-						if(dupe == 0){
-							gear += '<div class="base-gear">' 
-									+		'<div class="icon">'
-									+			'<img src="../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
-									+		'</div>' 
-									+		'<div class="info">'
-									+			'<div class="header">'
-									+				'<div class="type">'
-									+					'<h4 type="' + gearType + '">' + gearType + '</h4>'
-									+				'</div>'
-									+			'<div class="title">'
-									+				'<h3>' + ningu['crystalName'] + '</h3>'
-									+			'</div>'
-									+		'</div>'
-									+		'<div class="description">'
-									+			'<p>' + ninguGroup[y]['description'] + '</p>'
-									+		'</div>'
-									+	'</div>'
-									+'</div>';
-						}
+				}
+				if(group == "700000"){
+					if(charaId == "110" || charaId == "14001" ||　charaId == "109" || charaId == "50903"
+					|| charaId == "1202" || charaId == "20301"　|| charaId == "402"	|| charaId == "502"　|| charaId == "602"){
+						gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+						break;
 					}
-
-					document.getElementById("gear").innerHTML = gear;
-					document.getElementById("gear-six").innerHTML = gear;
-
-					for(var n in window.lead){
-						if(window.chara[x]['leaderSkillId'] == window.lead[n]['cardLeaderSkillId']){
-							
-							//A
-							$('#leadname-' + i).text(window.chara[x]['cardSubName']);
-							$('#lead-' + i).text(window.lead[n]['description']);
-							$('#leadname-six').text(window.chara[x]['cardSubName']);
-							$('#lead-six').text(window.lead[n]['description']);
-						}
+				}
+				if(group == "100301"){
+					if(charaId == "110" || charaId == "106" ||　charaId == "109"){
+						gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+						break;
 					}
-
-					for(var n in window.ability){
-						if(window.chara[x]['abilityId1'] == window.ability[n]['abilityId']){
-							var check = 0;
-							var seven = 0;
-							var ability3 = 0
-							$('#ability1name-' + i).text(window.ability[n]['abilityName']);
-							$('#ability1-' + i).text(window.ability[n]['abilityDescription']);
-							//Check Evo File
-							for(var g in window.evo){
-								//Compare Character ID to Evo ID
-
-								if(window.chara[x]['cardId'] == window.evo[g]['cardId']){
-									if(window.evo[g]['abilityId3'] != 0){
-										seven = 1
-										ability3 = window.evo[g]['abilityId3'] 
-										
-									}
-									//Check if Evo ID has changed
-									if(window.evo[g]['abilityId1'] != 0){
-										//Check all abilities
-										for(var t in window.ability){
-											//Check 
-											if(window.evo[g]['abilityId1'] == window.ability[t]['abilityId']){
-												$('#ability1name-six').text(window.ability[t]['abilityName']);
-												$('#ability1-six').text(window.ability[t]['abilityDescription']);
-												check = 1;
-											}
-										}
-									}
-								}
-							}
-
-							if(check == 0){
-								$('#ability1name-six').text(window.ability[n]['abilityName']);
-								$('#ability1-six').text(window.ability[n]['abilityDescription']);
-							}
-							if(seven == 1){
-								for(var t in window.ability){
-									//Check 
-									if(ability3 == window.ability[t]['abilityId']){
-									$('#ability3name-five').text(window.ability[t]['abilityName']);
-									$('#ability3-five').text(window.ability[t]['abilityDescription']);
-									$('#ability3name-six').text(window.ability[t]['abilityName']);
-									$('#ability3-six').text(window.ability[t]['abilityDescription']);
-									}
-								}
-							}
-							else{
-								$('#ability3name-five').text("None");
-								$('#ability3-five').text("None");
-								$('#ability3name-six').text("None");
-								$('#ability3-six').text("None");
-							}
-						}
-
-						if(window.chara[x]['abilityId2'] == window.ability[n]['abilityId']){
-							var check = 0;
-							$('#ability2name-' + i).text(window.ability[n]['abilityName']);
-							$('#ability2-' + i).text(window.ability[n]['abilityDescription']);
-							//Check Evo File
-							for(var g in window.evo){
-								//Compare Character ID to Evo ID
-								if(window.chara[x]['cardId'] == window.evo[g]['cardId']){
-									//Check if Evo ID has changed
-									if(window.evo[g]['abilityId2'] != 0){
-										//Check all abilities
-										for(var t in window.ability){
-											//Check 
-											if(window.evo[g]['abilityId2'] == window.ability[t]['abilityId']){
-												$('#ability2name-six').text(window.ability[t]['abilityName']);
-												$('#ability2-six').text(window.ability[t]['abilityDescription']);
-												check = 1;
-											}
-										}
-									}
-								}
-							}
-
-							if(check == 0){
-								$('#ability2name-six').text(window.ability[n]['abilityName']);
-								$('#ability2-six').text(window.ability[n]['abilityDescription']);
-							}
-						}
+				}
+				if(group == "600002"){
+					if(charaId == "11801" || charaId == "13304" ||　charaId == "13101"){
+						gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+						break;
 					}
-
-					for(var n in window.skill){
-						if(window.chara[x]['battleSkillId1'] == window.skill[n]['cardBattleSkillId']){
-							var check = 0;
-							var wait = '';
-							for(var g in window.skillname){
-								if(window.skill[n]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
-									$('#skill1name-' + i).text(window.skillname[g]['eng']);
-									$('#skill1ogname-' + i).text(window.skillname[g]['name']);
-									$('#skill1name-six').text(window.skillname[g]['eng']);
-									$('#skill1ogname-six').text(window.skillname[g]['name']);
-								}
-							}
-							//Replace Type
-							skill = checkSkill(window.skill[n]);
-							$('#skill1type-' + i).text(skill);
-							//Replace Wait
-							wait = checkWait(window.skill[n]);
-							$('#skill1speed-' + i).text(wait);
-							$('#skill1cost-' + i).text(window.skill[n]['battleSkillCnt']);
-							$('#skill1-' + i).text(window.skill[n]['description']);
-
-
-
-							for(var g in window.evo){
-								//Compare Character ID to Evo ID
-								if(window.chara[x]['cardId'] == window.evo[g]['cardId']){
-									//Check if Evo ID has changed
-									if(window.evo[g]['battleSkillId1'] != 0){
-										//Check all Skill
-										for(var t in window.skill){
-											//Check 
-											if(window.evo[g]['battleSkillId1'] == window.skill[t]['cardBattleSkillId']){
-												skill = checkSkill(window.skill[t]);
-												$('#skill1type-six').text(skill);
-												wait = checkWait(window.skill[t]);
-
-												$('#skill1speed-six').text(wait);
-												$('#skill1cost-six').text(window.skill[t]['battleSkillCnt']);
-												$('#skill1-six').text(window.skill[t]['description']);
-	
-												check = 1;
-											}
-										}
-									}
-								}
-							}
-
-							if(check == 0){
-								skill = checkSkill(window.skill[n]);
-								$('#skill1type-six').text(skill);
-								wait = checkWait(window.skill[n]);
-
-								$('#skill1speed-six').text(wait);
-								$('#skill1cost-six').text(window.skill[n]['battleSkillCnt']);
-								$('#skill1-six').text(window.skill[n]['description']);
-							}
-						}
-							
-						if(window.chara[x]['battleSkillId2'] == window.skill[n]['cardBattleSkillId']){
-							var check = 0;
-							var wait = '';
-							var skill = '';
-							for(var g in window.skillname){
-								if(window.skill[n]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
-									$('#skill2name-' + i).text(window.skillname[g]['eng']);
-									$('#skill2ogname-' + i).text(window.skillname[g]['name']);
-									$('#skill2name-six').text(window.skillname[g]['eng']);
-									$('#skill2ogname-six').text(window.skillname[g]['name']);
-								}
-							}
-							//Replace Type with Words
-							skill = checkSkill(window.skill[n]);
-							$('#skill2type-' + i).text(skill);
-							
-							//Replace Wait with Words
-							wait = checkWait(window.skill[n]);
-							$('#skill2speed-' + i).text(wait);
-							
-							$('#skill2cost-' + i).text(window.skill[n]['battleSkillCnt']);
-							$('#skill2-' + i).text(window.skill[n]['description']);
-							
-							for(var g in window.evo){
-								//Compare Character ID to Evo ID
-								if(window.chara[x]['cardId'] == window.evo[g]['cardId']){
-									//Check if Evo ID has changed
-									if(window.evo[g]['battleSkillId2'] != 0){
-										//Check all Skill
-										for(var t in window.skill){
-											//Check 
-											if(window.evo[g]['battleSkillId2'] == window.skill[t]['cardBattleSkillId']){
-												skill = checkSkill(window.skill[t]);
-												$('#skill2type-six').text(skill);
-												wait = checkWait(window.skill[t]);
-
-												$('#skill2speed-six').text(wait);
-												$('#skill2cost-six').text(window.skill[t]['battleSkillCnt']);
-												$('#skill2-six').text(window.skill[t]['description']);
-	
-												check = 1;
-											}
-										}
-									}
-								}
-							}
-
-							if(check == 0){
-								skill = checkSkill(window.skill[n]);
-								$('#skill2type-six').text(skill);
-								wait = checkWait(window.skill[n]);
-
-								$('#skill2speed-six').text(wait);
-								$('#skill2cost-six').text(window.skill[n]['battleSkillCnt']);
-								$('#skill2-six').text(window.skill[n]['description']);
-							}
-						}
+				}
+				if(group == "300001"){
+					if(charaId == "1701" || charaId == "1702" || charaId == "1703" 
+					|| charaId == "1704" || charaId == "1706" ){
+						gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+						break;
+					}
+				}
+				if(group == "300002"){
+					if(charaId == "101" || charaId == "102" || charaId == "103" || charaId == "104" ||
+					charaId == "105" ||	charaId == "106" || charaId == "107" || charaId == "108" 
+					|| charaId == "110" || charaId == "111" ){
+						gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+						break;
+					}
+				}
+				if(group == "300003"){
+					if(charaId == "201" || charaId == "202" || charaId == "203" || charaId == "204" ||
+					charaId == "205" ||	charaId == "206" || charaId == "207" || charaId == "208" 
+					|| charaId == "210" ){
+						gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+						break;
+					}
+				}
+				if(group == "300002,300003"){
+					if(charaId == "101" || charaId == "102" || charaId == "103" || charaId == "104" ||
+					charaId == "105" ||	charaId == "106" || charaId == "107" || charaId == "108" 
+					|| charaId == "110" || charaId == "111" || charaId == "201" || charaId == "202" || 
+					charaId == "203" || charaId == "204" || charaId == "205" ||	charaId == "206" ||
+					 charaId == "207" || charaId == "208" || charaId == "210" ){
+						gear += '<div class="base-gear">' 
+						+		'<div class="icon">'
+						+			'<img src="../common/assets/img/gear/ningu_' + window.enggear[y]['id'] + '.png">'
+						+		'</div>' 
+						+		'<div class="info">'
+						+			'<div class="header">'
+						+				'<div class="type">'
+						+					'<h4 type="' + window.enggear[y]['type'] + '">' + window.enggear[y]['type'] + '</h4>'
+						+				'</div>'
+						+			'<div class="title">'
+						+				'<h3>' + window.enggear[y]['name'] + '</h3>'
+						+			'</div>'
+						+		'</div>'
+						+		'<div class="description">'
+						+			'<p>' + window.enggear[y]['effect'] + '</p>'
+						+		'</div>'
+						+	'</div>'
+						+'</div>';
+						break;
 					}
 				}
 			}
-		
+
 		}
+
+		document.getElementById("gear").innerHTML = gear;
+		document.getElementById("gear-six").innerHTML = gear;
 		
 		// Abre a modal
 		$('#card-modal').modal();

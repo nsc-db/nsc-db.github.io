@@ -8044,6 +8044,10 @@ window.skillname=[
           "name": "うん、やろう！…母さん"
         },
         {
+          "cardBattleSkillNameId": "3223",
+          "name": "火遁・蝦蟇油炎弾"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

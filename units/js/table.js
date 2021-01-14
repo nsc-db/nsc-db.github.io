@@ -29,88 +29,8 @@ $(document).ready( function () {
 		            { title: "ATK" },												//7
 		            { title: "DEF" },												//8
 		            { title: "SPD" },												//9
-		            { 
-		            	title: "Rating",												//10
-		            	"visible": true,
-		            	"searchable": true
-		            },
 		            {
-		            	title: "tag",												//11
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "target",											//12
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "cast",												//13
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "damage",											//14
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "nature",											//15
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "voiced",											//16
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "PVP",												//17
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "nickname",											//18
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "buff",												//19
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "debuff",											//20
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "survive",											//21
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "health",											//22
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "special",											//23
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "positivestate",										//24
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "negativestate",										//25
-		            	"visible": false,
-		            	"searchable": true
-		            },
-		            {
-		            	title: "godstate",											//26
+		            	title: "tag",												//10
 		            	"visible": false,
 		            	"searchable": true
 		            }
@@ -1101,11 +1021,3 @@ $(document).ready( function () {
 		     	}
 			 });
 		});
-		
-		var slider = document.getElementById("chakraCost");
-		var output = document.getElementById("cost");
-		output.innerHTML = slider.value;
-
-		slider.oninput = function(){
-			  output.innerHTML = this.value;
-		}

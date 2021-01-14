@@ -656,11 +656,3 @@ $(document).ready( function () {
 		     	}
 			 });
 		});
-		
-		var slider = document.getElementById("chakraCost");
-		var output = document.getElementById("cost");
-		output.innerHTML = slider.value;
-
-		slider.oninput = function(){
-			  output.innerHTML = this.value;
-		}

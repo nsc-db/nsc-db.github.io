@@ -1582,6 +1582,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "2405",
+          "charaId": "24",
+          "name": "自来也",
+          "detail": null,
+          "charaLoveAffinityGroupId": "2410",
+          "birthday": "1111",
+          "constellation": "8",
+          "height": "19120",
+          "weight": "8750",
+          "bloodType": "2",
+          "age": "51",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "2501",
           "charaId": "25",
           "name": "うみのイルカ",
