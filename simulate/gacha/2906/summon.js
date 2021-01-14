@@ -186,13 +186,6 @@ function multiSummon(){
 			fourtypull[summon] = fourtypull[summon] + 1
 			id.push(card);
 		}
-		else if(summon >= 500 && summon < 900){
-			var size = getLength(four);
-			summon = Math.floor(Math.random()* (size));
-
-			card = four[summon];
-			id.push(card);
-		}
 		else{
 			var size = getLength(five);
 			summon = Math.floor(Math.random()* (size));
