@@ -87,132 +87,42 @@
 		<div class="base-content">
 			<div class="row">
 				<div class="col-md-4">
-					<h2>Summon Simulator</h2>
-					<p>Choose a Banner</p>
-					
-					<div class="dropdown">
-						<button onclick="bannerDropdown()" class="button-primary">Select A Banner</button>
-						  <div id="myDropdown" class="dropdown-content">
-						    <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
-						    <a href="gacha/god-kakashi/index.html">God Kakashi</a>
-						    <a href="gacha/sakura-tsunade/index.html">Sakura and Tsunade</a>
-						    <a href="gacha/shisui/index.html">Shisui</a>
-
-						  </div>
-					</div>
+					<h2>Summon Simulator</h2>				
 				</div>
 			</div>
-
-
-			<div class="button row">
-					<button class="single-btn btn-success col-md-2 col-md-offset-4" onClick="singleSummon()">Single</button>
-					<button class="multi-btn btn-success col-md-2 " onClick="multiSummon()">Multi</button>
-				</div>
-			<!-- Single-->
-			<div id="single" style="display:none">
-				<div class="row">
-					<div id="char" class="char col-md-4 col-md-offset-4" >
-						<img id="chara-summon" src="" width="100%" height="100%">
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-				</div>
-			</div>
-
-			
-			<div id="multi" style="display:none">
-				<div class="row">
-					<div class="char col-md-2 col-md-offset-1">
-						<img class="card" id="chara-summon-1" src="" width="100%" height="100%" />
-						<h2 class="name" ></h2>
-						<p class="subname"></p>
-					</div>
-					<div class="char col-md-2">
-						<img class="card" id="chara-summon-2" src="" width="100%" height="100%" />
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-					<div class="char col-md-2">
-						<img class="card" id="chara-summon-3" src="" width="100%" height="100%" />
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-					<div class="char col-md-2">
-						<img class="card" id="chara-summon-4" src="" width="100%" height="100%" />
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-					<div class="char col-md-2">
-						<img class="card" id="chara-summon-5" src="" width="100%" height="100%" />
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-				</div>
-
-				<div class="row">
-					<div class="char col-md-2 col-md-offset-1">
-						<img class="card" id="chara-summon-6" src="" width="100%" height="100%" />
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-					<div class="char col-md-2">
-						<img class="card" id="chara-summon-7" src="" width="100%" height="100%" />
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-					<div class="char col-md-2">
-						<img class="card" id="chara-summon-8" src="" width="100%" height="100%" />
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-					<div class="char col-md-2">
-						<img class="card" id="chara-summon-9" src="" width="100%" height="100%" />
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-					<div class="char col-md-2">
-						<img class="card" id="chara-summon-10" src="" width="100%" height="100%" />
-						<h2 class="name"></h2>
-						<p class="subname"></p>
-					</div>
-				</div>
-			</div>
-
 			<div class="row">
-				<div class="rates">
-					<div class="col-md-4 col-md-offset-5">
-						<button class="btn" onclick="showRates()">Show Rates</button>
-							<div id="rates-percent" style="display:none">
-								<table class="rate">
-									<tr>
-										<th>God</th>
-										<td>1%</td> 
-									</tr>
-									<tr>
-										<th>EX 6★</th>
-										<td>3%</td> 
-									</tr>
-									<tr>
-										<th>Killers</th>
-										<td>3%</td> 
-									</tr>
-									<tr>
-										<th>Origin</th>
-										<td>3%</td> 
-									</tr>
-									<tr>
-										<th>EX</th>
-										<td>10%</td> 
-									</tr>
-									<tr>
-										<th>5★</th>
-										<td>80%</td> 
-									</tr>
-								</table>
-							</div>
-					</div>
+				<div class="col-md-5 col-md-offset-5">
+					<h2>Select a Banner</h2>				
+				</div>
+
+			</div>
+			<div class="row">
+				<div class="banner col-sm-12 col-md-4 col-md-offset-1">
+					<table>
+						<tr>
+							<th style='text-align:center;vertical-align:middle'>GK Gaara</th>
+							<th style='text-align:center;vertical-align:middle'>52nd PvP</th>
+							<th style='text-align:center;vertical-align:middle'>Haku and Zabuza</th>
+						</tr>
+						<tr>
+							<th><a href="gacha/2906/index.html"><img src="./../common/assets/img/banner/2906/future_1.png" alt="Gk gaara" width="300"></a></th>
+							<th><a href="gacha/2905/index.html"><img src="./../common/assets/img/banner/2905/future_1.png" alt="PVP Banner" width="300"></a></th>
+							<th><a href="gacha/2904/index.html"><img src="./../common/assets/img/banner/2904/future_1.png" alt="Haku and Zabuza" width="300"></a></th>
+						</tr>
+						<tr>
+							<th style='text-align:center;vertical-align:middle'>God X GK</th>
+							<th style='text-align:center;vertical-align:middle'>Kizuna Sasuke and Itachi</th>
+							<th style='text-align:center;vertical-align:middle'>NY Hashirama and Madara</th>
+						</tr>
+						<tr>
+							<th><a href="gacha/2903"><img src="./../common/assets/img/banner/2903/future_1.png" alt="God X GK" width="300"></a></th>
+							<th><a href="gacha/2902"><img src="./../common/assets/img/banner/2902/future_1.png" alt="PVP Banner" width="300"></a></th>
+							<th><a href="gacha/2901"><img src="./../common/assets/img/banner/2901/future_1.png" alt="Kizuna v2" width="300"></a></th>
+						</tr>
+					</table>
 				</div>
 			</div>
+			
 
 			<div class="row">
 				<div class="col-md-12">
