@@ -5,7 +5,7 @@ window.enggear=[
           "name": "Blue Thunder",
           "effect": "Cast Speed +1, Skill Damage +100%, DEF +200%",
           "normal": "Cast Speed +1",
-          "charaIds": "1306",
+          "charaIds": "207",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -15,7 +15,7 @@ window.enggear=[
           "name": "Yellow Wind",
           "effect": "HP and SPD +100%, Chakra Recovery +50%, Start the Battle with 100% Chakra",
           "normal": "HP and SPD +40%.",
-          "charaIds": "1306",
+          "charaIds": "104",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -45,7 +45,7 @@ window.enggear=[
           "name": "Shino's Sandals",
           "effect": "SPD +30% per Konoha Ally (Max 120%) and Cast Speed +1",
           "normal": "SPD +30%",
-          "charaIds": "1305",
+          "charaIds": "901,902",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -55,7 +55,7 @@ window.enggear=[
           "name": "Aburame Clan's Secret Ninjutsu",
           "effect": "Chance to Fully Recover Chakra and enemy's Skill Damage -80% when attacked and Low Chance for Instant Action",
           "normal": "Recover 50% of Chakra when attacked",
-          "charaIds": "1305",
+          "charaIds": "901,902",
           "cardIds": "0",
           "charaGroupIds": "0"
      }
