@@ -13,7 +13,7 @@ window.detail=[
           "s1c": 90,
 
           "s2n": "I Know!!",
-          "s2": "All enemies SPD and Skill Damage -100%. Remove enemy Positive Special and God State. Grant "Conflagration' State to party. [Conflagration: Skip, Cancel, Insta Kill and enemy Terrain Immunity. Skills are Always Hit. When Attacked by an enemy inflicted with 'Storm' State: Skill Damage +200%, Recover 200% Chakra and Grant Instant Action]",
+          "s2": "All enemies SPD and Skill Damage -100%. Remove enemy Positive Special and God State. Grant 'Conflagration' State to party. [Conflagration: Skip, Cancel, Insta Kill and enemy Terrain Immunity. Skills are Always Hit. When Attacked by an enemy inflicted with 'Storm' State: Skill Damage +200%, Recover 200% Chakra and Grant Instant Action]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 80,
