@@ -2,20 +2,25 @@ var moneyspent = 0
 var gemspent = 0
 var summonsdone = 0
 var multidone = 0
-var feature = [20070102, 20070103]
-var fpull = [0,0]
-var seven = [20060905, 20060312];
+var feature = [50070101]
+var fpull = [0]
+var seven = [20061104, 20051109];
 var sevenpull = [0,0];	 
-var six = [20060607, 20060107, 20060104, 20060103, 20050613, 20050612];
-var sixpull = [0,0,0,0,0,0];
+var six = [20061108, 20061107, 20061105, 20061008, 20061007, 20061005, 20061003, 20061002,
+		   20060909, 20061102, 20060908, 20060907, 20060906, 20060904, 20060903];
+var sixpull = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
 var fourty = [20050408, 20050409, 20050418, 20050417, 20050316, 20050317, 20050310, 20050313, 
               20050308, 20050212, 20050113, 20041206, 20041211, 20041210, 20041205, 20041110, 20041105, 
               20041006, 20041009, 20040907, 20040905, 20040702, 20040407, 20040309, 20040303,
               20040304, 20040210, 20040201, 20040115, 20031011]
 var fourtypull = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+var ranbu = [50061101, 50061001, 50060801, 50060701, 50060601, 50060501, 
+			 50060401, 50060306, 50060205, 50060104]
+var ranbupull = [0,0,0,0,0,0,0,0,0,0]
 var five = []
 var four = []
-var rates = 120
+var rates = 110
+var ranburates = 920
 var length = createPool(five, four);
 
 function singleSummon(){
@@ -31,7 +36,7 @@ function singleSummon(){
 	var roll = summon;
 
 	//Feature
-	if(summon >= 100 && summon < 120){
+	if(summon >= 100 && summon < 110){
 		var size = getLength(feature);
         summon = Math.floor(Math.random()* (size));
 
@@ -65,7 +70,15 @@ function singleSummon(){
 		fourtypull[summon] = fourtypull[summon] + 1
 		id.push(card);
 	}
-	else if(summon >= 500 && summon < 887){
+	else if(summon >= 900 && summon < 920){
+		var size = getLength(ranbu);
+		summon = Math.floor(Math.random()* (size));
+
+		card = ranbu[summon] + "_6";
+		ranbupull[summon] = ranbupull[summon] + 1
+		id.push(card);
+	}
+	else if(summon >= 500 && summon < 867){
 		var size = getLength(four);
 		summon = Math.floor(Math.random()* (size));
 
@@ -95,7 +108,6 @@ function singleSummon(){
     document.getElementById("summons").innerHTML = summonsdone;
     document.getElementById("multis").innerHTML = multidone;
     document.getElementById("f1").innerHTML = fpull[0];
-    document.getElementById("f2").innerHTML = fpull[1];
 
     document.getElementById("71").innerHTML = sevenpull[0];
     document.getElementById("72").innerHTML = sevenpull[1];
@@ -106,7 +118,26 @@ function singleSummon(){
     document.getElementById("64").innerHTML = sixpull[3];
     document.getElementById("65").innerHTML = sixpull[4];
     document.getElementById("66").innerHTML = sixpull[5];
-    
+    document.getElementById("67").innerHTML = sixpull[6];
+    document.getElementById("68").innerHTML = sixpull[7];
+    document.getElementById("69").innerHTML = sixpull[8];
+    document.getElementById("610").innerHTML = sixpull[9];
+    document.getElementById("611").innerHTML = sixpull[10];
+    document.getElementById("612").innerHTML = sixpull[11];
+    document.getElementById("613").innerHTML = sixpull[12];
+    document.getElementById("614").innerHTML = sixpull[13];
+    document.getElementById("615").innerHTML = sixpull[14];
+
+    document.getElementById("r1").innerHTML = ranbupull[0];
+    document.getElementById("r2").innerHTML = ranbupull[1];
+    document.getElementById("r3").innerHTML = ranbupull[2];
+    document.getElementById("r4").innerHTML = ranbupull[3];
+    document.getElementById("r5").innerHTML = ranbupull[4];
+    document.getElementById("r6").innerHTML = ranbupull[5];
+    document.getElementById("r7").innerHTML = ranbupull[6];
+    document.getElementById("r8").innerHTML = ranbupull[7];
+    document.getElementById("r9").innerHTML = ranbupull[8];
+    document.getElementById("r10").innerHTML = ranbupull[9];
 
     document.getElementById("401").innerHTML = fourtypull[0];
     document.getElementById("402").innerHTML = fourtypull[1];
@@ -156,8 +187,9 @@ function multiSummon(){
 	moneyspent += 26
 	summonsdone += 11
 	multidone++
-	if(multidone >= 2){
-		rates = 650
+	if(multidone >= 3){
+		rates = 150
+		ranburates = 999
 	}
 	var card;
 	var roll =[];
@@ -167,7 +199,7 @@ function multiSummon(){
 		var summon = Math.floor(Math.random()* 999);
 		roll.push(summon);
 		//Feature Character Rate .4%
-		if(summon >= 100 && summon < 120){
+		if(summon >= 100 && summon < 110){
 			var size = getLength(feature);
             summon = Math.floor(Math.random()* (size));
 
@@ -201,11 +233,19 @@ function multiSummon(){
 			fourtypull[summon] = fourtypull[summon] + 1
 			id.push(card);
 		}
-		else if(summon >= 500 && summon < 887){
+		else if(summon >= 500 && summon < 837){
 			var size = getLength(four);
 			summon = Math.floor(Math.random()* (size));
 
 			card = four[summon];
+			id.push(card);
+		}
+		else if(summon >= 900 && summon < 920){
+			var size = getLength(ranbu);
+			summon = Math.floor(Math.random()* (size));
+
+			card = ranbu[summon] + "_6";
+			ranbupull[summon] = ranbupull[summon] + 1
 			id.push(card);
 		}
 		else{
@@ -220,7 +260,7 @@ function multiSummon(){
 	}
 	var summon = Math.floor(Math.random()* 999);
 	roll.push(summon);
-	if(multidone == 5){
+	if(multidone == 7){
 		var size = getLength(feature);
         summon = Math.floor(Math.random()* (size));
 
@@ -228,6 +268,7 @@ function multiSummon(){
         fpull[summon] = fpull[summon] + 1
         id.push(card);
 	}
+
 	else if(summon >= 100 && summon < rates){
 		var size = getLength(feature);
         summon = Math.floor(Math.random()* (size));
@@ -237,7 +278,7 @@ function multiSummon(){
         id.push(card);
 	}
 	//7* God and GK
-	else if(summon >= 700 && summon < 703){
+	else if(summon >= 200 && summon < 203){
 		var size = getLength(seven);
 		summon = Math.floor(Math.random()* (size));
 
@@ -246,7 +287,7 @@ function multiSummon(){
 		id.push(card);
 	}
 	//6* God and GK
-	else if(summon >= 800 && summon < 830){
+	else if(summon >= 300 && summon < 330){
 		var size = getLength(six);
 		summon = Math.floor(Math.random()* (size));
 
@@ -254,7 +295,23 @@ function multiSummon(){
 		sixpull[summon] = sixpull[summon] + 1
 		id.push(card);
 	}
-	else if(summon >= 900 && summon < 970){
+	else if(summon >= 400 && summon < 470){
+		var size = getLength(fourty);
+		summon = Math.floor(Math.random()* (size));
+
+		card = fourty[summon] + "_6";
+		fourtypull[summon] = fourtypull[summon] + 1
+		id.push(card);
+	}
+	else if(summon >= 900 && summon < ranburates){
+			var size = getLength(ranbu);
+			summon = Math.floor(Math.random()* (size));
+
+			card = ranbu[summon] + "_6";
+			ranbupull[summon] = ranbupull[summon] + 1
+			id.push(card);
+	}
+	else if(multidone >=3){
 		var size = getLength(fourty);
 		summon = Math.floor(Math.random()* (size));
 
@@ -285,8 +342,16 @@ function multiSummon(){
     document.getElementById("gems").innerHTML = gemspent;
     document.getElementById("summons").innerHTML = summonsdone;
     document.getElementById("multis").innerHTML = multidone;
+    var featurerate = 0
+    if(multidone != 7){
+    	featurerate = ((rates - 100) / 1000) * 100
+    }
+    else{
+    	featurerate = 100
+    }
+    document.getElementById("frates").innerHTML =  featurerate + '%';
+
     document.getElementById("f1").innerHTML = fpull[0];
-    document.getElementById("f2").innerHTML = fpull[1];
     
     document.getElementById("71").innerHTML = sevenpull[0];
     document.getElementById("72").innerHTML = sevenpull[1];
@@ -298,7 +363,26 @@ function multiSummon(){
     document.getElementById("64").innerHTML = sixpull[3];
     document.getElementById("65").innerHTML = sixpull[4];
     document.getElementById("66").innerHTML = sixpull[5];
-    
+    document.getElementById("67").innerHTML = sixpull[6];
+    document.getElementById("68").innerHTML = sixpull[7];
+    document.getElementById("69").innerHTML = sixpull[8];
+    document.getElementById("610").innerHTML = sixpull[9];
+    document.getElementById("611").innerHTML = sixpull[10];
+    document.getElementById("612").innerHTML = sixpull[11];
+    document.getElementById("613").innerHTML = sixpull[12];
+    document.getElementById("614").innerHTML = sixpull[13];
+    document.getElementById("615").innerHTML = sixpull[14];
+
+    document.getElementById("r1").innerHTML = ranbupull[0];
+    document.getElementById("r2").innerHTML = ranbupull[1];
+    document.getElementById("r3").innerHTML = ranbupull[2];
+    document.getElementById("r4").innerHTML = ranbupull[3];
+    document.getElementById("r5").innerHTML = ranbupull[4];
+    document.getElementById("r6").innerHTML = ranbupull[5];
+    document.getElementById("r7").innerHTML = ranbupull[6];
+    document.getElementById("r8").innerHTML = ranbupull[7];
+    document.getElementById("r9").innerHTML = ranbupull[8];
+    document.getElementById("r10").innerHTML = ranbupull[9];
 
     document.getElementById("401").innerHTML = fourtypull[0];
     document.getElementById("402").innerHTML = fourtypull[1];
