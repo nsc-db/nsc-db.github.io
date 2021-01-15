@@ -1,4 +1,44 @@
 window.enggear=[
+{
+          "id": 401015,
+          "type": "Resistance",
+          "name": "Haku's Sandal",
+          "effect": "1 Turn: Negative Special State Immunity. Debuff and Status Effect Immunity, Cast Speed +1",
+          "normal": "Debuff and Status Effect Reduction",
+          "charaIds": "10201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 401025,
+          "type": "Stats",
+          "name": "Haku's Nail",
+          "effect": "HP, ATK and DEF +100%, SPD +50% per turn (Max 150%)",
+          "normal": "HP, ATK and DEF +50%, SPD -20%",
+          "charaIds": "10201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+     {
+          "id": 401035,
+          "type": "Chakra",
+          "name": "Zabuza's Sandals (Camo)",
+          "effect": "1 Turn: Chakra Cost is set to 0, After 2 Turns: Chakra Cost -50%, Cast Speed +1",
+          "normal": "2 Turns: Chakra Cost -20%, Debuff Reduction",
+          "charaIds": "10101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+     {
+          "id": 401045,
+          "type": "Stats",
+          "name": "Zabuza's Shoulder Belt",
+          "effect": "HP, ATK and DEF +100%, SPD +50% per turn (Max 150%)",
+          "normal": "HP, ATK and DEF +50%, SPD -20%",
+          "charaIds": "10101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
      {
           "id": 307175,
           "type": "Skill",

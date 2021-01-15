@@ -1,5 +1,61 @@
 window.detail=[
 {
+          "id": 20070102,
+          "name": "Haku",
+          "subtext": "White Snow Loyalty",
+
+          "lead": "Kiri Characters: Chakra Cost -50% and Skill Damage +150%",
+
+          "s1n": "Thousand Needles of Death: Frozen Pillar Burial",
+          "s1": "Deal 3% + 489,000 to target enemy. Deal 10 Additional Attacks dealing 89,000 Fixed Damage to enemies inflicted with 'Block' State. Chance to Inflict 'Block' State. Grant 'Mist' State to self and 'Zabuza' allies. (Always Hit) [Block: Skill is Disabled] [Mist: SPD +300%, Very high chance to Dodge Skills, Incoming Skill Damage -150%]",
+          "s1ntr": "Water",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "Grasp Your Dream...",
+          "s2": "Recover 500,000 to Party. Grant 'Protection' and 'Resurrection' State to self and 'Zabuza' ally. Grant 'Cooperation' State to 'Zabuza' ally. [Protection: Debuff, Status Effect and Negative Special State Immunity] [Resurrection: Revive +1, Recover 20% Chakra when attacked, remove State after the Revive. When the state is removed, set own Chakra to 0] [Cooperation: After an action, Grant Instant Action to ally Haku]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Tragic Bloodline",
+          "a1": "If there's a 'Zabuza' ally: At the Start of Battle, Grant 'Mist' State and Grant an Extra Turn. Withstand +2",
+
+          "a2n": "Demon's Favorite Child",
+          "a2": "Chance to Insta Cast Skill 2 (Guarantee if there's a Zabuza ally), 2 Turns: SPD +200%",
+
+          "a3n": "lack Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black"
+      },
+{
+          "id": 20070103,
+          "name": "Zabuza",
+          "subtext": "Dragon River Decapitation",
+
+          "lead": "Kiri Characters: Chakra Cost -50% and SPD +150%",
+
+          "s1n": "Water Dragon: Imperial Wrath",
+          "s1": "Deal 7% + 538,000 to target enemy. Deal 3 Additional Attacks dealing 7% + 383,000 to enemies inflicted with 'Sealed' State. Inflict 'Sealed' State. Grant 'Shadow' State to self and 'Haku' allies. (Always Hit) [Sealed: Action is Disabled, HP reduced per turn] [Shadow: Immune to All Skills including Fixed Damage, Incoming Skill Damage -10,000%. Remove State and Inflict 'Restraint' State when attacked]",
+          "s1ntr": "Water",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "You Can't Beat Me",
+          "s2": "Own Skill Damage +300% and grant 'Rally' State. 1 Turn: SPD +500%. Grant 'Protection' and 'Cooperation' State to 'Haku' ally. [Rally: ATK, DEF and SPD +200%, HP and Chakra Regen +20%]. [Protection: Debuff, Status Effect and Negative Special State Immunity]. [Cooperation: After an action, Grant Instant Action to ally Zabuza]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Blood Mist Nightmare",
+          "a1": "If there's a 'Haku' ally: At the Start of Battle, Grant 'Shadow' and 'Rally' State. Withstand +2",
+
+          "a2n": "Demon's Bloodlust",
+          "a2": "Chance to Insta Cast Skill 2 (Guarantee if there's a Haku ally), 2 Turns: SPD +200%",
+
+          "a3n": "White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against White"
+      },
+{
           "id": 60060702,
           "name": "Sasuke Uchiha",
           "subtext": "Wind Protector's Fierce Flame",
