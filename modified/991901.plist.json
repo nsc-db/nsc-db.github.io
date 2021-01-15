@@ -719,6 +719,18 @@
           "specialPanelList": "9000022,9000023,9000024"
         },
         {
+          "sphereBoardId": "10071",
+          "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
+          "boardDescription": "うずまきナルト【繋がりを守る想い】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070105",
+          "normalPanelList": "9000025,9000026,9000027",
+          "specialPanelList": "9000028,9000029,9000030"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1521,5 +1533,17 @@
           "cardId": "50061201",
           "normalPanelList": "5014001,5014002,5014003",
           "specialPanelList": "5014004,5014005,5014006"
+        },
+        {
+          "sphereBoardId": "5000016",
+          "boardName": "ブン太",
+          "boardDescription": "自来也【豪快の侠炎】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50070101",
+          "normalPanelList": "5070101,5070102,5070103",
+          "specialPanelList": "5070104,5070105,5070106"
         }
       ]

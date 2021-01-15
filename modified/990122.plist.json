@@ -4091,6 +4091,30 @@
           "voiceDeath": "gaara_damage_01_01"
         },
         {
+          "cardVoiceId": "345",
+          "cardId": "50070101",
+          "dirName": "jiraiya",
+          "evolutionStep": "",
+          "voiceAppear": "",
+          "voiceSkill1": "jiraiya_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "",
+          "voiceDeath": ""
+        },
+        {
+          "cardVoiceId": "346",
+          "cardId": "20070105",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "",
+          "voiceSkill1": "naruto_skill_01_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "",
+          "voiceDeath": "naruto_death_01_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
