@@ -1,4 +1,60 @@
 window.detail=[
+{
+          "id": 60060702,
+          "name": "Sasuke Uchiha",
+          "subtext": "Wind Protector's Fierce Flame",
+
+          "lead": "All Characters: Cast Speed +1, 5 Turns: Skip Immunity",
+
+          "s1n": "Inferno Style: Kagutsuchi Wind Protector",
+          "s1": "Deal 1,000,000 Fixed Damage to all enemies. Deal 2 Additional Attacks dealing 3% + 350,000 to Blue and White Characters. Chance to inflict 3 Turns of 'Illusion' to God enemies. [Illusion: Skip 2 Turns per 'Illusion' Turn]",
+          "s1ntr": "Sharingan",
+          "s1cs": "Fastest",
+          "s1c": 90,
+
+          "s2n": "I Know!!",
+          "s2": "All enemies SPD and Skill Damage -100%. Remove enemy Positive Special and God State. Grant "Conflagration' State to party. [Conflagration: Skip, Cancel, Insta Kill and enemy Terrain Immunity. Skills are Always Hit. When Attacked by an enemy inflicted with 'Storm' State: Skill Damage +200%, Recover 200% Chakra and Grant Instant Action]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Blood Supremacy",
+          "a1": "If there's a God enemy: Chance for First Strike and Instant Action when attacked",
+
+          "a2n": "Entrusted Shadow of the Six Paths",
+          "a2": "Revive +2, 3 Turns: Negative Special State Immunity, Chakra +10 every turn (Max 300)",
+
+          "a3n": "Blue and White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue and White"
+      },
+{
+          "id": 60060701,
+          "name": "Naruto Uzumaki",
+          "subtext": "Rage of the Roaring Great Wind",
+
+          "lead": "All Characters: Cast Speed +1, 5 Turns: Skip Immunity",
+
+          "s1n": "Wind Style: Single Flash",
+          "s1": "Deal 3% + 1,000,000 to all enemies. Deal 2 Additional Attacks dealing 350,000 Fixed Damage to Red and Black enemies. Chance to Ignore Resistance and Inflict 'Sealed' State to GK enemies. [Sealed: Action is disabled. HP -25% per turn]",
+          "s1ntr": "Wind",
+          "s1cs": "Fastest",
+          "s1c": 90,
+
+          "s2n": "I'll Take Him Down",
+          "s2": "Party SPD and Skill Damage +100%. Remove Negative Special and God State. Inflict 'Storm' State to all enemies. [Storm: HP and Chakra -25% per turn, Disable Withstand, Revive and Immortality when Attacked]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Kingship's Reincarnation",
+          "a1": "If there's a GK enemy: Chance for First Strike and Instant Action when attacked",
+
+          "a2n": "Entrusted Light of the Six Paths",
+          "a2": "Revive +2, 3 Turns: Terrain Immunity, Chakra +10 every turn (Max 300)",
+
+          "a3n": "Red and Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red and Black"
+      },
 	{
           "id": 20060109,
           "name": "Shino Aburame",

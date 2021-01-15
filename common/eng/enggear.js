@@ -1,9 +1,29 @@
 window.enggear=[
      {
+          "id": 307175,
+          "type": "Skill",
+          "name": "Blue Thunder",
+          "effect": "Cast Speed +1, Skill Damage +100%, DEF +200%",
+          "normal": "Cast Speed +1",
+          "charaIds": "1306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+     {
+          "id": 307165,
+          "type": "Stats",
+          "name": "Yellow Wind",
+          "effect": "HP and SPD +100%, Chakra Recovery +50%, Start the Battle with 100% Chakra",
+          "normal": "HP and SPD +40%.",
+          "charaIds": "1306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+     {
           "id": 401055,
           "type": "Chakra",
           "name": "Gaara's Forehead Protector",
-          "effect": "Chakra Cost -50%, Chakra Cost is Set to 0 if there's a God enemy, Skill Damage +120%",
+          "effect": "Chakra Cost -50%, If there's a God enemy: Chakra Cost is Set to 0, Skill Damage +120%",
           "normal": "3 Turns: Chakra Cost -50%",
           "charaIds": "1306",
           "cardIds": "0",
@@ -13,18 +33,18 @@ window.enggear=[
           "id": 401065,
           "type": "Additional",
           "name": "Hatred for Others",
-          "effect": "Cast Speed +1, HP and Chakra Regen +30%, Chance for an Extra Turn if Alone",
+          "effect": "Cast Speed +1, HP and Chakra Regen +30%, If Alone: Chance for an Extra Turn",
           "normal": "Cast Speed +1",
           "charaIds": "1306",
           "cardIds": "0",
           "charaGroupIds": "0"
-     }
+     },
 	  {
           "id": 301165,
           "type": "Stats",
           "name": "Shino's Sandals",
-          "effect": "SPD +30% per Konoha Ally (Max 120%). Cast Speed +1",
-          "normal": "3 Turns: Chakra Cost -50%",
+          "effect": "SPD +30% per Konoha Ally (Max 120%) and Cast Speed +1",
+          "normal": "SPD +30%",
           "charaIds": "1305",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -33,8 +53,8 @@ window.enggear=[
           "id": 301155,
           "type": "Additional",
           "name": "Aburame Clan's Secret Ninjutsu",
-          "effect": "Chance to Fully Recover Chakra. Chance of enemy's Skill Damage -80% . Low Chance for Instant Action",
-          "normal": "Cast Speed +1",
+          "effect": "Chance to Fully Recover Chakra and enemy's Skill Damage -80% when attacked and Low Chance for Instant Action",
+          "normal": "Recover 50% of Chakra when attacked",
           "charaIds": "1305",
           "cardIds": "0",
           "charaGroupIds": "0"
