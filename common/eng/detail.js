@@ -1,5 +1,30 @@
 window.detail=[
 {
+          "id": 20041003,
+          "name": "Minato Namikaze",
+          "subtext": "Legendary Flash",
+
+          "lead": "All Characters: Cast Speed +1",
+
+          "s1n": "Flying Raijin: Confronting Flash Dance",
+          "s1": "Deal 50-150 hits dealing 3% +1,500 to all enemies. Grant 'Flash God' God State to self. (Always Hit) [Flash God: Effect varies depending on stacks. Skill Damage +100% per stack. 2.) Chance to inflict SPD -30% to enemies. 3.) Chance to inflict Cast Speed -1. 5.) Fixed Damage deals 0 damage]",
+          "s1ntr": "Space-Time",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "Always Look at the Situation",
+          "s2": "Recover a small amount of HP and Chakra to Party. Own ATK +50% and Chakra Cost -50%. Grant Skill Immunity and 'Flash Mode'. [Flash Mode: SPD +50%, Cast Speed is set to Flash]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 100,
+
+          "a1n": "Fastest Blink",
+          "a1": "Revive +1, Guarantee Extra Turn",
+
+          "a2n": "Rescuing the Alliance in a Flash",
+          "a2": "SPD +100% and Chakra Cost -50% upon Withstanding"
+      },
+{
           "id": 20070102,
           "name": "Haku",
           "subtext": "White Snow Loyalty",
@@ -24,7 +49,7 @@ window.detail=[
           "a2n": "Demon's Favorite Child",
           "a2": "Chance to Insta Cast Skill 2 (Guarantee if there's a Zabuza ally), 2 Turns: SPD +200%",
 
-          "a3n": "lack Specialization",
+          "a3n": "Black Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Black"
       },
 {

@@ -1,5 +1,35 @@
 window.enggear=[
 {
+          "id": 110025,
+          "type": "Resistance",
+          "name": "Fist Joined With His Son",
+          "effect": "Negative Special State Immunity, High Chance to dodge Skills",
+          "normal": "Status Effect Reduction",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 110015,
+          "type": "Chakra",
+          "name": "Nine Tails' Chakra (Yin)",
+          "effect": "Chakra Recovery +10%, HP +150%, Skill Damage +50%",
+          "normal": "Chakra Recovery +5%",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 110015,
+          "type": "Chakra",
+          "name": "Nine Tails' Chakra (Yin)",
+          "effect": "Chakra Recovery +10%, HP +150%, Skill Damage +50%",
+          "normal": "Chakra Recovery +5%",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
           "id": 401015,
           "type": "Resistance",
           "name": "Haku's Sandal",
