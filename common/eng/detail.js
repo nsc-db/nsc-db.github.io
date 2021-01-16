@@ -56,7 +56,7 @@ window.detail=[
           "a3": "None"
       },
 {
-          "id": 20061203,
+          "id": 20061202,
           "name": "Izuna Uchiha",
           "subtext": "Scarlet Flame Hero",
 
