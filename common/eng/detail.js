@@ -28,7 +28,7 @@ window.detail=[
           "a3": "Type Advantage and Damage Cut +50% against Black"
       },
 {
-          "id": 20041003,
+          "id": 20061206,
           "name": "Madara Uchiha",
           "subtext": "Fulfilment of the Never Ending Dream",
 
