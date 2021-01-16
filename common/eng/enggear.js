@@ -1,5 +1,45 @@
 window.enggear=[
 {
+          "id": 305145,
+          "type": "Skill",
+          "name": "Power of the Strongest Genjutsu",
+          "effect": "Cast Speed +1, Skill Damage +80%, Chakra +100",
+          "normal": "Skill Damage +50%",
+          "charaIds": "4102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 305135,
+          "type": "Additional",
+          "name": "Shisui's Sword Clip",
+          "effect": "Start the Battle with 100% Chakra, Debuff Immunity, SPD +80%",
+          "normal": "Debuff Immunity",
+          "charaIds": "4102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 312105,
+          "type": "Additional",
+          "name": "Six Paths Madara's Third Eye",
+          "effect": "3 Turns: Set Chakra Cost to 0 and Chance for Full Immunity. Skill Damage and SPD +150%",
+          "normal": "1 Turn: Low Chance of Skill Immunity",
+          "charaIds": "13706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 312095,
+          "type": "Resistance",
+          "name": "Divine Genesis World of Trees",
+          "effect": "If there's a Konoha enemy: Skip and Cancel Immunity. Cast Speed +2",
+          "normal": "Very Low Chance of Skip and Cancel Immunity",
+          "charaIds": "13706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
           "id": 110025,
           "type": "Resistance",
           "name": "Fist Joined With His Son",

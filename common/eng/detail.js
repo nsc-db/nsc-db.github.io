@@ -1,5 +1,61 @@
 window.detail=[
 {
+          "id": 20060510,
+          "name": "Shisui Uchiha",
+          "subtext": "Origin Eye",
+
+          "lead": "Konoha Characters: SPD +100%, Chance to Dodge",
+
+          "s1n": "Kotoamatsukami: Eye of the Imperial",
+          "s1": "Deal 3% + 1,000,000 to all enemies. Chance to Ignore Resistance and Skill Dodge and Inflict 'God Frenzy' to a random enemy. Consume all Chakra. Deal more damage the more Chakra Consumed (2x per 100 Chakra). [God Frenzy: ATK, Crit Chance and Crit Damage +1,000%, SPD +300%. Remove Buffs, Debuffs, Status Effects, Genjutsu, Special State and God State except for God Frenzy. Remove and Immune to Cover. Randomly Attack an ally. High chance to Inflict 'God Frenzy' to a random ally per turn]",
+          "s1ntr": "Sharingan",
+          "s1cs": "Fastest",
+          "s1c": 50,
+
+          "s2n": "Pondering about Existence",
+          "s2": "Party ATK and SPD +100%, Cast Speed +1. Grant Konoha allies except self 'Entrust' State. [Entrust: Skill Damage +150%. Fixed Damage deals 0 Damage]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 90,
+
+          "a1n": "Mutual Brilliance",
+          "a1": "1 Turn: Chance to Inflict 'God Frenzy' God State when attacked, Grant 'Entrust' State to Party upon Death, Skill Dodge +200%",
+
+          "a2n": "The Ultimate Genjutsu to Protect Against Conflict",
+          "a2": "Withstand +3, SPD +100% per turn (Max 500%), Damage Cut +50% against EX, Origin and Destroyer",
+
+          "a3n": "Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black"
+      },
+{
+          "id": 20041003,
+          "name": "Madara Uchiha",
+          "subtext": "Fulfilment of the Never Ending Dream",
+
+          "lead": "All Characters: Cast Speed +2",
+
+          "s1n": "Six Paths: Planetary Devastation",
+          "s1": "Deal 3% + 1,400,000 to all enemies. Deal 6 Additional Attacks dealing 3% + 150,000 to enemies under a God State. High Chance to Ignore Withstand, Revive and Immortality of Konoha enemies",
+          "s1ntr": "Six Paths",
+          "s1cs": "Fastest",
+          "s1c": 60,
+
+          "s2n": "I Won't Let You Do Anything",
+          "s2": "Enemies' DEF and Skill Damage -100%. Remove Positive Special and God State of Konoha enemies. Change the Terrain to 'Inspecting the Ezal World'. [Inspecting the Ezal World: Party: Chance for Instant Action to Ally Madara Uchiha. Enemy: SPD -200%. Enemy God: Cast Speed -6]  (Always Hit)",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 85,
+
+          "a1n": "Execution of the True Dream",
+          "a1": "Disable DEF Ignore Effects, 1 Turn: If there's a Konoha enemy: Negative God and Special State Immunity",
+
+          "a2n": "Lurking in the Underworld",
+          "a2": "If there's a God enemy: SPD +666% and Insta Cast Skill 2. Revive +1",
+
+          "a3n": "Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black"
+      },
+{
           "id": 20041003,
           "name": "Minato Namikaze",
           "subtext": "Legendary Flash",
