@@ -371,8 +371,8 @@ window.detail=[
           "lead": "All Characters: At the Start of Battle, Remove and Immune to Negative Special and God States",
 
           "s1n": "Majestic Attire: Susano'o",
-          "s1": "Deal 3% + 1,000,000 damage to all enemies . Inflict 'Lacerate' State. Deal 3 Additional Attacks dealing 330,000 Fixed Damage to Konoha enemies. Deal 3 Additional Attacks dealing 330,000 Fixed Damage to enemies under 'God' Negative God State. [Lacerate: Action is Disabled and HP -20% per turn] (Always Hit)"
-		  "s1ntr": "Tailed Beast",
+          "s1": "Deal 3% + 1,000,000 damage to all enemies . Inflict 'Lacerate' State. Deal 3 Additional Attacks dealing 330,000 Fixed Damage to Konoha enemies. Deal 3 Additional Attacks dealing 330,000 Fixed Damage to enemies under 'God' Negative God State. [Lacerate: Action is Disabled and HP -20% per turn] (Always Hit)",
+		"s1ntr": "Tailed Beast",
           "s1cs": "Fast",
           "s1c": 100,
 
