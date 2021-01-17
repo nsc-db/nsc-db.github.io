@@ -1,4 +1,293 @@
-window.enggear=[
+window.enggear=[{
+          "id": 307225,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (White)",
+          "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. Debuff and Status Effect Immunity",
+          "normal": "White Characters: Start the Battle with 50% Chakra and Sage, Six Paths and Space-Time Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20050408,20041103,20040702",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 307215,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (Black)",
+          "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 5 Turns: High Chance to Dodge Skills",
+          "normal": "Black Characters: Start the Battle with 50% Chakra and Wind, Unique and Taijutsu Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20041006,20050113,20041206",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 307205,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (Red)",
+          "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 1 Turn: Chance for Fixed Damage deals 0 Damage",
+          "normal": "Red Characters: Start the Battle with 50% Chakra and Sage, Sharingan and Illusion Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20050605,20030924,20040115",
+          "charaGroupIds": "0"
+     },
+	 {
+          "id": 307195,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (Blue)",
+          "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 1 Turn: Chance for Skill Immunity",
+          "normal": "Blue Characters: Start the Battle with 50% Chakra and Lightning, Sharingan and Six Paths Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20040113,20031206,20050206",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 307185,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (Yellow)",
+          "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 3 Turns: Cast Speed +1",
+          "normal": "Yellow Characters: Start the Battle with 50% Chakra and Rinne Sharingan, Sharingan and Illusion Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20041110,20050514,20051006",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310095,
+          "type": "Chakra",
+          "name": "Shisui's Faithful Companion",
+          "effect": "Chakra Recovery +25%, Chakra Cost -50%, If there is an Itachi Ally: Set Chakra Cost to 0",
+          "normal": "If there is an Itachi Ally: Chakra Cost -25%",
+          "charaIds": "4102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310105,
+          "type": "Skill",
+          "name": "Eye Containing Kotoamatsukami",
+          "effect": "Cast Speed +1, Skill Damage +50% every turn (Max 150%)",
+          "normal": "Skill Damage +15% every turn (Max 150%)",
+          "charaIds": "4102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310115,
+          "type": "Stats",
+          "name": "Hashirama's Sandals",
+          "effect": "ATK, DEF and SPD +100%, Chakra Recovery +30%",
+          "normal": "ATK, DEF and SPD +40%",
+          "charaIds": "1901",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310125,
+          "type": "Additional",
+          "name": "Will To Stop A Friend",
+          "effect": "If there's an Uchiha enemy: Chance for an Extra Turn",
+          "normal": "If there's an Uchiha enemy: Low Chance for an Extra Turn, Chakra -50% every turn",
+          "charaIds": "1901",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310135,
+          "type": "Chakra",
+          "name": "Dirty Battle Clothes",
+          "effect": "Chakra +100, Chakra Recovery +60%",
+          "normal": "Chakra +30",
+          "charaIds": "10301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310145,
+          "type": "Stats",
+          "name": "Lord Kusanagi's Sword",
+          "effect": "HP, ATK and Skill Damage +120%, Cast Speed +1",
+          "normal": "HP, ATK and Skill Damage +30%",
+          "charaIds": "10301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310155,
+          "type": "Skill",
+          "name": "Sasori's Loincloth",
+          "effect": "Cast Speed +2, Chakra Cost -50%, SPD and Skill Damage +100%",
+          "normal": "Chakra Cost -30%",
+          "charaIds": "12102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310165,
+          "type": "Additional",
+          "name": "Sasori's Chakra Threads",
+          "effect": "Cast Speed +1, 1 Turn: Set Chakra Cost to 0, Chakra Recovery +30%",
+          "normal": "Cast Speed +1",
+          "charaIds": "12102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 3925,
+          "type": "Additional",
+          "name": "Anbu Vest",
+          "effect": "Skill Damage +30%, HP Recovery +10%",
+          "normal": "HP Recovery +7%",
+          "charaIds": "10401,10402,10403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311015,
+          "type": "Skill",
+          "name": "Explosive Clay Centipede",
+          "effect": "Skill Damage +50%, Chance for Extra Turn. If there's a Konoha enemy: Skill Damage +100% (Max 150%)",
+          "normal": "Skill Damage +50%",
+          "charaIds": "2404",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311025,
+          "type": "Resistance",
+          "name": "Deidara's Sandals",
+          "effect": "Cast Speed +1. 2 Turns: Skill Immunity",
+          "normal": "1 Turn: Chance for Skill Immunity",
+          "charaIds": "2404",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311035,
+          "type": "Skill",
+          "name": "Guy's Fighting Steam",
+          "effect": "Skill Damage +150%, Cast Speed +1, If there's a GK enemy: SPD +200%",
+          "normal": "Skill Damage +80%",
+          "charaIds": "1603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311045,
+          "type": "Resistance",
+          "name": "Hair Needle Senbon",
+          "effect": "2 Turns: High Chance for Negative Special State Immunity. If there's an Akatsuki enemy: High Chance to Remove own Negative Special States every turn",
+          "normal": "1 Turn: Low Chance for Negative Special State Immunity",
+          "charaIds": "51001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311055,
+          "type": "Skill",
+          "name": "Bath of Boiling Oil",
+          "effect": "Sage Skill Damage +200%. HP and Chakra Recovery +25%",
+          "normal": "Sage Skill Damage +60%",
+          "charaIds": "51001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311065,
+          "type": "Skill",
+          "name": "Rin's Kunai",
+          "effect": "Skill Damage +100%, 3 Turns: High Chance to Dodge Skills",
+          "normal": "Skill Damage +40%",
+          "charaIds": "11802",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311075,
+          "type": "Additional",
+          "name": "Rin's Tights",
+          "effect": "HP +100%, HP Recovery +25%, 1 Turn: Negative Special State Immunity",
+          "normal": "HP +40%, HP Recovery +10%",
+          "charaIds": "11802",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311085,
+          "type": "Skill",
+          "name": "Palm of Gedo Statue",
+          "effect": "Cast Speed +1, Skill Damage +80%, Chakra Recovery +20%",
+          "normal": "Chakra Recovery +20%",
+          "charaIds": "3701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311095,
+          "type": "Additional",
+          "name": "The Power to Conquer the World",
+          "effect": "Cast Speed +2, SPD +120%, Chance for Insta Kill Immunity",
+          "normal": "Low Chance for Insta Kill Immunity",
+          "charaIds": "3701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311105,
+          "type": "Resistance",
+          "name": "Sai’s Great Ninja War Jacket",
+          "effect": "3 Turns: Skip Immunity, 2 Turns: Set Chakra Cost to 0, After 3 Turns: Chakra Cost -50%",
+          "normal": "2 Turns: Skip Immunity",
+          "charaIds": "13703",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311115,
+          "type": "Skill",
+          "name": "Tiger Vision Staring Bullet",
+          "effect": "Cast Speed +1, Skill Damage +100%, SPD +30% per turn (Max 300%)",
+          "normal": "2 Turns: Cast Speed +1",
+          "charaIds": "13703",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311125,
+          "type": "Stats",
+          "name": "Will to Succeed the Teacher",
+          "effect": "HP, ATK and DEF +120%, SPD +69%",
+          "normal": "HP, ATK and DEF +40%",
+          "charaIds": "1103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311135,
+          "type": "Skill",
+          "name": "Fist to Protect the Teacher",
+          "effect": "Skill Damage +150%, Cast Speed +1",
+          "normal": "Skill Damage +50%",
+          "charaIds": "1103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311155,
+          "type": "Additional",
+          "name": "Origin of the Name of the Hidden Leaf Village",
+          "effect": "Cast Speed +2, Chance for Instant Action upon Withstand, Withstand +1 per Hashirama ally or enemy",
+          "normal": "If there's a Hashirama ally: Withstand +1",
+          "charaIds": "13703",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 311145,
+          "type": "Skill",
+          "name": "Uchiha’s Stone Tablet – Discovering a Dream",
+          "effect": "Cast Speed +1, Chakra Cost -50%, If there's an Uchiha ally: SPD +200%",
+          "normal": "If there's an Uchiha ally: Cast Speed +1",
+          "charaIds": "13703",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
 {
           "id": 3755,
           "type": "Skill",
