@@ -1,5 +1,145 @@
 window.detail=[
 {
+          "id": 20061001,
+          "name": "Ino Yamanaka",
+          "subtext": "Bonds That Bloom Beyond The Teacher",
+
+          "lead": "Konoha Characters: ATK and SPD +70%",
+
+          "s1n": "Striking: Pressure Flowers",
+          "s1": "Deal 7% + 30,000 to target enemy. Chance to Inflict 'Seal' and 'Bind' State. If the enemy is under 'Seal' or 'Bind' State:  Deal 3x more damage. (If Both: 9x) [Bind: Skill Damage -70%, SPD -30%]",
+          "s1ntr": "Taijutsu",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "I'm Here!!!",
+          "s2": "Party Skill Damage +80%. Own SPD +100%. Grant 'Rally' State to Shikamaru and Choji allies. [Rally: ATK, DEF and SPD +50%, HP and Chakra Recovery +10%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Prepared For Battle",
+          "a1": "Withstand +1, Chakra +100, Start the Battle with 50% Chakra",
+
+          "a2n": "The Wisdom Of Distress",
+          "a2": "HP  >=80%: ATK +100% and Cast Speed +1",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20061002,
+          "name": "Minato Namikaze",
+          "subtext": "Light Entrusted to the Future",
+
+          "lead": "Konoha Characters: HP and SPD +90%",
+
+          "s1n": "Flying Raijin: Level 2",
+          "s1": "Deals 7% + 450,000 to target enemy. Deals 2 Additional Attacks dealing 7% + 200,000.Enemy's DEF and SPD -80%. If it's a None enemy: Remove Party's Negative Special State. (Always Hit)",
+          "s1ntr": "Space-Time",
+          "s1cs": "Fastest",
+          "s1c": 70,
+
+          "s2n": "It's Safe Here",
+          "s2": "Own SPD and Skill Damage +200%. Grants 'Heart Love' State to Kushina, Minato and Naruto allies. If there's a None enemy: Grant 'Heart Love' State to Konoha allies.  [Heart Love: Withstand +1. Grant Instant Action to allies when State is removed]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 85,
+
+          "a1n": "Endurance, Determination and Love",
+          "a1": "SPD +500%, If there's a Naruto or Kushina ally: Chakra Cost -50% (If Both: Set Chakra Cost to 0)",
+
+          "a2n": "Natural God Speed",
+          "a2": "At the Start of Battle, Grant 'Heart Love' State to self for 1 Turn, If there's a Destroyer enemy: Skill Dodge Chance +200%",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue"
+      },
+{
+          "id": 20061003,
+          "name": "Kushina Uzumaki",
+          "subtext": "Love Beyond Accommodation",
+
+          "lead": "Konoha Characters: DEF and Skill Damage +90%",
+
+          "s1n": "Adamantine Chains: Protectiont",
+          "s1": "Deals 7% + 530,000 to target enemy. Deal an Additional Attack dealing 7% + 480,000. If it is a None enemy: Inflict 'Seal', Ignore Resistance and Skip 1 Turn. (Always Hit)",
+          "s1ntr": "Sealing",
+          "s1cs": "Fastest",
+          "s1c": 70,
+
+          "s2n": "... And With A Dream ...",
+          "s2": "Restores 947,000 HP and DEF +250% to Party. Grants 'Heart Love' State to Kushina, Minato and Naruto allies.  Remove Konoha allies' Negative Special State. [Heart Love: Withstand +1. Grant Instant Action to allies when State is removed]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 90,
+
+          "a1n": "Mother's Protection",
+          "a1": "HP +500%, If there is a Naruto or Minato ally: Chakra Cost -50% (If Both: Set Chakra Cost to 0)",
+
+          "a2n": "The Power of the Uzumaki Clan",
+          "a2": "At the Start of Battle, Grant 'Heart Love' State to self for 1 Turn, If there is a None or Destroyer enemy: Damage Cut +50% and Protect Allies from Single Target Attacks",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
+          "id": 20061004,
+          "name": "Naruto Uzumaki",
+          "subtext": "Embodiment of a Far Away Dream",
+
+          "lead": "All Characters: Cast Speed +1, 3 Turns: Enemy Terrain Immunity",
+
+          "s1n": "Massive Tailed Beast Rasenshuriken: Birth of Light",
+          "s1": "Deal 3% + 1,010,000 to all enemies. Remove Enemies' Positive Special State. Deal 7 Additional Attacks dealing 3% + 100,000 while under 'Nindo' God State. (Always Hit)",
+          "s1ntr": "Six Paths",
+          "s1cs": "Fast",
+          "s1c": 95,
+
+          "s2n": "You Know!!",
+          "s2": "Recover 1,000,000 HP and Remove Negative Special State to Party. Remove 'Disable Positive Special and God State' Effect to God Allies. Grant 'Nindo' God State to self. [Nindo: Remove and Immune to Negative Special and God State, Grant Immortality, when Nindo God State is granted & When attacked, high chance to Grant Instant Action to God Allies (Except Self). If there's a God Ally other than self, High chance to grant Instant Action to self when Nindo God State is removed]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 90,
+
+          "a1n": "Answer to the Unaquired Nindo",
+          "a1": "Chance to Insta Cast Skill 2 at the start of Battle, If there's a GK enemy: Guarantee Insta Cast Skill 2 at the start of Battle and Chance to Remove Enemy Terrain at the start of every turn",
+
+          "a2n": "Vow to Save My Only Friend",
+          "a2": "Revive +2, If there's a Sasuke or Kaguya enemy: SPD +250%, Insta Kill and Enemy Terrain Immunity",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue"
+      },
+{
+          "id": 20061005,
+          "name": "Obito Uchiha",
+          "subtext": "Those Who Wish for a Eternal Dream",
+
+          "lead": "None Characters: Skill Damage +150%, Cast Speed +1",
+
+          "s1n": "Yin-Yang: Dust World Extinction",
+          "s1": "Deals 7% + 666,666 to target enemy. If the targeted enemy has an Affiliation (not None): Deals 1 Additional Attack dealing 666,666 Fixed Damage. If the targeted enemy were to die then gain a high chance to Insta-Kill them if they are inflicted with the 'Exhaustion' State. [Exhaustion: Become immobilzed on the speed gauge] (Always Hit)",
+          "s1ntr": "Six Paths",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "I'm Pathetic...",
+          "s2": "Own DEF and SPD +100%.  High chance to Inflict 'Declaration Of Death' State on all enemies.  If there is a Konoha or EX enemy: Guaranteed Inflict 'Intimidating Pressure' State on all enemies. [Declaration Of Death: Counts down until 0. When the countdown ends, Inflict the character with the 'Exhaustion' State for 9,999 turns.] [Intimidating Pressure: SPD -100% and Cast Speed -1]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Memories of Deep Love",
+          "a1": "If there is a Konoha or EX enemy: Chance to Insta-Cast Skill 2 (Chance increases if both)",
+
+          "a2n": "The Power of the New Six Paths",
+          "a2": "Revive + 1, 1 Turn: Set Chakra Cost to 0 and Cast Speed +1",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
           "id": 20061006,
           "name": "Shisui Uchiha",
           "subtext": "Eyes of a Clear Mirror",
@@ -153,7 +293,7 @@ window.detail=[
           "s1c": 80,
 
           "s2n": "Hayate...",
-          "s2": "Restores 50,000 HP for Party. Grant 'Rally; State to Konoha allies. [Rally: ATK, DEF and SPD +20%, HP and Chakra Recovery +5%]",
+          "s2": "Restores 50,000 HP for Party. Grant 'Rally' State to Konoha allies. [Rally: ATK, DEF and SPD +20%, HP and Chakra Recovery +5%]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 80,
