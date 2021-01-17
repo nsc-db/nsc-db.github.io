@@ -1,5 +1,6 @@
 window.detail=[
 {
+<<<<<<< Updated upstream
           "id": 20061001,
           "name": "Ino Yamanaka",
           "subtext": "Bonds That Bloom Beyond The Teacher",
@@ -28,6 +29,8 @@ window.detail=[
           "a3": "None"
       },
 {
+=======
+>>>>>>> Stashed changes
           "id": 20061002,
           "name": "Minato Namikaze",
           "subtext": "Light Entrusted to the Future",

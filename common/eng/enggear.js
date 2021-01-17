@@ -1,5 +1,88 @@
 window.enggear=[
 {
+<<<<<<< Updated upstream
+=======
+          "id": 310015,
+          "type": "Stats",
+          "name": "Kunai to Protect Loved Ones",
+          "effect": "Skill Damage and SPD +30% per turn (Max 150%)",
+          "normal": "Skill Damage and SPD +10% per turn (Max 50%)",
+          "charaIds": "2101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310025,
+          "type": "Additional",
+          "name": "Yellow Flash",
+          "effect": "Debuff Immunity, Cast Speed +1, Chakra Recovery +25%",
+          "normal": "Debuff Duration -50%",
+          "charaIds": "2101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310035,
+          "type": "Stats",
+          "name": "Kushina's Favorite Food (Salt Ramen)",
+          "effect": "Skill Damage and SPD +30% per turn (Max 150%)",
+          "normal": "Skill Damage and SPD +10% per turn (Max 50%)",
+          "charaIds": "4301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310045,
+          "type": "Chakra",
+          "name": "Things that Kushina is Not Good at (Coffee)",
+          "effect": "2 Turns: Chakra Cost is Set to 0 & Damage Cut +50%, After 3 Turns: Chakra Cost -50%",
+          "normal": "2 Turns: Chakra Cost -50%, After 3 Turns: Chakra Cost -25%",
+          "charaIds": "4301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310055,
+          "type": "Skill",
+          "name": "Massive Tailed Beast Rasenshuriken",
+          "effect": "Cast Speed +1 (Additional +1 when HP >80%), Skill Damage +50%, Chakra Recovery +30%",
+          "normal": "Cast Speed +1, Chakra Recovery +10%",
+          "charaIds": "108",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310065,
+          "type": "Stats",
+          "name": "Massive Rasenshuriken",
+          "effect": "SPD +100%, Cast Speed +1, Chakra Cost -50%",
+          "normal": "SPD +50%",
+          "charaIds": "108",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310075,
+          "type": "Resistance",
+          "name": "Memories of Loved Ones",
+          "effect": "5 Turns: Cancel Immunity, HP +100%, Cast Speed +1",
+          "normal": "3 Turns: Chance for Cancel Immunity",
+          "charaIds": "50903",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310085,
+          "type": "Chakra",
+          "name": "Six Paths Obito's Horn",
+          "effect": "Chakra +100, High Chance to Dodge Skills",
+          "normal": "Chakra +30, Chance to Dodge Skills%",
+          "charaIds": "50903",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+>>>>>>> Stashed changes
           "id": 307225,
           "type": "Food 2",
           "name": "NSC 7 Star Election 2020 (White)",
@@ -130,22 +213,12 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
-          "id": 3925,
-          "type": "Additional",
-          "name": "Anbu Vest",
-          "effect": "Skill Damage +30%, HP Recovery +10%",
-          "normal": "HP Recovery +7%",
-          "charaIds": "10401,10402,10403",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
           "id": 311015,
           "type": "Skill",
           "name": "Explosive Clay Centipede",
           "effect": "Skill Damage +50%, Chance for Extra Turn. If there's a Konoha enemy: Skill Damage +100% (Max 150%)",
           "normal": "Skill Damage +50%",
-          "charaIds": "2404",
+          "charaIds": "12001",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -155,7 +228,7 @@ window.enggear=[
           "name": "Deidara's Sandals",
           "effect": "Cast Speed +1. 2 Turns: Skill Immunity",
           "normal": "1 Turn: Chance for Skill Immunity",
-          "charaIds": "2404",
+          "charaIds": "12001",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -175,7 +248,7 @@ window.enggear=[
           "name": "Hair Needle Senbon",
           "effect": "2 Turns: High Chance for Negative Special State Immunity. If there's an Akatsuki enemy: High Chance to Remove own Negative Special States every turn",
           "normal": "1 Turn: Low Chance for Negative Special State Immunity",
-          "charaIds": "51001",
+          "charaIds": "2404",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -185,7 +258,7 @@ window.enggear=[
           "name": "Bath of Boiling Oil",
           "effect": "Sage Skill Damage +200%. HP and Chakra Recovery +25%",
           "normal": "Sage Skill Damage +60%",
-          "charaIds": "51001",
+          "charaIds": "2404",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -195,7 +268,7 @@ window.enggear=[
           "name": "Rin's Kunai",
           "effect": "Skill Damage +100%, 3 Turns: High Chance to Dodge Skills",
           "normal": "Skill Damage +40%",
-          "charaIds": "11802",
+          "charaIds": "51001",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -205,7 +278,7 @@ window.enggear=[
           "name": "Rin's Tights",
           "effect": "HP +100%, HP Recovery +25%, 1 Turn: Negative Special State Immunity",
           "normal": "HP +40%, HP Recovery +10%",
-          "charaIds": "11802",
+          "charaIds": "51001",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -215,7 +288,7 @@ window.enggear=[
           "name": "Palm of Gedo Statue",
           "effect": "Cast Speed +1, Skill Damage +80%, Chakra Recovery +20%",
           "normal": "Chakra Recovery +20%",
-          "charaIds": "3701",
+          "charaIds": "11802",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -225,7 +298,7 @@ window.enggear=[
           "name": "The Power to Conquer the World",
           "effect": "Cast Speed +2, SPD +120%, Chance for Insta Kill Immunity",
           "normal": "Low Chance for Insta Kill Immunity",
-          "charaIds": "3701",
+          "charaIds": "11802",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -235,7 +308,7 @@ window.enggear=[
           "name": "Sai’s Great Ninja War Jacket",
           "effect": "3 Turns: Skip Immunity, 2 Turns: Set Chakra Cost to 0, After 3 Turns: Chakra Cost -50%",
           "normal": "2 Turns: Skip Immunity",
-          "charaIds": "13703",
+          "charaIds": "3701",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -245,7 +318,7 @@ window.enggear=[
           "name": "Tiger Vision Staring Bullet",
           "effect": "Cast Speed +1, Skill Damage +100%, SPD +30% per turn (Max 300%)",
           "normal": "2 Turns: Cast Speed +1",
-          "charaIds": "13703",
+          "charaIds": "3701",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
