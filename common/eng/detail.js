@@ -1,7 +1,286 @@
 window.detail=[
 {
-<<<<<<< Updated upstream
-          "id": 20061001,
+          "id": 20060901,
+          "name": "Kurotsuchi",
+          "subtext": "Stone to Build The Next Generation",
+
+          "lead": "White Characters: Skill Damage and SPD +50%",
+
+          "s1n": "Stone Break",
+          "s1": "Deal 7% + 50,000 to target enemy. Chance to Inflict 'Melt' State. If the enemy is under 'Melt' State:  Deal 2x more damage. [Melt: SATK and DEF -50%, Remove and Immune to Postive and Negative Special States, HP reduced per turn]",
+          "s1ntr": "Unique",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "It's Not Fun!",
+          "s2": "Party Skill Damage +80%. Grant 'Determined' State to Five Village allies. [Determined: ATK, DEF and SPD +80%, Recovers 10% of HP and Chakra when Attacked]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Manly Rock Bloodline",
+          "a1": "HP  >=80%: Status Effect Duration -50% and Cast Speed +1",
+
+          "a2n": "Poisonous Tongue and Confidence",
+          "a2": "Withstand +1, 3 Turns: Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20060902,
+          "name": "Rin Nohara",
+          "subtext": "Devil Tinted Flower",
+
+          "lead": "Konoha Characters: SPD and Skill Damage +80%",
+
+          "s1n": "Tailed Beast Bomb: Karma Water Impact",
+          "s1": "Deal 3% + 500,000 to all enemies. Chance to Inflict 'Restraint' State. If there's a Kakashi or Obito enemy: Deal 3 Additional Attacks dealing 3% + 500,000. [Restraint: SPD -80% aand Cast Speed -1] (Always Hit)",
+          "s1ntr": "Tailed Beast",
+          "s1cs": "Fast",
+          "s1c": 90,
+
+          "s2n": "I'm Being Used...!",
+          "s2": "Party SPD and DEF +100%. Grant 'Protection' and 'Harden' States to self. Grant 'Love' State to other Konoha allies. [Protection: Remove and Immune to Debuff, Status Effects and Negative Special State] [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -150% when Target by a Skill] [Love: ATK, SPD and Skill Damage +150%, Skill Immunity]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 65,
+
+          "a1n": "Carrying the Waterfall Power",
+          "a1": "Withstand +3, Grant 'Love' State to Party upon Death",
+
+          "a2n": "Prepared to Disappear",
+          "a2": "If there's an Origin enemy: HP +500%, High chance to Inflict 'Restraint' State upon Death",
+
+          "a3n": "Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black"
+      },
+{
+          "id": 20060903,
+          "name": "Madara Uchiha",
+          "subtext": "Burning Fortitude",
+
+          "lead": "Madara and Izuna Characters: Chance for Instant Action when Attacked",
+
+          "s1n": "Fire Style: Dragon Flame Caterwaul",
+          "s1": "Deal 3% + 480,000 to all enemies. Deal 2 Additional Attacks dealing 3% + 260,000. If 1 enemy is inflicted with 'Inferno' State: Ignore Skill Dodge and Chance to Insta-Kill enemies with <10% HP",
+          "s1ntr": "Fire",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "I Have Arrived...!!",
+          "s2": "Deal 500,000 Fixed Damage to target enemy. Ignore Resistance and Guarantee Inflict 'Inferno' state. Chance to Inflict DEF, SPD and Skill Damage -99%, Chance to Remove Positive Special State (Guarantee Remove Positive Special State to EX enemies). [Inferno: HP reduced per turn (Max -50%). Becomes Weak to Fire Nature] (Always Hit)",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 90,
+
+          "a1n": "Transcending Pupil",
+          "a1": "At the Start of Battle, Chance to Insta Cast Skill 2 targeting the Fastest enemy",
+
+          "a2n": "Legendary Uchiha Shinobi",
+          "a2": "Withstand +5, If there's a Five Village enemy: Skill Damage +200%, If there's a Konoha enemy: SPD +200%",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
+          "id": 20060904,
+          "name": "Izuna Uchiha",
+          "subtext": "Fighting Eyes of the Sword",
+
+          "lead": "All Characters: Cast Speed +1 and If there's a Senju enemy: Skill Damage +100%",
+
+          "s1n": "Longsword: Shred",
+          "s1": "Deals 7% + 570,000 to target enemy. Chance to remove enemy's Positive Special State. If the enemy is not Uchiha: Deals 10 Additional Attacks dealing 50,000 Fixed Damage. (Always Hit)",
+          "s1ntr": "Sharingan",
+          "s1cs": "Fastest",
+          "s1c": 75,
+
+          "s2n": "No Shinobi is Stronger than My Brother",
+          "s2": "Party ATK and DEF +100%. SPD +200% to Izuna and Madara allies. Grant 'Bundle of Love' State and Remove Negative Special State to Uchiha allies. [Bundle of Love: Skill Damage +150%, SPD +50%, Chakra Recovery +50% and Withstand +1]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 65,
+
+          "a1n": "Pioneer of Fan Guard",
+          "a1": "Chance for First Strike, If there's a Senju or Destroyer enemy: Guaranteed First Strike, 5 Turns: Cast Speed +2",
+
+          "a2n": "Conquer with My Brother",
+          "a2": "If there's a Senju enemy: ATK, DEF, SPD and Skill Damage +300%, Fully Recovers HP upon withstanding",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue"
+      },
+{
+          "id": 20060905,
+          "name": "Kakashi Hatake",
+          "subtext": "Future Entrusted Eye",
+
+          "lead": "Konoha Characters: Cast Speed +1 and 2 Turns: Insta Kill Immunity",
+
+          "s1n": "Thunder Susano'o",
+          "s1": "Deal 3% + 1,000,000 to all enemies. Deal 7 Additional Attacks dealing 3% + 100,000 to None enemies. Remove Debuffs, Genjutsu and Negative Special State to Party",
+          "s1ntr": "Sharingan",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "This Time....",
+          "s2": "Party SPD +150% and Skill Dodge +100%. Remove 'Disable Positive Special and God State' Effect to Konoha allies. Grant ""God's Attack"" God State to self. [God's Attack: Gain Infinite Turns. High chance to Cancel and Destroy enemy Terrain. Skills Always Hit]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 100,
+
+          "a1n": "Limited Double Sharingan Miracle",
+          "a1": "Revive +3, 3 Turns: Skill, Insta Kill and Enemy Terrain Immunity, Fixed Damage Deals 0 Damage, Grant Instant Action when Attacked and Cast Speed +3",
+
+          "a2n": "Heart, Technique and Body Ninjutsu",
+          "a2": "At the Start of Battle, Remove and Immune to Negative Special and God State to Party, Damage Cut +50% aagainst EX, Origin and Destroyer",
+
+          "a3n": "Red Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red"
+      },
+{
+          "id": 20060906,
+          "name": "Pain",
+          "subtext": "Those Who Wish for Peace",
+
+          "lead": "Pain Characters: Chance for Instant Action when Attacked",
+
+          "s1n": "Universal Pull: Blast Wave Bullet",
+          "s1": "Deals 750,000 Fixed Damage to all enemies. If it's a Konoha enemy: Deal 5 Additional Attacks dealing 3% + 150,000. High Chance to Inflict 'Cancel'. Enemies' Chakra -55.",
+          "s1ntr": "Rinnegan",
+          "s1cs": "Fast",
+          "s1c": 166,
+
+          "s2n": "I Have My Way",
+          "s2": "Party Skill Damage +250%. Protect and Grant 'Solo' State to the ally with the most HP. Grant 'Resurrection' State to other Akatsuki allies. High Chance to Inflict Cast Speed -2 to Non Akatsuki enemies. [Resurrection: Revive +1, Recover 50% Chakra when attacked, remove State after the Revive. When the state is removed, set own Chakra to 0] [Solo: Incoming Skill Damage -50%, Skill Damage increased based on the fewer number of Konoha allies alive (Max 250%)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 199,
+
+          "a1n": "Repulsion Work",
+          "a1": "Revive allies upon Death, High Chance for Instant Action when attacked (2 Turns: Guaranteed), Incoming Skill Damage -50%",
+
+          "a2n": "God's Condemnation",
+          "a2": "At the Start of Battle, Insta Cast Skill 2, Chakra +150, Cap Damage =500,000",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue"
+      },
+{
+          "id": 20060907,
+          "name": "Konan",
+          "subtext": "Paper Manipulator",
+
+          "lead": "Akatsuki Characters: Cast Speed +1, At the Start of Battle, Grant 'Protection' State ",
+
+          "s1n": "Paper Shuriken: Flower Drizzle",
+          "s1": "Deals 7% + 550,000 to target enemy. If the enemy has an Affiliation (not Akatsuki): Inflict 'Bind' State and Deal 3 Additional Attacks dealing 300,000 Fixed Damage. Chance for SPD +300%. [Bind: Skill Damage and SPD -100%]",
+          "s1ntr": "Unique",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "I'll Definitely Do It ...",
+          "s2": "Own SPD +100%. Grant 'Protection' State to Party. Grant 'Bond' State to Akatsuki allies. High Chance to Inflict Cast Speed -2 to Non Akatsuki enemies. [Protection: Remove and Immune to Debuff, Status Effects and Negative Special State] [Bond: Skill Damage +200%, Cast Speed +1 and Chakra Cost reduced based on the number of allies alive (Max 100%)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "War-Damaged Bond",
+          "a1": "1 Turn: Set Chakra Cost to 0, 2 Turns: Cast Speed +1, Withstand +3",
+
+          "a2n": "Make A Mission",
+          "a2": "If there's a Konoha or Origin enemy: Chance for First Strike (Chance increases if both)",
+
+          "a3n": "Red Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red"
+      },
+{
+          "id": 20060908,
+          "name": "Shikamaru Nara",
+          "subtext": "Shadow Conspiracy",
+
+          "lead": "Konoha Characters: Cast Speed +1 and 1 Turn: Insta Kill Immunity",
+
+          "s1n": "Shadow Gathering: Sealing Flame",
+          "s1": "Deals 7% + 450,000 to target enemy. High Chance to Deal 2 Additional Attacks dealing 250,000 Fixed Damage. Grant 'Battle Mode' State to self. If it's an Akatsuki enemy: 1 Turn: +200% (Always Hit)",
+          "s1ntr": "Secret",
+          "s1cs": "Fast",
+          "s1c": 75,
+
+          "s2n": "I... Hate You...",
+          "s2": "Enemies' DEF and Skill Damage -80%. Guarantee Inflict 'Bind' State to Akatsuki enemies.  Grant 'Will of Fire' State to Konoha allies. [Will of Fire: ATK, DEF, Skill Damage and SPD +150%, HP Recovery +25%] [Bind: Skill Damage and SPD -100%] (Always Hit)",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Immeasurable Strategies",
+          "a1": "Insta-Kill Immunity, Insta-Kill enemy when Insta-Killed, If there's an Akatsuki enemy: ATK, DEF and SPD +100%",
+
+          "a2n": "Shadow Plot",
+          "a2": "Withstand +1, 3 Turns: Damage Cut +75% & High Chance for Instant Action when attacked",
+
+          "a3n": "Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black"
+      },
+{
+          "id": 20060909,
+          "name": "Sakura Haruno",
+          "subtext": "War Cherry Blossoms in Full Bloom",
+
+          "lead": "If there's a None enemy: At the Start of Battle, Inflict 'Disable Positive Special State'",
+
+          "s1n": "Storm: Cherry Blossom Sprint",
+          "s1": "Deals 7% + 580,000 to target enemy. Deal 2 Additional Attacks dealing 210,000 Fixed Damage. Grant 'Battle Mode' State to self. If in 'Battle Mode' State: Remove Positive Special State to all enemies. [Battle Mode: SPD and Skill Damage +200%, Cast Speed +2 and Chakra Cost is set to 0] (Always Hit)",
+          "s1ntr": "Taijutsu",
+          "s1cs": "Fastest",
+          "s1c": 70,
+
+          "s2n": "Still To Come!!!",
+          "s2": "Enemies' DEF and SPD -99%. Grant 'Healing' State to Party. High Chance to Grant 'Healing Mode' State to Party (Guarantee Grant 'Healing Mode' State to Konoha allies). [Healing Mode: Withstand +∞ as long as an ally Sakura Haruno is under 'Battle Mode'] [Healing: Damage Cut +100% against Skills targeted to you. Recovers 20% of HP when attacked]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 90,
+
+          "a1n": "Trained Fists and Medical Techniques",
+          "a1": "Withstand +1, Grant 'Battle Mode' State to self upon Withstanding",
+
+          "a2n": "Polished Dodging Ability",
+          "a2": "ATK, DEF and SPD +30% for all Konoha allies, 3 Turns: SPD +100% & Chakra Cost is set to 0",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
+          "id": 20060910,
+          "name": "Sasuke Uchiha",
+          "subtext": "Revolution's Will",
+
+          "lead": "All Characters: SPD +100%, Damage Cut +50% against Naruto and Kaguya Characters",
+
+          "s1n": "Indra's Arrow: Hatred",
+          "s1": "Deal 3% + 1,330,000 to all enemies. Deal 7 Additional Attacks dealing 3% + 100,000 while under 'Revolution' State. (Always Hit)",
+          "s1ntr": "Sharingan",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "Carrying Own's Burden",
+          "s2": "Own SPD +200%. Grant 'Revolution' State to self. Chance to Inflict 'Blood Battle' God State to enemies (Ignore Resistance and Skill Dodge of Naruto and Kaguya enemies). [Revolution: Effect 1: Immune to Single Target Skills including Fixed Damage, but not Taijutsu, Genjutsu and Rinnegan. Effect 2: All allies are Immune to AoE Skills except for Fixed] [Blood Battle: Remove and Immune to Positive Special and God State. Cast Speed -3. High Chance for Type Advantage when attacked by Sasuke]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Dwelling in the Darkness",
+          "a1": "If there's a GK enemy: Insta Cast Skill 2, Damage Cut +50% against EX, Origin and Destroyer, Skill Dodge +150%",
+
+          "a2n": "Prepared to Kill My Only Friend",
+          "a2": "Revive +1, If there's a Naruto or Kaguya enemy: SPD +250%, Insta Kill Immunity and Chance for Instant Action when Attacked",
+
+          "a3n": "White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against White"
+      },
+{
+          "id": 20060911,
           "name": "Ino Yamanaka",
           "subtext": "Bonds That Bloom Beyond The Teacher",
 
@@ -29,8 +308,6 @@ window.detail=[
           "a3": "None"
       },
 {
-=======
->>>>>>> Stashed changes
           "id": 20061002,
           "name": "Minato Namikaze",
           "subtext": "Light Entrusted to the Future",
@@ -65,7 +342,7 @@ window.detail=[
 
           "lead": "Konoha Characters: DEF and Skill Damage +90%",
 
-          "s1n": "Adamantine Chains: Protectiont",
+          "s1n": "Adamantine Chains: Protection",
           "s1": "Deals 7% + 530,000 to target enemy. Deal an Additional Attack dealing 7% + 480,000. If it is a None enemy: Inflict 'Seal', Ignore Resistance and Skip 1 Turn. (Always Hit)",
           "s1ntr": "Sealing",
           "s1cs": "Fastest",
@@ -772,7 +1049,7 @@ window.detail=[
           "s1c": 80,
 
           "s2n": "It Arrived ...",
-          "s2": "Party ATK +202.1%. High Chance to Inflict 'New Year's Present' State to all enemies. If there is a Hashirama enemy: Grant 'Fate' State to self. [New Year's Present: No Effect] [Fate: Skill Damage +100%, Cast Speed +1, Withstand +1 and Skil Immunity]",
+          "s2": "Party ATK +202.1%. High Chance to Inflict 'New Year's Present' State to all enemies. If there is a Hashirama enemy: Grant 'Fate' State to self. [New Year's Present: No Effect] [Fate: Skill Damage +100%, Cast Speed +1, Withstand +1 and Skill Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,

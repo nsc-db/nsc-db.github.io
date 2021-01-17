@@ -1,7 +1,315 @@
 window.enggear=[
 {
-<<<<<<< Updated upstream
-=======
+          "id": 8585,
+          "type": "Stats",
+          "name": "Kurotsuchi's Vest",
+          "effect": "HP, ATK and DEF +100%",
+          "normal": "HP and ATK +30%",
+          "charaIds": "21401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 8595,
+          "type": "Skill",
+          "name": "Kurotsuchi's Tights",
+          "effect": "Skill Damage +100%, HP >70%: Cast Speed +1",
+          "normal": "Skill Damage +30%",
+          "charaIds": "21401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 208215,
+          "type": "Additional",
+          "name": "Kurotsuchi's Forehead Protector",
+          "effect": "Debuff and Status Effect Immunity",
+          "normal": "3 Turns: Status Effect Immunity",
+          "charaIds": "21401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 208225,
+          "type": "Chakra",
+          "name": "Kurotsuchi's Gloves",
+          "effect": "3 Turns: Chakra Recovery +100%",
+          "normal": "3 Turns: Chakra Recovery +20%",
+          "charaIds": "21401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309015,
+          "type": "Stats",
+          "name": "Rin's Holster",
+          "effect": "ATK and SPD +100%, Chakra +100, 1 Turn: Skill Immunity",
+          "normal": "ATK and SPD +40%, Chakra +50",
+          "charaIds": "51001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309025,
+          "type": "Resistance",
+          "name": "Rin's Loincloth",
+          "effect": "Skill Damage +80%, Cast Speed +1, Debuff and Status Effect Immunity",
+          "normal": "Skill Damage +50%, Debuff and Status Effect Reduction",
+          "charaIds": "51001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309035,
+          "type": "Additional",
+          "name": "Burning Conflict",
+          "effect": "Cast Speed +1, 5 Turns: Chance for an Extra Turn, 1 Turn: Set Chakra Cost to 0",
+          "normal": "5 Turns: Chance for Extra Turn, Cast Speed -2",
+          "charaIds": "13702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309045,
+          "type": "Stats",
+          "name": "Armor Without Cracks",
+          "effect": "HP and SPD +100%, If there is a Senju enemy: Skill Damage +150%",
+          "normal": "HP and SPD +50%",
+          "charaIds": "13702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309055,
+          "type": "Stats",
+          "name": "Dirty Battle Clothes",
+          "effect": "HP and SPD +100%, If there is a Senju enemy: Skill Damage +150%",
+          "normal": "HP and SPD +50%",
+          "charaIds": "4701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309065,
+          "type": "Additional",
+          "name": "Prepared to Protect My Brother",
+          "effect": "Chakra Recovery +25%, 5 Turns: Chance for Extra Turn, 1 Turn: Set Chakra Cost to 0",
+          "normal": "5 Turns: Chance for Extra Turn, Chakra -50% every turn",
+          "charaIds": "4701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309075,
+          "type": "Additional",
+          "name": "Entrusted Left 'Mangekyo Sharingan'",
+          "effect": "3 Turns: Set Chakra Cost to 0, SPD +120% and Skill Damage +120%",
+          "normal": "3 Turns: Chakra Cost -50%",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309085,
+          "type": "Chakra",
+          "name": "Will to Protect Companions",
+          "effect": "Chakra Recovery +50%, Cast Speed +1, If there's a GK enemy: SPD +120%",
+          "normal": "Chakra Recovery +20%",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309095,
+          "type": "Stats",
+          "name": "Tendo's Sandals",
+          "effect": "HP and SPD +90%, Skill Damage +120%",
+          "normal": "HP and SPD +50%",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309105,
+          "type": "Resistance",
+          "name": "Universal Pull",
+          "effect": "2 Turns: Cancel and Skip Immunity and Fixed Damage deals 0 Damage, Cast Speed +1",
+          "normal": "1 Turn: Low Chance for Cancel and Skip Immunity",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309115,
+          "type": "Skill",
+          "name": "Konan's Favorite Food",
+          "effect": "Skill Damage and DEF +150%, Cast Speed +1",
+          "normal": "Skill Damage and DEF +50%",
+          "charaIds": "12501",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309125,
+          "type": "Resistance",
+          "name": "Konan's Nails",
+          "effect": "2 Turns: Cancel Immunity and Fixed Damage deals 0 Damage, High Chance to Dodge Skills",
+          "normal": "1 Turn: Cancel Immunity and Fixed Damage deals 0 Damage",
+          "charaIds": "12501",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309135,
+          "type": "Skill",
+          "name": "Shikamaru's Pouch",
+          "effect": "Skill Damage +100%, If there's a Akatsuki enemy: Skill Damage +70% (Max 170%)",
+          "normal": "Skill Damage +50%, If there's a Akatsuki enemy: Skill Damage +20% (Max 70%)",
+          "charaIds": "402",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309145,
+          "type": "Resistance",
+          "name": "Shikamaru's Holster",
+          "effect": "Cancel Immunity, If there's a Akatsuki enemy: Fixed Damage deals 0 Damage",
+          "normal": "3 Turns: Chance for Cancel Immunity",
+          "charaIds": "402",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309155,
+          "type": "Chakra",
+          "name": "Sakura's Favorite Food (Pickled Plums)",
+          "effect": "Chakra Cost -50%, Chakra Recovery +25%, Chance for Fixed Damage deals 0 Damage from male enemies",
+          "normal": "3 Turns: Chakra Cost -25%",
+          "charaIds": "303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309165,
+          "type": "Stats",
+          "name": "Sakura's Kunai",
+          "effect": "HP, ATK, DEF, SPD and Skill Damage +150%",
+          "normal": "HP, ATK, DEF, SPD and Skill Damage +30%",
+          "charaIds": "303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309175,
+          "type": "Additional",
+          "name": "Mark of the Shadow",
+          "effect": "Chance for an Extra Turn, 2 Turns: Negative Special State Immunity, Chakra Cost -50%",
+          "normal": "Low Chance for an Extra Turn",
+          "charaIds": "209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 309185,
+          "type": "Skill",
+          "name": "The Strongest Range Technique",
+          "effect": "Cast Speed +1, SPD +120%, Skill Damage +100%",
+          "normal": "Skill Damage +50%",
+          "charaIds": "209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 312155,
+          "type": "Skill",
+          "name": "Sharingan of Hatred",
+          "effect": "Cast Speed +1, Chakra Cost -50%, Skill Damage +100%",
+          "normal": "Skill Damage +80%",
+          "charaIds": "210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 1985,
+          "type": "Stats",
+          "name": "Ino-Shika-Cho Earrings (Ino)",
+          "effect": "HP, SPD and HP Recovery Skill Amount +50%",
+          "normal": "HP and SPD +20%",
+          "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 2815,
+          "type": "Chakra",
+          "name": "Yellow Flower Hair Ornament",
+          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
+          "normal": "Chakra Recovery +10%",
+          "charaIds": "601,602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 3345,
+          "type": "Skill",
+          "name": "Ino's Hair Clip",
+          "effect": "Cast Speed +1, HP Recovery Skill Amount +50%",
+          "normal": "HP Recovery Skill Amount +20%",
+          "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 4425,
+          "type": "Additional",
+          "name": "Ino's Apron",
+          "effect": "HP and DEF +100%, HP Recovery Skill Amount +30%",
+          "normal": "HP and DEF +40%",
+          "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 8845,
+          "type": "Chakra",
+          "name": "Amber Purification Jar",
+          "effect": "Chakra Recovery +30%, Skill Damage +70%, Tailed Beast and Six Paths Skill Immunity",
+          "normal": "Chakra -30% every turn, Skill Damage +50%, Tailed Beast and Six Paths Skill Immunity",
+          "charaIds": "0",
+          "cardIds": "20001736,20030512,20031209,20040810,20060506",
+          "charaGroupIds": "700000"
+     },
+{
+          "id": 209105,
+          "type": "Skill",
+          "name": "Tsukimi Dumpling",
+          "effect": "Skill Damage +100%, 2 Turns: Cast Speed +1",
+          "normal": "Skill Damage +30%",
+          "charaIds": "301,302,303,304,305,306,601,602,603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 209095,
+          "type": "Stats",
+          "name": "Ino's Japanese Apron",
+          "effect": "ATK, DEF and SPD +80%, 3 Turns: HP Recovery +80%",
+          "normal": "ATK, DEF and SPD +20%",
+          "charaIds": "601,602,603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 204185,
+          "type": "Resistance",
+          "name": "Asuma's Gift",
+          "effect": "10 Turns: Debuff and Status Effect Immunity, Cast Speed +1, Low Chance for Skill Immunity",
+          "normal": "Skill, Debuff and Status Effect Reduction",
+          "charaIds": "401,402,403,501,502,503,601,602,603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
           "id": 310015,
           "type": "Stats",
           "name": "Kunai to Protect Loved Ones",
@@ -82,7 +390,6 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
->>>>>>> Stashed changes
           "id": 307225,
           "type": "Food 2",
           "name": "NSC 7 Star Election 2020 (White)",
