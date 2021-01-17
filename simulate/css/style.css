@@ -78,8 +78,46 @@ table, th, td{
 	padding: 2px;
 	margin-left: 10%;
 }
+#multi{
+	padding: 20px;
+}
 .char{
-	padding: 2.5%;
+	padding: 25px;
+}
+.char-1{
+	padding: 15px;
+}
+.char-2{
+	padding: 15px;
+}
+.char-3{
+	padding: 15px;
+
+}
+.char-4{
+	padding: 15px;
+}
+.char-5{
+	padding: 15px;
+}
+.char-6{
+	padding: 15px;
+
+}
+.char-7{
+	padding: 15px;
+}
+.char-8{
+	padding: 15px;
+}
+.char-9{
+	padding: 15px;
+}
+.char-10{
+	padding: 15px;
+}
+.char-11{
+	padding: 15px;
 }
 
 .card{

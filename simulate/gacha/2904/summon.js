@@ -174,6 +174,8 @@ function multiSummon(){
             card = feature[summon] + "_6";
             fpull[summon] = fpull[summon] + 1
             id.push(card);
+            $('.char-' + i).attr('style', 'border-radius: 40px;background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;box-shadow: 2px 2px 5px 2px red, -3px 2px 5px 2px magenta, -3px -2px 5px 2px blue, 3px -2px 5px 2px aqua, 3px 2px 5px 2px lime, -3px 2px 5px 2px yellow, -3px -2px 10px 2px red, 2px 2px 5px 2px rgba(0,0,0,0);'); 
+
 		}
 		//7* God and GK
 		else if(summon >= 200 && summon < 203){
@@ -183,6 +185,8 @@ function multiSummon(){
 			card = seven[summon] + "_6";
 			sevenpull[summon] = sevenpull[summon] + 1
 			id.push(card);
+            $('.char-' + i).attr('style', 'border-radius: 40px;background: linear-gradient(to bottom right,gold,white, gold) border-box;box-shadow: 2px 2px 20px 2px gold, 3px 0px 16px 8px white;'); 
+
 		}
 		//6* God and GK
 		else if(summon >= 300 && summon < 330){
@@ -192,6 +196,8 @@ function multiSummon(){
 			card = six[summon] + "_6";
 			sixpull[summon] = sixpull[summon] + 1
 			id.push(card);
+            $('.char-' + i).attr('style', 'border-radius: 40px;background: linear-gradient(to bottom right,silver,white, silver) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px white;'); 
+
 		}
 		else if(summon >= 400 && summon < 470){
 			var size = getLength(fourty);
@@ -200,6 +206,9 @@ function multiSummon(){
 			card = fourty[summon] + "_6";
 			fourtypull[summon] = fourtypull[summon] + 1
 			id.push(card);
+            $('.char-' + i).attr('style', 'border-radius: 40px;background: linear-gradient(to bottom right,darkblue,royalblue, darkblue) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px royalblue;'); 
+
+
 		}
 		else if(summon >= 500 && summon < 887){
 			var size = getLength(four);
@@ -207,6 +216,8 @@ function multiSummon(){
 
 			card = four[summon];
 			id.push(card);
+			$('.char-' + i).attr('style', 'border-radius: 40px;background: '); 
+
 		}
 		else{
 			var size = getLength(five);
@@ -214,10 +225,13 @@ function multiSummon(){
 
 			card = five[summon];
 			id.push(card);
+			$('.char-' + i).attr('style', 'border-radius: 40px;background: '); 
+
 		}
 		
 		$('#chara-summon-' + i).attr('src', './../../../common/assets/img/units/' + card + '.png'); 
 	}
+	var i = 11
 	var summon = Math.floor(Math.random()* 999);
 	roll.push(summon);
 	if(multidone == 5){
@@ -227,6 +241,8 @@ function multiSummon(){
         card = feature[summon] + "_6";
         fpull[summon] = fpull[summon] + 1
         id.push(card);
+        $('.char-' + i).attr('style', 'border-radius: 40px;background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;box-shadow: 2px 2px 5px 2px red, -3px 2px 5px 2px magenta, -3px -2px 5px 2px blue, 3px -2px 5px 2px aqua, 3px 2px 5px 2px lime, -3px 2px 5px 2px yellow, -3px -2px 10px 2px red, 2px 2px 5px 2px rgba(0,0,0,0);'); 
+
 	}
 	else if(summon >= 100 && summon < rates){
 		var size = getLength(feature);
@@ -235,6 +251,8 @@ function multiSummon(){
         card = feature[summon] + "_6";
         fpull[summon] = fpull[summon] + 1
         id.push(card);
+        $('.char-' + i).attr('style', 'border-radius: 40px;background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;box-shadow: 2px 2px 5px 2px red, -3px 2px 5px 2px magenta, -3px -2px 5px 2px blue, 3px -2px 5px 2px aqua, 3px 2px 5px 2px lime, -3px 2px 5px 2px yellow, -3px -2px 10px 2px red, 2px 2px 5px 2px rgba(0,0,0,0);'); 
+
 	}
 	//7* God and GK
 	else if(summon >= 700 && summon < 703){
@@ -244,6 +262,8 @@ function multiSummon(){
 		card = seven[summon] + "_6";
 		sevenpull[summon] = sevenpull[summon] + 1
 		id.push(card);
+        $('.char-' + i).attr('style', 'border-radius: 40px;background: linear-gradient(to bottom right,gold,white, gold) border-box;box-shadow: 2px 2px 20px 2px gold, 3px 0px 16px 8px white;'); 
+
 	}
 	//6* God and GK
 	else if(summon >= 800 && summon < 830){
@@ -253,6 +273,8 @@ function multiSummon(){
 		card = six[summon] + "_6";
 		sixpull[summon] = sixpull[summon] + 1
 		id.push(card);
+        $('.char-' + i).attr('style', 'border-radius: 40px;background: linear-gradient(to bottom right,silver,white, silver) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px white;'); 
+
 	}
 	else if(summon >= 900 && summon < 970){
 		var size = getLength(fourty);
@@ -261,6 +283,8 @@ function multiSummon(){
 		card = fourty[summon] + "_6";
 		fourtypull[summon] = fourtypull[summon] + 1
 		id.push(card);
+        $('.char-' + i).attr('style', 'border-radius: 40px;background: linear-gradient(to bottom right,darkblue,royalblue, darkblue) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px royalblue;'); 
+
 	}
 	else{
 		var size = getLength(five);
@@ -268,6 +292,8 @@ function multiSummon(){
 
 		card = five[summon];
 		id.push(card);
+		$('.char-' + i).attr('style', 'border-radius: 40px;background: '); 
+
 	}
 		
 
@@ -285,6 +311,14 @@ function multiSummon(){
     document.getElementById("gems").innerHTML = gemspent;
     document.getElementById("summons").innerHTML = summonsdone;
     document.getElementById("multis").innerHTML = multidone;
+    var featurerate = 0
+    if(multidone != 5){
+    	featurerate = parseInt(((rates - 100) / 1000) * 100)
+    }
+    else{
+    	featurerate = 100
+    }
+    document.getElementById("frates").innerHTML =  featurerate + '%';
     document.getElementById("f1").innerHTML = fpull[0];
     document.getElementById("f2").innerHTML = fpull[1];
     

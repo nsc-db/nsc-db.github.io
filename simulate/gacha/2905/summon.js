@@ -157,6 +157,7 @@ function multiSummon(){
 			card = feature + "_6"
 			fpull++;
 			id.push(card);
+
 		}
 		//7* God and GK
 		else if(summon >= 200 && summon < 210){
@@ -166,6 +167,9 @@ function multiSummon(){
 			card = seven[summon] + "_6";
 			sevenpull[summon] = sevenpull[summon] + 1
 			id.push(card);
+            $('.char-' + i).attr('style', 'background: linear-gradient(to bottom right,gold,white, gold) border-box;box-shadow: 2px 2px 20px 2px gold, 3px 0px 16px 8px white;'); 
+
+
 		}
 		//6* God and GK
 		else if(summon >= 300 && summon < 330){
@@ -175,6 +179,8 @@ function multiSummon(){
 			card = six[summon] + "_6";
 			sixpull[summon] = sixpull[summon] + 1
 			id.push(card);
+            $('.char-' + i).attr('style', 'background: linear-gradient(to bottom right,silver,white, silver) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px white;'); 
+
 		}
 		else if(summon >= 400 && summon < 470){
 			var size = getLength(fourty);
@@ -183,6 +189,8 @@ function multiSummon(){
 			card = fourty[summon] + "_6";
 			fourtypull[summon] = fourtypull[summon] + 1
 			id.push(card);
+			$('.char-' + i).attr('style', 'background: linear-gradient(to bottom right,darkblue,royalblue, darkblue) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px royalblue;'); 
+
 		}
 		else if(summon >= 500 && summon < 900){
 			var size = getLength(four);
@@ -190,6 +198,8 @@ function multiSummon(){
 
 			card = four[summon];
 			id.push(card);
+            $('.char-' + i).attr('style', 'background: '); 
+
 		}
 		else{
 			var size = getLength(five);
@@ -197,11 +207,14 @@ function multiSummon(){
 
 			card = five[summon];
 			id.push(card);
+            $('.char-' + i).attr('style', 'background: '); 
+
 		}
 		
 		$('#chara-summon-' + i).attr('src', './../../../common/assets/img/units/' + card + '.png'); 
 	}
 	var summon = Math.floor(Math.random()* 999);
+	var i = 11
 	roll.push(summon);
 	if(summon >= 1000 && summon < 1200){
 		card = feature + "_6"
@@ -216,6 +229,8 @@ function multiSummon(){
 		card = seven[summon] + "_6";
 		sevenpull[summon] = sevenpull[summon] + 1
 		id.push(card);
+		$('.char-' + i).attr('style', 'background: linear-gradient(to bottom right,gold,white, gold) border-box;box-shadow: 2px 2px 20px 2px gold, 3px 0px 16px 8px white;'); 
+
 	}
 	//6* God and GK
 	else if(summon >= 300 && summon < 335){
@@ -225,6 +240,8 @@ function multiSummon(){
 		card = six[summon] + "_6";
 		sixpull[summon] = sixpull[summon] + 1
 		id.push(card);
+		$('.char-' + i).attr('style', 'background: linear-gradient(to bottom right,silver,white, silver) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px white;'); 
+
 	}
 	else{
 		var size = getLength(fourty);
@@ -233,6 +250,8 @@ function multiSummon(){
 		card = fourty[summon] + "_6";
 		fourtypull[summon] = fourtypull[summon] + 1
 		id.push(card);
+		$('.char-' + i).attr('style', 'background: linear-gradient(to bottom right,darkblue,royalblue, darkblue) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px royalblue;'); 
+
 	}
 		
 
