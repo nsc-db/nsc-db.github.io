@@ -125,7 +125,7 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "This Time....",
-          "s2": "Party SPD +150% and Skill Dodge +100%. Remove 'Disable Positive Special and God State' Effect to Konoha allies. Grant ""God's Attack"" God State to self. [God's Attack: Gain Infinite Turns. High chance to Cancel and Destroy enemy Terrain. Skills Always Hit]",
+          "s2": "Party SPD +150% and Skill Dodge +100%. Remove 'Disable Positive Special and God State' Effect to Konoha allies. Grant 'God's Attack' God State to self. [God's Attack: Gain Infinite Turns. High chance to Cancel and Destroy enemy Terrain. Skills Always Hit]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 100,
@@ -203,7 +203,7 @@ window.detail=[
           "lead": "Konoha Characters: Cast Speed +1 and 1 Turn: Insta Kill Immunity",
 
           "s1n": "Shadow Gathering: Sealing Flame",
-          "s1": "Deals 7% + 450,000 to target enemy. High Chance to Deal 2 Additional Attacks dealing 250,000 Fixed Damage. Grant 'Battle Mode' State to self. If it's an Akatsuki enemy: 1 Turn: +200% (Always Hit)",
+          "s1": "Deals 7% + 450,000 to target enemy. High Chance to Deal 2 Additional Attacks dealing 250,000 Fixed Damage. If it's an Akatsuki enemy: 1 Turn: +200% (Always Hit)",
           "s1ntr": "Secret",
           "s1cs": "Fast",
           "s1c": 75,
@@ -315,7 +315,7 @@ window.detail=[
           "lead": "Konoha Characters: HP and SPD +90%",
 
           "s1n": "Flying Raijin: Level 2",
-          "s1": "Deals 7% + 450,000 to target enemy. Deals 2 Additional Attacks dealing 7% + 200,000.Enemy's DEF and SPD -80%. If it's a None enemy: Remove Party's Negative Special State. (Always Hit)",
+          "s1": "Deals 7% + 450,000 to target enemy. Deals 2 Additional Attacks dealing 7% + 200,000. Enemy's DEF and SPD -80%. If it's a None enemy: Remove Party's Negative Special State. (Always Hit)",
           "s1ntr": "Space-Time",
           "s1cs": "Fastest",
           "s1c": 70,
