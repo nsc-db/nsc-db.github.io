@@ -268,6 +268,26 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710",
           "charaGroupIds": "0"
+     },	
+     {
+          "id": 307165,
+          "type": "Stats",
+          "name": "Yellow Wind",
+          "effect": "HP and SPD +100%, Chakra Recovery +50%, Start the Battle with 100% Chakra",
+          "normal": "HP and SPD +40%.",
+          "charaIds": "104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+     {
+          "id": 307175,
+          "type": "Skill",
+          "name": "Blue Thunder",
+          "effect": "Cast Speed +1, Skill Damage +100%, DEF +200%",
+          "normal": "Cast Speed +1",
+          "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0"
      },	 
 {
           "id": 307185,
@@ -1000,26 +1020,6 @@ window.enggear=[
           "charaGroupIds": "0"
      },
      {
-          "id": 307175,
-          "type": "Skill",
-          "name": "Blue Thunder",
-          "effect": "Cast Speed +1, Skill Damage +100%, DEF +200%",
-          "normal": "Cast Speed +1",
-          "charaIds": "207",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-     {
-          "id": 307165,
-          "type": "Stats",
-          "name": "Yellow Wind",
-          "effect": "HP and SPD +100%, Chakra Recovery +50%, Start the Battle with 100% Chakra",
-          "normal": "HP and SPD +40%.",
-          "charaIds": "104",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-     {
           "id": 401055,
           "type": "Chakra",
           "name": "Gaara's Forehead Protector",
@@ -1033,11 +1033,30 @@ window.enggear=[
           "id": 401065,
           "type": "Additional",
           "name": "Hatred for Others",
-          "effect": "Cast Speed +1, HP and Chakra Regen +30%, If Alone: Chance for an Extra Turn",
+          "effect": "Cast Speed +1, HP and Chakra Recovery +30%, If Alone: Chance for an Extra Turn",
           "normal": "Cast Speed +1",
           "charaIds": "1306",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-
+      {
+          "id": 401075,
+          "type": "Additional",
+          "name": "Naruto's Sandals (Kid Edition)",
+          "effect": "Cast Speed +1. HP and Chakra Recovery +30%",
+          "normal": "3 Turns: Cast Speed +1",
+          "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+      {
+          "id": 401085,
+          "type": "Chakra",
+          "name": "Naruto's Pouch (Kid Edition)",
+          "effect": "Start the Battle with 50% Chakra. Chakra Cost -50%. ATK, DEF and SPD +30% per Konoha Ally (Max 150%)",
+          "normal": "Start the Battle with 50% Chakra",
+          "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
 ]
