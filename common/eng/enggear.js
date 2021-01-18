@@ -1,5 +1,95 @@
 window.enggear=[
 {
+          "id": 1985,
+          "type": "Stats",
+          "name": "Ino-Shika-Cho Earrings (Ino)",
+          "effect": "HP, SPD and HP Recovery Skill Amount +50%",
+          "normal": "HP and SPD +20%",
+          "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 2815,
+          "type": "Chakra",
+          "name": "Yellow Flower Hair Ornament",
+          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
+          "normal": "Chakra Recovery +10%",
+          "charaIds": "601,602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 3345,
+          "type": "Skill",
+          "name": "Ino's Hair Clip",
+          "effect": "Cast Speed +1, HP Recovery Skill Amount +50%",
+          "normal": "HP Recovery Skill Amount +20%",
+          "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 3755,
+          "type": "Skill",
+          "name": "Shizune's Poison Needles",
+          "effect": "ATK and Skill Damage +70%",
+          "normal": "Weapon Skill Damage +30%",
+          "charaIds": "3101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 3765,
+          "type": "Stats",
+          "name": "Tonton's Pearls",
+          "effect": "HP, SPD and Skill Damage +50%",
+          "normal": "HP and SPD +30%",
+          "charaIds": "3101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 4425,
+          "type": "Additional",
+          "name": "Ino's Apron",
+          "effect": "HP and DEF +100%, HP Recovery Skill Amount +30%",
+          "normal": "HP and DEF +40%",
+          "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 7995,
+          "type": "Stats",
+          "name": "Shino's Hood",
+          "effect": "HP, ATK and DEF +100%",
+          "normal": "HP +30%",
+          "charaIds": "902",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 8005,
+          "type": "Skill",
+          "name": "Shino's Glasses",
+          "effect": "SPD +80%, Skill Damage +100%",
+          "normal": "SPD +30%",
+          "charaIds": "902",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 8845,
+          "type": "Chakra",
+          "name": "Amber Purification Jar",
+          "effect": "Chakra Recovery +30%, Skill Damage +70%, Tailed Beast and Six Paths Skill Immunity",
+          "normal": "Chakra -30% every turn, Skill Damage +50%, Tailed Beast and Six Paths Skill Immunity",
+          "charaIds": "0",
+          "cardIds": "20001736,20030512,20031209,20040810,20060506",
+          "charaGroupIds": "700000"
+     },
+{
           "id": 8585,
           "type": "Stats",
           "name": "Kurotsuchi's Vest",
@@ -20,6 +110,56 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
+          "id": 110025,
+          "type": "Resistance",
+          "name": "Fist Joined With His Son",
+          "effect": "Negative Special State Immunity, High Chance to dodge Skills",
+          "normal": "Status Effect Reduction",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 110015,
+          "type": "Chakra",
+          "name": "Nine Tails' Chakra (Yin)",
+          "effect": "Chakra Recovery +10%, HP +150%, Skill Damage +50%",
+          "normal": "Chakra Recovery +5%",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 204175,
+          "type": "Resistance",
+          "name": "Team 8's Bond",
+          "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 8 Turns: Chance for Skill Immunity",
+          "normal": "Skill, Debuff and Status Effect Reduction",
+          "charaIds": "701,702,703,704,801,802,901,902",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 204185,
+          "type": "Resistance",
+          "name": "Asuma's Gift",
+          "effect": "10 Turns: Debuff and Status Effect Immunity, Cast Speed +1, Low Chance for Skill Immunity",
+          "normal": "Skill, Debuff and Status Effect Reduction",
+          "charaIds": "401,402,403,501,502,503,601,602,603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 208105,
+          "type": "Chakra",
+          "name": "Shizune's Swimsuit",
+          "effect": "2 Turns: Set Chakra Cost to 0 and ATK, DEF and SPD +90%",
+          "normal": "1 Turn: Chakra Cost -20% and ATK, DEF and SPD +20%",
+          "charaIds": "3101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
           "id": 208215,
           "type": "Additional",
           "name": "Kurotsuchi's Forehead Protector",
@@ -39,6 +179,146 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
+{
+          "id": 209105,
+          "type": "Skill",
+          "name": "Tsukimi Dumpling",
+          "effect": "Skill Damage +100%, 2 Turns: Cast Speed +1",
+          "normal": "Skill Damage +30%",
+          "charaIds": "301,302,303,304,305,306,601,602,603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 209095,
+          "type": "Stats",
+          "name": "Ino's Japanese Apron",
+          "effect": "ATK, DEF and SPD +80%, 3 Turns: HP Recovery +80%",
+          "normal": "ATK, DEF and SPD +20%",
+          "charaIds": "601,602,603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 301155,
+          "type": "Additional",
+          "name": "Aburame Clan's Secret Ninjutsu",
+          "effect": "Chance to Fully Recover Chakra and enemy's Skill Damage -80% when attacked and Low Chance for Instant Action",
+          "normal": "Recover 50% of Chakra when attacked",
+          "charaIds": "901,902",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     }	 
+	  {
+          "id": 301165,
+          "type": "Stats",
+          "name": "Shino's Sandals",
+          "effect": "SPD +30% per Konoha Ally (Max 120%) and Cast Speed +1",
+          "normal": "SPD +30%",
+          "charaIds": "901,902",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 304245,
+          "type": "Resistance",
+          "name": "OBC Beauty Pack Set",
+          "effect": "At the Start of Battle, Low chance to Grant 'Snake's Power' State. [Snake's Power: Recover 100% HP when attacked, Set Chakra to 0 when State is Released]",
+          "normal": "Reduces Incoming Skill Damage and Recover 5% of HP when attacked",
+          "charaIds": "10301,10302,10303,10304,2301,2302,2303,2304,2305,20401,20402,20601,301,302,303,304,305,306,701,702,703,704,1201,1202,1203,10401,10402,10403,11101,13401,13601,13602,13501",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 305145,
+          "type": "Skill",
+          "name": "Power of the Strongest Genjutsu",
+          "effect": "Cast Speed +1, Skill Damage +80%, Chakra +100",
+          "normal": "Skill Damage +50%",
+          "charaIds": "4102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 305135,
+          "type": "Additional",
+          "name": "Shisui's Sword Clip",
+          "effect": "Start the Battle with 100% Chakra, Debuff Immunity, SPD +80%",
+          "normal": "Debuff Immunity",
+          "charaIds": "4102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 307055,
+          "type": "Additional",
+          "name": "Crab",
+          "effect": "1 Turn: Set Chakra Cost to 0, Cast Speed +1, SPD +50%",
+          "normal": "1 Turn: Set Chakra Cost to 0",
+          "charaIds": "0",
+          "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 307065,
+          "type": "Resistance",
+          "name": "Sunglasses",
+          "effect": "5 Turns: Low Chance for Skill Immunity & At the Start of Battle, Grant 'Protection' State",
+          "normal": "1 Turn: Low Chance for Skill Immunity",
+          "charaIds": "0",
+          "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 307185,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (Yellow)",
+          "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 3 Turns: Cast Speed +1",
+          "normal": "Yellow Characters: Start the Battle with 50% Chakra and Rinne Sharingan, Sharingan and Illusion Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20041110,20050514,20051006",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 307195,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (Blue)",
+          "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 1 Turn: Chance for Skill Immunity",
+          "normal": "Blue Characters: Start the Battle with 50% Chakra and Lightning, Sharingan and Six Paths Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20040113,20031206,20050206",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 307205,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (Red)",
+          "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 1 Turn: Chance for Fixed Damage deals 0 Damage",
+          "normal": "Red Characters: Start the Battle with 50% Chakra and Sage, Sharingan and Illusion Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20050605,20030924,20040115",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 307215,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (Black)",
+          "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 5 Turns: High Chance to Dodge Skills",
+          "normal": "Black Characters: Start the Battle with 50% Chakra and Wind, Unique and Taijutsu Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20041006,20050113,20041206",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 307225,
+          "type": "Food 2",
+          "name": "NSC 7 Star Election 2020 (White)",
+          "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. Debuff and Status Effect Immunity",
+          "normal": "White Characters: Start the Battle with 50% Chakra and Sage, Six Paths and Space-Time Skill Damage +80%",
+          "charaIds": "0",
+          "cardIds": "20050408,20041103,20040702",
+          "charaGroupIds": "0"
+     },	 
 {
           "id": 309015,
           "type": "Stats",
@@ -220,96 +500,6 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
-          "id": 312155,
-          "type": "Skill",
-          "name": "Sharingan of Hatred",
-          "effect": "Cast Speed +1, Chakra Cost -50%, Skill Damage +100%",
-          "normal": "Skill Damage +80%",
-          "charaIds": "210",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 1985,
-          "type": "Stats",
-          "name": "Ino-Shika-Cho Earrings (Ino)",
-          "effect": "HP, SPD and HP Recovery Skill Amount +50%",
-          "normal": "HP and SPD +20%",
-          "charaIds": "602",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 2815,
-          "type": "Chakra",
-          "name": "Yellow Flower Hair Ornament",
-          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
-          "normal": "Chakra Recovery +10%",
-          "charaIds": "601,602",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 3345,
-          "type": "Skill",
-          "name": "Ino's Hair Clip",
-          "effect": "Cast Speed +1, HP Recovery Skill Amount +50%",
-          "normal": "HP Recovery Skill Amount +20%",
-          "charaIds": "602",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 4425,
-          "type": "Additional",
-          "name": "Ino's Apron",
-          "effect": "HP and DEF +100%, HP Recovery Skill Amount +30%",
-          "normal": "HP and DEF +40%",
-          "charaIds": "602",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 8845,
-          "type": "Chakra",
-          "name": "Amber Purification Jar",
-          "effect": "Chakra Recovery +30%, Skill Damage +70%, Tailed Beast and Six Paths Skill Immunity",
-          "normal": "Chakra -30% every turn, Skill Damage +50%, Tailed Beast and Six Paths Skill Immunity",
-          "charaIds": "0",
-          "cardIds": "20001736,20030512,20031209,20040810,20060506",
-          "charaGroupIds": "700000"
-     },
-{
-          "id": 209105,
-          "type": "Skill",
-          "name": "Tsukimi Dumpling",
-          "effect": "Skill Damage +100%, 2 Turns: Cast Speed +1",
-          "normal": "Skill Damage +30%",
-          "charaIds": "301,302,303,304,305,306,601,602,603",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 209095,
-          "type": "Stats",
-          "name": "Ino's Japanese Apron",
-          "effect": "ATK, DEF and SPD +80%, 3 Turns: HP Recovery +80%",
-          "normal": "ATK, DEF and SPD +20%",
-          "charaIds": "601,602,603",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 204185,
-          "type": "Resistance",
-          "name": "Asuma's Gift",
-          "effect": "10 Turns: Debuff and Status Effect Immunity, Cast Speed +1, Low Chance for Skill Immunity",
-          "normal": "Skill, Debuff and Status Effect Reduction",
-          "charaIds": "401,402,403,501,502,503,601,602,603",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
           "id": 310015,
           "type": "Stats",
           "name": "Kunai to Protect Loved Ones",
@@ -387,56 +577,6 @@ window.enggear=[
           "normal": "Chakra +30, Chance to Dodge Skills%",
           "charaIds": "50903",
           "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 307225,
-          "type": "Food 2",
-          "name": "NSC 7 Star Election 2020 (White)",
-          "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. Debuff and Status Effect Immunity",
-          "normal": "White Characters: Start the Battle with 50% Chakra and Sage, Six Paths and Space-Time Skill Damage +80%",
-          "charaIds": "0",
-          "cardIds": "20050408,20041103,20040702",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 307215,
-          "type": "Food 2",
-          "name": "NSC 7 Star Election 2020 (Black)",
-          "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 5 Turns: High Chance to Dodge Skills",
-          "normal": "Black Characters: Start the Battle with 50% Chakra and Wind, Unique and Taijutsu Skill Damage +80%",
-          "charaIds": "0",
-          "cardIds": "20041006,20050113,20041206",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 307205,
-          "type": "Food 2",
-          "name": "NSC 7 Star Election 2020 (Red)",
-          "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 1 Turn: Chance for Fixed Damage deals 0 Damage",
-          "normal": "Red Characters: Start the Battle with 50% Chakra and Sage, Sharingan and Illusion Skill Damage +80%",
-          "charaIds": "0",
-          "cardIds": "20050605,20030924,20040115",
-          "charaGroupIds": "0"
-     },
-	 {
-          "id": 307195,
-          "type": "Food 2",
-          "name": "NSC 7 Star Election 2020 (Blue)",
-          "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 1 Turn: Chance for Skill Immunity",
-          "normal": "Blue Characters: Start the Battle with 50% Chakra and Lightning, Sharingan and Six Paths Skill Damage +80%",
-          "charaIds": "0",
-          "cardIds": "20040113,20031206,20050206",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 307185,
-          "type": "Food 2",
-          "name": "NSC 7 Star Election 2020 (Yellow)",
-          "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 3 Turns: Cast Speed +1",
-          "normal": "Yellow Characters: Start the Battle with 50% Chakra and Rinne Sharingan, Sharingan and Illusion Skill Damage +80%",
-          "charaIds": "0",
-          "cardIds": "20041110,20050514,20051006",
           "charaGroupIds": "0"
      },
 {
@@ -670,56 +810,6 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
-          "id": 3755,
-          "type": "Skill",
-          "name": "Shizune's Poison Needles",
-          "effect": "ATK and Skill Damage +70%",
-          "normal": "Weapon Skill Damage +30%",
-          "charaIds": "3101",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 3765,
-          "type": "Stats",
-          "name": "Tonton's Pearls",
-          "effect": "HP, SPD and Skill Damage +50%",
-          "normal": "HP and SPD +30%",
-          "charaIds": "3101",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 208105,
-          "type": "Chakra",
-          "name": "Shizune's Swimsuit",
-          "effect": "2 Turns: Set Chakra Cost to 0 and ATK, DEF and SPD +90%",
-          "normal": "1 Turn: Chakra Cost -20% and ATK, DEF and SPD +20%",
-          "charaIds": "3101",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 307055,
-          "type": "Additional",
-          "name": "Crab",
-          "effect": "1 Turn: Set Chakra Cost to 0, Cast Speed +1, SPD +50%",
-          "normal": "1 Turn: Set Chakra Cost to 0",
-          "charaIds": "0",
-          "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 307065,
-          "type": "Resistance",
-          "name": "Sunglasses",
-          "effect": "5 Turns: Low Chance for Skill Immunity & At the Start of Battle, Grant 'Protection' State",
-          "normal": "1 Turn: Low Chance for Skill Immunity",
-          "charaIds": "0",
-          "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710",
-          "charaGroupIds": "0"
-     },
-{
           "id": 312015,
           "type": "Resistance",
           "name": "Izuna’s Legs Weft",
@@ -800,15 +890,25 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
-          "id": 304245,
+          "id": 312095,
           "type": "Resistance",
-          "name": "OBC Beauty Pack Set",
-          "effect": "At the Start of Battle, Low chance to Grant 'Snake's Power' State. [Snake's Power: Recover 100% HP when attacked, Set Chakra to 0 when State is Released]",
-          "normal": "Reduces Incoming Skill Damage and Recover 5% of HP when attacked",
-          "charaIds": "10301,10302,10303,10304,2301,2302,2303,2304,2305,20401,20402,20601,301,302,303,304,305,306,701,702,703,704,1201,1202,1203,10401,10402,10403,11101,13401,13601,13602,13501",
+          "name": "Divine Genesis World of Trees",
+          "effect": "If there's a Konoha enemy: Skip and Cancel Immunity. Cast Speed +2",
+          "normal": "Very Low Chance of Skip and Cancel Immunity",
+          "charaIds": "13706",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+     },	 
+{
+          "id": 312105,
+          "type": "Additional",
+          "name": "Six Paths Madara's Third Eye",
+          "effect": "3 Turns: Set Chakra Cost to 0 and Chance for Full Immunity. Skill Damage and SPD +150%",
+          "normal": "1 Turn: Low Chance of Skill Immunity",
+          "charaIds": "13706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
 {
           "id": 312115,
           "type": "Chakra",
@@ -849,93 +949,13 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-{
-          "id": 7995,
-          "type": "Stats",
-          "name": "Shino's Hood",
-          "effect": "HP, ATK and DEF +100%",
-          "normal": "HP +30%",
-          "charaIds": "902",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 8005,
+ {
+          "id": 312155,
           "type": "Skill",
-          "name": "Shino's Glasses",
-          "effect": "SPD +80%, Skill Damage +100%",
-          "normal": "SPD +30%",
-          "charaIds": "902",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 204175,
-          "type": "Resistance",
-          "name": "Team 8's Bond",
-          "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 8 Turns: Chance for Skill Immunity",
-          "normal": "Skill, Debuff and Status Effect Reduction",
-          "charaIds": "701,702,703,704,801,802,901,902",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 305145,
-          "type": "Skill",
-          "name": "Power of the Strongest Genjutsu",
-          "effect": "Cast Speed +1, Skill Damage +80%, Chakra +100",
-          "normal": "Skill Damage +50%",
-          "charaIds": "4102",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 305135,
-          "type": "Additional",
-          "name": "Shisui's Sword Clip",
-          "effect": "Start the Battle with 100% Chakra, Debuff Immunity, SPD +80%",
-          "normal": "Debuff Immunity",
-          "charaIds": "4102",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 312105,
-          "type": "Additional",
-          "name": "Six Paths Madara's Third Eye",
-          "effect": "3 Turns: Set Chakra Cost to 0 and Chance for Full Immunity. Skill Damage and SPD +150%",
-          "normal": "1 Turn: Low Chance of Skill Immunity",
-          "charaIds": "13706",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 312095,
-          "type": "Resistance",
-          "name": "Divine Genesis World of Trees",
-          "effect": "If there's a Konoha enemy: Skip and Cancel Immunity. Cast Speed +2",
-          "normal": "Very Low Chance of Skip and Cancel Immunity",
-          "charaIds": "13706",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 110025,
-          "type": "Resistance",
-          "name": "Fist Joined With His Son",
-          "effect": "Negative Special State Immunity, High Chance to dodge Skills",
-          "normal": "Status Effect Reduction",
-          "charaIds": "2104",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 110015,
-          "type": "Chakra",
-          "name": "Nine Tails' Chakra (Yin)",
-          "effect": "Chakra Recovery +10%, HP +150%, Skill Damage +50%",
-          "normal": "Chakra Recovery +5%",
-          "charaIds": "2104",
+          "name": "Sharingan of Hatred",
+          "effect": "Cast Speed +1, Chakra Cost -50%, Skill Damage +100%",
+          "normal": "Skill Damage +80%",
+          "charaIds": "210",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -1019,24 +1039,5 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	  {
-          "id": 301165,
-          "type": "Stats",
-          "name": "Shino's Sandals",
-          "effect": "SPD +30% per Konoha Ally (Max 120%) and Cast Speed +1",
-          "normal": "SPD +30%",
-          "charaIds": "901,902",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-      {
-          "id": 301155,
-          "type": "Additional",
-          "name": "Aburame Clan's Secret Ninjutsu",
-          "effect": "Chance to Fully Recover Chakra and enemy's Skill Damage -80% when attacked and Low Chance for Instant Action",
-          "normal": "Recover 50% of Chakra when attacked",
-          "charaIds": "901,902",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     }
+
 ]

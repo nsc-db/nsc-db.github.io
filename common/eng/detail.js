@@ -153,7 +153,7 @@ window.detail=[
           "s1c": 166,
 
           "s2n": "I Have My Way",
-          "s2": "Party Skill Damage +250%. Protect and Grant 'Solo' State to the ally with the most HP. Grant 'Resurrection' State to other Akatsuki allies. High Chance to Inflict Cast Speed -2 to Non Akatsuki enemies. [Resurrection: Revive +1, Recover 50% Chakra when attacked, remove State after the Revive. When the state is removed, set own Chakra to 0] [Solo: Incoming Skill Damage -50%, Skill Damage increased based on the fewer number of Konoha allies alive (Max 250%)]",
+          "s2": "Party Skill Damage +250%. Protect and Grant 'Solo' State to the ally with the most HP. Grant 'Resurrection' State to other Akatsuki allies. [Resurrection: Revive +1, Recover 50% Chakra when attacked, remove State after the Revive. When the state is removed, set own Chakra to 0] [Solo: Incoming Skill Damage -50%, Skill Damage increased based on the fewer number of Konoha allies alive (Max 250%)]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 199,
