@@ -208,8 +208,8 @@ window.enggear=[
           "charaIds": "901,902",
           "cardIds": "0",
           "charaGroupIds": "0"
-     }	 
-	  {
+     },	 
+{
           "id": 301165,
           "type": "Stats",
           "name": "Shino's Sandals",
