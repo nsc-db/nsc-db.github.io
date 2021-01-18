@@ -26682,11 +26682,11 @@
           "effectIds": "1958,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "ナルトのサンダル（少年篇）",
+          "crystalDescription": "3回行動までスキル発動速度1段階アップ",
           "crystalImageId": "401075",
           "recipeId": "40107",
-          "recipeName": "0"
+          "recipeName": "ナルトのサンダル（少年篇）"
         },
         {
           "crystalId": "40108",
@@ -26699,10 +26699,10 @@
           "effectIds": "1115,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "ナルトのポーチ（少年篇）",
+          "crystalDescription": "バトル開始時チャクラ50％回復",
           "crystalImageId": "401085",
           "recipeId": "40108",
-          "recipeName": "0"
+          "recipeName": "ナルトのポーチ（少年篇）"
         }
       ]

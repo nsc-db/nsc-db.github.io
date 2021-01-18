@@ -16058,8 +16058,8 @@
         },
         {
           "cardLeaderSkillId": "1163",
-          "name": "0",
-          "description": "0",
+          "name": "繋がりを守る想い",
+          "description": "敵か味方にうちはサスケが生存時、味方全体の攻防速80%&amp;スキル発動速度1段階アップ",
           "effectIdx1": "3656",
           "effectIdx2": "3657",
           "effectIdx3": "0",
