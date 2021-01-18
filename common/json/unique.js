@@ -15702,5 +15702,31 @@ window.unique=[
           "effectIdx3": "2524",
           "effectIdx4": "3636",
           "effectIds": "1840,300012,2524,3636"
+        },
+        {
+          "crystalOverwriteEffectId": "1226",
+          "targetCrystal": "40107",
+          "description": "スキル発動速度1段階アップ。行動毎にHP・チャクラ30％回復",
+          "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "300012",
+          "effectIdx3": "2524",
+          "effectIdx4": "0",
+          "effectIds": "1840,300012,2524"
+        },
+        {
+          "crystalOverwriteEffectId": "1227",
+          "targetCrystal": "40108",
+          "description": "バトル開始時チャクラ50％回復。チャクラ消費量半減。味方の木ノ葉所属1人につき攻防速30％アップ",
+          "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "895",
+          "effectIdx3": "953",
+          "effectIdx4": "1225",
+          "effectIds": "1115,895,953,1225,1226"
         }
         ]

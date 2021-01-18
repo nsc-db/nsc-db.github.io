@@ -26980,6 +26980,26 @@ window.ability=[
           "effectIds": "3633,"
         },
         {
+          "abilityId": "2752",
+          "abilityName": "秘められし力",
+          "abilityDescription": "敵に木ノ葉以外生存で被攻撃時、即ｱｸｼｮﾝ&amp;攻撃者に確率で威圧。死亡時に敵全体を威圧＆気絶※全て耐性無視付与",
+          "abilityEffectDescription": "敵に木ノ葉以外生存で被攻撃時、即ｱｸｼｮﾝ&amp;攻撃者に確率で威圧。死亡時に敵全体を威圧＆気絶※全て耐性無視付与",
+          "effectIdx1": "3640",
+          "effectIdx2": "3641",
+          "effectIdx3": "3662",
+          "effectIds": "3640,3641,3662,3663,"
+        },
+        {
+          "abilityId": "2753",
+          "abilityName": "友想う咆哮",
+          "abilityDescription": "敵か味方にうちはサスケ生存時、先制攻撃&amp;チャクラ消費0。HP0以下で5回耐える。最大チャクラ量100アップ",
+          "abilityEffectDescription": "敵か味方にうちはサスケ生存時、先制攻撃&amp;チャクラ消費0。HP0以下で5回耐える。最大チャクラ量100アップ",
+          "effectIdx1": "3644",
+          "effectIdx2": "3645",
+          "effectIdx3": "1512",
+          "effectIds": "3644,3645,1512,20009,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

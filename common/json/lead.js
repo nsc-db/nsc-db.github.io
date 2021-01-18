@@ -16058,6 +16058,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1163",
+          "name": "繋がりを守る想い",
+          "description": "敵か味方にうちはサスケが生存時、味方全体の攻防速80%&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "3656",
+          "effectIdx2": "3657",
+          "effectIdx3": "0",
+          "effectIds": "3656,3657,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

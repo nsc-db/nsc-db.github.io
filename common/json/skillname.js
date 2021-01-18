@@ -8048,6 +8048,14 @@ window.skillname=[
           "name": "火遁・蝦蟇油炎弾"
         },
         {
+          "cardBattleSkillNameId": "3224",
+          "name": "獣乱螺旋丸"
+        },
+        {
+          "cardBattleSkillNameId": "3225",
+          "name": "止めるって言ってんだ！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

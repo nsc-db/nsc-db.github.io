@@ -26671,5 +26671,39 @@ window.gear=[
           "crystalImageId": "401065",
           "recipeId": "40106",
           "recipeName": "余人への憎悪"
+        },
+        {
+          "crystalId": "40107",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1958",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1958,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ナルトのサンダル（少年篇）",
+          "crystalDescription": "3回行動までスキル発動速度1段階アップ",
+          "crystalImageId": "401075",
+          "recipeId": "40107",
+          "recipeName": "ナルトのサンダル（少年篇）"
+        },
+        {
+          "crystalId": "40108",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "1115",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1115,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ナルトのポーチ（少年篇）",
+          "crystalDescription": "バトル開始時チャクラ50％回復",
+          "crystalImageId": "401085",
+          "recipeId": "40108",
+          "recipeName": "ナルトのポーチ（少年篇）"
         }
 ]

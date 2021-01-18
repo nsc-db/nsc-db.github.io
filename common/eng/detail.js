@@ -1,5 +1,33 @@
 window.detail=[
 {
+          "id": 20070105,
+          "name": "Naruto Uzumaki",
+          "subtext": "Desire to Protect",
+
+          "lead": "ATK, DEF, SPD +80%, Cast Speed +1 to All Characters if there's a Sasuke ally or enemy",
+
+          "s1n": "Beast Rasengan",
+          "s1": "Deal 3% + 750,000 to all enemies and Guarantee Skip. Deal 1 Hit 3% + 650,000 Additional Attack and Chance to Ignore Withstand, Revive and Immortality. (Always Hit)",
+          "s1ntr": "Wind",
+          "s1cs": "Fastest",
+          "s1c": 190,
+
+          "s2n": "I'm Telling You to Stop It!!",
+          "s2": "Recover 1,500,000 HP and Skill Damage +200% to self. High chance for SPD +999% if there's a Non-Konoha enemy. Ignore Resistance and Skill Dodge and inflict 'Intimidate' State to all enemies. [Intimidate: SPD -200% and Cast Speed -1]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 120,
+
+          "a1n": "Hidden Power",
+          "a1": "Guarantee Instant Action and Chance to Inflict 'Intimidate' State when Attacked by a Non-Konoha. Guarantee Inflict 'Intimidate' State and Paralysis to All enemies Upon Death",
+
+          "a2n": "Friendly Howl",
+          "a2": "Grant First Strike and Chakra Cost is Set to 0 if there's a Sasuke ally or enemy. Withstand +5. Chakra +100",
+
+          "a3n": "Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black"
+      },
+{
           "id": 20060901,
           "name": "Kurotsuchi",
           "subtext": "Stone to Build The Next Generation",
@@ -111,7 +139,7 @@ window.detail=[
           "a3n": "Blue Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Blue"
       },
-{
+      {
           "id": 20060905,
           "name": "Kakashi Hatake",
           "subtext": "Future Entrusted Eye",
@@ -139,7 +167,7 @@ window.detail=[
           "a3n": "Red Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Red"
       },
-{
+      {
           "id": 20060906,
           "name": "Pain",
           "subtext": "Those Who Wish for Peace",
@@ -167,7 +195,7 @@ window.detail=[
           "a3n": "Blue Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Blue"
       },
-{
+      {
           "id": 20060907,
           "name": "Konan",
           "subtext": "Paper Manipulator",
