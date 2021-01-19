@@ -26705,5 +26705,39 @@ window.gear=[
           "crystalImageId": "401085",
           "recipeId": "40108",
           "recipeName": "ナルトのポーチ（少年篇）"
+        },
+        {
+          "crystalId": "40109",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "13059",
+          "effectIdx2": "1115",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "13059,1115,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ミナトの脚絆",
+          "crystalDescription": "素早さ60%アップ、バトル開始時にチャクラ50%回復",
+          "crystalImageId": "401095",
+          "recipeId": "40109",
+          "recipeName": "ミナトの脚絆"
+        },
+        {
+          "crystalId": "40110",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "3677",
+          "effectIdx2": "3676",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "3677,3676,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "ミナトのホルスター",
+          "crystalDescription": "低確率でスキップ・キャンセル無効",
+          "crystalImageId": "401105",
+          "recipeId": "40110",
+          "recipeName": "ミナトのホルスター"
         }
 ]

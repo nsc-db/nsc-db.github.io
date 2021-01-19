@@ -8056,6 +8056,14 @@ window.skillname=[
           "name": "止めるって言ってんだ！！"
         },
         {
+          "cardBattleSkillNameId": "3228",
+          "name": "雷翔螺旋丸"
+        },
+        {
+          "cardBattleSkillNameId": "3229",
+          "name": "どっちが速いかで決まる！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

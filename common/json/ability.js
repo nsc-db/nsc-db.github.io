@@ -27000,6 +27000,26 @@ window.ability=[
           "effectIds": "3644,3645,1512,20009,"
         },
         {
+          "abilityId": "2756",
+          "abilityName": "飛雷神継承者",
+          "abilityDescription": "自身のスキル発動速度が常に閃光化。敵に無所属が生存時バトル開始&amp;被攻撃時に自身を閃光モード零式状態にする",
+          "abilityEffectDescription": "自身のスキル発動速度が常に閃光化。敵に無所属が生存時バトル開始&amp;被攻撃時に自身を閃光モード零式状態にする",
+          "effectIdx1": "3467",
+          "effectIdx2": "3673",
+          "effectIdx3": "3683",
+          "effectIds": "3467,3673,3683,"
+        },
+        {
+          "abilityId": "2757",
+          "abilityName": "螺旋丸考案者",
+          "abilityDescription": "HP0以下で2回HP全回復、行動毎に素早さ50%アップ（最大500%）、超・創・滅キャラからのダメージ50%カット",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、行動毎に素早さ50%アップ（最大500%）、超・創・滅キャラからのダメージ50%カット",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3674",
+          "effectIds": "1057,874,3674,2708,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -28918,6 +28938,16 @@ window.ability=[
           "effectIdx2": "228050",
           "effectIdx3": "229404",
           "effectIds": "229004,228050,229404,228450,"
+        },
+        {
+          "abilityId": "200012",
+          "abilityName": "体属性特化・守護",
+          "abilityDescription": "体属性にスキル攻撃時相手の耐性を弱点化&amp;自身と班の技属性以外のキャラが体属性からのダメージ50%カット",
+          "abilityEffectDescription": "体属性にスキル攻撃時相手の耐性を弱点化&amp;自身と班の技属性以外のキャラが体属性からのダメージ50%カット",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "3679",
+          "effectIds": "229204,228250,3679,3680,3681,3682,"
         },
         {
           "abilityId": "210001",
