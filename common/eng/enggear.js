@@ -465,7 +465,7 @@ window.enggear=[
           "name": "Temari's Folding Fan Latch",
           "effect": "SPD +30% every turn (Max 150%), Chakra +50, Cast Speed +1",
           "normal": "SPD +10% every turn (Max 50%)",
-          "charaIds": "1503",
+          "charaIds": "1403",
           "cardIds": "0",
           "charaGroupIds": "0"
      },		 
@@ -475,7 +475,7 @@ window.enggear=[
           "name": "Fan that Opens the Future",
           "effect": "Chance for an Extra Turn, Cancel and Debuff Immunity",
           "normal": "Chance for an Extra Turn, HP and Chakra -50% every turn",
-          "charaIds": "1503",
+          "charaIds": "1403",
           "cardIds": "0",
           "charaGroupIds": "0"
      },			 
