@@ -3029,6 +3029,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "308",
+          "category": "4",
+          "iconId": "1361",
+          "name": "閃光モード零式",
+          "description": "スキル回避ｱｯﾌﾟ。自身以外がｱｸｼｮﾝ時確率ｶｯﾄｲﾝ（敵の無所属には確実）ｶｯﾄｲﾝ時素早ｱｯﾌﾟ。被ｽｷﾙ攻撃時反撃",
+          "subScore": "0",
+          "color": "16776991",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "309",
           "category": "5",
           "iconId": "0",

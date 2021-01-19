@@ -454,6 +454,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "4134",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "先生のバースディライフ",
+          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "4135",
           "worldAreaId": "5",
           "priority": "3",

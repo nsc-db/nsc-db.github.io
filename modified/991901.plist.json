@@ -1319,6 +1319,18 @@
           "specialPanelList": "9100016,9100017,9100018,9100040"
         },
         {
+          "sphereBoardId": "50050",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "波風ミナト【翔空の旋闘者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070106",
+          "normalPanelList": "9100007,9100008,9100009,9100035",
+          "specialPanelList": "9100010,9100011,9100012,9100036"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",

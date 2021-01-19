@@ -10354,6 +10354,16 @@
           "gachaTicketImgId": "4701"
         },
         {
+          "gachaTicketId": "4702",
+          "gachaTicketName": "ナルコレ総選挙2020 ★7確定ガチャチケット",
+          "gachaTicketImgId": "4702"
+        },
+        {
+          "gachaTicketId": "4703",
+          "gachaTicketName": "ナルコレ総選挙2020 ★6確定ガチャチケット",
+          "gachaTicketImgId": "4703"
+        },
+        {
           "gachaTicketId": "4704",
           "gachaTicketName": "2020年★7確定ガチャチケット",
           "gachaTicketImgId": "4704"
@@ -10519,6 +10529,11 @@
           "gachaTicketImgId": "4737"
         },
         {
+          "gachaTicketId": "4738",
+          "gachaTicketName": "ミナト忍具ガチャチケット",
+          "gachaTicketImgId": "4738"
+        },
+        {
           "gachaTicketId": "4739",
           "gachaTicketName": "マダラ忍具ガチャチケット",
           "gachaTicketImgId": "4739"
@@ -10662,6 +10677,26 @@
           "gachaTicketId": "4779",
           "gachaTicketName": "新・六道忍具ガチャチケット",
           "gachaTicketImgId": "4254"
+        },
+        {
+          "gachaTicketId": "4780",
+          "gachaTicketName": "波風ミナト誕生記念・極ガチャチケット",
+          "gachaTicketImgId": "4780"
+        },
+        {
+          "gachaTicketId": "4781",
+          "gachaTicketName": "親子の絆・確定ガチャチケット",
+          "gachaTicketImgId": "4781"
+        },
+        {
+          "gachaTicketId": "4782",
+          "gachaTicketName": "波風ミナト誕生記念ガチャチケット",
+          "gachaTicketImgId": "4782"
+        },
+        {
+          "gachaTicketId": "4783",
+          "gachaTicketName": "神忍・破神確定 -波風ミナト誕生記念-",
+          "gachaTicketImgId": "4783"
         },
         {
           "gachaTicketId": "4786",

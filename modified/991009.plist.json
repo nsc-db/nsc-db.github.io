@@ -3017,6 +3017,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "512",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "513",
           "itemName": "個人Pt",
           "measure": "0",
@@ -4091,10 +4097,28 @@
           "itemImgId": "2098"
         },
         {
+          "shopExchangeItemId": "2104",
+          "itemName": "ナルコレ総選挙2020 忍交換券・極",
+          "measure": "0",
+          "itemImgId": "2104"
+        },
+        {
+          "shopExchangeItemId": "2105",
+          "itemName": "ナルコレ総選挙2020 忍交換券・特別",
+          "measure": "0",
+          "itemImgId": "2105"
+        },
+        {
           "shopExchangeItemId": "2106",
           "itemName": "忍交換券",
           "measure": "0",
           "itemImgId": "2106"
+        },
+        {
+          "shopExchangeItemId": "2108",
+          "itemName": "ランキング忍具交換券(2月5日23:59まで)",
+          "measure": "0",
+          "itemImgId": "2098"
         },
         {
           "shopExchangeItemId": "2500",
