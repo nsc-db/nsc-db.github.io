@@ -1,5 +1,285 @@
 window.detail=[
 {
+          "id": 20060802,
+          "name": "Deidara",
+          "subtext": "Flawless Art",
+
+          "lead": "Akatsuki Characters: 1 Turn: Set Chakra Cost to 0, After 2 Turns: Chakra Cost -50%",
+
+          "s1n": "Large Scale Masterpiece: C3",
+          "s1": "Deal 3% + 430,000 to all enemies. Chance to Inflict 'Skip'. If it's an EX enemy: Deal 3x damage. If it's a Non-Akatsuki enemy: Deal 2x damage",
+          "s1ntr": "Secret",		  
+          "s1cs": "Fastest",
+          "s1c": 65,
+
+          "s2n": "Ah, In Range, Yes!",
+          "s2": "Enemies' DEF and Skill Damage -100%. Grant 'Scattered Explosion' State to self. If there's an EX enemy: Recover 100 Chakra to Akatsuki allies. [Scattered Explosion: Chance to grant 'Dragon Explosion [Yellow/Blue/Red/Black/White]'] [Dragon Explosion [Yellow/Blue/Red/Black/White]: Type Advantage to Corresponding Type. Deal 7% + 50,000 Counterattack Damage when attacked and high chance to Cancel 'Dragon Explosion' State]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 90,
+
+          "a1n": "Detonating Clay Model",
+          "a1": "If there's an EX enemy: Grant 'Scattered Explosion' State. SPD +150% and Damage Cut +50%",
+
+          "a2n": "Superb Moment",
+          "a2": "1 Turn: Skill Immunity, Withstand +1, Skill Damage +100% upon Withstanding",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
+          "id": 20060803,
+          "name": "Hagoromo Otsutsuki",
+          "subtext": "Seeking Peace",
+
+          "lead": "All Characters: If there's a Naruto ally: Chance for Damage Cut +50% and Skill Damage +80%",
+
+          "s1n": "Dredge Fist Thunderstorm",
+          "s1": "Deal 7% + 500,000 to target enemy. Grant 'Cooperation' State to self. If under 'Cooperation' State: Deal 6 Additional Attacks dealing 66,666 Fixed Damage. [Cooperation: Grant Instant Action to Naruto ally] (Always Hit)",
+          "s1ntr": "Unique",		  
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "Be Prepared",
+          "s2": "Party Skill Damage +100%. Grant 'Moon Ring' State to self. If there's an Origin enemy: Grant 'Moon Ring' to Party. [Moon Ring: Incoming Skill Damage -50%. Recover 30% HP and Chakra when Attacked]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Determined Spirit of Rebellion",
+          "a1": "If there's a Naruto ally: Grant Multi Immunity (Status Effect, Genjutsu, Negative Special State and Insta Kill Immunity) to Party",
+
+          "a2n": "Toad's Hidden Treasure",
+          "a2": "Start the Battle with 100% Chakra, Withstand +2, If there's a Sasuke: Grant First Strike",
+
+          "a3n": "Red Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red"
+      },
+{
+          "id": 20060804,
+          "name": "Hamura Otsutsuki",
+          "subtext": "Brother Supporting Peace",
+
+          "lead": "If there's a None enemy: Chance for Instant Action when Attacked",
+
+          "s1n": "Thundercrash Fist",
+          "s1": "Deal 7% + 700,000 to target enemy. High Chance to Inflict 'Moon Seal' State. If the enemy is under 'Moon Seal' State: High Chance to Insta-Kill. [Moon Seal: Action is Disabled. HP -10% per turn] (Always Hit)",
+          "s1ntr": "Unique",		  
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "I'll Go Too",
+          "s2": "Party SPD +100%. Grant 'Fate' State to self. If there's an Origin enemy: Grant 'Fate' State to Party. [Fate: Skill Damage +100%, Cast Speed +1, Withstand +1 and Skill Immunity]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Prepared Together",
+          "a1": "If there's a Konoha or None enemy: Chance to Inflict 'Moon Seal' to all enemies (Increase Chance if both exist)",
+
+          "a2n": "Heart's True Feeling",
+          "a2": "Start the Battle with 100% Chakra, Withstand +2, If there's a Naruto ally: Chance for an Extra Turn",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
+          "id": 20060805,
+          "name": "Kaguya Otsutsuki",
+          "subtext": "Brilliant Goddest of Destruction",
+
+          "lead": "None Characters: Cast Speed +1 and 3 Turns: SPD +333",
+
+          "s1n": "Kekkei Mora: Stream of Blood",
+          "s1": "Deal 3% + 999,999 to all enemies. Deal 3 Additional Attacks dealing 3% + 333,333 to a random enemy. If the enemy is under 'God Byakugan' God State: Deal 6x or 66x Damage. (Always Hit)",
+          "s1ntr": "Unique",		  
+          "s1cs": "Fast",
+          "s1c": 150,
+
+          "s2n": "You Are Mine",
+          "s2": "Deal 666,666 Fixed Damage to all enemies. Chance to inflict 'God Byakugan' God State, SPD and Skill Damage -66% and Skip. Guarantee Inflict 'God Byakugan' God State to a random enemy. [God Byakugan: Remove and Immune to Positive Special and God State. Deal 7% + 333,333 to all allies per turn. High Chance to Insta Kill self when this God State is removed] (Always Hit)",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 210,
+
+          "a1n": "Founder of the World",
+          "a1": "Chance for First Strike (Increase chance if there's a Naruto or Sasuke enemy), Revive +1, Chakra +200",
+
+          "a2n": "End of the Story",
+          "a2": "3 Turns: Skill Immunity and Fixed Damage Deals 0 Damage, 1 Turn: Set Chakra Cost to 0, Damage Cut +50% against EX, Destroyer and Origin",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
+          "id": 20060806,
+          "name": "Kaguya Otsutsuki",
+          "subtext": "Beautiful Wicked Eyes",
+
+          "lead": "If there's a God enemy: Chance to Change the Terrain to 'Goddess Second Coming'",
+
+          "s1n": "Rabbit Needle Hair: What Other Reason",
+          "s1": "Deal 3% + 999,999 to all enemies. Chance to Insta Kill God enemies. If there's a Terrain up: Enemy Chakra -100. (Always Hit)",
+          "s1ntr": "Unique",		  
+          "s1cs": "Fast",
+          "s1c": 180,
+
+          "s2n": "The Story of Mother's Revival",
+          "s2": "Own Skill Damage +100%. Chance for 1 Turn: SPD +666%. Change the Terrain to 'Goddess Second Coming'. [Goddess Second Coming: Enemy: Low Chance to Insta Kill when attacked, HP, Chakra, ATK, DEF, SPD and Skill Damage -15% per turn (Max 660%). Terrain Lock]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 240,
+
+          "a1n": "Fulfillment of the Black Wish",
+          "a1": "If there's a God or GK enemy: Grant 'Disable Terrain Effect' Effect to Party and 'Disable Positive God and Special State' Effect to all enemies",
+
+          "a2n": "Flawless White Tyrant",
+          "a2": "Terrain Immunity, Chakra +200, If there's a God enemy: SPD and Skill Damage +200%",
+
+          "a3n": "Red Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red"
+      },
+{
+          "id": 20060807,
+          "name": "Temari",
+          "subtext": "Folding Fan's Destruction Princess",
+
+          "lead": "Konoha and Suna Characters: SPD and Skill Damage +80%",
+
+          "s1n": "Wind Style: Fan Network Demolition",
+          "s1": "Deal 3% + 500,000 to all enemies. High Chance to Inflict 'Skip'. Inflict 'Paralysis'. Grant 'Great Wind' State to Konoha and Suna allies. Deal more damage the Higher Temari's HP (Max 3x). [Great Wind: Damage Cut +75%]",
+          "s1ntr": "Wind",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "Please!",
+          "s2": "Recover 540,000 HP and 100 Chakra to Party. Grant 'Gust' State to Suna and Konoha ailes. Chance to Remove Party Negative Special State. [Gust: SPD and Skill Damage +100%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 75,
+
+          "a1n": "Whirlwind Protection",
+          "a1": "HP and Chakra Recovery +30%, SPD +60% per Suna ally (Max 300%)",
+
+          "a2n": "Wind Noble",
+          "a2": "Withstand +2, If there's a Destroyer enemy: Insta-Cast Skill 2",
+
+          "a3n": "White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against White"
+      },
+{
+          "id": 20060808,
+          "name": "Kankuro",
+          "subtext": "Next Generation's Performer",
+
+          "lead": "Suna Characters: 1 Turn: Negative Special State Immunity and Cast Speed +1",
+
+          "s1n": "Puppet Jutsu: Uncanny Performance",
+          "s1": "Deal 7% + 500,000 to target enemy. Chance to Inflict Cancel (If it's a Destroyer enemy: Guarantee Inflict). If the enemy is under 'Bind' State: Deal 3 Additional Attacks dealing 7% + 500,000. (Always Hit)",
+          "s1ntr": "Weapon",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "Secrecy...",
+          "s2": "Party SPD +100%. If there's a Destroyer enemy: Remove Enemies' Positive Special State and High chance to Inflict 'Bind' State. [Bind: Skill Damage and SPD -100%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 75,
+
+          "a1n": "Prepared to Slaughter",
+          "a1": "Withstand +3, Chance to Inflict 'Block' State to all enemies upon Withstanding, [Block: Skills are Disabled]",
+
+          "a2n": "Love for Siblings",
+          "a2": "If there's a Destroyer enemy: Ignore Resistance and Infilct 'Cast Speed -2' to all enemies",
+
+          "a3n": "Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black"
+      },
+{
+          "id": 20060809,
+          "name": "Gaara",
+          "subtext": "Sandstorm Guardian",
+
+          "lead": "Konoha and Suna Characters: SPD +90% and Cast Speed +1",
+
+          "s1n": "Sand Prison: Sand Coffin",
+          "s1": "Deal 1,400,000 to all enemies. If the enemy is under 'Sandstorm' God State: Deal 3 Additional Attacks dealing 3% + 450,000. Remove Enemies' Positive Special State. (Always Hit)",
+          "s1ntr": "Unique",
+          "s1cs": "Fast",
+          "s1c": 190,
+
+          "s2n": "One With the Sand",
+          "s2": "Own DEF +500% and SPD +100%. Recover 5,000,000 HP and Grant 'Absolute Defense' State to self. Protect Party from Single Target Skills. Grant All Enemies and Party 'Sandstorm' God State. [Sandstorm: Party: SPD +100%, Chance to Destroy Enemy Terrain when using a Skill. Enemy: SPD -100%, chance to Disable Action] [Absolute Defense: HP and DEF +1,000%. Immune to All Skills except for Fixed Damage]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 160,
+
+          "a1n": "Sand Surge",
+          "a1": "Chance to Inflict 'Sandstorm' God State to All Enemies and Party (If there's a Suna, Konoha or Akatsuki enemy: Guarantee Inflict), Chakra +180",
+
+          "a2n": "Graceful Sand",
+          "a2": "Revive +2, Damage Cut +50% against EX, Destroyer and Origin,  If there's a Akatsuki enemy: Fixed Damage Deals 0 Damage",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue"
+      },
+{
+          "id": 20060810,
+          "name": "Obito Uchiha",
+          "subtext": "Obscure Limit",
+
+          "lead": "None Characters: Cast Speed +1, SPD +50% and 5 Turns: Skip Immunity",
+
+          "s1n": "Wood Style: Wooden Funeral Cavern",
+          "s1": "Deal 1,300,000 Fixed Damage to a target enemy. Ignore Resistance and Skill Dodge and Inflict 'Hell' State to Konoha enemies. Deal 5 Additional Attacks dealing 250,000 Fixed Damage while under 'Fate' State. [Hell: Chakra Cost +40%. HP and Chakra -40% per turn]",
+          "s1ntr": "Wood",
+          "s1cs": "Fast",
+          "s1c": 90,
+
+          "s2n": "I'll Create a World Where You Exist",
+          "s2": "Own SPD +200%. Grant 'Fate' State. Change the Terrain to 'Pledge to the Blood Moon'. [Pledge to the Blood Moon: Party: When Using or Recieving a Skill, chance to Cancel and Skip all enemies. Damage Limit is set to 1,500,000] [Fate: Skill Damage +300%, Cast Speed +2, Withstand +1 and Immune to All Skills]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 90,
+
+          "a1n": "Sorrow Blood Rain",
+          "a1": "If there's a God enemy: SPD +444%. If there's a Konoha enemy: Grant 'Fate' State to self",
+
+          "a2n": "Hashirama's Artificial Body",
+          "a2": "Revive +5, Low Chance to Inflict Seal when attacked, High Chance for Insta Kill Immunity, Grant Instant Action upon Withstanding",
+
+          "a3n": "White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against White"
+      },
+{
+          "id": 20060811,
+          "name": "Tsunade",
+          "subtext": "Determination to Inherit The Will",
+
+          "lead": "Konoha Characters: HP and Skill Damage +80%",
+
+          "s1n": "Rigid Iron Fist",
+          "s1": "Deal 7% + 70,000 to target enemy. Chance to Inflict 'Melt' State. If the enemy is under 'Melt' State:  Deal 2x more damage. [Melt: SATK and DEF -50%, Remove and Immune to Postive and Negative Special States, HP reduced per turn]",
+          "s1ntr": "Taijutsu",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "Don't Be A Good Man...",
+          "s2": "Recover 100,000 HP to Party. Konoha allies' ATK, DEF and SPD +100%.",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Outstanding Medical Ninjutsu",
+          "a1": "Chance to Dodge Skills, Revive +1",
+
+          "a2n": "Bet On Hope",
+          "a2": "HP Recovery +20%, Debuff and Status Effect Duration -50%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
           "id": 20070105,
           "name": "Naruto Uzumaki",
           "subtext": "Desire to Protect",

@@ -130,11 +130,21 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
+          "id": 203085,
+          "type": "Skill",
+          "name": "Thoughts of Minato",
+          "effect": "Skill Damage and SPD +60%, 2 Turns: Cast Speed +1",
+          "normal": "1 Turn: Cast Speed +1",
+          "charaIds": "4301,4302",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 	 
+{
           "id": 204175,
           "type": "Resistance",
           "name": "Team 8's Bond",
           "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 8 Turns: Chance for Skill Immunity",
-          "normal": "Skill, Debuff and Status Effect Reduction",
+          "normal": "Incoming Skill Damage, Debuff and Status Effect Reduction",
           "charaIds": "701,702,703,704,801,802,901,902",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -144,7 +154,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Asuma's Gift",
           "effect": "10 Turns: Debuff and Status Effect Immunity, Cast Speed +1, Low Chance for Skill Immunity",
-          "normal": "Skill, Debuff and Status Effect Reduction",
+          "normal": "Incoming Skill Damage, Debuff and Status Effect Reduction",
           "charaIds": "401,402,403,501,502,503,601,602,603",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -216,6 +226,16 @@ window.enggear=[
           "effect": "SPD +30% per Konoha Ally (Max 120%) and Cast Speed +1",
           "normal": "SPD +30%",
           "charaIds": "901,902",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 303085,
+          "type": "Skill",
+          "name": "Orochimaru's Clothes",
+          "effect": "HP <50%: Skill Damage and SPD +80%, 2 Turns: Skip Immunity",
+          "normal": "HP <50%: Skill Damage and SPD +40%",
+          "charaIds": "10305",
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
@@ -337,6 +357,186 @@ window.enggear=[
           "normal": "White Characters: Start the Battle with 50% Chakra and Sage, Six Paths and Space-Time Skill Damage +80%",
           "charaIds": "0",
           "cardIds": "20050408,20041103,20040702",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 308015,
+          "type": "Resistance",
+          "name": "Left Hand Clay Production",
+          "effect": "5 Turns: Skip and Cancel Immunity, Incoming Skill Damage -50%",
+          "normal": "1 Turn: Chance for Skip and Cancel Immunity",
+          "charaIds": "12001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308025,
+          "type": "Chakra",
+          "name": "Detonating Clay C3",
+          "effect": "3 Turns: Set Chakra Cost to 0, After 4 Turns: Chakra Cost -50%, Skill Damage and SPD +100%",
+          "normal": "1 Turn: Set Chakra Cost to 0",
+          "charaIds": "12001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308035,
+          "type": "Stats",
+          "name": "Spirit of Rebellion's Rinnegan",
+          "effect": "HP, SPD and Skill Damage +100%, Cast Speed +1",
+          "normal": "HP and SPD +50%",
+          "charaIds": "14601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308045,
+          "type": "Resistance",
+          "name": "Will to Challange The Decisive Battlle",
+          "effect": "Debuff and Status Effect Immunity, 2 Turns: Fixed Damage Deals 0 Damage",
+          "normal": "Debuff and Status Effect Duaration -50%",
+          "charaIds": "14601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },			 
+{
+          "id": 308055,
+          "type": "Stats",
+          "name": "Hamura's Byakugan",
+          "effect": "HP, SPD and Skill Damage +100%, Cast Speed +1",
+          "normal": "HP and SPD +50%",
+          "charaIds": "14701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308065,
+          "type": "Resistance",
+          "name": "Will to Revolt",
+          "effect": "Debuff and Status Effect Immunity, 2 Turns: Fixed Damage Deals 0 Damage",
+          "normal": "Debuff and Status Effect Duaration -50%",
+          "charaIds": "14701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },			 
+{
+          "id": 308075,
+          "type": "Stats",
+          "name": "Craving for Power",
+          "effect": "1 Turn: Damage Cut +75%, SPD and Skill Damage +150%, Cast Speed +2",
+          "normal": "1 Turn: Damage Cut +50%, HP -30%",
+          "charaIds": "14301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308085,
+          "type": "Resistance",
+          "name": "Admiration for The 'Rabbit Goddess'",
+          "effect": "3 Turns: High Chance for Terrain Immunity, HP and Chakra Recovery +25%",
+          "normal": "HP and Chakra Recovery +15%",
+          "charaIds": "14301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },			 
+{
+          "id": 308095,
+          "type": "Resistance",
+          "name": "Welcoming The End",
+          "effect": "3 Turns: High Chance for Negative Special State Immunity, HP and Chakra Recovery +25%",
+          "normal": "HP and Chakra Recovery +15%",
+          "charaIds": "14301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308105,
+          "type": "Chakra",
+          "name": "Black Zetsu Was Created",
+          "effect": "2 Turns: Set Chakra Cost to 0, After 3 Turns: Chakra Cost -50%, If there's a Konoha enemy: SPD +150%",
+          "normal": "Chakra Cost -50%",
+          "charaIds": "14301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 	 
+{
+          "id": 308115,
+          "type": "Stats",
+          "name": "Temari's Folding Fan Latch",
+          "effect": "SPD +30% every turn (Max 150%), Chakra +50, Cast Speed +1",
+          "normal": "SPD +10% every turn (Max 50%)",
+          "charaIds": "1503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308125,
+          "type": "Additional",
+          "name": "Fan that Opens the Future",
+          "effect": "Chance for an Extra Turn, Cancel and Debuff Immunity",
+          "normal": "Chance for an Extra Turn, HP and Chakra -50% every turn",
+          "charaIds": "1503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },			 
+{
+          "id": 308135,
+          "type": "Resistance",
+          "name": "Wooden Backpack",
+          "effect": "Debuff and Status Effect Immunity, 3 Turns: High Chance to Dodge Skills",
+          "normal": "Debuff and Status Effect Duration -50%",
+          "charaIds": "1503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308145,
+          "type": "Stats",
+          "name": "Black Ant Puppet",
+          "effect": "HP and Skill Damage +120%, 2 Turns: Set Chakra Cost to 0 and SPD +100%",
+          "normal": "HP and SPD +40%",
+          "charaIds": "1503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308155,
+          "type": "Resistance",
+          "name": "Sand That Protects the Village",
+          "effect": "3 Turns: Negative Special State Immunity, Cast Speed +1",
+          "normal": "1 Turn: Chance for Negative Special State Immunity",
+          "charaIds": "1305",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308165,
+          "type": "Chakra",
+          "name": "Will to Protect the Connection",
+          "effect": "Start the Battle with 50% Chakra, Chakra Cost -50%, ATK, DEF and SPD +80%",
+          "normal": "Start the Battle with 50% Chakra",
+          "charaIds": "1305",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 	 
+{
+          "id": 308175,
+          "type": "Skill",
+          "name": "Dear Corpse",
+          "effect": "Cast Speed +2, Skill Damage +50%, Chakra Recovery +60%",
+          "normal": "Cast Speed +1",
+          "charaIds": "50907",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 308185,
+          "type": "Chakra",
+          "name": "Guruguru Armor",
+          "effect": "2 Turns: Set Chakra Cost to 0, Cast Speed +1, SPD +100%",
+          "normal": "1 Turn: Set Chakra Cost to 0",
+          "charaIds": "50907",
+          "cardIds": "0",
           "charaGroupIds": "0"
      },	 
 {
