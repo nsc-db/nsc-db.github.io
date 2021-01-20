@@ -20,6 +20,16 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
+          "id": 3075,
+          "type": "Chakra",
+          "name": "The Leaked Nine Tails' Chakra",
+          "effect": "Chakra +50, Skill Damage +50%",
+          "normal": "Chakra +50, HP -10% every turn",
+          "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
           "id": 3345,
           "type": "Skill",
           "name": "Ino's Hair Clip",
@@ -49,6 +59,16 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
+	 {
+          "id": 4015,
+          "type": "Additional",
+          "name": "Six Paths Platform",
+          "effect": "None",
+          "normal": "4 Turns: 'Lava Field' Terrain Immunity",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
 {
           "id": 4425,
           "type": "Additional",
@@ -129,6 +149,16 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
+	 {
+          "id": 203075,
+          "type": "Skill",
+          "name": "Thoughts of Kushina",
+          "effect": "Skill Damage and SPD +80%, 2 Turns: Chakra Cost -50%",
+          "normal": "Skill Damage and SPD +50%",
+          "charaIds": "2101,2102,2103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
 {
           "id": 203085,
           "type": "Skill",
@@ -138,7 +168,17 @@ window.enggear=[
           "charaIds": "4301,4302",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 	 
+     },	 
+{
+          "id": 204015,
+          "type": "Additional",
+          "name": "Kakashi's Susanoo Netsuke",
+          "effect": "HP and Skill Damage +100%, High Chance to Dodge Skills, Chakra Recovery +30%",
+          "normal": "HP and Sharingan Skill Damage +50%",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
 {
           "id": 204175,
           "type": "Resistance",
@@ -229,6 +269,16 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
+	 {
+          "id": 303075,
+          "type": "Chakra",
+          "name": "Fifth Hokage's Will of Fire",
+          "effect": "Chakra +100, Start the Battle with 50% Chakra, Cast Speed +1",
+          "normal": "Start the Battle with 30% Chakra",
+          "charaIds": "2306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
 {
           "id": 303085,
           "type": "Skill",
@@ -239,6 +289,16 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
+	 {
+          "id": 304015,
+          "type": "Stats",
+          "name": "Shikamaru's Headband",
+          "effect": "ATK and DEF +120%, SPD +80%",
+          "normal": "ATK, SPD and DEF +120%",
+          "charaIds": "402",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
 {
           "id": 304245,
           "type": "Resistance",
@@ -270,6 +330,46 @@ window.enggear=[
           "charaGroupIds": "0"
      },	 
 {
+          "id": 307015,
+          "type": "Stats",
+          "name": "Neji's Jacket",
+          "effect": "HP, DEF and Skill Damage +100%",
+          "normal": "HP, DEF and Skill Damage +40%",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 	 
+{
+          "id": 307025,
+          "type": "Resistance",
+          "name": "Forehead Curse Seal",
+          "effect": "Chance for Incoming Skill Damage -50% and Fixed Damage deals 0 Damage, Cast Speed +1",
+          "normal": "Chance for Incoming Skill Damage -50%, Cast Speed -1",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 	 
+{
+          "id": 307035,
+          "type": "Resistance",
+          "name": "Mount Myoboku's Vegetation",
+          "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 2 Turns: Fixed Damage Deals 0 Damage",
+          "normal": "Debuffs and Status Effect Duration -50%",
+          "charaIds": "106",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 	 
+{
+          "id": 307045,
+          "type": "Chakra",
+          "name": "Hinata's Swimsuit",
+          "effect": "Chakra +72, 5 Turns: Chakra Recovery +72%",
+          "normal": "Chakra +72",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
           "id": 307055,
           "type": "Additional",
           "name": "Crab",
@@ -287,6 +387,96 @@ window.enggear=[
           "normal": "1 Turn: Low Chance for Skill Immunity",
           "charaIds": "0",
           "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710",
+          "charaGroupIds": "0"
+     },	
+	 {
+          "id": 307075,
+          "type": "Additional",
+          "name": "Kushina's One Piece",
+          "effect": "1 Turn: Skill Immunity and Set Chakra Cost to 0, Chakra Recovery +50%, SPD +70%",
+          "normal": "1 Turn: Chakra Cost -50% and Incoming Skill Damage -50%",
+          "charaIds": "4303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	 	 	 	 {
+          "id": 307085,
+          "type": "Skill",
+          "name": "Kushina's Red Hair",
+          "effect": "Skill Damage +180%, Recovers 30% HP upon Withstanding",
+          "normal": "Skill Damage +50%",
+          "charaIds": "4303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+	 	 	 	 {
+          "id": 307095,
+          "type": "Additional",
+          "name": "Wooden Fist",
+          "effect": "Skill Damage +100%, SPD +80% Chakra Recovery +30%",
+          "normal": "2 Turns: Cast Speed +1 and Skill Damage +50%",
+          "charaIds": "1902",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	 	 	 	 {
+          "id": 307105,
+          "type": "Chakra",
+          "name": "Sasuke's Lightning Style",
+          "effect": "2 Turns: Set Chakra Cost to 0, After 2 Turns: Chakra Cost -50%, Chakra Recovery +30%",
+          "normal": "1 Turn: Set Chakra Cost to 0, Chakra Recovery +10%",
+          "charaIds": "215",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+	 	 	 {
+          "id": 307115,
+          "type": "Skill",
+          "name": "Sasuke's Sandals (Shinden)",
+          "effect": "Cast Speed +1, Skill Damage +100%, SPD +200% when attacked",
+          "normal": "2 Turns: Cast Speed +1 and Skill Damage +50%",
+          "charaIds": "215",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	 	 	 {
+          "id": 307125,
+          "type": "Skill",
+          "name": "Masked Man's Sword",
+          "effect": "Skill Damage +150%, Cast Speed +1, If there's a GK enemy: SPD +200%",
+          "normal": "Skill Damage +80%",
+          "charaIds": "14001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+	 	 	 {
+          "id": 307135,
+          "type": "Chakra",
+          "name": "Chain Connecting Fan",
+          "effect": "2 Turns: Set Chakra Cost to 0, SPD +80%",
+          "normal": "3 Turns: High Chance to Dodge Skills",
+          "charaIds": "50902",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+	 	 {
+          "id": 307145,
+          "type": "Resistance",
+          "name": "Sakura's Holster",
+          "effect": "5 Turns: High Chance to Dodge Skills, SPD +55%, Cast Speed +1",
+          "normal": "3 Turns: High Chance to Dodge Skills",
+          "charaIds": "302",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+	 {
+          "id": 307155,
+          "type": "Resistance",
+          "name": "Ninjutsu Scroll",
+          "effect": "5 Turns: Debuff and Status Effect Immunity, SPD +55%, Cast Speed +1",
+          "normal": "3 Turns: Debuff and Status Effect Immunity",
+          "charaIds": "1702",
+          "cardIds": "0",
           "charaGroupIds": "0"
      },	
      {
