@@ -1,5 +1,33 @@
 window.detail=[
 {
+          "id": 20070106,
+          "name": "Minato Namikaze",
+          "subtext": "Soaring Sky Fighter",
+
+          "lead": "Konoha Characters: Cast Speed +1 and SPD +150%",
+
+          "s1n": "Soaring Lightning Rasengan",
+          "s1": "Deal 3% + 1,010,000 to all enemies. Deal 5 Additional Attacks dealing 3% + 101,000. If it's an None enemy: Deal 5 Additional Attacks dealing 3% + 101,000.",
+          "s1ntr": "Unique",		  
+          "s1cs": "Fastest",
+          "s1c": 100,
+
+          "s2n": "Who's Faster!",
+          "s2": "Own SPD +300% and Grant 'Flash Mode Type-0' God State. Grant 'Flash Mode' to Konoha allies. [Flash Mode Type-0: Skill Dodge +200%. Chance to Cut In when an Ally or Enemy takes a turn (Guarantee against None enemies). SPD +100% per Cut In. Deal 7% + 1,010,000 Counter Attack Damage when Attacked By a Skill] [Flash Mode: SPD +120%, Cast Speed is set to Flash]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Flying Raijin Successor",
+          "a1": "Cast Speed is Always Flash, If there's a None enemy: Grant 'Flash Mode Type-0' God State when Attacked",
+
+          "a2n": "Rasengan Innovator",
+          "a2": "Revive +2, SPD +50% per turn (Max 500%), Damage Cut +50% against EX, Origin and Destroyer",
+
+          "a3n": "Red Specialization and Protection",
+          "a3": "Type Advantage and  Grant Non-Blue allies 'Damage Cut +50%' against Red"
+      },
+{
           "id": 20060802,
           "name": "Deidara",
           "subtext": "Flawless Art",

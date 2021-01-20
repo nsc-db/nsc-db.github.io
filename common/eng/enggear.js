@@ -1259,4 +1259,24 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
+	      {
+          "id": 401095,
+          "type": "Additional",
+          "name": "Minato's Leggings",
+          "effect": "SPD +60% per Konoha ally (Max 300%), Start the Battle with 100% Chakra, High Chance to Recover 100% Chakra",
+          "normal": "SPD +60%, Start the Battle with 50% Chakra",
+          "charaIds": "2105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	      {
+          "id": 401105,
+          "type": "Resistance",
+          "name": "Minato's Holster",
+          "effect": "High Chance for Skip and Cancel Immunity, Grant Instant Action Upon WIthstanding, Skill Damage +150%",
+          "normal": "Low Chance for Skip and Cancel Immunity",
+          "charaIds": "2105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
 ]
