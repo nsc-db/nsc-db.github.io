@@ -22,7 +22,7 @@ window.detail=[
           "a1": "SPD +20% per Konoha ally (Max 100%)",
 
           "a2n": "True Father's Back",
-          "a2": "HP <50%: AYK +100%
+          "a2": "HP <50%: ATK +100%",
 
           "a3n": "None",
           "a3": "None"
