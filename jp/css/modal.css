@@ -342,6 +342,13 @@
 		background-image: linear-gradient(to bottom, #ffc100, #e36700);
 	}
 
+	.modal-body .base-unit-view .base-tables .base-ability .header.potential {
+		background-image: linear-gradient(to bottom, #BAEA91, #E6F2D3);
+	}
+
+	.modal-body .base-unit-view .base-tables .base-ability .header.forbidden {
+		background-image: linear-gradient(to bottom, #DF574D, #85342E);
+	}
 	.modal-body .base-unit-view .base-tables .base-ability .header .type h4 {
 		position: relative;
 		color: #ffffff;

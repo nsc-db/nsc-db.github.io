@@ -6,18 +6,20 @@ var feature = 20070106
 var fpull = 0
 var seven = [20061106, 20061104, 20061009, 20061006, 20061004, 20060910, 20060905,
 			 20060810, 20060809, 20060806, 20060805, 20060707, 20060705, 20060611,
-			 20060606, 20060603, 20060510, 20060504, 20060415, 20060414];
-var sevenpull = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];	 
+			 20060606, 20060603, 20060510, 20060504, 20060415, 20060414, 60060701];
+var sevenpull = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];	 
 var six = [20051202, 20051109, 20051103, 20051003, 20050916, 20050905, 20050826, 20050825,
 		   20050824, 20050823, 20050822, 20050821, 20050820, 20050715, 20050714, 20050703, 
 		   20050603, 20050506, 20050505, 20050504, 20050503, 20050407, 20050303, 20050211, 
 		   20050103, 20041203, 20041003, 20040811, 20040803, 20040802];
 var sixpull = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
 var fourty = [20050408, 20050409, 20050418, 20050417, 20050316, 20050317, 20050310, 20050313, 
-              20050308, 20050212, 20050113, 20041206, 20041211, 20041210, 20041205, 20041110, 20041105, 
-              20041006, 20041009, 20040907, 20040905, 20040702, 20040407, 20040309, 20040303,
-              20040304, 20040210, 20040201, 20040115, 20031011]
+              20050308, 20050212, 20050212, 20041206, 20041211, 20041210, 20041205, 20041110, 20041105, 
+              20041006, 20041009, 20040907, 20040905, 20040407, 20040309, 20040303,
+              20040304, 20040210, 20031011]
 var fourtypull = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+var minato = [20061002, 20050113, 20040702, 20040201, 20040115]
+var minatopull = [0,0,0,0,0]
 var five = []
 var four = []
 var rates = 104
@@ -59,6 +61,14 @@ function singleSummon(){
 		sixpull[summon] = sixpull[summon] + 1
 		id.push(card);
 	}
+    else if(summon >= 320 && summon < 340){
+        var size = getLength(minato);
+        summon = Math.floor(Math.random()* (size));
+
+        card = minato[summon] + "_6";
+        minatopull[summon] = minatopull[summon] + 1
+        id.push(card);
+    }
 	else if(summon >= 400 && summon < 470){
 		var size = getLength(fourty);
 		summon = Math.floor(Math.random()* (size));
@@ -118,6 +128,8 @@ function singleSummon(){
     document.getElementById("718").innerHTML = sevenpull[17];
     document.getElementById("719").innerHTML = sevenpull[18];
     document.getElementById("720").innerHTML = sevenpull[19];
+    document.getElementById("721").innerHTML = sevenpull[20];
+
 
     document.getElementById("61").innerHTML = sixpull[0];
     document.getElementById("62").innerHTML = sixpull[1];
@@ -150,6 +162,12 @@ function singleSummon(){
     document.getElementById("629").innerHTML = sixpull[28];
     document.getElementById("630").innerHTML = sixpull[29];
 
+    document.getElementById("m1").innerHTML = minatopull[0];
+    document.getElementById("m2").innerHTML = minatopull[1];
+    document.getElementById("m3").innerHTML = minatopull[2];
+    document.getElementById("m4").innerHTML = minatopull[3];
+    document.getElementById("m5").innerHTML = minatopull[4];
+
     document.getElementById("401").innerHTML = fourtypull[0];
     document.getElementById("402").innerHTML = fourtypull[1];
     document.getElementById("403").innerHTML = fourtypull[2];
@@ -176,10 +194,6 @@ function singleSummon(){
     document.getElementById("4024").innerHTML = fourtypull[23];
     document.getElementById("4025").innerHTML = fourtypull[24];
     document.getElementById("4026").innerHTML = fourtypull[25];
-    document.getElementById("4027").innerHTML = fourtypull[26];
-    document.getElementById("4028").innerHTML = fourtypull[27];
-    document.getElementById("4029").innerHTML = fourtypull[28];
-    document.getElementById("4030").innerHTML = fourtypull[29];
     console.log(roll);
     console.log(card);
 }
@@ -240,6 +254,16 @@ function multiSummon(){
             $('.char-' + i).attr('style', 'background: linear-gradient(to bottom right,silver,white, silver) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px white;'); 
 
         }
+        else if(summon >= 320 && summon < 340){
+            var size = getLength(minato);
+            summon = Math.floor(Math.random()* (size));
+
+            card = minato[summon] + "_6";
+            minatopull[summon] = minatopull[summon] + 1
+            id.push(card);
+            $('.char-' + i).attr('style', 'background: linear-gradient(to bottom right,silver,white, silver) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px white;'); 
+
+         }
         else if(summon >= 400 && summon < 470){
             var size = getLength(fourty);
             summon = Math.floor(Math.random()* (size));
@@ -305,6 +329,16 @@ function multiSummon(){
         $('.char-11').attr('style', 'background: linear-gradient(to bottom right,silver,white, silver) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px white;'); 
 
     }
+    else if(summon >= 320 && summon < 340){
+            var size = getLength(minato);
+            summon = Math.floor(Math.random()* (size));
+
+            card = minato[summon] + "_6";
+            minatopull[summon] = minatopull[summon] + 1
+            id.push(card);
+            $('.char-' + i).attr('style', 'background: linear-gradient(to bottom right,silver,white, silver) border-box;box-shadow: 2px 2px 20px 2px silver, 3px 0px 16px 8px white;'); 
+
+     }
     else if(summon >= 400 && summon < 470){
         var size = getLength(fourty);
         summon = Math.floor(Math.random()* (size));
@@ -364,6 +398,8 @@ function multiSummon(){
     document.getElementById("718").innerHTML = sevenpull[17];
     document.getElementById("719").innerHTML = sevenpull[18];
     document.getElementById("720").innerHTML = sevenpull[19];
+    document.getElementById("721").innerHTML = sevenpull[20];
+
 
     document.getElementById("61").innerHTML = sixpull[0];
     document.getElementById("62").innerHTML = sixpull[1];
@@ -396,6 +432,12 @@ function multiSummon(){
     document.getElementById("629").innerHTML = sixpull[28];
     document.getElementById("630").innerHTML = sixpull[29];
 
+    document.getElementById("m1").innerHTML = minatopull[0];
+    document.getElementById("m2").innerHTML = minatopull[1];
+    document.getElementById("m3").innerHTML = minatopull[2];
+    document.getElementById("m4").innerHTML = minatopull[3];
+    document.getElementById("m5").innerHTML = minatopull[4];
+
     document.getElementById("401").innerHTML = fourtypull[0];
     document.getElementById("402").innerHTML = fourtypull[1];
     document.getElementById("403").innerHTML = fourtypull[2];
@@ -422,10 +464,6 @@ function multiSummon(){
     document.getElementById("4024").innerHTML = fourtypull[23];
     document.getElementById("4025").innerHTML = fourtypull[24];
     document.getElementById("4026").innerHTML = fourtypull[25];
-    document.getElementById("4027").innerHTML = fourtypull[26];
-    document.getElementById("4028").innerHTML = fourtypull[27];
-    document.getElementById("4029").innerHTML = fourtypull[28];
-    document.getElementById("4030").innerHTML = fourtypull[29];
 
     console.log(roll[0] + ", " + roll[1] + ", " + roll[2] + ", " + roll[3] + ", " + roll[4] + ", " + roll[5] + ", " + roll[6] + ", " + roll[7] + ", " + roll[8] + ", " + roll[9]);
     console.log(id[0] + ", " + id[1] + ", " + id[2] + ", " + id[3] + ", " + id[4] + ", " + id[5] + ", " + id[6] + ", " + id[7] + ", " + id[8] + ", " + id[9] + ", " + id[9]);

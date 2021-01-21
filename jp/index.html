@@ -46,7 +46,7 @@
  	<script type="text/javascript" src="../common/json/gear.js"></script>
  	<script type="text/javascript" src="../common/json/unique.js"></script>
  	<script type="text/javascript" src="../common/json/vo.js"></script>
-
+ 	<script type="text/javascript" src="../common/json/potential.js"></script>
 
 
 
@@ -168,8 +168,9 @@
 													<ul class="nav nav-nscdb" role="tablist">
 														<li class="active"><a id="skills-btn" class="active" data-toggle="tab" href="#skills">スキル</a></li>
 														<li><a id="ability-btn" data-toggle="tab" href="#ability">アビリティ</a></li>
-														<li class="hidden"><a id="status-btn" data-toggle="tab" href="#status">ステータス</a></li>
+														<li class="hidden"><a ids="tatus-btn" data-toggle="tab" href="#status">ステータス</a></li>
 														<li class=""><a id="gear-btn" data-toggle="tab" href="#gear">忍具</a></li>
+														<li><a id="potential-btn" data-toggle="tab" href="#potential">潜在覚醒</a></li>
 														<li><a id="info-btn" data-toggle="tab" href="#info">動画</a></li>
 
 													</ul>
@@ -362,43 +363,115 @@
 																		</div>
 																	</div>
 																</div>
-																<!-- Pro and Con --
-																<div class="col-md-4">
-																	<div class="base-info">
-																		<div class="header pro">
-																			<div class="type">
-																				<h4>Pro</h4>
-																			</div>
-																			
-																		</div>
-																		<div class="description" style="height:125px">
-																			<p id="pro1"></p>
-																			<p id="pro2"></p>
-																			<p id="pro3"></p>
-																			<p id="pro4"></p>
-																			<p id="pro5"></p>
-																		</div>
-																	</div>
-																</div>
+																
+															</div>
+														</div>
 
-																<div class="col-md-4">
-																	<div class="base-info">
-																		<div class="header con">
+														<div class="tab-pane fade" id="potential">
+															<div class="row">
+																<div class="col-md-6">
+																	<div class="base-ability">
+																		<div class="header potential">
 																			<div class="type">
-																				<h4>Con</h4>
+																				<h4>潜在覚醒</h4>
 																			</div>
 																			
+																			<div class="title">
+																				<h3 id="potentialtitle"></h3>
+																			</div>
+
 																		</div>
-																		<div class="description" style="height:97px">
-																			<p id="con1"></p>
-																			<p id="con2"></p>
-																			<p id="con3"></p>
-																			<p id="con4"></p>
-																			<p id="con5"></p>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="potential1">Protect all allies from Single target Skills</td>
+																					<td style="width:230px" id="potential2">SPD +60% if there's an enemy GK</td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="potential3">Skill Damage +120%</td>
+																					<td style="width:230px" id="potential4">ATK, DEF, and SPD +25% per turn (Max 75%)</td> 
+																				</tr>
+																			</table>
 																		</div>
 																	</div>
 																</div>
-																-->
+																<div class="col-md-6">
+																	<div class="base-ability">
+																		<div class="header potential">
+																			<div class="type">
+																				<h4>潜在覚醒</h4>
+																			</div>
+																			
+																			<div class="title">
+																				<h3 id="potentialtitle"></h3>
+																			</div>
+
+																		</div>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="potential5">なし</td>
+																					<td style="width:230px" id="potential6">なし</td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="potential7">なし</td>
+																					<td style="width:230px" id="potential8">なし</td> 
+																				</tr>
+																			</table>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="row">
+																<div class="col-md-6">
+																	<div class="base-ability">
+																		<div class="header forbidden">
+																			<div class="type">
+																				<h4>禁忌の覚醒</h4>
+																			</div>
+																			<div class="title">
+																				<h3 id="forbiddentitle"></h3>
+																			</div>
+																		</div>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="forbidden1">なし</td>
+																					<td style="width:230px" id="forbidden2">なし</td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="forbidden3">なし</td>
+																					<td style="width:230px" id="forbidden4">なし</td> 
+																				</tr>
+																			</table>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-md-6">
+																	<div class="base-ability">
+																		<div class="header forbidden">
+																			<div class="type">
+																				<h4>禁忌の覚醒</h4>
+																			</div>
+																			<div class="title">
+																				<h3 id="forbiddentitle"></h3>
+																			</div>
+																		</div>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="forbidden5">なし</td>
+																					<td style="width:230px" id="forbidden6">なし</td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="forbidden7">なし</td>
+																					<td style="width:230px" id="forbidden8">なし</td> 
+																				</tr>
+																			</table>
+																		</div>
+																	</div>
+																</div>
+																
 															</div>
 														</div>
 													</div>
@@ -425,6 +498,7 @@
 														<li><a id="ability-six-btn" data-toggle="tab" href="#ability-six">アビリティ</a></li>
 														<li class="hidden"><a id="status-six-btn" data-toggle="tab" href="#status-six">ステータス</a></li>
 														<li class=""><a id="gear-six-btn" data-toggle="tab" href="#gear-six">忍具</a></li>
+														<li><a id="potential-six-btn" data-toggle="tab" href="#potential-six">潜在覚醒</a></li>
 														<li><a id="info-six-btn" data-toggle="tab" href="#info-six">動画</a></li>
 
 													</ul>
@@ -664,7 +738,113 @@
 															</div>
 														</div>
 
+														<div class="tab-pane fade" id="potential-six">
+															<div class="row">
+																<div class="col-md-6">
+																	<div class="base-ability">
+																		<div class="header potential">
+																			<div class="type">
+																				<h4>潜在覚醒</h4>
+																			</div>
+																			
+																			<div class="title">
+																				<h3 id="potentialtitle"></h3>
+																			</div>
 
+																		</div>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="potential1-six">なし</td>
+																					<td style="width:230px" id="potential2-six">なし</td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="potential3-six">なし</td>
+																					<td style="width:230px" id="potential4-six">なし</td> 
+																				</tr>
+																			</table>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-md-6">
+																	<div class="base-ability">
+																		<div class="header potential">
+																			<div class="type">
+																				<h4>潜在覚醒</h4>
+																			</div>
+																			
+																			<div class="title">
+																				<h3 id="potentialtitle"></h3>
+																			</div>
+
+																		</div>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="potential5-six">なし</td>
+																					<td style="width:230px" id="potential6-six">なし</td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="potential7-six">なし</td>
+																					<td style="width:230px" id="potential8-six">なし</td> 
+																				</tr>
+																			</table>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="row">
+																<div class="col-md-6">
+																	<div class="base-ability">
+																		<div class="header forbidden">
+																			<div class="type">
+																				<h4>禁忌の覚醒</h4>
+																			</div>
+																			<div class="title">
+																				<h3 id="forbiddentitle"></h3>
+																			</div>
+																		</div>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="forbidden1"></td>
+																					<td style="width:230px" id="forbidden2"></td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="forbidden3"></td>
+																					<td style="width:230px" id="forbidden4"></td> 
+																				</tr>
+																			</table>
+																		</div>
+																	</div>
+																</div>
+																<div class="col-md-6">
+																	<div class="base-ability">
+																		<div class="header forbidden">
+																			<div class="type">
+																				<h4>禁忌の覚醒</h4>
+																			</div>
+																			<div class="title">
+																				<h3 id="forbiddentitle"></h3>
+																			</div>
+																		</div>
+																		<div class="description" style="padding: 10px">
+																			<table>
+																				<tr>
+																					<td style="width:230px" id="forbidden5"></td>
+																					<td style="width:230px" id="forbidden6"></td> 
+																				</tr>
+																				<tr>
+																					<td style="width:230px" id="forbidden7"></td>
+																					<td style="width:230px" id="forbidden8"></td> 
+																				</tr>
+																			</table>
+																		</div>
+																	</div>
+																</div>
+																
+															</div>
+														</div>
 														</div>
 													</div>
 												</div>

@@ -340,18 +340,7 @@
 	function _buildCardModal(id, thumb, cards, cid){
 		console.log(cid);
 
-		// Icon
-		checkImage('../common/assets/img/units/icons/thumb_' + cid + '_7.png', 
-
-			function(){
-			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '_7.png'); 
-			}, 
-			function(){
-			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '_6.png'); 
-			}, 
-			function(){
-			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '.png'); 
-			  } );
+		
 		
 		var name = '';
 
@@ -456,6 +445,131 @@
 		}
 	
 		
+		
+		
+		//Animation
+		for(var y in window.charainfo){
+			if(cid == window.charainfo[y]["targetCardId"]){
+				$('#animation').attr('src', window.charainfo[y]["skillUrl"])
+				$('#animation-six').attr('src', window.charainfo[y]["skillUrl"])
+				break
+			}
+		}
+
+
+		var pability = []
+		var fability = []
+
+		if(cid == 60061202 || cid == 60061201){
+			var charaId = 60061200
+		}
+		else if(cid == 60060702 || cid == 60060701){
+			var charaId = 60060700
+		}
+		else{
+			var charaId = cid
+		}
+		for(var y in window.potential){
+			if(charaId == window.potential[y]['cardId']){
+				if(window.potential[y]['type'] == "2"){
+					var abilityArr = window.potential[y]['abilityId'].split(",")
+					for(var x in abilityArr){
+						for(var z in window.ability){
+							if(abilityArr[x] == window.ability[z]['abilityId']){
+								if(window.potential[y]['panelType'] == "1"){
+									pability.push(window.ability[z]['abilityDescription'])
+								}
+								else{
+									fability.push(window.ability[z]['abilityDescription'])
+								}
+							}
+						}
+					}
+					
+				}
+			}
+		}
+
+
+		if(pability.length == 4){
+			$('#icon-unit').attr('style', 'background: linear-gradient(to bottom right,white,gold,white, gold) border-box;'); 
+			$('#card-art-six-star').attr('style', 'padding: 10px;background: linear-gradient(to bottom right,white,gold,white, gold) border-box;'); 
+			$('#card-art-five-star').attr('style', 'padding: 10px;background: linear-gradient(to bottom right,white,gold,white, gold) border-box;'); 
+			document.getElementById("potential1").innerHTML = pability[0];
+			document.getElementById("potential2").innerHTML = pability[1];
+			document.getElementById("potential3").innerHTML = pability[2];
+			document.getElementById("potential4").innerHTML = pability[3];
+			document.getElementById("potential5").innerHTML = 'なし'
+			document.getElementById("potential6").innerHTML = 'なし'
+			document.getElementById("potential7").innerHTML = 'なし'
+			document.getElementById("potential8").innerHTML = 'なし'
+			document.getElementById("forbidden1").innerHTML = fability[0];
+			document.getElementById("forbidden2").innerHTML = fability[1];
+			document.getElementById("forbidden3").innerHTML = fability[2];
+			document.getElementById("forbidden4").innerHTML = fability[3];
+			document.getElementById("forbidden5").innerHTML = 'なし';
+			document.getElementById("forbidden6").innerHTML = 'なし'
+			document.getElementById("forbidden7").innerHTML = 'なし'
+			document.getElementById("forbidden8").innerHTML = 'なし'
+			
+		}
+		else if(pability.length == 8){
+			$('#icon-unit').attr('style', 'background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;'); 
+			$('#card-art-six-star').attr('style', 'padding: 10px;background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;'); 
+			$('#card-art-five-star').attr('style', 'padding: 10px;background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;'); 
+			document.getElementById("potential1").innerHTML = pability[0];
+			document.getElementById("potential2").innerHTML = pability[1];
+			document.getElementById("potential3").innerHTML = pability[2];
+			document.getElementById("potential4").innerHTML = pability[3];
+			document.getElementById("potential5").innerHTML = pability[4];
+			document.getElementById("potential6").innerHTML = pability[5];
+			document.getElementById("potential7").innerHTML = pability[6];
+			document.getElementById("potential8").innerHTML = pability[7];
+			document.getElementById("forbidden1").innerHTML = fability[0];
+			document.getElementById("forbidden2").innerHTML = fability[1];
+			document.getElementById("forbidden3").innerHTML = fability[2];
+			document.getElementById("forbidden4").innerHTML = fability[3];
+			document.getElementById("forbidden5").innerHTML = fability[4];
+			document.getElementById("forbidden6").innerHTML = fability[5];
+			document.getElementById("forbidden7").innerHTML = fability[6];
+			document.getElementById("forbidden8").innerHTML = fability[7];
+		}
+		else{
+			$('#icon-unit').attr('style', ''); 
+			$('#card-art-six-star').attr('style', ''); 
+			$('#card-art-five-star').attr('style', ''); 
+			document.getElementById("potential1").innerHTML = 'なし'
+			document.getElementById("potential2").innerHTML = 'なし'
+			document.getElementById("potential3").innerHTML = 'なし'
+			document.getElementById("potential4").innerHTML = 'なし'
+			document.getElementById("potential5").innerHTML = 'なし'
+			document.getElementById("potential6").innerHTML = 'なし'
+			document.getElementById("potential7").innerHTML = 'なし'
+			document.getElementById("potential8").innerHTML = 'なし'
+			document.getElementById("forbidden1").innerHTML = 'なし'
+			document.getElementById("forbidden2").innerHTML = 'なし'
+			document.getElementById("forbidden3").innerHTML = 'なし'
+			document.getElementById("forbidden4").innerHTML = 'なし'
+			document.getElementById("forbidden5").innerHTML = 'なし';
+			document.getElementById("forbidden6").innerHTML = 'なし'
+			document.getElementById("forbidden7").innerHTML = 'なし'
+			document.getElementById("forbidden8").innerHTML = 'なし'
+		}
+
+		// Icon
+		checkImage('../common/assets/img/units/icons/thumb_' + cid + '_7.png', 
+
+			function(){
+			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '_7.png'); 
+			}, 
+			function(){
+			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '_6.png'); 
+			}, 
+			function(){
+			 $('#icon-unit').attr('src', '../common/assets/img/units/icons/thumb_' + cid + '.png'); 
+			  } );
+
+
 		//Character Image
 		checkImage('../common/assets/img/units/' + cid + '.png', 
 			function(){
@@ -472,15 +586,6 @@
 			function(){
 			 $('#card-art-six-star').attr('src', '../common/assets/img/units/' + cid + '.png');
 			  } );
-		
-		//Animation
-		for(var y in window.charainfo){
-			if(cid == window.charainfo[y]["targetCardId"]){
-				$('#animation').attr('src', window.charainfo[y]["skillUrl"])
-				$('#animation-six').attr('src', window.charainfo[y]["skillUrl"])
-				break
-			}
-		}
 
 		// Character Stats		
 		for(i in cards){
