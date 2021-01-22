@@ -89,7 +89,6 @@
 					}
 				}
 			}
-
 			//Character Affi
 			affi = checkAffi(chara);
 			//Character Tag
@@ -114,19 +113,26 @@
 						case "108":
 							tags = "ranbu"
 							break;	
+						case "109":
+							tags = "kizuna"
+							break;	
 						case "120":
 							tags = "pvp-reward"
 							break;
 						default:
 							tags = "other"
-							break;
-						
+							break;	
 					}
+					break;
 				}
+				else{
+					tags = "other"
+				}
+
 			}
 
 			//Tag Image
-			type_tag += type + "_" + rare;
+			type_tag = type + "_" + rare;
 			if(tags == "ex"){
 				type_tag += "_ex.png";
 			}
@@ -145,6 +151,9 @@
 			else if(tags == "killers"){
 				type_tag += "_killers.png";
 			}
+			else if(tags == "kizuna"){
+				type_tag += ".png";
+			}
 			else if(tags == "ranbu"){
 				type_tag = "ranbu.png";
 			}
@@ -155,6 +164,10 @@
 			if (id == "50051001" || id == "50060307"){
 				type_tag = "ranbu.png";
 			}
+			if(id > 60060700){
+				type_tag = type + "_" + rare + ".png";
+			}
+
 			var passTag = type_tag
 			if(units.indexOf(chara[0]) == -1){
 				content += _createCard(chara, name, type, hp, atk, def, spd, rare, affi, id, tags, type_tag); // chama a função passando os dados do card
@@ -263,7 +276,90 @@
 		$('#lead-five').text(lead);
 		$('#leadname-six').text(leadname);
 		$('#lead-six').text(lead);
-		$('#type-unit').attr('src', '../common/assets/img/rarity/' + type_tag); 
+
+		for(var x in window.chara){
+			if(cid == window.chara[x]['cardId']){
+				var change = 0;
+				var stuff = '';
+				var rare;
+				stuff += checkType(window.chara[x]);
+
+				//Add Stats from Evo Bonus
+				for(var n in window.evo){
+					if(window.chara[x]["cardId"] == window.evo[n]['cardId']){
+						if((window.chara[x]["rare"] != window.evo[n]['rare']) && window.evo[n]['rare'] != 0){
+							rare = window.evo[n]['rare'];
+							change = 1;
+						}
+					}
+				}
+				if (change == 0){
+					rare = window.chara[x]['rare']
+				}
+				stuff += "_" + rare;
+
+				//Get Tag
+				var tags
+				for(var n in window.charainfo){
+					if(id == window.charainfo[n]["targetCardId"]){
+						switch(window.charainfo[n]["limitedFlg"]){
+							case "102":
+								tags = "ex"
+								break;
+							case "104":
+								tags = "god"
+								break;
+							case "105":
+								tags = "killers"
+								break;
+							case "106":
+								tags = "origin"
+								break;
+							case "107":
+								tags = "gk"
+								break;
+							case "108":
+								tags = "ranbu"
+								break;	
+							case "120":
+								tags = "pvp-reward"
+								break;
+							default:
+								tags = "other"
+								break;
+							
+						}
+					}
+				}
+
+				if(tags == "ex"){
+					stuff += "_ex.png";
+				}
+				else if(tags == "god"){
+					stuff += "_god.png";
+				}
+				else if(tags == "pvp-reward"){
+					stuff += "_pvp.png";
+				}
+				else if(tags == "killers"){
+					stuff += "_killers.png";
+				}
+				else if(tags == "origin"){
+					stuff += "_origin.png";
+				}
+				else if(tags == "killers"){
+					stuff += "_killers.png";
+				}
+				else if(tags == "ranbu"){
+					stuff = "ranbu.png";
+				}
+				else{
+					stuff += ".png";
+				}
+
+				$('#type-unit').attr('src', '../common/assets/img/rarity/' + stuff); 
+			}
+		}
 
 		$('#skill1name-five').text(s1n);
 		$('#skill1-five').text(s1);
@@ -301,6 +397,149 @@
 		$('#ability3-five').text(a3);
 		$('#ability3name-six').text(a3n);
 		$('#ability3-six').text(a3);
+
+		if(cid == 60060701 || cid == 60060702){
+			$('#kizuna').attr('style', 'display:block'); 
+			$('#kizuna-six').attr('style', 'display:block'); 
+		
+			$('#kizunaname-five').text(window.kizuna[0]['name']);
+			$('#kizunaname-six').text(window.kizuna[0]['name']);
+			//Replace Type
+			$('#kizunatype-five').text(window.kizuna[0]['nature']);
+			$('#kizunatype-six').text(window.kizuna[0]['nature']);
+			//Replace Wait
+			$('#kizunaspeed-five').text(window.kizuna[0]['cs']);
+			$('#kizunaspeed-six').text(window.kizuna[0]['cs']);
+
+			$('#kizunacost-five').text(window.kizuna[0]['cost']);
+			$('#kizunacost-six').text(window.kizuna[0]['cost']);
+			$('#kizunadesc-five').text(window.kizuna[0]['description']);
+			$('#kizunadesc-six').text(window.kizuna[0]['description']);
+			
+		}
+		else if(cid == 60061201 || cid == 60061202){
+			$('#kizuna').attr('style', 'display:block'); 
+			$('#kizuna-six').attr('style', 'display:block'); 
+		
+			$('#kizunaname-five').text(window.kizuna[1]['name']);
+			$('#kizunaname-six').text(window.kizuna[1]['name']);
+			//Replace Type
+			$('#kizunatype-five').text(window.kizuna[1]['nature']);
+			$('#kizunatype-six').text(window.kizuna[1]['nature']);
+			//Replace Wait
+			$('#kizunaspeed-five').text(window.kizuna[1]['cs']);
+			$('#kizunaspeed-six').text(window.kizuna[1]['cs']);
+
+			$('#kizunacost-five').text(window.kizuna[1]['cost']);
+			$('#kizunacost-six').text(window.kizuna[1]['cost']);
+			$('#kizunadesc-five').text(window.kizuna[1]['description']);
+			$('#kizunadesc-six').text(window.kizuna[1]['description']);
+		}
+		else{
+			$('#kizuna').attr('style', 'display:none');
+			$('#kizuna-six').attr('style', 'display:none'); 
+		}
+
+		var pability = []
+		var fability = []
+
+		if(cid == 60061202 || cid == 60061201){
+			var charaId = 60061200
+		}
+		else if(cid == 60060702 || cid == 60060701){
+			var charaId = 60060700
+		}
+		else{
+			var charaId = cid
+		}
+		for(var y in window.potential){
+			if(charaId == window.potential[y]['cardId']){
+				if(window.potential[y]['type'] == "2"){
+					var abilityArr = window.potential[y]['abilityId'].split(",")
+					for(var x in abilityArr){
+						for(var z in window.engpotential){
+							if(abilityArr[x] == window.engpotential[z]['abilityId']){
+								if(window.potential[y]['panelType'] == "1"){
+									pability.push(window.engpotential[z]['abilityDescription'])
+								}
+								else{
+									fability.push(window.engpotential[z]['abilityDescription'])
+								}
+							}
+						}
+					}
+					
+				}
+			}
+		}
+
+
+		if(pability.length == 4){
+			$('#icon-unit').attr('style', 'background: linear-gradient(to bottom right,white,gold,white, gold) border-box;'); 
+			$('#card-art-six-star').attr('style', 'padding: 10px;background: linear-gradient(to bottom right,white,gold,white, gold) border-box;'); 
+			$('#card-art-five-star').attr('style', 'padding: 10px;background: linear-gradient(to bottom right,white,gold,white, gold) border-box;'); 
+			document.getElementById("potential1").innerHTML = pability[0];
+			document.getElementById("potential2").innerHTML = pability[1];
+			document.getElementById("potential3").innerHTML = pability[2];
+			document.getElementById("potential4").innerHTML = pability[3];
+			document.getElementById("potential5").innerHTML = 'なし'
+			document.getElementById("potential6").innerHTML = 'なし'
+			document.getElementById("potential7").innerHTML = 'なし'
+			document.getElementById("potential8").innerHTML = 'なし'
+			document.getElementById("forbidden1").innerHTML = fability[0];
+			document.getElementById("forbidden2").innerHTML = fability[1];
+			document.getElementById("forbidden3").innerHTML = fability[2];
+			document.getElementById("forbidden4").innerHTML = fability[3];
+			document.getElementById("forbidden5").innerHTML = 'なし';
+			document.getElementById("forbidden6").innerHTML = 'なし'
+			document.getElementById("forbidden7").innerHTML = 'なし'
+			document.getElementById("forbidden8").innerHTML = 'なし'
+			
+		}
+		else if(pability.length == 8){
+			$('#icon-unit').attr('style', 'background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;'); 
+			$('#card-art-six-star').attr('style', 'padding: 10px;background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;'); 
+			$('#card-art-five-star').attr('style', 'padding: 10px;background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;'); 
+			document.getElementById("potential1").innerHTML = pability[0];
+			document.getElementById("potential2").innerHTML = pability[1];
+			document.getElementById("potential3").innerHTML = pability[2];
+			document.getElementById("potential4").innerHTML = pability[3];
+			document.getElementById("potential5").innerHTML = pability[4];
+			document.getElementById("potential6").innerHTML = pability[5];
+			document.getElementById("potential7").innerHTML = pability[6];
+			document.getElementById("potential8").innerHTML = pability[7];
+			document.getElementById("forbidden1").innerHTML = fability[0];
+			document.getElementById("forbidden2").innerHTML = fability[1];
+			document.getElementById("forbidden3").innerHTML = fability[2];
+			document.getElementById("forbidden4").innerHTML = fability[3];
+			document.getElementById("forbidden5").innerHTML = fability[4];
+			document.getElementById("forbidden6").innerHTML = fability[5];
+			document.getElementById("forbidden7").innerHTML = fability[6];
+			document.getElementById("forbidden8").innerHTML = fability[7];
+		}
+		else{
+			$('#icon-unit').attr('style', ''); 
+			$('#card-art-six-star').attr('style', ''); 
+			$('#card-art-five-star').attr('style', ''); 
+			document.getElementById("potential1").innerHTML = 'なし'
+			document.getElementById("potential2").innerHTML = 'なし'
+			document.getElementById("potential3").innerHTML = 'なし'
+			document.getElementById("potential4").innerHTML = 'なし'
+			document.getElementById("potential5").innerHTML = 'なし'
+			document.getElementById("potential6").innerHTML = 'なし'
+			document.getElementById("potential7").innerHTML = 'なし'
+			document.getElementById("potential8").innerHTML = 'なし'
+			document.getElementById("forbidden1").innerHTML = 'なし'
+			document.getElementById("forbidden2").innerHTML = 'なし'
+			document.getElementById("forbidden3").innerHTML = 'なし'
+			document.getElementById("forbidden4").innerHTML = 'なし'
+			document.getElementById("forbidden5").innerHTML = 'なし';
+			document.getElementById("forbidden6").innerHTML = 'なし'
+			document.getElementById("forbidden7").innerHTML = 'なし'
+			document.getElementById("forbidden8").innerHTML = 'なし'
+		}
+
+
 		//Character Image
 		checkImage('../common/assets/img/units/' + cid + '.png', 
 			function(){

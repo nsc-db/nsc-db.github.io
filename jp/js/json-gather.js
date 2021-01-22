@@ -1,6 +1,6 @@
 (function(){
 
-	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female, dodge, cc, cd){
+	function _createCard(data, name, type, hp, atk, def, spd, rare, affi, id, tag, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female, dodge, cc, cd, abilityCount){
 		var image;
 		//Rarity Check
 		if(rare == 7){
@@ -18,8 +18,9 @@
 			image = id + ".png";
 		}
 		//Create Entries in the Table
-		var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
-					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:">' + data['cardId'] + '</td>'
+		if(abilityCount == 8 || (data["cardId"] > 50000000 && data["cardId"] < 60000000)){
+			var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
+					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" style="background: linear-gradient(to bottom right,white,gold,white, gold) border-box;" /><div style="display:">' + data['cardId'] + '</td>'
 					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal"><strong>' + name + " 【" + data["cardSubName"] + '】</a></td>'
 					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/rarity/' + type_tag + '" /><div style="display:none">' + type_tag + '</div></td>'
 					+'		<td class="text-center affiliation" affiliation="' + affi + '"><div style="display:none;">' + affi + '</div></td>'
@@ -41,6 +42,57 @@
 					+'		<td class="text-center">' + cc + '</td>'	
 					+'		<td class="text-center">' + cd + '</td>'																																						
 					+'</tr>';
+		}
+		else if(abilityCount == 16){
+			var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
+					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px"style="background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red) border-box;" /><div style="display:">' + data['cardId'] + '</td>'
+					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal"><strong>' + name + " 【" + data["cardSubName"] + '】</a></td>'
+					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/rarity/' + type_tag + '" /><div style="display:none">' + type_tag + '</div></td>'
+					+'		<td class="text-center affiliation" affiliation="' + affi + '"><div style="display:none;">' + affi + '</div></td>'
+					+'		<td class="text-center rarity" rarity="' + rare + '"><div style="display:none">' + rare + '</div></td>'
+					+'		<td class="text-center">' + data["cost"] + '</td>'
+					+'		<td class="text-center">' + hp + '</td>'
+					+'		<td class="text-center">' + atk + '</td>'
+					+'		<td class="text-center">' + def + '</td>'
+					+'		<td class="text-center">' + spd + '</td>'
+					+'		<td class="text-center">' + tag + '</td>'
+					+'		<td class="text-center">' + target + '</td>'		
+					+'		<td class="text-center">' + cast + '</td>'		
+					+'		<td class="text-center">' + damage + '</td>'	
+					+'		<td class="text-center">' + nature + '</td>'
+					+'		<td class="text-center">' + voiced + '</td>'
+					+'		<td class="text-center">' + male + '</td>'	
+					+'		<td class="text-center">' + female + '</td>'
+					+'		<td class="text-center">' + dodge + '</td>'
+					+'		<td class="text-center">' + cc + '</td>'	
+					+'		<td class="text-center">' + cd + '</td>'																																						
+					+'</tr>';
+		}
+		else{
+			var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
+						+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" /><div style="display:">' + data['cardId'] + '</td>'
+						+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal"><strong>' + name + " 【" + data["cardSubName"] + '】</a></td>'
+						+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/rarity/' + type_tag + '" /><div style="display:none">' + type_tag + '</div></td>'
+						+'		<td class="text-center affiliation" affiliation="' + affi + '"><div style="display:none;">' + affi + '</div></td>'
+						+'		<td class="text-center rarity" rarity="' + rare + '"><div style="display:none">' + rare + '</div></td>'
+						+'		<td class="text-center">' + data["cost"] + '</td>'
+						+'		<td class="text-center">' + hp + '</td>'
+						+'		<td class="text-center">' + atk + '</td>'
+						+'		<td class="text-center">' + def + '</td>'
+						+'		<td class="text-center">' + spd + '</td>'
+						+'		<td class="text-center">' + tag + '</td>'
+						+'		<td class="text-center">' + target + '</td>'		
+						+'		<td class="text-center">' + cast + '</td>'		
+						+'		<td class="text-center">' + damage + '</td>'	
+						+'		<td class="text-center">' + nature + '</td>'
+						+'		<td class="text-center">' + voiced + '</td>'
+						+'		<td class="text-center">' + male + '</td>'	
+						+'		<td class="text-center">' + female + '</td>'
+						+'		<td class="text-center">' + dodge + '</td>'
+						+'		<td class="text-center">' + cc + '</td>'	
+						+'		<td class="text-center">' + cd + '</td>'																																						
+						+'</tr>';
+		}
 		return model;
 	}
 	
@@ -75,7 +127,8 @@
 		var type_tag = '';
 		var pvp = '';
 		var nickname = '';
-		
+		var potential
+		var nf = Intl.NumberFormat()
 		for(var i in window.chara){
 			//Current Character
 			var unit = window.chara[i];
@@ -276,10 +329,33 @@
 					voiced = 0;
 				}
 			}
+			var abilityCount = 0
+
+			if(id == 60061202 || id == 60061201){
+				var charaId = 60061200
+			}
+			else if(id == 60060702 || id == 60060701){
+				var charaId = 60060700
+			}
+			else{
+				var charaId = id
+			}
+			for(var y in window.potential){
+				if(charaId == window.potential[y]['cardId']){
+					if(window.potential[y]['type'] == "2"){
+						var abilityArr = window.potential[y]['abilityId'].split(",")
+						for(var x in abilityArr){
+							abilityCount++
+						}
+						
+					}
+				}
+			}
+
 			//Creates Entry
 			if(units.indexOf(chara[0]) == -1){ // Verifies Character ID
 				units.push(unit[0]); // Adds Character in the array			
-				content += _createCard(unit, name, type, hp, atk, def, spd, rare, affi, id, tags, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female, dodge, cc, cd); // chama a função passando os dados do card
+				content += _createCard(unit, name, type, nf.format(hp), nf.format(atk), nf.format(def), spd, rare, affi, id, tags, target, cast, damage, nature, voiced, type_tag, pvp, nickname, male, female, dodge, cc, cd, abilityCount); // chama a função passando os dados do card
 				target = '';
 				cast = '';
 				tags = '';
@@ -289,6 +365,7 @@
 				male = 0;
 				female = 0;
 				type_tag = '';
+				abilityCount = 0;
 			}
 		}
 		
@@ -554,6 +631,65 @@
 			document.getElementById("forbidden6").innerHTML = 'なし'
 			document.getElementById("forbidden7").innerHTML = 'なし'
 			document.getElementById("forbidden8").innerHTML = 'なし'
+		}
+
+
+		if(cid == 60060701 || cid == 60060702){
+			$('#kizuna').attr('style', 'display:block'); 
+			$('#kizuna-six').attr('style', 'display:block'); 
+
+			var check = 0;
+			var wait = '';
+			for(var g in window.skillname){
+				if(window.kizuna[0]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
+					$('#kizunaname-five').text(window.skillname[g]['name']);
+					$('#kizunaname-six').text(window.skillname[g]['name']);
+				}
+			}
+			//Replace Type
+			skill = checkSkill(window.kizuna[0]);
+			$('#kizunatype-five').text(skill);
+			$('#kizunatype-six').text(skill);
+			//Replace Wait
+			wait = checkWait(window.kizuna[0]);
+			$('#kizunaspeed-five').text(wait);
+			$('#kizunaspeed-six').text(wait);
+
+			$('#kizunacost-five').text(window.kizuna[0]['battleSkillCnt']);
+			$('#kizunacost-six').text(window.kizuna[0]['battleSkillCnt']);
+			$('#kizunadesc-five').text(window.kizuna[0]['description']);
+			$('#kizunadesc-six').text(window.kizuna[0]['description']);
+			
+		}
+		else if(cid == 60061201 || cid == 60061202){
+			$('#kizuna').attr('style', 'display:block');
+			$('#kizuna-six').attr('style', 'display:block'); 
+
+			var check = 0;
+			var wait = '';
+			for(var g in window.skillname){
+				if(window.kizuna[1]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
+					$('#kizunaname-five').text(window.skillname[g]['name']);
+					$('#kizunaname-six').text(window.skillname[g]['name']);
+				}
+			}
+			//Replace Type
+			skill = checkSkill(window.kizuna[1]);
+			$('#kizunatype-five').text(skill);
+			$('#kizunatype-six').text(skill);
+			//Replace Wait
+			wait = checkWait(window.kizuna[1]);
+			$('#kizunaspeed-five').text(wait);
+			$('#kizunaspeed-six').text(wait);
+
+			$('#kizunacost-five').text(window.kizuna[1]['battleSkillCnt']);
+			$('#kizunacost-six').text(window.kizuna[1]['battleSkillCnt']);
+			$('#kizunadesc-five').text(window.kizuna[1]['description']);
+			$('#kizunadesc-six').text(window.kizuna[1]['description']);
+		}
+		else{
+			$('#kizuna').attr('style', 'display:none');
+			$('#kizuna-six').attr('style', 'display:none'); 
 		}
 
 		// Icon
