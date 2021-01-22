@@ -1,5 +1,33 @@
 window.detail=[
 {
+          "id": 20060607,
+          "name": "Kakashi Hatake",
+          "subtext": "Valor Eye",
+
+          "lead": "All Characters: If there's an Akatsuki enemy: Cast Speed +1 and Dodge Chance +100%",
+
+          "s1n": "Water Wall: Concealed Blade",
+          "s1": "Deal 770,000 Fixed Dmaage to target enemy. Remove enemy's Positive Special State and Inflict 'Blunt' State. If it's an Akatsuki enemy: Deal an Additional Attack dealing 770,000. [Blunt: Cast Speed -1, SPD -80% and Skill Damage -200%]",
+          "s1ntr": "Water",
+          "s1cs": "Fastest",
+          "s1c": 100,
+
+          "s2n": "Your Opponent is Me",
+          "s2": "Party ATK, DEF and SPD +80%. Remove 'Disable Positive Special State' Effect. Grant 'Cooperation' State to other Konoha allies. [Cooperation: Grant Instant Action to Kakashi allies after an action]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 90,
+
+          "a1n": "The Eye that Watches the Next Era",
+          "a1": "At the Start of Battle, Chance to Infict 'Blunt' State to all enemies, Grant Instant Action when attacked once",
+
+          "a2n": "Eye's that See Throught Threat",
+          "a2": "If there's a Destroyer enemy: Skill Damage +200%, Revive +1",
+
+          "a3n": "White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against White"
+      },
+{
           "id": 20060701,
           "name": "Might Dai",
           "subtext": "Pioneer of Youth",
@@ -358,7 +386,7 @@ window.detail=[
           "a1": "Dodge +100%",
 
           "a2n": "Flight of Seven Colors",
-          "a2": "Chance to Ignore Resistance and Inflict 'Phantom' State when attacked",
+          "a2": "Chance to Ignore Resistance and Inflict 'Illusion' when attacked",
 
           "a3n": "None",
           "a3": "None"

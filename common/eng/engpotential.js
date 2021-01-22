@@ -2,7 +2,7 @@ window.engpotential=[
         {
           "abilityId": "300001",
           "abilityName": "最大HPアップ系アビ",
-          "abilityDescription": "最大HP2000アップ",
+          "abilityDescription": "HP +2000",
           "abilityEffectDescription": "最大HP2000アップ",
           "effectIdx1": "10519",
           "effectIdx2": "0",
@@ -12,7 +12,7 @@ window.engpotential=[
         {
           "abilityId": "300002",
           "abilityName": "最大HPアップ系アビ",
-          "abilityDescription": "最大HP5300アップ",
+          "abilityDescription": "HP +5300",
           "abilityEffectDescription": "最大HP5300アップ",
           "effectIdx1": "10614",
           "effectIdx2": "0",
@@ -22,7 +22,7 @@ window.engpotential=[
         {
           "abilityId": "300003",
           "abilityName": "最大HPアップ系アビ",
-          "abilityDescription": "最大HP6300アップ",
+          "abilityDescription": "HP +6300",
           "abilityEffectDescription": "最大HP6300アップ",
           "effectIdx1": "10624",
           "effectIdx2": "0",
@@ -32,7 +32,7 @@ window.engpotential=[
         {
           "abilityId": "300004",
           "abilityName": "最大HPアップ系アビ",
-          "abilityDescription": "最大HP11500アップ",
+          "abilityDescription": "HP +11500",
           "abilityEffectDescription": "最大HP11500アップ",
           "effectIdx1": "10662",
           "effectIdx2": "0",
@@ -42,7 +42,7 @@ window.engpotential=[
         {
           "abilityId": "300005",
           "abilityName": "最大HPアップ系アビ",
-          "abilityDescription": "最大HP12000アップ",
+          "abilityDescription": "HP +12000",
           "abilityEffectDescription": "最大HP12000アップ",
           "effectIdx1": "10602",
           "effectIdx2": "0",
@@ -52,7 +52,7 @@ window.engpotential=[
         {
           "abilityId": "300006",
           "abilityName": "最大HPアップ系アビ",
-          "abilityDescription": "最大HP15300アップ",
+          "abilityDescription": "HP +15300",
           "abilityEffectDescription": "最大HP15300アップ",
           "effectIdx1": "10665",
           "effectIdx2": "0",
@@ -62,7 +62,7 @@ window.engpotential=[
         {
           "abilityId": "300007",
           "abilityName": "最大HPアップ系アビ",
-          "abilityDescription": "最大HP4500アップ",
+          "abilityDescription": "HP +4500",
           "abilityEffectDescription": "最大HP4500アップ",
           "effectIdx1": "10544",
           "effectIdx2": "0",
@@ -72,7 +72,7 @@ window.engpotential=[
         {
           "abilityId": "301001",
           "abilityName": "攻撃力アップ系アビ",
-          "abilityDescription": "攻撃力1500アップ",
+          "abilityDescription": "ATK +1500",
           "abilityEffectDescription": "攻撃力1500アップ",
           "effectIdx1": "11514",
           "effectIdx2": "0",
@@ -82,7 +82,7 @@ window.engpotential=[
         {
           "abilityId": "301002",
           "abilityName": "攻撃力アップ系アビ",
-          "abilityDescription": "攻撃力4800アップ",
+          "abilityDescription": "ATK +4800",
           "abilityEffectDescription": "攻撃力4800アップ",
           "effectIdx1": "11547",
           "effectIdx2": "0",
@@ -92,7 +92,7 @@ window.engpotential=[
         {
           "abilityId": "301003",
           "abilityName": "攻撃力アップ系アビ",
-          "abilityDescription": "攻撃力6000アップ",
+          "abilityDescription": "ATK +6000",
           "abilityEffectDescription": "攻撃力6000アップ",
           "effectIdx1": "11561",
           "effectIdx2": "0",
@@ -102,7 +102,7 @@ window.engpotential=[
         {
           "abilityId": "301004",
           "abilityName": "攻撃力アップ系アビ",
-          "abilityDescription": "攻撃力9000アップ",
+          "abilityDescription": "ATK +9000",
           "abilityEffectDescription": "攻撃力9000アップ",
           "effectIdx1": "11591",
           "effectIdx2": "0",
@@ -112,7 +112,7 @@ window.engpotential=[
         {
           "abilityId": "301005",
           "abilityName": "攻撃力アップ系アビ",
-          "abilityDescription": "攻撃力11700アップ",
+          "abilityDescription": "ATK +11700",
           "abilityEffectDescription": "攻撃力11700アップ",
           "effectIdx1": "11601",
           "effectIdx2": "0",
@@ -122,7 +122,7 @@ window.engpotential=[
         {
           "abilityId": "301006",
           "abilityName": "攻撃力アップ系アビ",
-          "abilityDescription": "攻撃力3000アップ",
+          "abilityDescription": "ATK +3000",
           "abilityEffectDescription": "攻撃力3000アップ",
           "effectIdx1": "11529",
           "effectIdx2": "0",
@@ -132,7 +132,7 @@ window.engpotential=[
         {
           "abilityId": "301007",
           "abilityName": "攻撃力アップ系アビ",
-          "abilityDescription": "攻撃力200%アップ",
+          "abilityDescription": "ATK +200%",
           "abilityEffectDescription": "攻撃力200%アップ",
           "effectIdx1": "1285",
           "effectIdx2": "0",
@@ -142,7 +142,7 @@ window.engpotential=[
         {
           "abilityId": "302001",
           "abilityName": "防御力アップ系アビ",
-          "abilityDescription": "防御力1000アップ",
+          "abilityDescription": "DEF +1000",
           "abilityEffectDescription": "防御力1000アップ",
           "effectIdx1": "12509",
           "effectIdx2": "0",
@@ -152,7 +152,7 @@ window.engpotential=[
         {
           "abilityId": "302002",
           "abilityName": "防御力アップ系アビ",
-          "abilityDescription": "防御力2700アップ",
+          "abilityDescription": "DEF +2700",
           "abilityEffectDescription": "防御力2700アップ",
           "effectIdx1": "12526",
           "effectIdx2": "0",
@@ -162,7 +162,7 @@ window.engpotential=[
         {
           "abilityId": "302003",
           "abilityName": "防御力アップ系アビ",
-          "abilityDescription": "防御力3300アップ",
+          "abilityDescription": "DEF +3300",
           "abilityEffectDescription": "防御力3300アップ",
           "effectIdx1": "12532",
           "effectIdx2": "0",
@@ -172,7 +172,7 @@ window.engpotential=[
         {
           "abilityId": "302004",
           "abilityName": "防御力アップ系アビ",
-          "abilityDescription": "防御力8000アップ",
+          "abilityDescription": "DEF +8000",
           "abilityEffectDescription": "防御力8000アップ",
           "effectIdx1": "12635",
           "effectIdx2": "0",
@@ -182,7 +182,7 @@ window.engpotential=[
         {
           "abilityId": "302005",
           "abilityName": "防御力アップ系アビ",
-          "abilityDescription": "防御力8700アップ",
+          "abilityDescription": "DEF +8700",
           "abilityEffectDescription": "防御力8700アップ",
           "effectIdx1": "12642",
           "effectIdx2": "0",
@@ -192,7 +192,7 @@ window.engpotential=[
         {
           "abilityId": "302006",
           "abilityName": "防御力アップ系アビ",
-          "abilityDescription": "防御力2500アップ",
+          "abilityDescription": "DEF +2500",
           "abilityEffectDescription": "防御力2500アップ",
           "effectIdx1": "12524",
           "effectIdx2": "0",
@@ -202,7 +202,7 @@ window.engpotential=[
         {
           "abilityId": "303001",
           "abilityName": "素早さアップ系アビ",
-          "abilityDescription": "素早さ3アップ",
+          "abilityDescription": "SPD +3",
           "abilityEffectDescription": "素早さ3アップ",
           "effectIdx1": "13502",
           "effectIdx2": "0",
@@ -222,7 +222,7 @@ window.engpotential=[
         {
           "abilityId": "303003",
           "abilityName": "素早さアップ系アビ",
-          "abilityDescription": "行動するたび素早さ50%UP(10回まで)",
+          "abilityDescription": "SPD +50% every turn (Max 500%)",
           "abilityEffectDescription": "行動するたび素早さ50%UP(10回まで)",
           "effectIdx1": "2822",
           "effectIdx2": "0",
@@ -232,7 +232,7 @@ window.engpotential=[
         {
           "abilityId": "304001",
           "abilityName": "回避率アップ系アビ",
-          "abilityDescription": "回避率1%アップ",
+          "abilityDescription": "Dodge +1%",
           "abilityEffectDescription": "回避率1%アップ",
           "effectIdx1": "400001",
           "effectIdx2": "0",
@@ -262,7 +262,7 @@ window.engpotential=[
         {
           "abilityId": "307001",
           "abilityName": "スキダメアップ系アビ",
-          "abilityDescription": "全スキルダメージ15%アップ",
+          "abilityDescription": "Skill Damage +15%",
           "abilityEffectDescription": "全スキルダメージ15%アップ",
           "effectIdx1": "1191",
           "effectIdx2": "0",
@@ -282,7 +282,7 @@ window.engpotential=[
         {
           "abilityId": "307003",
           "abilityName": "スキダメアップ系アビ",
-          "abilityDescription": "全スキルダメージ25%アップ",
+          "abilityDescription": "Skill Damage +25%",
           "abilityEffectDescription": "全スキルダメージ25%アップ",
           "effectIdx1": "1911",
           "effectIdx2": "0",
@@ -302,7 +302,7 @@ window.engpotential=[
         {
           "abilityId": "307005",
           "abilityName": "スキダメアップ系アビ",
-          "abilityDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
+          "abilityDescription": "If there's a God enemy: Skill Damage +150%",
           "abilityEffectDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
           "effectIdx1": "2823",
           "effectIdx2": "0",
@@ -312,7 +312,7 @@ window.engpotential=[
         {
           "abilityId": "308001",
           "abilityName": "総チャクラ量アップ系アビ",
-          "abilityDescription": "最大チャクラ量20アップ",
+          "abilityDescription": "Chakra +20",
           "abilityEffectDescription": "最大チャクラ量20アップ",
           "effectIdx1": "20001",
           "effectIdx2": "0",
@@ -322,7 +322,7 @@ window.engpotential=[
         {
           "abilityId": "308002",
           "abilityName": "総チャクラ量アップ系アビ",
-          "abilityDescription": "最大チャクラ量30アップ",
+          "abilityDescription": "Chakra +30",
           "abilityEffectDescription": "最大チャクラ量30アップ",
           "effectIdx1": "20002",
           "effectIdx2": "0",
@@ -332,7 +332,7 @@ window.engpotential=[
         {
           "abilityId": "308003",
           "abilityName": "総チャクラ量アップ系アビ",
-          "abilityDescription": "最大チャクラ量40アップ",
+          "abilityDescription": "Chakra +40",
           "abilityEffectDescription": "最大チャクラ量40アップ",
           "effectIdx1": "20003",
           "effectIdx2": "0",
@@ -342,7 +342,7 @@ window.engpotential=[
         {
           "abilityId": "309001",
           "abilityName": "毎ターンチャクラ回復アップ系アビ",
-          "abilityDescription": "行動後チャクラが5％回復",
+          "abilityDescription": "Chakra Recovery +5%",
           "abilityEffectDescription": "行動後チャクラが5％回復",
           "effectIdx1": "29",
           "effectIdx2": "0",
@@ -352,7 +352,7 @@ window.engpotential=[
         {
           "abilityId": "310001",
           "abilityName": "その他",
-          "abilityDescription": "ATK, DEF and SPD +25% per turn (75%)",
+          "abilityDescription": "ATK, DEF and SPD +25% per turn (Max 75%)",
           "abilityEffectDescription": "行動するたび攻撃力と防御力と素早さ25％アップ（最大3回）",
           "effectIdx1": "872",
           "effectIdx2": "873",
@@ -362,7 +362,7 @@ window.engpotential=[
         {
           "abilityId": "310002",
           "abilityName": "その他",
-          "abilityDescription": "五大里所属への単体ｽｷﾙ攻撃を受ける※複数人発動は最後が有効",
+          "abilityDescription": "Protect Five village allies From Single Target Skills",
           "abilityEffectDescription": "五大里所属への単体ｽｷﾙ攻撃を受ける※複数人発動は最後が有効",
           "effectIdx1": "2431",
           "effectIdx2": "0",
@@ -372,7 +372,7 @@ window.engpotential=[
         {
           "abilityId": "310003",
           "abilityName": "その他",
-          "abilityDescription": "HP +80%. HP Regen +25%",
+          "abilityDescription": "HP +80%. HP Recovery +25%",
           "abilityEffectDescription": "最大HP80%アップ、行動後にHPが25％回復する",
           "effectIdx1": "649",
           "effectIdx2": "1892",
@@ -382,7 +382,7 @@ window.engpotential=[
         {
           "abilityId": "310004",
           "abilityName": "その他",
-          "abilityDescription": "1 Turn: Fixed Damage Immunity",
+          "abilityDescription": "1 Turn: Fixed Damage Deals 0 Damage",
           "abilityEffectDescription": "1回行動するまで耐性無視ダメージ0",
           "effectIdx1": "1961",
           "effectIdx2": "0",
@@ -392,7 +392,7 @@ window.engpotential=[
         {
           "abilityId": "310005",
           "abilityName": "その他",
-          "abilityDescription": "HPが0以下になると1度だけ耐える",
+          "abilityDescription": "Withstand +1",
           "abilityEffectDescription": "HPが0以下になると1度だけ耐える",
           "effectIdx1": "312",
           "effectIdx2": "0",
@@ -412,7 +412,7 @@ window.engpotential=[
         {
           "abilityId": "310007",
           "abilityName": "その他",
-          "abilityDescription": "HP0以下で1回だけHP全回復",
+          "abilityDescription": "Revive +1",
           "abilityEffectDescription": "HP0以下で1回だけHP全回復",
           "effectIdx1": "312",
           "effectIdx2": "874",
@@ -422,7 +422,7 @@ window.engpotential=[
         {
           "abilityId": "310008",
           "abilityName": "その他",
-          "abilityDescription": "敵に無所属がいると素早さ60%アップ",
+          "abilityDescription": "If there's a None enemy: SPD +60%",
           "abilityEffectDescription": "敵に無所属がいると素早さ60%アップ",
           "effectIdx1": "2560",
           "effectIdx2": "0",
@@ -432,7 +432,7 @@ window.engpotential=[
         {
           "abilityId": "310009",
           "abilityName": "その他",
-          "abilityDescription": "味方への単体ｽｷﾙ攻撃を受ける※複数人発動は最後が有効",
+          "abilityDescription": "Protect allies From Single Target Skills",
           "abilityEffectDescription": "味方への単体ｽｷﾙ攻撃を受ける※複数人発動は最後が有効",
           "effectIdx1": "2186",
           "effectIdx2": "0",
@@ -442,7 +442,7 @@ window.engpotential=[
         {
           "abilityId": "310010",
           "abilityName": "その他",
-          "abilityDescription": "1回行動までスキップ無効",
+          "abilityDescription": "1 Turn: Skip Immunity",
           "abilityEffectDescription": "1回行動までスキップ無効",
           "effectIdx1": "2336",
           "effectIdx2": "0",
@@ -462,7 +462,7 @@ window.engpotential=[
         {
           "abilityId": "310012",
           "abilityName": "Bマス用",
-          "abilityDescription": "敵に神忍祭限定キャラが生存すると素早さ60%アップ",
+          "abilityDescription": "If there's a God enemy: SPD +60%",
           "abilityEffectDescription": "敵に神忍祭限定キャラが生存すると素早さ60%アップ",
           "effectIdx1": "2692",
           "effectIdx2": "0",
@@ -482,7 +482,7 @@ window.engpotential=[
         {
           "abilityId": "310014",
           "abilityName": "Bマス用",
-          "abilityDescription": "Chance Yellow Type Advantage",
+          "abilityDescription": "Chance for Yellow Specialization",
           "abilityEffectDescription": "確率で心属性へのスキル攻撃時に相手の耐性を弱点とする",
           "effectIdx1": "2693",
           "effectIdx2": "0",
@@ -492,7 +492,7 @@ window.engpotential=[
         {
           "abilityId": "310015",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "味方への単体スキル攻撃を受ける",
+          "abilityDescription": "Protect allies From Single Target Skills",
           "abilityEffectDescription": "味方への単体スキル攻撃を受ける",
           "effectIdx1": "2186",
           "effectIdx2": "0",
@@ -522,7 +522,7 @@ window.engpotential=[
         {
           "abilityId": "310018",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "ATK, DEF and SPD +25% per turn (75%) ",
+          "abilityDescription": "ATK, DEF and SPD +25% per turn (Max 75%) ",
           "abilityEffectDescription": "行動するたび攻防速25%UP(3回まで)",
           "effectIdx1": "872",
           "effectIdx2": "873",
@@ -532,7 +532,7 @@ window.engpotential=[
         {
           "abilityId": "310019",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "チャクラ消費量半減",
+          "abilityDescription": "Chakra Cost -50%",
           "abilityEffectDescription": "チャクラ消費量半減",
           "effectIdx1": "895",
           "effectIdx2": "0",
@@ -542,7 +542,7 @@ window.engpotential=[
         {
           "abilityId": "310020",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "素早さ40%UP",
+          "abilityDescription": "SPD +40%",
           "abilityEffectDescription": "素早さ40%UP",
           "effectIdx1": "111",
           "effectIdx2": "0",
@@ -552,7 +552,7 @@ window.engpotential=[
         {
           "abilityId": "310021",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "HP0以下で1回だけHP全回復",
+          "abilityDescription": "Revive +1",
           "abilityEffectDescription": "HP0以下で1回だけHP全回復",
           "effectIdx1": "312",
           "effectIdx2": "874",
@@ -572,7 +572,7 @@ window.engpotential=[
         {
           "abilityId": "310023",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "味方への単体スキル攻撃を受ける",
+          "abilityDescription": "Protect allies From Single Target Skills",
           "abilityEffectDescription": "味方への単体スキル攻撃を受ける",
           "effectIdx1": "2186",
           "effectIdx2": "0",
@@ -582,7 +582,7 @@ window.engpotential=[
         {
           "abilityId": "310024",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "敵に破神がいると素早さ60%アップ",
+          "abilityDescription": "If there's a God enemy: SPD +60%",
           "abilityEffectDescription": "敵に破神がいると素早さ60%アップ",
           "effectIdx1": "2716",
           "effectIdx2": "0",
@@ -592,7 +592,7 @@ window.engpotential=[
         {
           "abilityId": "310025",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "スキルダメージ120%アップ",
+          "abilityDescription": "Skill Damage +120%",
           "abilityEffectDescription": "スキルダメージ120%アップ",
           "effectIdx1": "30011",
           "effectIdx2": "0",
@@ -602,7 +602,7 @@ window.engpotential=[
         {
           "abilityId": "310026",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "行動するたび攻防速25%UP(3回まで)",
+          "abilityDescription": "ATK, DEF and SPD +25% (Max 75%)",
           "abilityEffectDescription": "行動するたび攻防速25%UP(3回まで)",
           "effectIdx1": "872",
           "effectIdx2": "873",
@@ -612,7 +612,7 @@ window.engpotential=[
         {
           "abilityId": "310027",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "チャクラ消費量半減",
+          "abilityDescription": "Chakra Cost -50%",
           "abilityEffectDescription": "チャクラ消費量半減",
           "effectIdx1": "895",
           "effectIdx2": "0",
@@ -652,7 +652,7 @@ window.engpotential=[
         {
           "abilityId": "310031",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "HP80%以上の時、確実に再行動※再行動後さらに行動不可",
+          "abilityDescription": "HP >=80%: Grant an Extra Turn",
           "abilityEffectDescription": "HP80%以上の時、確実に再行動※再行動後さらに行動不可",
           "effectIdx1": "2269",
           "effectIdx2": "0",
@@ -662,7 +662,7 @@ window.engpotential=[
         {
           "abilityId": "310032",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "25% Chance to grant an Extra Turn",
+          "abilityDescription": "25% Chance to Grant an Extra Turn",
           "abilityEffectDescription": "低確率で再行動（25%）",
           "effectIdx1": "2537",
           "effectIdx2": "0",
@@ -672,7 +672,7 @@ window.engpotential=[
         {
           "abilityId": "310033",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "1 Turn: Fixed Damage Immunity",
+          "abilityDescription": "1 Turn: Fixed Damage Deals 0 Damage",
           "abilityEffectDescription": "1回行動まで耐性無視ダメージ0",
           "effectIdx1": "1961",
           "effectIdx2": "0",
@@ -682,7 +682,7 @@ window.engpotential=[
         {
           "abilityId": "310034",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "HP50%以下で素早さ80％アップ",
+          "abilityDescription": "HP =<50%: SPD +50%",
           "abilityEffectDescription": "HP50%以下で素早さ80％アップ",
           "effectIdx1": "2423",
           "effectIdx2": "0",
@@ -692,7 +692,7 @@ window.engpotential=[
         {
           "abilityId": "310035",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
+          "abilityDescription": "If there's a God enemy: Skill Damage +150%",
           "abilityEffectDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
           "effectIdx1": "2823",
           "effectIdx2": "0",
@@ -702,7 +702,7 @@ window.engpotential=[
         {
           "abilityId": "310036",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "耐えた時に高確率でHP全回復",
+          "abilityDescription": "High Chance to Fully Recover HP upon Withstand",
           "abilityEffectDescription": "耐えた時に高確率でHP全回復",
           "effectIdx1": "2894",
           "effectIdx2": "0",
@@ -712,7 +712,7 @@ window.engpotential=[
         {
           "abilityId": "310037",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "敵に“暁”が生存していると素早さ60%アップ",
+          "abilityDescription": "If there's an Akatsuki enemy: SPD +60%",
           "abilityEffectDescription": "敵に“暁”が生存していると素早さ60%アップ",
           "effectIdx1": "2896",
           "effectIdx2": "0",
@@ -732,7 +732,7 @@ window.engpotential=[
         {
           "abilityId": "310039",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "敵にうちは一族がいると最大HP100%アップ",
+          "abilityDescription": "If there's an Uchiha enemy: HP +100%",
           "abilityEffectDescription": "敵にうちは一族がいると最大HP100%アップ",
           "effectIdx1": "2948",
           "effectIdx2": "0",
@@ -752,7 +752,7 @@ window.engpotential=[
         {
           "abilityId": "310041",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "確率で技属性からのダメージ50％カット",
+          "abilityDescription": "Chance for Damage Cut +50% from Blue enemies",
           "abilityEffectDescription": "確率で技属性からのダメージ50％カット",
           "effectIdx1": "2949",
           "effectIdx2": "0",
@@ -762,7 +762,7 @@ window.engpotential=[
         {
           "abilityId": "310042",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "HP0以下で2回耐える",
+          "abilityDescription": "Withstand +2",
           "abilityEffectDescription": "HP0以下で2回耐える",
           "effectIdx1": "1057",
           "effectIdx2": "0",
@@ -772,7 +772,7 @@ window.engpotential=[
         {
           "abilityId": "310043",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "Chance White Type Advantage",
+          "abilityDescription": "Chance for Black Specialization",
           "abilityEffectDescription": "確率で知属性へのスキル攻撃時に相手の耐性を弱点とする",
           "effectIdx1": "2945",
           "effectIdx2": "0",
@@ -782,7 +782,7 @@ window.engpotential=[
         {
           "abilityId": "310044",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "Chance White Type Advantage",
+          "abilityDescription": "Chance for White Specialization",
           "abilityEffectDescription": "確率で勇属性へのスキル攻撃時に相手の耐性を弱点とする",
           "effectIdx1": "2946",
           "effectIdx2": "0",
@@ -802,7 +802,7 @@ window.engpotential=[
         {
           "abilityId": "310046",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "敵に神忍キャラが生存で素早さ60%アップ",
+          "abilityDescription": "If there's an EX enemy: SPD +60%",
           "abilityEffectDescription": "敵に神忍キャラが生存で素早さ60%アップ",
           "effectIdx1": "2692",
           "effectIdx2": "0",
@@ -812,7 +812,7 @@ window.engpotential=[
         {
           "abilityId": "310047",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "Protect Konoha Allies From Single Target Skills",
+          "abilityDescription": "Protect Konoha allies From Single Target Skills",
           "abilityEffectDescription": "木ノ葉隠れの里所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
           "effectIdx1": "1834",
           "effectIdx2": "0",
@@ -822,7 +822,7 @@ window.engpotential=[
         {
           "abilityId": "310048",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "敵に破神が生存で素早さ60%アップ",
+          "abilityDescription": "If there's a GK enemy: SPD +60%",
           "abilityEffectDescription": "敵に破神が生存で素早さ60%アップ",
           "effectIdx1": "2988",
           "effectIdx2": "0",
@@ -832,7 +832,7 @@ window.engpotential=[
         {
           "abilityId": "310049",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "敵に神忍キャラがいると素早さ60%アップ",
+          "abilityDescription": "If there's a God enemy: SPD +60%",
           "abilityEffectDescription": "敵に神忍キャラがいると素早さ60%アップ",
           "effectIdx1": "3002",
           "effectIdx2": "0",
@@ -842,7 +842,7 @@ window.engpotential=[
         {
           "abilityId": "310050",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "神忍キャラからのダメージ50%カット",
+          "abilityDescription": "Damage Cut +50 from God enemies",
           "abilityEffectDescription": "神忍キャラからのダメージ50%カット",
           "effectIdx1": "3003",
           "effectIdx2": "0",
@@ -852,7 +852,7 @@ window.engpotential=[
         {
           "abilityId": "310051",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "破神キャラからのダメージ50%カット",
+          "abilityDescription": "Damage Cut +50 from GK enemies",
           "abilityEffectDescription": "破神キャラからのダメージ50%カット",
           "effectIdx1": "3004",
           "effectIdx2": "0",
@@ -862,7 +862,7 @@ window.engpotential=[
         {
           "abilityId": "310052",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "超忍・創・滅キャラから受けるダメージ50%カット",
+          "abilityDescription": "Damage Cut +50 from EX, Origin and Destroyer enemies",
           "abilityEffectDescription": "超忍・創・滅キャラから受けるダメージ50%カット",
           "effectIdx1": "2708",
           "effectIdx2": "0",
@@ -872,7 +872,7 @@ window.engpotential=[
         {
           "abilityId": "310053",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "行動毎に素早さ50%アップ（最大500%）",
+          "abilityDescription": "SPD +50% every turn (Max 500%)",
           "abilityEffectDescription": "行動毎に素早さ50%アップ（最大500%）",
           "effectIdx1": "3029",
           "effectIdx2": "0",
@@ -882,7 +882,7 @@ window.engpotential=[
         {
           "abilityId": "310054",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "防御力300%アップ",
+          "abilityDescription": "DEF +300%",
           "abilityEffectDescription": "防御力300%アップ",
           "effectIdx1": "12118",
           "effectIdx2": "0",
@@ -892,7 +892,7 @@ window.engpotential=[
         {
           "abilityId": "310055",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "敵にうちは一族がいるとき確率でｽｷﾙ2で急襲(一部ﾁｬｸﾗ回復)",
+          "abilityDescription": "If there's an Uchiha enemy: Chance to Insta-Cast Skill 2",
           "abilityEffectDescription": "敵にうちは一族がいるとき確率でｽｷﾙ2で急襲(一部ﾁｬｸﾗ回復)",
           "effectIdx1": "3050",
           "effectIdx2": "0",
@@ -902,7 +902,7 @@ window.engpotential=[
         {
           "abilityId": "310056",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "5回行動まで攻撃力・防御力・素早さ55％アップ",
+          "abilityDescription": "5 Turns: ATK, DEF and SPD +55%",
           "abilityEffectDescription": "5回行動まで攻撃力・防御力・素早さ55％アップ",
           "effectIdx1": "2979",
           "effectIdx2": "0",
@@ -912,7 +912,7 @@ window.engpotential=[
         {
           "abilityId": "310057",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "死亡時敵に創キャラ生存で敵全体に確率で絶望付与",
+          "abilityDescription": "If there's an Origin enemy: Chance to Inflict 'Despair' State upon Death",
           "abilityEffectDescription": "死亡時敵に創キャラ生存で敵全体に確率で絶望付与",
           "effectIdx1": "3063",
           "effectIdx2": "0",
@@ -922,7 +922,7 @@ window.engpotential=[
         {
           "abilityId": "310058",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "3回まで木ノ葉所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "abilityDescription": "3 Turns: Protect Konoha allies from Single Target Skills",
           "abilityEffectDescription": "3回まで木ノ葉所属への単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
           "effectIdx1": "2113",
           "effectIdx2": "0",
@@ -942,7 +942,7 @@ window.engpotential=[
         {
           "abilityId": "310060",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "HP +60%. HP and Chakra Regen +25%",
+          "abilityDescription": "HP +60%. HP and Chakra Recovery +25%",
           "abilityEffectDescription": "最大HP60%アップ、行動後にHPとチャクラが25％回復する",
           "effectIdx1": "10059",
           "effectIdx2": "1892",
@@ -952,7 +952,7 @@ window.engpotential=[
         {
           "abilityId": "310061",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "敵に“暁”所属がいると単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
+          "abilityDescription": "If there's an Akatsuki enemy: Protect allies from Single Target Skills",
           "abilityEffectDescription": "敵に“暁”所属がいると単体ｽｷﾙ攻撃を受ける※発動は最後が有効",
           "effectIdx1": "3065",
           "effectIdx2": "0",
@@ -962,7 +962,7 @@ window.engpotential=[
         {
           "abilityId": "310062",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "“暁”所属への単体スキル攻撃を受ける※複数人発動は最後が有効",
+          "abilityDescription": "Protect Ataksuki allies from Single Target Skills",
           "abilityEffectDescription": "“暁”所属への単体スキル攻撃を受ける※複数人発動は最後が有効",
           "effectIdx1": "2169",
           "effectIdx2": "0",
@@ -972,7 +972,7 @@ window.engpotential=[
         {
           "abilityId": "310063",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "HP90%以上の時耐性無視ダメージ0",
+          "abilityDescription": "HP >=90%: Fixed Damage Deals 0 Damage",
           "abilityEffectDescription": "HP90%以上の時耐性無視ダメージ0",
           "effectIdx1": "1998",
           "effectIdx2": "0",
@@ -982,7 +982,7 @@ window.engpotential=[
         {
           "abilityId": "310064",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "HP0以下で1回耐え、耐えた時に現在の最大HPの50％回復",
+          "abilityDescription": "Withstand +1, Recover 50% HP upon Withstand",
           "abilityEffectDescription": "HP0以下で1回耐え、耐えた時に現在の最大HPの50％回復",
           "effectIdx1": "312",
           "effectIdx2": "3096",
@@ -992,7 +992,7 @@ window.engpotential=[
         {
           "abilityId": "310065",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "耐えた時、自身を長い間仙人モード状態にする",
+          "abilityDescription": "Grant 'Sage Mode' State to self upon Withstand",
           "abilityEffectDescription": "耐えた時、自身を長い間仙人モード状態にする",
           "effectIdx1": "3066",
           "effectIdx2": "0",
@@ -1002,7 +1002,7 @@ window.engpotential=[
         {
           "abilityId": "310066",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "敵に超忍がいるとﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲攻撃（ﾁｬｸﾗ中回復）",
+          "abilityDescription": "If there's an EX enemy: Chance to Insta-Cast Skill 2",
           "abilityEffectDescription": "敵に超忍がいるとﾊﾞﾄﾙ開始時確率でｽｷﾙ2で急襲攻撃（ﾁｬｸﾗ中回復）",
           "effectIdx1": "3067",
           "effectIdx2": "0",
@@ -1012,7 +1012,7 @@ window.engpotential=[
         {
           "abilityId": "310067",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "Chance Red Type Advantage",
+          "abilityDescription": "Chance for Red Specialization",
           "abilityEffectDescription": "確率で体属性へのスキル攻撃時に相手の耐性を弱点とする",
           "effectIdx1": "3073",
           "effectIdx2": "0",
@@ -1022,7 +1022,7 @@ window.engpotential=[
         {
           "abilityId": "310068",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "地形効果無効",
+          "abilityDescription": "Enemy Terrain Immunity",
           "abilityEffectDescription": "地形効果無効",
           "effectIdx1": "2525",
           "effectIdx2": "0",
@@ -1032,7 +1032,7 @@ window.engpotential=[
         {
           "abilityId": "310069",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "耐えた時に現在の最大HPの30%回復",
+          "abilityDescription": "Recover 30% HP upon Withstand",
           "abilityEffectDescription": "耐えた時に現在の最大HPの30%回復",
           "effectIdx1": "3098",
           "effectIdx2": "0",
@@ -1042,7 +1042,7 @@ window.engpotential=[
         {
           "abilityId": "310070",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "Chance Blue Type Advantage",
+          "abilityDescription": "Chance for Blue Specialization",
           "abilityEffectDescription": "確率で技属性へのスキル攻撃時に相手の耐性を弱点とする",
           "effectIdx1": "3156",
           "effectIdx2": "0",
@@ -1052,7 +1052,7 @@ window.engpotential=[
         {
           "abilityId": "310071",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "1回行動するまでチャクラ消費量0",
+          "abilityDescription": "1 Turn: Set Chakra Cost to 0",
           "abilityEffectDescription": "1回行動するまでチャクラ消費量0",
           "effectIdx1": "1378",
           "effectIdx2": "0",
@@ -1062,7 +1062,7 @@ window.engpotential=[
         {
           "abilityId": "310072",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "バトル開始時に低確率で先制攻撃",
+          "abilityDescription": "Low Chance for First Strike",
           "abilityEffectDescription": "バトル開始時に低確率で先制攻撃",
           "effectIdx1": "3166",
           "effectIdx2": "0",
@@ -1082,7 +1082,7 @@ window.engpotential=[
         {
           "abilityId": "310074",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "行動後に確率で再行動",
+          "abilityDescription": "Chance for an Extra Turn",
           "abilityEffectDescription": "行動後に確率で再行動",
           "effectIdx1": "439",
           "effectIdx2": "0",
@@ -1092,7 +1092,7 @@ window.engpotential=[
         {
           "abilityId": "310075",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "確率で心属性からのダメージ50％カット",
+          "abilityDescription": "Chance for Damage Cut +50% from Yellow enemies",
           "abilityEffectDescription": "確率で心属性からのダメージ50％カット",
           "effectIdx1": "3193",
           "effectIdx2": "0",
@@ -1102,7 +1102,7 @@ window.engpotential=[
         {
           "abilityId": "310076",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "敵に“暁”がいると最大HP200%アップ",
+          "abilityDescription": "If there's an Akatsuki enemy: HP +200%",
           "abilityEffectDescription": "敵に“暁”がいると最大HP200%アップ",
           "effectIdx1": "3210",
           "effectIdx2": "0",
@@ -1112,7 +1112,7 @@ window.engpotential=[
         {
           "abilityId": "310077",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "If there's a Destroyer Enemy: ATK, DEF and SPD +60%",
+          "abilityDescription": "If there's a Destroyer enemy: ATK, DEF and SPD +60%",
           "abilityEffectDescription": "敵に滅キャラがいると、攻防速60%アップ",
           "effectIdx1": "3221",
           "effectIdx2": "0",
@@ -1152,7 +1152,7 @@ window.engpotential=[
         {
           "abilityId": "310081",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "1回行動まで地形効果無効",
+          "abilityDescription": "1 Turn: Enemy Terrain Immunity",
           "abilityEffectDescription": "1回行動まで地形効果無効",
           "effectIdx1": "3250",
           "effectIdx2": "0",
@@ -1172,7 +1172,7 @@ window.engpotential=[
         {
           "abilityId": "310083",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "敵に神忍祭限定キャラがいると確率で先制",
+          "abilityDescription": "If there's a God Enemy: Chance for First Strike",
           "abilityEffectDescription": "敵に神忍祭限定キャラがいると確率で先制",
           "effectIdx1": "2999",
           "effectIdx2": "0",
@@ -1202,7 +1202,7 @@ window.engpotential=[
         {
           "abilityId": "310086",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "スキップ無効",
+          "abilityDescription": "Skip Immunity",
           "abilityEffectDescription": "スキップ無効",
           "effectIdx1": "3262",
           "effectIdx2": "0",
@@ -1212,7 +1212,7 @@ window.engpotential=[
         {
           "abilityId": "310087",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "1 Turn: Skil and Cancel Immunity",
+          "abilityDescription": "1 Turn: Skill and Cancel Immunity",
           "abilityEffectDescription": "1回行動までスキップ・キャンセル無効",
           "effectIdx1": "2336",
           "effectIdx2": "1804",
@@ -1222,7 +1222,7 @@ window.engpotential=[
         {
           "abilityId": "310088",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "敵に千手一族がいると、開始時確率で耐性無視して幻付与",
+          "abilityDescription": "If there's a Senju enemy: At the Start of Battle, Chance to Ignore Resistance and Inflict 'Illusion'",
           "abilityEffectDescription": "敵に千手一族がいると、開始時確率で耐性無視して幻付与",
           "effectIdx1": "3276",
           "effectIdx2": "0",
@@ -1242,7 +1242,7 @@ window.engpotential=[
         {
           "abilityId": "310090",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "行動毎に素早さ25%アップ（最大300%）",
+          "abilityDescription": "SPD +25% every turn (Max 300%)",
           "abilityEffectDescription": "行動毎に素早さ25%アップ（最大300%）",
           "effectIdx1": "3285",
           "effectIdx2": "0",
@@ -1252,7 +1252,7 @@ window.engpotential=[
         {
           "abilityId": "310091",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "敵に無所属がいると素早さ100%アップ",
+          "abilityDescription": "If there's a None enemy: SPD +100%",
           "abilityEffectDescription": "敵に無所属がいると素早さ100%アップ",
           "effectIdx1": "3117",
           "effectIdx2": "0",
@@ -1272,7 +1272,7 @@ window.engpotential=[
         {
           "abilityId": "310093",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "敵に木ノ葉隠れ所属がいると、最大HP60%アップ",
+          "abilityDescription": "If there's a Konoha enemy: HP +60%",
           "abilityEffectDescription": "敵に木ノ葉隠れ所属がいると、最大HP60%アップ",
           "effectIdx1": "3311",
           "effectIdx2": "0",
@@ -1282,7 +1282,7 @@ window.engpotential=[
         {
           "abilityId": "310094",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "敵に滅キャラがいると、最大HP80%アップ",
+          "abilityDescription": "If there's a Destroyer enemy: HP +80%",
           "abilityEffectDescription": "敵に滅キャラがいると、最大HP80%アップ",
           "effectIdx1": "3312",
           "effectIdx2": "0",
@@ -1322,7 +1322,7 @@ window.engpotential=[
         {
           "abilityId": "310098",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "低確率で知・勇属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityDescription": "Low Chance for Black and White Specialization",
           "abilityEffectDescription": "低確率で知・勇属性へのスキル攻撃時に相手の耐性を弱点とする",
           "effectIdx1": "3321",
           "effectIdx2": "3322",
@@ -1332,7 +1332,7 @@ window.engpotential=[
         {
           "abilityId": "310099",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "低確率で心・技・体属性へのスキル攻撃時に相手の耐性を弱点化",
+          "abilityDescription": "Low Chance for Yellow, Blue and Red Specialization",
           "abilityEffectDescription": "低確率で心・技・体属性へのスキル攻撃時に相手の耐性を弱点化",
           "effectIdx1": "3318",
           "effectIdx2": "3319",
@@ -1382,7 +1382,7 @@ window.engpotential=[
         {
           "abilityId": "310104",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "敵に「ﾅﾙﾄ・ｻｽｹ・ｻｸﾗ・ｶｶｼ」がいると、HP0以下で2回HP全回復",
+          "abilityDescription": "If there's a Naruto, Sasuke, Sakura or Kakashi enemy: Revive +2",
           "abilityEffectDescription": "敵に「ﾅﾙﾄ・ｻｽｹ・ｻｸﾗ・ｶｶｼ」がいると、HP0以下で2回HP全回復",
           "effectIdx1": "3327",
           "effectIdx2": "3331",
@@ -1402,7 +1402,7 @@ window.engpotential=[
         {
           "abilityId": "310106",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "敵に無所属がいると、バトル開始時低確率で敵全体を封殺状態",
+          "abilityDescription": "If there's a None enemy: Low Chance to Inflict 'Seal' State to all enemies",
           "abilityEffectDescription": "敵に無所属がいると、バトル開始時低確率で敵全体を封殺状態",
           "effectIdx1": "3337",
           "effectIdx2": "0",
@@ -1412,7 +1412,7 @@ window.engpotential=[
         {
           "abilityId": "310107",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "バトル開始時、敵に破神がいると確率で先制攻撃",
+          "abilityDescription": "If there's a GK enemy: Chance for First Strike",
           "abilityEffectDescription": "バトル開始時、敵に破神がいると確率で先制攻撃",
           "effectIdx1": "3018",
           "effectIdx2": "0",
@@ -1442,7 +1442,7 @@ window.engpotential=[
         {
           "abilityId": "310110",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "If there's a God Enemy: Chance for an Extra Turn",
+          "abilityDescription": "If there's a God enemy: Chance for an Extra Turn",
           "abilityEffectDescription": "敵に神忍がいると、確率で再行動",
           "effectIdx1": "3380",
           "effectIdx2": "0",
@@ -1452,7 +1452,7 @@ window.engpotential=[
         {
           "abilityId": "310111",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "If there's a God Enemy: Insta Kill Immunity",
+          "abilityDescription": "If there's a God enemy: Insta Kill Immunity",
           "abilityEffectDescription": "敵に神忍がいると、即死無効",
           "effectIdx1": "3381",
           "effectIdx2": "0",
@@ -1482,7 +1482,7 @@ window.engpotential=[
         {
           "abilityId": "310114",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "男性キャラから受ける耐性無視ダメ―ジを低確率で0にする",
+          "abilityDescription": "Low Chance for Fixed Damage to Deal 0 Damage against Male enemies",
           "abilityEffectDescription": "男性キャラから受ける耐性無視ダメ―ジを低確率で0にする",
           "effectIdx1": "3402",
           "effectIdx2": "0",
@@ -1492,7 +1492,7 @@ window.engpotential=[
         {
           "abilityId": "310115",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "男性キャラから受けるダメ―ジを低確率で50%カット",
+          "abilityDescription": "Low Chance for Damage Cut +50% against Male enemies",
           "abilityEffectDescription": "男性キャラから受けるダメ―ジを低確率で50%カット",
           "effectIdx1": "3404",
           "effectIdx2": "0",
@@ -1502,8 +1502,8 @@ window.engpotential=[
         {
           "abilityId": "310116",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "1回行動までチャクラ消費0&amp;敵に心属性がいると確率で先制攻撃",
-          "abilityEffectDescription": "1回行動までチャクラ消費0&amp;敵に心属性がいると確率で先制攻撃",
+          "abilityDescription": "If there's a Yellow enemy: Chance for First Strike and 1 Turn: Set Chakra Cost to 0",
+          "abilityEffectDescription": "1回行動までチャクラ消費0&敵に心属性がいると確率で先制攻撃",
           "effectIdx1": "1378",
           "effectIdx2": "3405",
           "effectIdx3": "0",
@@ -1512,8 +1512,8 @@ window.engpotential=[
         {
           "abilityId": "310117",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "1回行動までチャクラ消費0&amp;敵に技属性がいると確率で先制攻撃",
-          "abilityEffectDescription": "1回行動までチャクラ消費0&amp;敵に技属性がいると確率で先制攻撃",
+          "abilityDescription": "If there's a Blue enemy: Chance for First Strike and 1 Turn: Set Chakra Cost to 0",
+          "abilityEffectDescription": "1回行動までチャクラ消費0&敵に技属性がいると確率で先制攻撃",
           "effectIdx1": "1378",
           "effectIdx2": "3406",
           "effectIdx3": "0",
@@ -1522,8 +1522,8 @@ window.engpotential=[
         {
           "abilityId": "310118",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "1回行動までチャクラ消費0&amp;敵に体属性がいると確率で先制攻撃",
-          "abilityEffectDescription": "1回行動までチャクラ消費0&amp;敵に体属性がいると確率で先制攻撃",
+          "abilityDescription": "If there's a Red enemy: Chance for First Strike and 1 Turn: Set Chakra Cost to 0",
+          "abilityEffectDescription": "1回行動までチャクラ消費0&敵に体属性がいると確率で先制攻撃",
           "effectIdx1": "1378",
           "effectIdx2": "3407",
           "effectIdx3": "0",
@@ -1652,7 +1652,7 @@ window.engpotential=[
         {
           "abilityId": "310131",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "味方に「ナルト・サクラ・サイ」がいると確率で再行動",
+          "abilityDescription": "If there's a Naruto, Sakura or Sai ally: Chance for an Extra Turn",
           "abilityEffectDescription": "味方に「ナルト・サクラ・サイ」がいると確率で再行動",
           "effectIdx1": "3503",
           "effectIdx2": "3504",
@@ -1662,7 +1662,7 @@ window.engpotential=[
         {
           "abilityId": "310132",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "味方に「ナルト・サクラ・サイ」がいると確率で先制攻撃",
+          "abilityDescription": "If there's a Naruto, Sakura or Sai ally: Chance for First Strike",
           "abilityEffectDescription": "味方に「ナルト・サクラ・サイ」がいると確率で先制攻撃",
           "effectIdx1": "2842",
           "effectIdx2": "3506",
@@ -1672,7 +1672,7 @@ window.engpotential=[
         {
           "abilityId": "310133",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "味方に「ガイ・ネジ・リー」がいると確率で先制攻撃",
+          "abilityDescription": "If there's a Neji, Lee or Guy ally: Chance for First Strike",
           "abilityEffectDescription": "味方に「ガイ・ネジ・リー」がいると確率で先制攻撃",
           "effectIdx1": "3508",
           "effectIdx2": "3510",
@@ -1682,7 +1682,7 @@ window.engpotential=[
         {
           "abilityId": "310134",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "味方に「ネジ・リー・テンテン」がいると確率で先制攻撃",
+          "abilityDescription": "If there's a Neji, Lee or Tenten ally: Chance for First Strike",
           "abilityEffectDescription": "味方に「ネジ・リー・テンテン」がいると確率で先制攻撃",
           "effectIdx1": "3510",
           "effectIdx2": "3509",
@@ -1692,7 +1692,7 @@ window.engpotential=[
         {
           "abilityId": "310135",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "味方に「ガイ・リー・テンテン」がいると確率で先制攻撃",
+          "abilityDescription": "If there's a Guy, Lee or Tenten ally: Chance for First Strike",
           "abilityEffectDescription": "味方に「ガイ・リー・テンテン」がいると確率で先制攻撃",
           "effectIdx1": "3508",
           "effectIdx2": "3509",
@@ -1752,7 +1752,7 @@ window.engpotential=[
         {
           "abilityId": "310142",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "2 Turns: Fixed Damage Immunity",
+          "abilityDescription": "2 Turns: Fixed Damage Deals 0 Damage",
           "abilityEffectDescription": "2回行動まで耐性無視ダメージ0",
           "effectIdx1": "1838",
           "effectIdx2": "0",
