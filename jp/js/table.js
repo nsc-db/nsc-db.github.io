@@ -191,7 +191,7 @@ $(document).ready( function () {
 						}
 					}
 					table
-				 	.columns(13)
+				 	.columns(12)
 			     	.search(cast, true, false)
 			     	.draw();
 			     	
@@ -211,7 +211,7 @@ $(document).ready( function () {
 						}
 					}
 					table
-				 	.columns(13)
+				 	.columns(12)
 			     	.search(cast, true, false)
 			     	.draw();
 		     	}
@@ -249,7 +249,7 @@ $(document).ready( function () {
 							}
 						}
 						table
-					 	.columns(14)
+					 	.columns(13)
 				     	.search(damage, true, false)
 				     	.draw();
 			     	
@@ -273,7 +273,7 @@ $(document).ready( function () {
 							}
 						}
 						table
-					 	.columns(14)
+					 	.columns(13)
 				     	.search(damage, true, false)
 				     	.draw();
 		     		}
@@ -309,7 +309,7 @@ $(document).ready( function () {
 						}
 					}
 					table
-				 	.columns(15)
+				 	.columns(14)
 			     	.search(cast, true, false)
 			     	.draw();
 			     	
@@ -329,7 +329,7 @@ $(document).ready( function () {
 						}
 					}
 					table
-				 	.columns(15)
+				 	.columns(14)
 			     	.search(cast, true, false)
 			     	.draw();
 		     	}

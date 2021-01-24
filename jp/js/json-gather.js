@@ -351,7 +351,6 @@
 					}
 				}
 			}
-
 			//Creates Entry
 			if(units.indexOf(chara[0]) == -1){ // Verifies Character ID
 				units.push(unit[0]); // Adds Character in the array			
