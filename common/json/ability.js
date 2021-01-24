@@ -27000,6 +27000,26 @@ window.ability=[
           "effectIds": "3644,3645,1512,20009,"
         },
         {
+          "abilityId": "2754",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3650",
+          "effectIdx2": "3651",
+          "effectIdx3": "3652",
+          "effectIds": "3650,3651,3652,1057,3241,"
+        },
+        {
+          "abilityId": "2755",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3303",
+          "effectIdx2": "3642",
+          "effectIdx3": "3643",
+          "effectIds": "3303,3642,3643,"
+        },
+        {
           "abilityId": "2756",
           "abilityName": "飛雷神継承者",
           "abilityDescription": "自身のスキル発動速度が常に閃光化。敵に無所属が生存時バトル開始&amp;被攻撃時に自身を閃光モード零式状態にする",
@@ -27018,6 +27038,26 @@ window.ability=[
           "effectIdx2": "874",
           "effectIdx3": "3674",
           "effectIds": "1057,874,3674,2708,"
+        },
+        {
+          "abilityId": "2758",
+          "abilityName": "幻術の巧手",
+          "abilityDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+          "abilityEffectDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+          "effectIdx1": "20009",
+          "effectIdx2": "1115",
+          "effectIdx3": "312",
+          "effectIds": "20009,1115,312,"
+        },
+        {
+          "abilityId": "2759",
+          "abilityName": "冷静な指導力",
+          "abilityDescription": "HP80%以上の時、スキルダメージが80%アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80%以上の時、スキルダメージが80%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "31707",
+          "effectIdx2": "1089",
+          "effectIdx3": "0",
+          "effectIds": "31707,1089,"
         },
         {
           "abilityId": "10000",
@@ -30788,6 +30828,26 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3621,"
+        },
+        {
+          "abilityId": "310145",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "味方に「ナルト・サスケ・サクラ」生存で低確率で再行動",
+          "abilityEffectDescription": "味方に「ナルト・サスケ・サクラ」生存で低確率で再行動",
+          "effectIdx1": "3638",
+          "effectIdx2": "3685",
+          "effectIdx3": "3687",
+          "effectIds": "3638,3685,3687,"
+        },
+        {
+          "abilityId": "310146",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "味方に「ナルト・サスケ・サクラ」生存で耐えた時HP全回復",
+          "abilityEffectDescription": "味方に「ナルト・サスケ・サクラ」生存で耐えた時HP全回復",
+          "effectIdx1": "3639",
+          "effectIdx2": "3686",
+          "effectIdx3": "3688",
+          "effectIds": "3639,3686,3688,"
         },
         {
           "abilityId": "801187",

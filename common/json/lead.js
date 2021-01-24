@@ -16072,6 +16072,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1164",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "3653",
+          "effectIdx2": "3654",
+          "effectIdx3": "3655",
+          "effectIds": "3653,3654,3655,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1165",
           "name": "翔空の旋闘者",
           "description": "木ノ葉隠れの里所属のスキル発動速度1段階アップ&amp;素早さ150%アップ",
@@ -16079,6 +16093,20 @@ window.lead=[
           "effectIdx2": "967",
           "effectIdx3": "0",
           "effectIds": "1840,967,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1166",
+          "name": "繚幻の指導者",
+          "description": "木ノ葉隠れの里所属の最大HPとスキルダメージが80%アップする",
+          "effectIdx1": "649",
+          "effectIdx2": "694",
+          "effectIdx3": "0",
+          "effectIds": "649,694,",
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",

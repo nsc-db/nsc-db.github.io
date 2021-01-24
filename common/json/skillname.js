@@ -8056,12 +8056,28 @@ window.skillname=[
           "name": "止めるって言ってんだ！！"
         },
         {
+          "cardBattleSkillNameId": "3226",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3227",
+          "name": "0"
+        },
+        {
           "cardBattleSkillNameId": "3228",
           "name": "雷翔螺旋丸"
         },
         {
           "cardBattleSkillNameId": "3229",
           "name": "どっちが速いかで決まる！"
+        },
+        {
+          "cardBattleSkillNameId": "3230",
+          "name": "紅流・体術指導"
+        },
+        {
+          "cardBattleSkillNameId": "3231",
+          "name": "ツメが甘かったわね"
         },
         {
           "cardBattleSkillNameId": "10136",

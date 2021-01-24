@@ -176,14 +176,23 @@
 			}
 			//ID
 			id = unit['cardId'];
-
+			var tempId 
+			if(id == 60061201 || id == 60061202){
+					tempId =  60061200
+			}
+			else if(id == 60060701 || id == 60060702){
+				tempId = 60060700
+			}
+			else{
+				tempId = id
+			}
 			//Affi
 			affi = checkAffi(unit);
 
 			
 			//Get Tag
 			for(var n in window.charainfo){
-				if(id == window.charainfo[n]["targetCardId"]){
+				if(tempId == window.charainfo[n]["targetCardId"]){
 					switch(window.charainfo[n]["limitedFlg"]){
 						case "102":
 							tags = "ex"
@@ -203,6 +212,9 @@
 						case "108":
 							tags = "ranbu"
 							break;
+						case "109":
+							tags = "kizuna"
+							break;	
 						case "120":
 							tags = "pvp-reward"
 							break;
@@ -236,6 +248,9 @@
 			}
 			else if(tags == "ranbu"){
 				type_tag = "ranbu.png";
+			}
+			else if(tags == "kizuna"){
+				type_tag = type + ".png";
 			}
 			else{
 				type_tag += ".png";
