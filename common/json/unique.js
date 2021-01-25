@@ -15730,6 +15730,32 @@ window.unique=[
           "effectIds": "1115,895,953,1225,1226"
         },
         {
+          "crystalOverwriteEffectId": "1228",
+          "targetCrystal": "40111",
+          "description": "味方に「ナルト・サスケ・サクラ」が生存時、スキップ・キャンセル無効",
+          "charaIds": "1704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3660",
+          "effectIdx2": "3661",
+          "effectIdx3": "3691",
+          "effectIdx4": "3692",
+          "effectIds": "3660,3661,3691,3692,3695,3696"
+        },
+        {
+          "crystalOverwriteEffectId": "1229",
+          "targetCrystal": "40112",
+          "description": "攻防速・最大HP・スキルダメージ100％アップ",
+          "charaIds": "1704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1832",
+          "effectIdx2": "684",
+          "effectIdx3": "774",
+          "effectIdx4": "0",
+          "effectIds": "1832,684,774"
+        },
+        {
           "crystalOverwriteEffectId": "1230",
           "targetCrystal": "40109",
           "description": "班の木ノ葉隠れ所属１体につき素早さ60%ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時ﾁｬｸﾗ100%回復、行動後高確率でﾁｬｸﾗ100%回復",

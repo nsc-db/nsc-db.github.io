@@ -442,18 +442,18 @@
 
 		var pability = []
 		var fability = []
-
+		var tempId
 		if(cid == 60061202 || cid == 60061201){
-			var charaId = 60061200
+			tempId = 60061200
 		}
 		else if(cid == 60060702 || cid == 60060701){
-			var charaId = 60060700
+			tempId = 60060700
 		}
 		else{
-			var charaId = cid
+			tempId = cid
 		}
 		for(var y in window.potential){
-			if(charaId == window.potential[y]['cardId']){
+			if(tempId == window.potential[y]['cardId']){
 				if(window.potential[y]['type'] == "2"){
 					var abilityArr = window.potential[y]['abilityId'].split(",")
 					for(var x in abilityArr){
@@ -613,7 +613,8 @@
 
 		for(var y in window.enggear){
 			var charaIdMatch = window.enggear[y]['charaIds'].split(",");
-			for(var z in charaId){
+			for(var z in charaIdMatch){
+
 				if(charaId == charaIdMatch[z]){
 					gear += '<div class="base-gear">' 
 						+		'<div class="icon">'

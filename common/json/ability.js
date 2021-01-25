@@ -26257,7 +26257,7 @@ window.ability=[
           "effectIdx1": "1057",
           "effectIdx2": "874",
           "effectIdx3": "3068",
-          "effectIds": "1057,874,3068,3342,3364,3344,3365,3366,"
+          "effectIds": "1057,874,3068,3342,3364,3344,3365,3366,3684,"
         },
         {
           "abilityId": "2680",
@@ -27001,9 +27001,9 @@ window.ability=[
         },
         {
           "abilityId": "2754",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "愛情の実戦教育",
+          "abilityDescription": "味方の木ノ葉隠れの里所属1人につき攻防速60%アップ。HP0以下で2回耐え、耐えた時即アクション",
+          "abilityEffectDescription": "味方の木ノ葉隠れの里所属1人につき攻防速60%アップ。HP0以下で2回耐え、耐えた時即アクション",
           "effectIdx1": "3650",
           "effectIdx2": "3651",
           "effectIdx3": "3652",
@@ -27011,9 +27011,9 @@ window.ability=[
         },
         {
           "abilityId": "2755",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "次世代への模範",
+          "abilityDescription": "バトル開始時スキル2で急襲（チャクラ大回復）。自身死亡時、味方全体を奮起＆敵全体を拘束※全て耐性無視付与",
+          "abilityEffectDescription": "バトル開始時スキル2で急襲（チャクラ大回復）。自身死亡時、味方全体を奮起＆敵全体を拘束※全て耐性無視付与",
           "effectIdx1": "3303",
           "effectIdx2": "3642",
           "effectIdx3": "3643",

@@ -16073,8 +16073,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "1164",
-          "name": "0",
-          "description": "0",
+          "name": "十全たる木ノ葉の模範",
+          "description": "味方の木ノ葉隠れの里所属の人数に応じて、全属性の攻防速30%アップ",
           "effectIdx1": "3653",
           "effectIdx2": "3654",
           "effectIdx3": "3655",

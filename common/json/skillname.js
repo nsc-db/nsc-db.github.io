@@ -8057,11 +8057,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3226",
-          "name": "0"
+          "name": "忍術連携・縛土炎襲"
         },
         {
           "cardBattleSkillNameId": "3227",
-          "name": "0"
+          "name": "じゃ、スタートだ"
         },
         {
           "cardBattleSkillNameId": "3228",
