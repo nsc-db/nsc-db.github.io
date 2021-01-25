@@ -711,6 +711,22 @@
           "assetNum": "1"
         },
         {
+          "loginBonusRewardId": "2836",
+          "loginBonusId": "462",
+          "loginCount": "1",
+          "assetCategoryId": "2",
+          "assetValue": "0",
+          "assetNum": "20"
+        },
+        {
+          "loginBonusRewardId": "2837",
+          "loginBonusId": "462",
+          "loginCount": "1",
+          "assetCategoryId": "20",
+          "assetValue": "5274",
+          "assetNum": "1"
+        },
+        {
           "loginBonusRewardId": "2838",
           "loginBonusId": "457",
           "loginCount": "1",

@@ -12167,6 +12167,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20231002",
+          "timing": "4",
+          "func": "52",
+          "params": "3,9",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20231003",
           "timing": "4",
           "func": "52",

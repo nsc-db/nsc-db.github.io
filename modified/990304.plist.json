@@ -5380,5 +5380,12 @@
           "assetCategoryId": "12",
           "materialId": "31118",
           "materialNum": "1"
+        },
+        {
+          "crystalRecipeId": "851",
+          "recipeId": "40117",
+          "assetCategoryId": "12",
+          "materialId": "40116",
+          "materialNum": "5"
         }
       ]

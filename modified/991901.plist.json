@@ -731,6 +731,18 @@
           "specialPanelList": "9000028,9000029,9000030"
         },
         {
+          "sphereBoardId": "10072",
+          "boardName": "Temp_Ct40_心属性_の潜在覚醒盤",
+          "boardDescription": "はたけカカシ【十全たる木ノ葉の模範】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070107",
+          "normalPanelList": "9000001,9000002,9000003",
+          "specialPanelList": "9000004,9000005,9000006"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1365,6 +1377,18 @@
           "cardId": "20061103",
           "normalPanelList": "9300019,9300020,9300021",
           "specialPanelList": "9300022,9300023,9300024"
+        },
+        {
+          "sphereBoardId": "70002",
+          "boardName": "Temp_Ct100_勇属性_の潜在覚醒盤",
+          "boardDescription": "仮面の男【闘忍の覇者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060708",
+          "normalPanelList": "9300025,9300026,9300027",
+          "specialPanelList": "9300028,9300029,9300030"
         },
         {
           "sphereBoardId": "5000001",

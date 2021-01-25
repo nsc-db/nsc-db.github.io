@@ -3436,7 +3436,7 @@
           "dirName": "itachi",
           "evolutionStep": "",
           "voiceAppear": "itachi_battle_02_01",
-          "voiceSkill1": "itachi_skill_02_10",
+          "voiceSkill1": "itachi_skill_02_09",
           "voiceSkill2": "",
           "voicePursuit": "",
           "voiceWin": "itachi_win_02_03",
@@ -4113,6 +4113,18 @@
           "voicePursuit": "",
           "voiceWin": "",
           "voiceDeath": "naruto_death_01_01"
+        },
+        {
+          "cardVoiceId": "347",
+          "cardId": "20070107",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_08",
+          "voiceSkill1": "kakasi_battle_02_07",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_05",
+          "voiceDeath": "kakasi_damage_02_01"
         },
         {
           "cardVoiceId": "348",
