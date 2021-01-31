@@ -15780,5 +15780,31 @@ window.unique=[
           "effectIdx3": "3241",
           "effectIdx4": "794",
           "effectIds": "2649,2589,3241,794"
+        },
+        {
+          "crystalOverwriteEffectId": "1232",
+          "targetCrystal": "40113",
+          "description": "被攻撃時に全ｽｷﾙﾀﾞﾒｰｼﾞ200%ｱｯﾌﾟ&amp;次の行動まで堅護付与(弱体/状態異常/弱体系特殊解除&amp;無効)",
+          "charaIds": "4702",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3708",
+          "effectIdx2": "3710",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "3708,3710"
+        },
+        {
+          "crystalOverwriteEffectId": "1233",
+          "targetCrystal": "40114",
+          "description": "全スキルダメージ&amp;素早さ150%アップ、1回行動まで再行動、スキル攻撃時敵全体を確率でキャンセル",
+          "charaIds": "4702",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3495",
+          "effectIdx2": "3700",
+          "effectIdx3": "794",
+          "effectIdx4": "967",
+          "effectIds": "3495,3700,794,967"
         }
         ]

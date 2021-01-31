@@ -16114,6 +16114,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1168",
+          "name": "瞳に宿す誇り",
+          "description": "無所属のスキル発動速度1段階アップ&amp;確率でスキップ・キャンセル無効",
+          "effectIdx1": "1840",
+          "effectIdx2": "2706",
+          "effectIdx3": "2707",
+          "effectIds": "1840,2706,2707,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

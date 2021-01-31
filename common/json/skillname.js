@@ -8080,6 +8080,14 @@ window.skillname=[
           "name": "ツメが甘かったわね"
         },
         {
+          "cardBattleSkillNameId": "3232",
+          "name": "炎刃・連斬翔"
+        },
+        {
+          "cardBattleSkillNameId": "3233",
+          "name": "この眼を欺くことは不可能だ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

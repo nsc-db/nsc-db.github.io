@@ -27060,6 +27060,26 @@ window.ability=[
           "effectIds": "31707,1089,"
         },
         {
+          "abilityId": "2762",
+          "abilityName": "マダラに次ぐ実力",
+          "abilityDescription": "敵に木ノ葉隠れ存在時ｽｷﾙ１急襲(ﾁｬｸﾗ大回復)、HP0で1回HP全回復、高確率で写輪眼除くｽｷﾙ無効&amp;被攻撃時即ｱｸｼｮﾝ",
+          "abilityEffectDescription": "敵に木ノ葉隠れ存在時ｽｷﾙ１急襲(ﾁｬｸﾗ大回復)、HP0で1回HP全回復、高確率で写輪眼除くｽｷﾙ無効&amp;被攻撃時即ｱｸｼｮﾝ",
+          "effectIdx1": "3712",
+          "effectIdx2": "3492",
+          "effectIdx3": "312",
+          "effectIds": "3712,3492,312,874,3701,"
+        },
+        {
+          "abilityId": "2763",
+          "abilityName": "写輪眼の見極め",
+          "abilityDescription": "自身除く味方にうちは存在時ｽｷﾙ速度2段階ｱｯﾌﾟ&amp;ﾁｬｸﾗ消費0&amp;開始時自身に継眼・敵全体耐性無視幻惑（行動消費1回）",
+          "abilityEffectDescription": "自身除く味方にうちは存在時ｽｷﾙ速度2段階ｱｯﾌﾟ&amp;ﾁｬｸﾗ消費0&amp;開始時自身に継眼・敵全体耐性無視幻惑（行動消費1回）",
+          "effectIdx1": "3713",
+          "effectIdx2": "3702",
+          "effectIdx3": "3703",
+          "effectIds": "3713,3702,3703,3711,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -28990,6 +29010,16 @@ window.ability=[
           "effectIds": "229204,228250,3679,3680,3681,3682,"
         },
         {
+          "abilityId": "200013",
+          "abilityName": "勇属性特化・戦陣",
+          "abilityDescription": "勇属性からのダメージを50%カット&amp;自身と班の知属性以外の味方が勇属性へのスキル攻撃時に相手の耐性を弱点化",
+          "abilityEffectDescription": "勇属性からのダメージを50%カット&amp;自身と班の知属性以外の味方が勇属性へのスキル攻撃時に相手の耐性を弱点化",
+          "effectIdx1": "229404",
+          "effectIdx2": "228450",
+          "effectIdx3": "3704",
+          "effectIds": "229404,228450,3704,3705,3706,3707,"
+        },
+        {
           "abilityId": "210001",
           "abilityName": "vs技ダメカット＆弱点扱い",
           "abilityDescription": "心属性ボス用　技属性からのダメ50%カット＆技属性に食らわせた時弱点で食らわせる",
@@ -30848,6 +30878,16 @@ window.ability=[
           "effectIdx2": "3686",
           "effectIdx3": "3688",
           "effectIds": "3639,3686,3688,"
+        },
+        {
+          "abilityId": "310147",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "行動後に確率で再行動※再行動後再行動不可",
+          "abilityEffectDescription": "行動後に確率で再行動※再行動後再行動不可",
+          "effectIdx1": "439",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "439,"
         },
         {
           "abilityId": "801187",
