@@ -1,5 +1,201 @@
 window.detail=[
 {
+          "id": 50061201,
+          "name": "Obito Uchiha",
+          "subtext": "Greedy Beast",
+
+          "lead": "At the Start of Battle, High Chance to -1 Ranbu CD per None ally",
+
+          "s1n": "Ten Tails: Collection of the Tailed Beasts",
+          "s1": "Deals 666,666 Fixed Damage to all enemies. Inflict 'Ten Tails' End' Beast State to a random enemy. Grant Skill Damage +333% for 1 Turn to a random None ally. Ignore Resistance and Inflict 'Intimidate' State to Five Village enemies.  [Ten Tails' End: Remove and Immune to Positive God and Special States. When Attacked, Chance to Invalidate Withstand, Revive, and Immortality] [Intimidate: SPD -100%, and Cast Speed -1] (Always Hit)",
+          "s1ntr": "Tailed Beast",
+          "s1cs": "",
+          "s1c": 0,
+
+          "s2n": "",
+          "s2": "",
+          "s2ntr": "",
+          "s2cs": "",
+          "s2c": 0,
+
+          "a1n": "Fine Gathering",
+          "a1": "If there's a Five Village enemy: Low Chance for Damage Cut +99%",
+
+          "a2n": "Recognition",
+          "a2": "ATK, DEF and SPD +25% per None ally (Max 100%)",
+
+          "a3n": "",
+          "a3": ""
+        },
+{
+          "id": 50061101,
+          "name": "Pain (Animal)",
+          "subtext": "Fearful Demon Beast",
+
+          "lead": "At the Start of Battle, High Chance to -1 Ranbu CD per Akatsuki ally",
+
+          "s1n": "Summoning: Dog Fang Pain",
+          "s1": "Deals 3%  + 666,666 to all enemies. Chance to Inflict Cancel. High Chance to Grant 'Beast Increase' State to an Akatsuki ally. Grants SPD +666% to a random Akatsuki ally for 1 Turn. [Beast Increase: High Chance for -1 Ranbu CD every turn and Additional Attack +1 per stack (Max 3)]",
+          "s1ntr": "Summoning",
+          "s1cs": "",
+          "s1c": 0,
+
+          "s2n": "",
+          "s2": "",
+          "s2ntr": "",
+          "s2cs": "",
+          "s2c": 0,
+
+          "a1n": "View Sharing",
+          "a1": "ATK, DEF and SPD +25% per Akatsuki ally (Max 100%)",
+
+          "a2n": "Violent Division",
+          "a2": "HP and Chakra Recovery +25%",
+
+          "a3n": "",
+          "a3": ""
+        },
+{
+          "id": 50061001,
+          "name": "Nagato",
+          "subtext": "Torrent of Grief",
+
+          "lead": "If there's a Konoha ally: At the Start of Battle, High Chance to -1 Ranbu CD per ally and Chakra Recovery +10%",
+
+          "s1n": "Gedo Statue: Hollow Dragon Dance",
+          "s1": "Deals 3% + 444,444 to all enemies. Inflicts 'Deficit' State. Deal 2 Additional Attacks dealing 222,222 Fixed Damage to a random enemy. Konoha enemies' Chakra -222. Ignore Resistance and Guarantee Inflict 'Captured' State. [Deficit: Chakra Recovery = 0] [Captured: HP and Chakra -50% every turn] (Always Hit)",
+          "s1ntr": "Tailed Beast",
+          "s1cs": "",
+          "s1c": 0,
+
+          "s2n": "",
+          "s2": "",
+          "s2ntr": "",
+          "s2cs": "",
+          "s2c": 0,
+
+          "a1n": "Resonance of Despair",
+          "a1": "When Attacked: Low Chance for -1 Ranbu CD",
+
+          "a2n": "Ruthless Sucking",
+          "a2": "If there's a Konoha enemy: Chakra Recovery +15% and ATK, DEF and SPD +60%",
+
+          "a3n": "",
+          "a3": ""
+        },
+{
+          "id": 50060801,
+          "name": "Naruto Uzumaki",
+          "subtext": "Fox Spirit Beast",
+
+          "lead": "At the Start of Battle, High Chance to -1 Ranbu CD per ally, When Attacked: Very Low Chance for -3 Ranbu CD",
+
+          "s1n": "Nine Tails: Soul Tailed Beast Bomb",
+          "s1": "Deals 1,000,000 Fixed Damage to all enemies. Chance to Inflict Cancel. Grants 'Nine Tails' Light' Beast State to a random ally. [Nine Tails' Light: Skill and Insta Kill Immunity. Skills Always Hit. Grant Instant Action when attacked.When granted, Removes and Disable Enemy Terrain. Grants Beast State Immunity when removed]",
+          "s1ntr": "Tailed Beast",
+          "s1cs": "",
+          "s1c": 0,
+
+          "s2n": "",
+          "s2": "",
+          "s2ntr": "",
+          "s2cs": "",
+          "s2c": 0,
+
+          "a1n": "Shine of Reconciliation",
+          "a1": "When an ally dies: Chance for -3 Ranbu CD",
+
+          "a2n": "Beyond Hatred, Comrades",
+          "a2": "Chakra Recovery +25%",
+
+          "a3n": "",
+          "a3": ""
+        },
+{
+          "id": 20070109,
+          "name": "Kurenai Yuhi",
+          "subtext": "The Leader of Genjutsu",
+
+          "lead": "Konoha Characters: HP and Skill Damage +80%",
+
+          "s1n": "Kurenai Style: Taijutsu Guidance",
+          "s1": "Deal 7% + 30,000 to target enemy. Chance to Inflict 'Confusion'. Deal more damage the more  Konoha allies alive (Max 5x with 5 people).",
+          "s1ntr": "Taijutsu",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "It Was Very Sweet",
+          "s2": "Party SPD +100%. Low Chance to Inflict Genjutsu to all enemies.",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Skill of Genjutsu",
+          "a1": "Chakra +100, Start the Battle with 50% Chakra, Withstand +1",
+
+          "a2n": "Calm Leadership",
+          "a2": "HP >=80%: Skill Damage +80% and Cast Speed +1",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20070101,
+          "name": "Sakura Haruno",
+          "subtext": "Days of Love and Missions",
+
+          "lead": "Konoha Characters: ATK, DEF and SPD +40%",
+
+          "s1n": "Cherry Blossom Strike",
+          "s1": "Deal 7% + 20,000 to target enemy. Chance to Inflict SPD -30%. If there's a Sasuke or Naruto ally:  Deal 3x more damage (Max 9x).",
+          "s1ntr": "Taijutsu",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "...Image This, Ino!",
+          "s2": "Recover HP and Remove Genjutsu and Status Effects for Party. Grant 'Rally' State to Naruto, Sasuke and Sakura allies. [Rally: ATK, DEF and SPD +20%, HP and Chakra Recovery +5%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Kunoichi's Awareness",
+          "a1": "ATK +70%, Chance to Dodge Skills",
+
+          "a2n": "Maiden's Rise",
+          "a2": "HP <50%: ATK +100%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20061210,
+          "name": "Neji Hyuga",
+          "subtext": "Brave Eyes To Protect Friends",
+
+          "lead": "Blue Characters: Skill Damage and SPD +70%",
+
+          "s1n": "Gentle Fist",
+          "s1": "Deal 7% + 120,000 to target enemy. Chance to Inflict 'Seal'. If under 'Rally' State:  Deal 3x more damage.",
+          "s1ntr": "Byakugan",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "I Know I'm There",
+          "s2": "Chance for Enemies' SPD and Skill Damage -50%. Grant 'Rally' State to self. [Rally: ATK, DEF and SPD +100%, HP and Chakra Recovery +20%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Unleashed Heart",
+          "a1": "Withstand +1, SPD +30% every turn (Max 150%)",
+
+          "a2n": "Prepared To Fill The Blind Spot",
+          "a2": "Dodge +100%, High Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
           "id": 20070108,
           "name": "Izuna Uchiha",
           "subtext": "Eyes with Pride",
@@ -41,7 +237,7 @@ window.detail=[
           "s1c": 77,
 
           "s2n": "Then, Start",
-          "s2": "Enemies' ATK, DEF and SPD -77%. Grant 'Instant Guidance' State to self. Grant 'Rally' State to Naruto, Sasuke and Sakura allies. [Instant Guidance: Chakra Cost is set to 0. Party is Immune to AoE Attacks. After taking an action, grant Naruto Uzumaki, Sasuke Uchiha and Sakura Haruno allies Instant Action] [Rally: ATK, DEF and SPD +100%, HP and Chakra Recovery +20%] (Always Hit)",
+          "s2": "Enemies' ATK, DEF and SPD -77%. Grant 'Instant Guidance' State to self. Grant 'Rally' State to Naruto, Sasuke and Sakura allies. [Instant Guidance: Chakra Cost is set to 0. Party is Immune to AoE Attacks. After taking an action, grant Naruto, Sasuke and Sakura allies Instant Action] [Rally: ATK, DEF and SPD +100%, HP and Chakra Recovery +20%] (Always Hit)",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 77,
@@ -96,7 +292,7 @@ window.detail=[
           "s1cs": "Fast",
           "s1c": 80,
 
-          "s2n": "There is No Backwards in Youth! !!!",
+          "s2n": "There is No Backwards in Youth!!!!",
           "s2": "Party DEF and ATK +50%. Grant 'Rally' State to Konoha allies. [Rally: ATK, DEF and SPD +20%, HP and Chakra Recovery +5%]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
