@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
-
-<plist version="1.0">
-    <dict>
-        <key>991300</key>
-        <string>{"resData":{"991300":{"localPushNotificationM":[{"localPushNotificationId":"1","type":"1","title":"[\u5fcd\u9023\u5408\u6226]","message":"\u5fcd\u306e\u7d46\u304c\u5168\u56de\u5fa9\uff01","dateValue":"12,0"},{"localPushNotificationId":"2","type":"1","title":"[\u5fcd\u9023\u5408\u6226]","message":"\u5fcd\u306e\u7d46\u304c1\u56de\u5fa9\uff01","dateValue":"18,0"},{"localPushNotificationId":"3","type":"2","title":"[\u5fcd\u9023\u5408\u6226]","message":"\u30a6\u30a3\u30fc\u30af\u30ea\u30fc\u5831\u916c\u4ed8\u4e0e\u5b8c\u4e86\uff01\uff01\r\n","dateValue":"2,14,0"}]}}}</string>
-    </dict>
-</plist>
