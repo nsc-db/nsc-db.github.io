@@ -1469,4 +1469,64 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
+	{
+          "id": 401115,
+          "type": "Resistance",
+          "name": "Exercise Bell",
+          "effect": "If there's a Naruto, Sasuke or Sakura ally: Skip and Cancel Immunity",
+          "normal": "If there's a Naruto, Sasuke or Sakura ally: Low Chance for Skip and Cancel Immunity",
+          "charaIds": "1704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	     
+	 {
+          "id": 401125,
+          "type": "Stats",
+          "name": "Kakashi's Fireball Jutsu",
+          "effect": "ATK, DEF, SPD, HP and Skill Damage +100%",
+          "normal": "ATK, DEF, SPD, HP and Skill Damage +20%",
+          "charaIds": "1704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	{
+          "id": 401135,
+          "type": "Additional",
+          "name": "Izuna's Sword Knot",
+          "effect": "When Attacked: Skill Damage +200% and Grant 'Protection' State for 1 Turn",
+          "normal": "When Attacked: Low Chance to Grant 'Protection' State for 1 Turn",
+          "charaIds": "4702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	{
+          "id": 401145,
+          "type": "Skill",
+          "name": "Izuna's Sword",
+          "effect": "Skill Damage and SPD +150%, 1 Turn: Grant an Extra Turn, Chance to Cancel all Enemies when using a Skill",
+          "normal": "Skill Damage +80%",
+          "charaIds": "4702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	  {
+          "id": 401165,
+          "type": "Stats",
+          "name": "Fighting Ninja Instruction I",
+          "effect": "None",
+          "normal": "If a Champion character: HP +150%, SPD +100% and HP and Chakra Recovery +20%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	{
+          "id": 401175,
+          "type": "Stats",
+          "name": "Fighting Ninja Instruction II",
+          "effect": "None",
+          "normal": "If a Champion character: HP +180%, SPD +120%, Cast Speed +1 and HP and Chakra Recovery +25%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
 ]

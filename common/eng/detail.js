@@ -1,5 +1,61 @@
 window.detail=[
 {
+          "id": 20070108,
+          "name": "Izuna Uchiha",
+          "subtext": "Eyes with Pride",
+
+          "lead": "None Characters: Cast Speed +1 and Chance for Skip and Cancel Immunity",
+
+          "s1n": "Flame Sword: Flying Decapitation",
+          "s1": "Deal 3% + 1,120,000 to all enemies. If the targeted enemy has an Affiliation (not None): Deal 2 Additional Attacks dealing 3% + 500,000. Ignore Resistance and Inflict 'Inferno' State. Inlict 1 turn of 'Remove and Immune to Positive Special and God State' Effect. [Inferno: HP reduced every turn (Max 2000%). Weak to Fire Nature] (Always Hit)",
+          "s1ntr": "Fire",
+          "s1cs": "Fast",
+          "s1c": 95,
+
+          "s2n": "Impossible to Decieve These Eyes",
+          "s2": "Own ATK, DEF, SPD and Skill Damage +100%. Grant 'Inherit Eyes' God State. [Inherit Eyes: Negative Special and God State Immunity. Skip, Cancel and Enemy Terrain Immunity. Grant a Random Ally 'Inherit Eyes' for 999 Turns and Instant Action upon Death. Skill Damage and SPD +300%, Skill Immunity (Except Sharingan) and Skill's Always Hit]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 85,
+
+          "a1n": "Next After Madara",
+          "a1": "If there's a Konoha enemy: Insta Cast Skill 1, Revive +1, High Chance for Skill (except for Sharingan) Immunity, When Attacked: High chance to grant Instant Action",
+
+          "a2n": "Sharingan Ascertainment",
+          "a2": "If there's an Uchiha Ally: Cast Speed +2, Chakra Cost is Set to 0, Grant 'Inherit Eyes' God State and Ignore Resistance and Inflict 'Illusion' Effect",
+
+          "a3n": "White Specialization and Battle Formation",
+          "a3": "Damage Cut +50% against White, Grant Self and Non-Black allies Type Advantage against White"
+      },
+{
+          "id": 20070107,
+          "name": "Kakashi Hatake",
+          "subtext": "Konoha's Perfect Model",
+
+          "lead": "All Characters: ATK, DEF and SPD +30% per Konoha ally",
+
+          "s1n": "Ninjutsu Link: Earth Restraint Flame Overcoat",
+          "s1": "Deal 450,000 Fixed Damage to target enemy. High chance to Inflict 'Restraint' State. Deal an Additional Attack dealing 770,000 Fixed Damage per Naruto, Sasuke or Sakura ally. [Restraint: SPD -100% and Cast Speed -1]",
+          "s1ntr": "Unique",
+          "s1cs": "Fastest",
+          "s1c": 77,
+
+          "s2n": "Then, Start",
+          "s2": "Enemies' ATK, DEF and SPD -77%. Grant 'Instant Guidance' State to self. Grant 'Rally' State to Naruto, Sasuke and Sakura allies. [Instant Guidance: Chakra Cost is set to 0. Party is Immune to AoE Attacks. After taking an action, grant Naruto Uzumaki, Sasuke Uchiha and Sakura Haruno allies Instant Action] [Rally: ATK, DEF and SPD +100%, HP and Chakra Recovery +20%] (Always Hit)",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 77,
+
+          "a1n": "Battle Instruction of Love",
+          "a1": "ATK, DEF and SPD +60% per Konoha ally, Withstand +2, Grant Instant Action upon Withstand",
+
+          "a2n": "Next Generation Model",
+          "a2": "Insta Cast Skill 2, Grant Party 'Rally' State and Ignore Resistance and Inflict 'Restraint' State upon Death",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue"
+      },
+{
           "id": 20060607,
           "name": "Kakashi Hatake",
           "subtext": "Valor Eye",
