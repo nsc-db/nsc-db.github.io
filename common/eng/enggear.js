@@ -20,6 +20,16 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
+          "id": 3065,
+          "type": "Additional",
+          "name": "Eight Triagram Seal",
+          "effect": "Debuffs and Status Effect Duration -50%, HP and Chakra Recovery +10%",
+          "normal": "'Seal' Reduction",
+          "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
           "id": 3075,
           "type": "Chakra",
           "name": "The Leaked Nine Tails' Chakra",
@@ -149,7 +159,17 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	 {
+{
+          "id": 203065,
+          "type": "Food",
+          "name": "Hishidai",
+          "effect": "1 Turn: Set Chakra Cost to 0, 3 Turns: SPD +130%",
+          "normal": "1 Turn: SPD +30%",
+          "charaIds": "301,302,303,304,305,306,701,702,703,704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
           "id": 203075,
           "type": "Skill",
           "name": "Thoughts of Kushina",
@@ -268,8 +288,18 @@ window.enggear=[
           "charaIds": "901,902",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
-	 {
+     },	
+{
+          "id": 303065,
+          "type": "Skill",
+          "name": "Tsunade's Dice",
+          "effect": "Skill Damage +100%, Chance for Skill Damage +100% every turn",
+          "normal": "Low Chance for Skill Damage +100% every turn",
+          "charaIds": "2306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
           "id": 303075,
           "type": "Chakra",
           "name": "Fifth Hokage's Will of Fire",
@@ -289,7 +319,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
-	 {
+{
           "id": 304015,
           "type": "Stats",
           "name": "Shikamaru's Headband",
@@ -328,7 +358,167 @@ window.enggear=[
           "charaIds": "4102",
           "cardIds": "0",
           "charaGroupIds": "0"
+     },
+{
+          "id": 306015,
+          "type": "Chakra",
+          "name": "Enma Netsuke",
+          "effect": "Start the Battle with 50% Chakra, SPD +80%, 3 Turns: Fixed Damage Deals 0 Damage",
+          "normal": "Start the Battle with 30% Chakra",
+          "charaIds": "2201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
      },	 
+{
+          "id": 306025,
+          "type": "Additional",
+          "name": "Hiruzen's Hood",
+          "effect": "Cast Speed +1, Debuff and Status Effect Immunity",
+          "normal": "Debuff and Status Effect Duration -50%",
+          "charaIds": "2201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 306035,
+          "type": "Resistance",
+          "name": "Itachi's Sandals",
+          "effect": "Cast Speed +1, SPD +70%, Debuff, Status Effect and Genjutsu Immunity",
+          "normal": "Debuff Immunity",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 306045,
+          "type": "Chakra",
+          "name": "Bloody Mangekyo Sharingan",
+          "effect": "Chakra Recovery +50%, Skill Damage +80%, 3 Turns: Skill Immunity and SPD +200%",
+          "normal": "Chakra Recovery +30%",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 306055,
+          "type": "Skill",
+          "name": "Kurenai's Kunai",
+          "effect": "Skill Damage +100%, If there is an Akatsuki enemy: Skill Damage +50% (Max 150%)",
+          "normal": "Skill Damage +40%, If there is an Akatsuki enemy: Skill Damage +20% (Max 60%)",
+          "charaIds": "3301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 306065,
+          "type": "Resistance",
+          "name": "Kurenai's Genjutsu Flowers",
+          "effect": "5 Turns: Status Effect Immunity and Cast Speed +1, Chakra Recovery +40%",
+          "normal": "1 Turn: Low Chance for Status Effect Immunity and Cast Speed +1",
+          "charaIds": "3301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 306075,
+          "type": "Stats",
+          "name": "Karakuri's Arm",
+          "effect": "ATK, DEF and SPD +70%, Chakra Recovery +20%",
+          "normal": "ATK, DEF and SPD +30%",
+          "charaIds": "13303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 306085,
+          "type": "Resistance",
+          "name": "Animal Path's Summoning Dog",
+          "effect": "6 Turns: Debuff and Status Effect Immunity, High Chance for Fixed Damage to Deal 0 Damage",
+          "normal": "Debuff and Status Effect Duration -50%",
+          "charaIds": "13303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 306095,
+          "type": "Skill",
+          "name": "Inherited Glasses",
+          "effect": "Cast Speed +1, Skill Damage +100%, Chakra Recovery +30%",
+          "normal": "Skill Damage +50%",
+          "charaIds": "10404",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 306105,
+          "type": "Resistance",
+          "name": "The Origin of the Name Kabuto",
+          "effect": "Debuff, Genjutsu and Status Effect Immunity, Start the Battle with 100% Chakra, 1 Turn: Skill Immunity",
+          "normal": "Status Effect Immunity",
+          "charaIds": "10404",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 306115,
+          "type": "Skill",
+          "name": "Torn Mask",
+          "effect": "Cast Speed +1, Skill Damage +80%, Chakra Recovery +30%",
+          "normal": "HP >=99%: Cast Speed +1",
+          "charaIds": "1704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 306125,
+          "type": "Stats",
+          "name": "Jiraiya's Stone Sword",
+          "effect": "HP +120%, Cast Speed +1, Recovers 20% HP upon Withstanding",
+          "normal": "HP +100%, Cast Speed -1",
+          "charaIds": "2401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 306135,
+          "type": "Skill",
+          "name": "Pain's Chakra Receiver",
+          "effect": "Cast Speed +1, Start the battle with 100% Chakra, Chakra Cost -30%",
+          "normal": "Cast Speed +1",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 	 
+{
+          "id": 306145,
+          "type": "Additional",
+          "name": "Peace Due to Pain",
+          "effect": "Low Chance for an Extra Turn, SPD +50%, Chakra Recovery +50%",
+          "normal": "Low Chance for an Extra Turn",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 	 
+{
+          "id": 306155,
+          "type": "Additional",
+          "name": "Fourth Hokage's Will of Fire",
+          "effect": "Start the Battle with 100% Chakra, HP, DEF and SPD +30% per Konoha ally (Max 150%)",
+          "normal": "Start the Battle with 50% Chakra",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 	 
+{
+          "id": 306165,
+          "type": "Chakra",
+          "name": "Broken Custom Kunai",
+          "effect": "Chakra Cost -50%, Cast Speed +1, 5 Turns: SPD +150%",
+          "normal": "Chakra Cost -30%",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 	 
 {
           "id": 307015,
           "type": "Stats",
