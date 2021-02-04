@@ -8088,6 +8088,22 @@ window.skillname=[
           "name": "この眼を欺くことは不可能だ"
         },
         {
+          "cardBattleSkillNameId": "3234",
+          "name": "水遁・断鬼流"
+        },
+        {
+          "cardBattleSkillNameId": "3235",
+          "name": "楽しく遊んでもらえないかな"
+        },
+        {
+          "cardBattleSkillNameId": "3236",
+          "name": "千鳥刀・雷襲刃"
+        },
+        {
+          "cardBattleSkillNameId": "3237",
+          "name": "オレは今…イラ立ってる"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

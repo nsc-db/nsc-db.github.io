@@ -15806,5 +15806,31 @@ window.unique=[
           "effectIdx3": "794",
           "effectIdx4": "967",
           "effectIds": "3495,3700,794,967"
+        },
+        {
+          "crystalOverwriteEffectId": "1234",
+          "targetCrystal": "40201",
+          "description": "雷遁タイプのスキルダメージを200%アップし、スキル発動速度1段階アップ",
+          "charaIds": "204",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1845",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1845,1840"
+        },
+        {
+          "crystalOverwriteEffectId": "1235",
+          "targetCrystal": "40202",
+          "description": "行動後にﾁｬｸﾗが50%回復し素早さ60%ｱｯﾌﾟ｡敵に五大隠れ里所属がいると2回行動まで弱体系特殊状態無効",
+          "charaIds": "204",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13059",
+          "effectIdx2": "2644",
+          "effectIdx3": "2817",
+          "effectIdx4": "0",
+          "effectIds": "13059,2644,2817"
         }
         ]

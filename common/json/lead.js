@@ -16128,6 +16128,34 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1169",
+          "name": "忍刀蒐集の夢",
+          "description": "全属性の攻撃力と防御力と素早さを40%アップ",
+          "effectIdx1": "22004",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "22004,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1170",
+          "name": "深き怨嗟の雷鳴",
+          "description": "敵か味方にうずまきナルトが生存時、味方全体の攻防速80%&amp;全スキルダメージ80%アップ",
+          "effectIdx1": "3714",
+          "effectIdx2": "3716",
+          "effectIdx3": "0",
+          "effectIds": "3714,3716,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

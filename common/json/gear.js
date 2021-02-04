@@ -26841,5 +26841,39 @@ window.gear=[
           "crystalImageId": "401175",
           "recipeId": "40117",
           "recipeName": "闘忍の訓示II"
+        },
+        {
+          "crystalId": "40201",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "581",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "581,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "復讐の千鳥刀",
+          "crystalDescription": "雷遁タイプのスキルダメージを50%アップ",
+          "crystalImageId": "402015",
+          "recipeId": "40201",
+          "recipeName": "復讐の千鳥刀"
+        },
+        {
+          "crystalId": "40202",
+          "crystalType": "12",
+          "crystalRare": "5",
+          "effectIdx1": "2644",
+          "effectIdx2": "13059",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "2644,13059,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "憤慨なる想い",
+          "crystalDescription": "行動後にチャクラが50%回復し素早さ60%アップ",
+          "crystalImageId": "402025",
+          "recipeId": "40202",
+          "recipeName": "憤慨なる想い"
         }
 ]

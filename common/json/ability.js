@@ -27080,6 +27080,46 @@ window.ability=[
           "effectIds": "3713,3702,3703,3711,"
         },
         {
+          "abilityId": "2764",
+          "abilityName": "七人衆への憧れ",
+          "abilityDescription": "3回行動するまで素早さ＆スキルダメージ100%アップ",
+          "abilityEffectDescription": "3回行動するまで素早さ＆スキルダメージ100%アップ",
+          "effectIdx1": "1265",
+          "effectIdx2": "2650",
+          "effectIdx3": "0",
+          "effectIds": "1265,2650,"
+        },
+        {
+          "abilityId": "2765",
+          "abilityName": "液化する肉体",
+          "abilityDescription": "HP0以下で2回耐え。3回行動するまで確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で2回耐え。3回行動するまで確率でスキル回避",
+          "effectIdx1": "1057",
+          "effectIdx2": "2293",
+          "effectIdx3": "0",
+          "effectIds": "1057,2293,"
+        },
+        {
+          "abilityId": "2766",
+          "abilityName": "冷たい覚悟",
+          "abilityDescription": "敵か味方にうずまきナルトがいると、先制攻撃＆チャクラ消費0&amp;HP0以下で9回耐える＆素早さ1000%アップ",
+          "abilityEffectDescription": "敵か味方にうずまきナルトがいると、先制攻撃＆チャクラ消費0&amp;HP0以下で9回耐える＆素早さ1000%アップ",
+          "effectIdx1": "3718",
+          "effectIdx2": "3720",
+          "effectIdx3": "3722",
+          "effectIds": "3718,3720,3722,3742,"
+        },
+        {
+          "abilityId": "2767",
+          "abilityName": "開眼せし万華鏡",
+          "abilityDescription": "敵に五大隠れ里所属がいると超高確率でダメージ50%カット＆再行動※再行動後に再行動しない",
+          "abilityEffectDescription": "敵に五大隠れ里所属がいると超高確率でダメージ50%カット＆再行動※再行動後に再行動しない",
+          "effectIdx1": "3724",
+          "effectIdx2": "3725",
+          "effectIdx3": "0",
+          "effectIds": "3724,3725,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -28908,6 +28948,46 @@ window.ability=[
           "effectIdx2": "3502",
           "effectIdx3": "794",
           "effectIds": "2186,3502,794,"
+        },
+        {
+          "abilityId": "100127",
+          "abilityName": "幻術無しの手作り",
+          "abilityDescription": "弱体と状態異常を無効、通常攻撃が必中、HP50%以上でスキル発動速度1段階アップ",
+          "abilityEffectDescription": "弱体と状態異常を無効、通常攻撃が必中、HP50%以上でスキル発動速度1段階アップ",
+          "effectIdx1": "880",
+          "effectIdx2": "30",
+          "effectIdx3": "1163",
+          "effectIds": "880,30,1163,"
+        },
+        {
+          "abilityId": "100128",
+          "abilityName": "愛情の隠し味",
+          "abilityDescription": "攻撃力と防御力と素早さを120%アップ、HP0以下で2回HP全回復",
+          "abilityEffectDescription": "攻撃力と防御力と素早さを120%アップ、HP0以下で2回HP全回復",
+          "effectIdx1": "736",
+          "effectIdx2": "12111",
+          "effectIdx3": "1335",
+          "effectIds": "736,12111,1335,1057,874,"
+        },
+        {
+          "abilityId": "100129",
+          "abilityName": "沸溶遁の菓子作り",
+          "abilityDescription": "弱体と状態異常を無効、HP50%以上でスキルダメージ200%アップ&amp;スキル発動速度1段階アップ",
+          "abilityEffectDescription": "弱体と状態異常を無効、HP50%以上でスキルダメージ200%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "880",
+          "effectIdx2": "31419",
+          "effectIdx3": "1163",
+          "effectIds": "880,31419,1163,"
+        },
+        {
+          "abilityId": "100130",
+          "abilityName": "長の務めと婚期の相克",
+          "abilityDescription": "HP0以下で2回HP全回復、素早さ150%アップ",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、素早さ150%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "967",
+          "effectIds": "1057,874,967,"
         },
         {
           "abilityId": "200001",
@@ -30888,6 +30968,26 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "439,"
+        },
+        {
+          "abilityId": "310148",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に超キャラがいると、攻防速60%アップ",
+          "abilityEffectDescription": "敵に超キャラがいると、攻防速60%アップ",
+          "effectIdx1": "3226",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3226,"
+        },
+        {
+          "abilityId": "310151",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵に超キャラがいると、スキルダメージ80%アップ",
+          "abilityEffectDescription": "敵に超キャラがいると、スキルダメージ80%アップ",
+          "effectIdx1": "3227",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3227,"
         },
         {
           "abilityId": "801187",
