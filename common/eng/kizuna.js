@@ -1,4 +1,4 @@
-window.kizuna=[
+window.engkizuna=[
         {
           "cardBattleSkillId": "710000",
           "name": "Scorch Release: Nimbus Conflagration",

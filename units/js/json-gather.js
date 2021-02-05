@@ -402,38 +402,38 @@
 			$('#kizuna').attr('style', 'display:block'); 
 			$('#kizuna-six').attr('style', 'display:block'); 
 		
-			$('#kizunaname-five').text(window.kizuna[0]['name']);
-			$('#kizunaname-six').text(window.kizuna[0]['name']);
+			$('#kizunaname-five').text(window.engkizuna[0]['name']);
+			$('#kizunaname-six').text(window.engkizuna[0]['name']);
 			//Replace Type
-			$('#kizunatype-five').text(window.kizuna[0]['nature']);
-			$('#kizunatype-six').text(window.kizuna[0]['nature']);
+			$('#kizunatype-five').text(window.engkizuna[0]['nature']);
+			$('#kizunatype-six').text(window.engkizuna[0]['nature']);
 			//Replace Wait
-			$('#kizunaspeed-five').text(window.kizuna[0]['cs']);
-			$('#kizunaspeed-six').text(window.kizuna[0]['cs']);
+			$('#kizunaspeed-five').text(window.engkizuna[0]['cs']);
+			$('#kizunaspeed-six').text(window.engkizuna[0]['cs']);
 
-			$('#kizunacost-five').text(window.kizuna[0]['cost']);
-			$('#kizunacost-six').text(window.kizuna[0]['cost']);
-			$('#kizunadesc-five').text(window.kizuna[0]['description']);
-			$('#kizunadesc-six').text(window.kizuna[0]['description']);
+			$('#kizunacost-five').text(window.engkizuna[0]['cost']);
+			$('#kizunacost-six').text(window.engkizuna[0]['cost']);
+			$('#kizunadesc-five').text(window.engkizuna[0]['description']);
+			$('#kizunadesc-six').text(window.engkizuna[0]['description']);
 			
 		}
 		else if(cid == 60061201 || cid == 60061202){
 			$('#kizuna').attr('style', 'display:block'); 
 			$('#kizuna-six').attr('style', 'display:block'); 
 		
-			$('#kizunaname-five').text(window.kizuna[1]['name']);
-			$('#kizunaname-six').text(window.kizuna[1]['name']);
+			$('#kizunaname-five').text(window.engkizuna[1]['name']);
+			$('#kizunaname-six').text(window.engkizuna[1]['name']);
 			//Replace Type
-			$('#kizunatype-five').text(window.kizuna[1]['nature']);
-			$('#kizunatype-six').text(window.kizuna[1]['nature']);
+			$('#kizunatype-five').text(window.engkizuna[1]['nature']);
+			$('#kizunatype-six').text(window.engkizuna[1]['nature']);
 			//Replace Wait
-			$('#kizunaspeed-five').text(window.kizuna[1]['cs']);
-			$('#kizunaspeed-six').text(window.kizuna[1]['cs']);
+			$('#kizunaspeed-five').text(window.engkizuna[1]['cs']);
+			$('#kizunaspeed-six').text(window.engkizuna[1]['cs']);
 
-			$('#kizunacost-five').text(window.kizuna[1]['cost']);
-			$('#kizunacost-six').text(window.kizuna[1]['cost']);
-			$('#kizunadesc-five').text(window.kizuna[1]['description']);
-			$('#kizunadesc-six').text(window.kizuna[1]['description']);
+			$('#kizunacost-five').text(window.engkizuna[1]['cost']);
+			$('#kizunacost-six').text(window.engkizuna[1]['cost']);
+			$('#kizunadesc-five').text(window.engkizuna[1]['description']);
+			$('#kizunadesc-six').text(window.engkizuna[1]['description']);
 		}
 		else{
 			$('#kizuna').attr('style', 'display:none');
@@ -933,10 +933,10 @@
 	}
 
 	function checkGearType(gear){
-		for(var i in window.key){
-			if(window.key[i][0] == "gear"){
-				if(gear['crystalType'] == window.key[i][1]){
-					type = window.key[i][2];
+		for(var i in window.engkey){
+			if(window.engkey[i][0] == "gear"){
+				if(gear['crystalType'] == window.engkey[i][1]){
+					type = window.engkey[i][2];
 					return type;
 				}
 			}
@@ -944,10 +944,10 @@
 	}
 
 	function checkType(unit){
-		for(var i in window.key){
-			if(window.key[i][0] == 'type'){
-				if(unit['attribute'] == window.key[i][1]){
-					type = window.key[i][2];
+		for(var i in window.engkey){
+			if(window.engkey[i][0] == 'type'){
+				if(unit['attribute'] == window.engkey[i][1]){
+					type = window.engkey[i][2];
 					return type;
 				}
 			}
@@ -955,10 +955,10 @@
 	}
 
 	function checkTarget(unit){
-		for(var i in window.key){
-			if(window.key[i][0] == 'target'){
-				if(unit['targetMode'] == window.key[i][1]){
-					type = window.key[i][2];
+		for(var i in window.engkey){
+			if(window.engkey[i][0] == 'target'){
+				if(unit['targetMode'] == window.engkey[i][1]){
+					type = window.engkey[i][2];
 					return type;
 				}
 			}
@@ -966,10 +966,10 @@
 	}
 
 	function checkDamage(unit){
-		for(var i in window.key){
-			if(window.key[i][0] == 'damage'){
-				if(unit['calcType'] == window.key[i][1]){
-					type = window.key[i][2];
+		for(var i in window.engkey){
+			if(window.engkey[i][0] == 'damage'){
+				if(unit['calcType'] == window.engkey[i][1]){
+					type = window.engkey[i][2];
 					return type;
 				}
 			}
@@ -977,10 +977,10 @@
 	}
 
 	function checkAffi(unit){
-		for(var i in window.key){
-			if(window.key[i][0] == 'affi'){
-				if(unit['charaType'] == window.key[i][1]){
-					affi = window.key[i][2];
+		for(var i in window.engkey){
+			if(window.engkey[i][0] == 'affi'){
+				if(unit['charaType'] == window.engkey[i][1]){
+					affi = window.engkey[i][2];
 					return affi;
 				}
 			}
@@ -990,10 +990,10 @@
 	function checkWait(skill){
 		var y;
 		var wait;
-		for(var i in window.key){
-			if(window.key[i][0] == 'wait'){
-				if(skill['waitTime'] == window.key[i][1]){
-					wait = window.key[i][2];
+		for(var i in window.engkey){
+			if(window.engkey[i][0] == 'wait'){
+				if(skill['waitTime'] == window.engkey[i][1]){
+					wait = window.engkey[i][2];
 					return wait;
 				}
 			}
@@ -1003,10 +1003,10 @@
 	function checkSkill(skill){
 		var y;
 		var nature;
-		for(var i in window.key){
-			if(window.key[i][0] == 'skill'){
-				if(skill['battleSkillType'] == window.key[i][1]){
-					nature = window.key[i][2];
+		for(var i in window.engkey){
+			if(window.engkey[i][0] == 'skill'){
+				if(skill['battleSkillType'] == window.engkey[i][1]){
+					nature = window.engkey[i][2];
 					return nature;
 				}
 			}

@@ -34,8 +34,11 @@
 	
 	<!-- DATABASE ENTRIES -->
  	<script type="text/javascript" src="../common/json/chara.js"></script>
+
  	<script type="text/javascript" src="../common/json/charainfo.js"></script>
  	<script type="text/javascript" src="../common/json/charaname.js"></script>
+ 	<script type="text/javascript" src="../common/eng/detail.js"></script>
+ 	<script type="text/javascript" src="../common/eng/kizuna.js"></script>
  	<script type="text/javascript" src="../common/json/skill.js"></script>
  	<script type="text/javascript" src="../common/json/skillname.js"></script>
  	<script type="text/javascript" src="../common/json/ability.js"></script>
@@ -137,6 +140,7 @@
 								</script>
 							</strong>
 						</div>
+	
 						<div class="col-md-3 col-xs-6">
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 								<span aria-hidden="true">&times;</span>
@@ -890,11 +894,13 @@
 												</div>
 											</div>
 										</div>
+
 									</div>
 								</div>
 							</div>
 						</div>
-
+						<strong id="eng-info">
+						</strong>
 					</div>
 				</div>
 
@@ -1222,6 +1228,8 @@
 	<script type="text/javascript" src="js/datatables.min.js"></script>
 	
 	<script type="text/javascript" src="js/table.js"></script>
+
+	<script type="text/javascript" src="js/eng-info.js"></script>
 
 	<script>
 		$('#newModal').on('hidden.bs.modal', function (e) {

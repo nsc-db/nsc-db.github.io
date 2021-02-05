@@ -2577,7 +2577,7 @@ window.detail=[
       },
 {
           "id": 20070103,
-          "name": "Zabuza",
+          "name": "Zabuza Momochi",
           "subtext": "Dragon River Decapitation",
 
           "lead": "Kiri Characters: Chakra Cost -50% and SPD +150%",

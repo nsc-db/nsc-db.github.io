@@ -431,9 +431,8 @@
 	function _buildCardModal(id, thumb, cards, cid){
 		console.log(cid);
 
+		unitId = cid
 		
-		
-		var name = '';
 
 		for(var x in window.chara){
 			if(cid == window.chara[x]['cardId']){
@@ -450,6 +449,8 @@
 				$('#name-unit').text(name + ' 【' + window.chara[y]['cardSubName'] + '】');
 			}
 		}
+		charaName = name
+		subtext =  window.chara[y]['cardSubName'] 
 		//Type
 		for(var x in window.chara){
 			if(cid == window.chara[x]['cardId']){
@@ -535,7 +536,7 @@
 			}
 		}
 	
-		
+
 		
 		
 		//Animation
@@ -658,6 +659,7 @@
 				if(window.kizuna[0]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
 					$('#kizunaname-five').text(window.skillname[g]['name']);
 					$('#kizunaname-six').text(window.skillname[g]['name']);
+					kn = window.skillname[g]['name']
 				}
 			}
 			//Replace Type
@@ -673,6 +675,11 @@
 			$('#kizunacost-six').text(window.kizuna[0]['battleSkillCnt']);
 			$('#kizunadesc-five').text(window.kizuna[0]['description']);
 			$('#kizunadesc-six').text(window.kizuna[0]['description']);
+
+			ks = window.kizuna[0]['description']
+			kntr = skill
+			kcs = wait
+			kc = window.kizuna[0]['battleSkillCnt']
 			
 		}
 		else if(cid == 60061201 || cid == 60061202){
@@ -685,6 +692,8 @@
 				if(window.kizuna[1]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
 					$('#kizunaname-five').text(window.skillname[g]['name']);
 					$('#kizunaname-six').text(window.skillname[g]['name']);
+					kn = window.skillname[g]['name']
+
 				}
 			}
 			//Replace Type
@@ -700,6 +709,10 @@
 			$('#kizunacost-six').text(window.kizuna[1]['battleSkillCnt']);
 			$('#kizunadesc-five').text(window.kizuna[1]['description']);
 			$('#kizunadesc-six').text(window.kizuna[1]['description']);
+			ks = window.kizuna[1]['description']
+			kntr = skill
+			kcs = wait
+			kc = window.kizuna[1]['battleSkillCnt']
 		}
 		else{
 			$('#kizuna').attr('style', 'display:none');
@@ -748,6 +761,10 @@
 			//Character Lead
 			for(var x in window.chara){
 				if(cid == window.chara[x]['cardId']){
+					var engButton = '<button id="eng-button" class="" value="" onclick="engInfo(unitId, charaName, subtext, leader, s1n, s1, s1ntr, s1cs, s1c, s2n, s2, s2ntr, s2cs, s2c, a1n, a1, a2n, a2, a3, a3n, kn, ks, kntr, kcs, kc)">ENG</button>'
+ 
+
+					document.getElementById("eng-info").innerHTML = engButton;
 					for(var y in window.vo){
 						if(cid == window.vo[y]['cardId']){
 							
@@ -997,6 +1014,8 @@
 							$('#lead-' + i).text(window.lead[n]['description']);
 							$('#leadname-six').text(window.lead[n]['name']);
 							$('#lead-six').text(window.lead[n]['description']);
+							leader = window.lead[n]['description']
+
 						}
 					}
 
@@ -1005,6 +1024,8 @@
 							var check = 0;
 							var seven = 0;
 							var ability3 = 0
+							a1 = window.ability[n]['abilityDescription']
+							a1n = window.ability[n]['abilityName']
 							$('#ability1name-' + i).text(window.ability[n]['abilityName']);
 							$('#ability1-' + i).text(window.ability[n]['abilityDescription']);
 							//Check Evo File
@@ -1023,6 +1044,8 @@
 										//Check all abilities
 										for(var t in window.ability){
 											//Check 
+											a1 = window.ability[n]['abilityDescription']
+											a1n = window.ability[n]['abilityName']
 											if(window.evo[g]['abilityId1'] == window.ability[t]['abilityId']){
 												$('#ability1name-six').text(window.ability[t]['abilityName']);
 												$('#ability1-six').text(window.ability[t]['abilityDescription']);
@@ -1034,12 +1057,16 @@
 							}
 
 							if(check == 0){
+								a1 = window.ability[n]['abilityDescription']
+								a1n = window.ability[n]['abilityName']
 								$('#ability1name-six').text(window.ability[n]['abilityName']);
 								$('#ability1-six').text(window.ability[n]['abilityDescription']);
 							}
 							if(seven == 1){
 								for(var t in window.ability){
 									//Check 
+									a3 = window.ability[n]['abilityDescription']
+									a3n = window.ability[n]['abilityName']
 									if(ability3 == window.ability[t]['abilityId']){
 									$('#ability3name-five').text(window.ability[t]['abilityName']);
 									$('#ability3-five').text(window.ability[t]['abilityDescription']);
@@ -1058,6 +1085,8 @@
 
 						if(window.chara[x]['abilityId2'] == window.ability[n]['abilityId']){
 							var check = 0;
+							a2 = window.ability[n]['abilityDescription']
+							a2n = window.ability[n]['abilityName']
 							$('#ability2name-' + i).text(window.ability[n]['abilityName']);
 							$('#ability2-' + i).text(window.ability[n]['abilityDescription']);
 							//Check Evo File
@@ -1069,6 +1098,8 @@
 										//Check all abilities
 										for(var t in window.ability){
 											//Check 
+											a2 = window.ability[n]['abilityDescription']
+											a2n = window.ability[n]['abilityName']
 											if(window.evo[g]['abilityId2'] == window.ability[t]['abilityId']){
 												$('#ability2name-six').text(window.ability[t]['abilityName']);
 												$('#ability2-six').text(window.ability[t]['abilityDescription']);
@@ -1080,6 +1111,8 @@
 							}
 
 							if(check == 0){
+								a2 = window.ability[n]['abilityDescription']
+								a2n = window.ability[n]['abilityName']
 								$('#ability2name-six').text(window.ability[n]['abilityName']);
 								$('#ability2-six').text(window.ability[n]['abilityDescription']);
 							}
@@ -1092,6 +1125,7 @@
 							var wait = '';
 							for(var g in window.skillname){
 								if(window.skill[n]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
+									s1n = window.skillname[g]['name']
 									$('#skill1name-' + i).text(window.skillname[g]['name']);
 									//$('#skill1ogname-' + i).text(window.skillname[g]['name']);
 									$('#skill1name-six').text(window.skillname[g]['name']);
@@ -1099,10 +1133,15 @@
 								}
 							}
 							//Replace Type
+
 							skill = checkSkill(window.skill[n]);
 							$('#skill1type-' + i).text(skill);
+							s1ntr = skill
 							//Replace Wait
 							wait = checkWait(window.skill[n]);
+							s1cs = wait
+							s1c = window.skill[n]['battleSkillCnt']
+							s1 = window.skill[n]['description']
 							$('#skill1speed-' + i).text(wait);
 							$('#skill1cost-' + i).text(window.skill[n]['battleSkillCnt']);
 							$('#skill1-' + i).text(window.skill[n]['description']);
@@ -1125,7 +1164,10 @@
 												$('#skill1speed-six').text(wait);
 												$('#skill1cost-six').text(window.skill[t]['battleSkillCnt']);
 												$('#skill1-six').text(window.skill[t]['description']);
-	
+												s1ntr = skill
+												s1cs = wait
+								              	s1c = window.skill[n]['battleSkillCnt']
+												s1 = window.skill[n]['description']	
 												check = 1;
 											}
 										}
@@ -1141,6 +1183,10 @@
 								$('#skill1speed-six').text(wait);
 								$('#skill1cost-six').text(window.skill[n]['battleSkillCnt']);
 								$('#skill1-six').text(window.skill[n]['description']);
+								s1ntr = skill
+								s1cs = wait
+								s1c = window.skill[n]['battleSkillCnt']
+								s1 = window.skill[n]['description']	
 							}
 						}
 							
@@ -1150,6 +1196,7 @@
 							var skill = '';
 							for(var g in window.skillname){
 								if(window.skill[n]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
+									s2n = window.skillname[g]['name']
 									$('#skill2name-' + i).text(window.skillname[g]['name']);
 									//$('#skill2ogname-' + i).text(window.skillname[g]['name']);
 									$('#skill2name-six').text(window.skillname[g]['name']);
@@ -1167,6 +1214,10 @@
 							
 							$('#skill2cost-' + i).text(window.skill[n]['battleSkillCnt']);
 							$('#skill2-' + i).text(window.skill[n]['description']);
+							s2ntr = skill
+							s2cs = wait
+							s2c = window.skill[n]['battleSkillCnt']
+							s2 = window.skill[n]['description']	
 							
 							for(var g in window.evo){
 								//Compare Character ID to Evo ID
@@ -1184,7 +1235,10 @@
 												$('#skill2speed-six').text(wait);
 												$('#skill2cost-six').text(window.skill[t]['battleSkillCnt']);
 												$('#skill2-six').text(window.skill[t]['description']);
-	
+												s2ntr = skill
+												s2cs = wait
+												s2c = window.skill[n]['battleSkillCnt']
+												s2 = window.skill[n]['description']
 												check = 1;
 											}
 										}
@@ -1200,6 +1254,10 @@
 								$('#skill2speed-six').text(wait);
 								$('#skill2cost-six').text(window.skill[n]['battleSkillCnt']);
 								$('#skill2-six').text(window.skill[n]['description']);
+								s2ntr = skill
+								s2cs = wait
+								s2c = window.skill[n]['battleSkillCnt']
+								s2 = window.skill[n]['description']
 							}
 						}
 					}
@@ -1306,6 +1364,4 @@
 			}
 		}
 	}
-
-
 })();
