@@ -1,0 +1,521 @@
+[        {
+          "keyItemId": "10000",
+          "keyGroupId": "10000",
+          "type": "1",
+          "name": "ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2036-12-31 23:59:59"
+        },
+        {
+          "keyItemId": "10001",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(5月6日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(5月6日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-05-06 23:59:59"
+        },
+        {
+          "keyItemId": "10002",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(5月31日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(5月31日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-05-31 23:59:59"
+        },
+        {
+          "keyItemId": "10003",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(6月30日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(6月30日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-06-30 23:59:59"
+        },
+        {
+          "keyItemId": "10004",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(7月31日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(7月31日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-31 23:59:59"
+        },
+        {
+          "keyItemId": "10005",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(8月31日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(8月31日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-08-31 23:59:59"
+        },
+        {
+          "keyItemId": "10006",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(9月30日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(9月30日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-09-30 23:59:59"
+        },
+        {
+          "keyItemId": "10007",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(10月31日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(10月31日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-10-31 23:59:59"
+        },
+        {
+          "keyItemId": "10008",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(11月30日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(11月30日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-11-30 23:59:59"
+        },
+        {
+          "keyItemId": "10009",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(12月31日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(12月31日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-12-31 23:59:59"
+        },
+        {
+          "keyItemId": "10010",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(1月31日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(1月31日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2020-01-31 23:59:59"
+        },
+        {
+          "keyItemId": "10011",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(6月5日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(6月5日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-06-05 23:59:59"
+        },
+        {
+          "keyItemId": "10012",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/1）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-01 23:59:59"
+        },
+        {
+          "keyItemId": "10013",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/2）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-02 23:59:59"
+        },
+        {
+          "keyItemId": "10014",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/3）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-03 23:59:59"
+        },
+        {
+          "keyItemId": "10015",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/4）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-04 23:59:59"
+        },
+        {
+          "keyItemId": "10016",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/5）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-05 23:59:59"
+        },
+        {
+          "keyItemId": "10017",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/6）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-06 23:59:59"
+        },
+        {
+          "keyItemId": "10018",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/7）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-07 23:59:59"
+        },
+        {
+          "keyItemId": "10019",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/8）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-08 23:59:59"
+        },
+        {
+          "keyItemId": "10020",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/9）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-09 23:59:59"
+        },
+        {
+          "keyItemId": "10021",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/10）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-10 23:59:59"
+        },
+        {
+          "keyItemId": "10022",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/11）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-11 23:59:59"
+        },
+        {
+          "keyItemId": "10023",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/12）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-12 23:59:59"
+        },
+        {
+          "keyItemId": "10024",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/13）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-13 23:59:59"
+        },
+        {
+          "keyItemId": "10025",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/14）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-14 23:59:59"
+        },
+        {
+          "keyItemId": "10026",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/15）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-15 23:59:59"
+        },
+        {
+          "keyItemId": "10027",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（7/16）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-07-16 23:59:59"
+        },
+        {
+          "keyItemId": "10029",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(8月30日まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(8月30日まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-08-30 15:59:59"
+        },
+        {
+          "keyItemId": "10030",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(9月23日15:59まで期間限定)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(9月23日15:59まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-09-23 15:59:59"
+        },
+        {
+          "keyItemId": "10031",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（10/25）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-10-25 00:00:00",
+          "endDateTime": "2019-10-25 23:59:59"
+        },
+        {
+          "keyItemId": "10032",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（10/26）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-10-26 00:00:00",
+          "endDateTime": "2019-10-26 23:59:59"
+        },
+        {
+          "keyItemId": "10033",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（10/27）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-10-27 00:00:00",
+          "endDateTime": "2019-10-27 23:59:59"
+        },
+        {
+          "keyItemId": "10034",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（10/28）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-10-28 00:00:00",
+          "endDateTime": "2019-10-28 23:59:59"
+        },
+        {
+          "keyItemId": "10035",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（10/29）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-10-29 00:00:00",
+          "endDateTime": "2019-10-29 23:59:59"
+        },
+        {
+          "keyItemId": "10036",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（10/30）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-10-30 00:00:00",
+          "endDateTime": "2019-10-30 23:59:59"
+        },
+        {
+          "keyItemId": "10037",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（10/31）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-10-31 00:00:00",
+          "endDateTime": "2019-10-31 23:59:59"
+        },
+        {
+          "keyItemId": "10038",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（11/1）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-11-01 00:00:00",
+          "endDateTime": "2019-11-01 23:59:59"
+        },
+        {
+          "keyItemId": "10039",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（11/2）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-11-02 00:00:00",
+          "endDateTime": "2019-11-02 23:59:59"
+        },
+        {
+          "keyItemId": "10040",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（11/3）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-11-03 00:00:00",
+          "endDateTime": "2019-11-03 23:59:59"
+        },
+        {
+          "keyItemId": "10041",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（11/4）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-11-04 00:00:00",
+          "endDateTime": "2019-11-04 23:59:59"
+        },
+        {
+          "keyItemId": "10042",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（11/5）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-11-05 00:00:00",
+          "endDateTime": "2019-11-05 23:59:59"
+        },
+        {
+          "keyItemId": "10043",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（11/6）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-11-06 00:00:00",
+          "endDateTime": "2019-11-06 23:59:59"
+        },
+        {
+          "keyItemId": "10044",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（11/7）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-11-07 00:00:00",
+          "endDateTime": "2019-11-07 23:59:59"
+        },
+        {
+          "keyItemId": "10045",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "（11/8）デイリー限定ゲロ寅の鍵",
+          "description": "本数に応じて特定の封印任務を解放する鍵(獲得した日限定)",
+          "priority": "1",
+          "startDateTime": "2019-11-08 00:00:00",
+          "endDateTime": "2019-11-08 23:59:59"
+        },
+        {
+          "keyItemId": "10046",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(11月11日15:59まで)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(11月11日15:59まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-11-11 15:59:59"
+        },
+        {
+          "keyItemId": "10047",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(1月7日23:59まで)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(1月7日23:59まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2020-01-07 23:59:59"
+        },
+        {
+          "keyItemId": "10048",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(12月20日16:59まで)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(12月20日16:59まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2019-12-20 16:59:59"
+        },
+        {
+          "keyItemId": "10049",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(1月17日16:59まで)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(1月17日16:59まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2020-01-17 16:59:59"
+        },
+        {
+          "keyItemId": "10050",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(1月24日16:59まで)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(1月24日16:59まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2020-01-24 16:59:59"
+        },
+        {
+          "keyItemId": "10051",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(2月17日15:59まで)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(2月17日15:59まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2020-02-17 15:59:59"
+        },
+        {
+          "keyItemId": "10052",
+          "keyGroupId": "10000",
+          "type": "2",
+          "name": "ゲロ寅の鍵(3月7日23:59まで)",
+          "description": "本数に応じて特定の封印任務を解放する鍵(3月7日23:59まで期間限定)",
+          "priority": "1",
+          "startDateTime": "2019-01-01 00:00:00",
+          "endDateTime": "2020-03-07 23:59:59"
+        }
+      ]

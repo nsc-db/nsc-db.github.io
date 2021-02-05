@@ -1,0 +1,211 @@
+[        {
+          "cardCharaGroupId": "100000",
+          "name": "うずまきナルト",
+          "charaProfileIds": "101,102,103,104,105,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "100100",
+          "name": "うずまきナルト",
+          "charaProfileIds": "101,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "100200",
+          "name": "うずまきナルト",
+          "charaProfileIds": "102,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "100300",
+          "name": "うずまきナルト",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "100301",
+          "name": "うずまきナルト",
+          "charaProfileIds": "104,106,107,109,110,111,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "100400",
+          "name": "うずまきナルト",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "100500",
+          "name": "うずまきナルト",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "100600",
+          "name": "うずまきナルト",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "100700",
+          "name": "うずまきナルト",
+          "charaProfileIds": "105,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "200000",
+          "name": "うちはサスケ",
+          "charaProfileIds": "201,202,203,204,205,206,207,208,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "200100",
+          "name": "うちはサスケ",
+          "charaProfileIds": "206,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "200200",
+          "name": "うちはサスケ",
+          "charaProfileIds": "201,202,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "200300",
+          "name": "うちはサスケ",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "200400",
+          "name": "うちはサスケ",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "200500",
+          "name": "うちはサスケ",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "200600",
+          "name": "うちはサスケ",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "300000",
+          "name": "春野サクラ",
+          "charaProfileIds": "301,302,303,304,305,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "300001",
+          "name": "はたけカカシ",
+          "charaProfileIds": "1701,1702,1703,1704,1705,1706,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "300002",
+          "name": "うずまきナルト",
+          "charaProfileIds": "101,102,104,105,106,107,109,110,111,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "300003",
+          "name": "うちはサスケ",
+          "charaProfileIds": "201,202,204,205,207,208,210,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "500000",
+          "name": "第七班",
+          "charaProfileIds": "101,201,301,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "500001",
+          "name": "第七班",
+          "charaProfileIds": "102,302,",
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "500002",
+          "name": "第十班",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "500003",
+          "name": "第十班",
+          "charaProfileIds": null,
+          "cardIds": null
+        },
+        {
+          "cardCharaGroupId": "500004",
+          "name": "第七班",
+          "charaProfileIds": "101,102,104,105,106,107,109,110,111,60101,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "500005",
+          "name": "第七班",
+          "charaProfileIds": "201,202,204,207,208,210,301,302,303,304,305,306,60101,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "500006",
+          "name": "第七班",
+          "charaProfileIds": "108,112,209,211,212,307,114,216,215,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "600000",
+          "name": "”暁”",
+          "charaProfileIds": "11601,11701,11801,11802,11901,12001,12101,12201,12301,12401,12501,13901,13101,13304,13705,11802,13303,11604,10304,13102,12102,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "600001",
+          "name": "うちは",
+          "charaProfileIds": "201,202,203,204,205,206,207,208,210,4101,4701,11601,11602,11603,13701,13702,13704,50901,50902,50903,13705,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "600002",
+          "name": "ペイン六道",
+          "charaProfileIds": "13304,13101,11801,12601,12701,12801,12901,13101,13102,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "600003",
+          "name": "日向一族",
+          "charaProfileIds": "3910,1002,1001,704,703,702,701,4601,4602,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "600004",
+          "name": "大筒木一族",
+          "charaProfileIds": "14301,14302,14401,14402,14501,14502,14601,14602,14701,14702,900039,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "700000",
+          "name": "琥珀の浄瓶",
+          "charaProfileIds": "20301,104,110,50903,13704,14001,402,602,502,1202,111,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "700001",
+          "name": "紅葫蘆",
+          "charaProfileIds": "104,110,111,50903,13704,14001,1202,",
+          "cardIds": "0"
+        },
+        {
+          "cardCharaGroupId": "700002",
+          "name": "神忍祭限定キャラ＋神殺しカグヤ＋神殺しマダラ＋神殺しサスケ＋神殺しオビト",
+          "charaProfileIds": "108,112,209,212,1707,1903,2404,4303,13703,14301,14402,14502,2104,13706,11802,11604,4102,50904,14602,14702,307,13305,2105,2003,4702,10305,2306,114,216,10404,215,1305,50907,12102,1604,1306,4703,",
+          "cardIds": "0"
+        }
+      ]

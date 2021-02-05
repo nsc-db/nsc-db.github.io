@@ -1,0 +1,955 @@
+[        {
+          "worldMissionId": "1",
+          "missionCategoryId": "1",
+          "name": "２人一組",
+          "description": "助っ人含めて2人で任務を完遂した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "2"
+        },
+        {
+          "worldMissionId": "2",
+          "missionCategoryId": "1",
+          "name": "３人一組",
+          "description": "助っ人含めて3人で任務を完遂した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "3"
+        },
+        {
+          "worldMissionId": "3",
+          "missionCategoryId": "1",
+          "name": "４人一組",
+          "description": "助っ人含めて4人で任務を完遂した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "4"
+        },
+        {
+          "worldMissionId": "4",
+          "missionCategoryId": "2",
+          "name": "スキル使用せず",
+          "description": "スキルを一度も使わず任務を完遂した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "5",
+          "missionCategoryId": "3",
+          "name": "スキル撃破",
+          "description": "最後の戦闘をスキルでとどめを刺して勝利した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "6",
+          "missionCategoryId": "4",
+          "name": "ノーダメージ",
+          "description": "ランパートで一度もダメージを受けなかった",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "7",
+          "missionCategoryId": "5",
+          "name": "交代しない",
+          "description": "ランパートで一度も交代しなかった",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "8",
+          "missionCategoryId": "6",
+          "name": "ポーチ回収",
+          "description": "ランパートのポーチを全て回収した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "9",
+          "missionCategoryId": "7",
+          "name": "お金回収",
+          "description": "ランパートのお金を半分以上回収した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "10",
+          "missionCategoryId": "9",
+          "name": "５連撃達成",
+          "description": "ランパートで５連撃達成した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "5"
+        },
+        {
+          "worldMissionId": "11",
+          "missionCategoryId": "9",
+          "name": "１０連撃達成",
+          "description": "ランパートで１０連撃達成した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "10"
+        },
+        {
+          "worldMissionId": "12",
+          "missionCategoryId": "9",
+          "name": "１５連撃達成",
+          "description": "ランパートで１５連撃達成した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "15"
+        },
+        {
+          "worldMissionId": "13",
+          "missionCategoryId": "9",
+          "name": "２０連撃達成",
+          "description": "ランパートで２０連撃達成した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20"
+        },
+        {
+          "worldMissionId": "14",
+          "missionCategoryId": "9",
+          "name": "３０連撃達成",
+          "description": "ランパートで３０連撃達成した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "30"
+        },
+        {
+          "worldMissionId": "15",
+          "missionCategoryId": "9",
+          "name": "４０連撃達成",
+          "description": "ランパートで４０連撃達成した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "40"
+        },
+        {
+          "worldMissionId": "16",
+          "missionCategoryId": "9",
+          "name": "５０連撃達成",
+          "description": "ランパートで５０連撃達成した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "50"
+        },
+        {
+          "worldMissionId": "17",
+          "missionCategoryId": "23",
+          "name": "５回以内クリア",
+          "description": "最後の戦闘を行動回数５回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "5"
+        },
+        {
+          "worldMissionId": "18",
+          "missionCategoryId": "23",
+          "name": "１０回以内クリア",
+          "description": "最後の戦闘を行動回数１０回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "10"
+        },
+        {
+          "worldMissionId": "19",
+          "missionCategoryId": "23",
+          "name": "１５回以内クリア",
+          "description": "最後の戦闘を行動回数１５回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "15"
+        },
+        {
+          "worldMissionId": "20",
+          "missionCategoryId": "23",
+          "name": "２０回以内クリア",
+          "description": "最後の戦闘を行動回数２０回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20"
+        },
+        {
+          "worldMissionId": "21",
+          "missionCategoryId": "23",
+          "name": "２５回以内クリア",
+          "description": "最後の戦闘を行動回数２５回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "25"
+        },
+        {
+          "worldMissionId": "22",
+          "missionCategoryId": "23",
+          "name": "３０回以内クリア",
+          "description": "最後の戦闘を行動回数３０回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "30"
+        },
+        {
+          "worldMissionId": "23",
+          "missionCategoryId": "23",
+          "name": "３５回以内クリア",
+          "description": "最後の戦闘を行動回数３５回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "35"
+        },
+        {
+          "worldMissionId": "24",
+          "missionCategoryId": "23",
+          "name": "４０回以内クリア",
+          "description": "最後の戦闘を行動回数４０回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "40"
+        },
+        {
+          "worldMissionId": "25",
+          "missionCategoryId": "23",
+          "name": "４５回以内クリア",
+          "description": "最後の戦闘を行動回数４５回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "45"
+        },
+        {
+          "worldMissionId": "26",
+          "missionCategoryId": "23",
+          "name": "５０回以内クリア",
+          "description": "最後の戦闘を行動回数５０回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "50"
+        },
+        {
+          "worldMissionId": "27",
+          "missionCategoryId": "23",
+          "name": "６０回以内クリア",
+          "description": "最後の戦闘を行動回数６０回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "60"
+        },
+        {
+          "worldMissionId": "28",
+          "missionCategoryId": "23",
+          "name": "７０回以内クリア",
+          "description": "最後の戦闘を行動回数７０回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "70"
+        },
+        {
+          "worldMissionId": "29",
+          "missionCategoryId": "23",
+          "name": "８０回以内クリア",
+          "description": "最後の戦闘を行動回数８０回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "80"
+        },
+        {
+          "worldMissionId": "30",
+          "missionCategoryId": "23",
+          "name": "９０回以内クリア",
+          "description": "最後の戦闘を行動回数９０回以内でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "90"
+        },
+        {
+          "worldMissionId": "31",
+          "missionCategoryId": "10",
+          "name": "妙木山",
+          "description": "妙木山ステージへ行った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "32",
+          "missionCategoryId": "11",
+          "name": "死亡者ゼロ",
+          "description": "誰も死なずに任務を完遂した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "33",
+          "missionCategoryId": "12",
+          "name": "評価Ｓランク",
+          "description": "評価Ｓランクで任務を完遂した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "34",
+          "missionCategoryId": "13",
+          "name": "フレンド生存",
+          "description": "フレンドが生存している状態でクリアした",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "35",
+          "missionCategoryId": "16",
+          "name": "火遁スキル使用",
+          "description": "最後の戦闘で火遁タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1"
+        },
+        {
+          "worldMissionId": "36",
+          "missionCategoryId": "16",
+          "name": "水遁スキル使用",
+          "description": "最後の戦闘で水遁タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "2"
+        },
+        {
+          "worldMissionId": "37",
+          "missionCategoryId": "16",
+          "name": "土遁スキル使用",
+          "description": "最後の戦闘で土遁タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "3"
+        },
+        {
+          "worldMissionId": "38",
+          "missionCategoryId": "16",
+          "name": "風遁スキル使用",
+          "description": "最後の戦闘で風遁タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "4"
+        },
+        {
+          "worldMissionId": "39",
+          "missionCategoryId": "16",
+          "name": "木遁スキル使用",
+          "description": "最後の戦闘で木遁タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "5"
+        },
+        {
+          "worldMissionId": "40",
+          "missionCategoryId": "16",
+          "name": "雷遁スキル使用",
+          "description": "最後の戦闘で木遁タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "6"
+        },
+        {
+          "worldMissionId": "41",
+          "missionCategoryId": "16",
+          "name": "医療スキル使用",
+          "description": "最後の戦闘で医療タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "7"
+        },
+        {
+          "worldMissionId": "42",
+          "missionCategoryId": "16",
+          "name": "転生スキル使用",
+          "description": "最後の戦闘で転生タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "8"
+        },
+        {
+          "worldMissionId": "43",
+          "missionCategoryId": "16",
+          "name": "時空間スキル使用",
+          "description": "最後の戦闘で時空間タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "9"
+        },
+        {
+          "worldMissionId": "44",
+          "missionCategoryId": "16",
+          "name": "武器スキル使用",
+          "description": "最後の戦闘で武器タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "10"
+        },
+        {
+          "worldMissionId": "45",
+          "missionCategoryId": "16",
+          "name": "分身スキル使用",
+          "description": "最後の戦闘で分身タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "11"
+        },
+        {
+          "worldMissionId": "46",
+          "missionCategoryId": "16",
+          "name": "結界スキル使用",
+          "description": "最後の戦闘で結界タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "12"
+        },
+        {
+          "worldMissionId": "47",
+          "missionCategoryId": "16",
+          "name": "固有忍術スキル使用",
+          "description": "最後の戦闘で固有タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "13"
+        },
+        {
+          "worldMissionId": "48",
+          "missionCategoryId": "16",
+          "name": "口寄せスキル使用",
+          "description": "最後の戦闘で口寄せタイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "14"
+        },
+        {
+          "worldMissionId": "49",
+          "missionCategoryId": "16",
+          "name": "体術スキル使用",
+          "description": "最後の戦闘で体術タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "15"
+        },
+        {
+          "worldMissionId": "50",
+          "missionCategoryId": "16",
+          "name": "幻術スキル使用",
+          "description": "最後の戦闘で幻術タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "16"
+        },
+        {
+          "worldMissionId": "51",
+          "missionCategoryId": "16",
+          "name": "呪印術スキル使用",
+          "description": "最後の戦闘で呪印術タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "17"
+        },
+        {
+          "worldMissionId": "52",
+          "missionCategoryId": "16",
+          "name": "封印術スキル使用",
+          "description": "最後の戦闘で封印術タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "18"
+        },
+        {
+          "worldMissionId": "53",
+          "missionCategoryId": "16",
+          "name": "秘伝スキル使用",
+          "description": "最後の戦闘で秘伝タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "19"
+        },
+        {
+          "worldMissionId": "54",
+          "missionCategoryId": "16",
+          "name": "仙術スキル使用",
+          "description": "最後の戦闘で仙術タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20"
+        },
+        {
+          "worldMissionId": "55",
+          "missionCategoryId": "16",
+          "name": "血継限界スキル使用",
+          "description": "最後の戦闘で血継限界タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "21"
+        },
+        {
+          "worldMissionId": "56",
+          "missionCategoryId": "16",
+          "name": "無系統スキル使用",
+          "description": "最後の戦闘で無系統タイプのスキルを使った",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "22"
+        },
+        {
+          "worldMissionId": "57",
+          "missionCategoryId": "17",
+          "name": "敵全滅",
+          "description": "ランパートの敵を全滅させた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "58",
+          "missionCategoryId": "18",
+          "name": "スキルのみで勝利",
+          "description": "通常攻撃を使わず勝利",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "59",
+          "missionCategoryId": "20",
+          "name": "覚醒キャラ使用",
+          "description": "覚醒キャラを入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": null
+        },
+        {
+          "worldMissionId": "60",
+          "missionCategoryId": "19",
+          "name": "ナルト使用",
+          "description": "『意外性ＮＯ．１』うずまきナルトを班に入れた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20000721"
+        },
+        {
+          "worldMissionId": "61",
+          "missionCategoryId": "19",
+          "name": "サスケ使用",
+          "description": "『天才の頭角』うちはサスケを班に入れた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20000731"
+        },
+        {
+          "worldMissionId": "62",
+          "missionCategoryId": "19",
+          "name": "サクラ使用",
+          "description": "『おてんば娘』春野サクラを班に入れた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20000741"
+        },
+        {
+          "worldMissionId": "63",
+          "missionCategoryId": "19",
+          "name": "カカシ使用",
+          "description": "『獅子奮迅』はたけカカシを班に入れた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20000751"
+        },
+        {
+          "worldMissionId": "64",
+          "missionCategoryId": "19",
+          "name": "ヒルゼン使用",
+          "description": "『荒ぶる闘志』ヒルゼンを班に入れた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20000201"
+        },
+        {
+          "worldMissionId": "65",
+          "missionCategoryId": "19",
+          "name": "マイトガイ使用",
+          "description": "『熱血教師』マイト・ガイを班に入れた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20000841"
+        },
+        {
+          "worldMissionId": "66",
+          "missionCategoryId": "19",
+          "name": "自来也使用",
+          "description": "『大いなる存在』自来也を班に入れた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20000811"
+        },
+        {
+          "worldMissionId": "67",
+          "missionCategoryId": "19",
+          "name": "綱手使用",
+          "description": "『伝説のカモ』綱手を班に入れた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20000131"
+        },
+        {
+          "worldMissionId": "68",
+          "missionCategoryId": "19",
+          "name": "シノ使用",
+          "description": "『確固たる自信』油女シノを班に入れた",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20000261"
+        },
+        {
+          "worldMissionId": "69",
+          "missionCategoryId": "1",
+          "name": "５人一組",
+          "description": "助っ人含めて5人で任務を完遂した",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "5"
+        },
+        {
+          "worldMissionId": "1011",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "うずまきナルト（少年篇）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "110"
+        },
+        {
+          "worldMissionId": "1012",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "うずまきナルト（疾風伝）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "120"
+        },
+        {
+          "worldMissionId": "1021",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "うちはサスケ（少年篇）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "210"
+        },
+        {
+          "worldMissionId": "1022",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "うちはサスケ（疾風伝）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "220"
+        },
+        {
+          "worldMissionId": "1031",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "春野サクラ（少年篇）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "310"
+        },
+        {
+          "worldMissionId": "1032",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "春野サクラ（疾風伝）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "320"
+        },
+        {
+          "worldMissionId": "1041",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "はたけカカシ（少年BL)を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1750"
+        },
+        {
+          "worldMissionId": "1042",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "はたけカカシ（少年篇）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1710"
+        },
+        {
+          "worldMissionId": "1043",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "はたけカカシ（暗部時代）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1740"
+        },
+        {
+          "worldMissionId": "1044",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "はたけカカシ（疾風伝）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1720"
+        },
+        {
+          "worldMissionId": "1045",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "はたけカカシ（真伝/秘伝）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1760"
+        },
+        {
+          "worldMissionId": "1051",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "我愛羅（少年篇）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1310"
+        },
+        {
+          "worldMissionId": "1052",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "我愛羅（疾風伝）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1320"
+        },
+        {
+          "worldMissionId": "1053",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "我愛羅（守鶴移行）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1310"
+        },
+        {
+          "worldMissionId": "1061",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "マイト・ガイ（少年篇）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1610"
+        },
+        {
+          "worldMissionId": "1062",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "マイト・ガイ（疾風伝）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1620"
+        },
+        {
+          "worldMissionId": "1063",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "サイ（疾風伝）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "3710"
+        },
+        {
+          "worldMissionId": "1064",
+          "missionCategoryId": "31",
+          "name": "0",
+          "description": "ヤマト（疾風伝）を班に入れてクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "3810"
+        },
+        {
+          "worldMissionId": "10011",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "うずまきナルト（少年篇）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "110"
+        },
+        {
+          "worldMissionId": "10012",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "うずまきナルト（疾風伝）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "120"
+        },
+        {
+          "worldMissionId": "10021",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "うちはサスケ（少年篇）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "210"
+        },
+        {
+          "worldMissionId": "10022",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "うちはサスケ（疾風伝）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "220"
+        },
+        {
+          "worldMissionId": "10031",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "春野サクラ（少年篇）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "310"
+        },
+        {
+          "worldMissionId": "10032",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "春野サクラ（疾風伝）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "320"
+        },
+        {
+          "worldMissionId": "10041",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "カンクロウ（少年篇）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1510"
+        },
+        {
+          "worldMissionId": "10042",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "カンクロウ（疾風伝）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1520"
+        },
+        {
+          "worldMissionId": "10051",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "デイダラ（暁）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "12010"
+        },
+        {
+          "worldMissionId": "10061",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "はたけカカシ（少年BL)が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1750"
+        },
+        {
+          "worldMissionId": "10062",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "はたけカカシ（少年篇）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1710"
+        },
+        {
+          "worldMissionId": "10063",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "はたけカカシ（暗部時代）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1740"
+        },
+        {
+          "worldMissionId": "10064",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "はたけカカシ（疾風伝）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1720"
+        },
+        {
+          "worldMissionId": "10065",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "はたけカカシ（真伝/秘伝）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1760"
+        },
+        {
+          "worldMissionId": "10071",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "チヨバア（疾風伝）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "20610"
+        },
+        {
+          "worldMissionId": "10081",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "我愛羅（少年篇）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1310"
+        },
+        {
+          "worldMissionId": "10082",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "我愛羅（疾風伝）※風影が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1320"
+        },
+        {
+          "worldMissionId": "10083",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "我愛羅（守鶴移行）※少年篇が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "1310"
+        },
+        {
+          "worldMissionId": "10084",
+          "missionCategoryId": "32",
+          "name": "0",
+          "description": "自来也（アカデミー時代）が生存してクリア",
+          "conditionMin": null,
+          "conditionMax": null,
+          "conditionGeneral": "2420"
+        }
+      ]

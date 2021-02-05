@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>990131</key>
+        <string>{"resData":{"990131":{"connectCardM":[{"connectCardId":"60060700","ownerProfileId":"60201","cardName":"\u30ca\u30eb\u30c8\uff06\u30b5\u30b9\u30b1","cardSubName":"\u98a8\u708e\u306e\u5fcd\u7d75\u5dfb-\u7d46-","modelId":"0","connectSkillId":"710000"},{"connectCardId":"60061200","ownerProfileId":"60501","cardName":"\u30b5\u30b9\u30b1\uff06\u30a4\u30bf\u30c1","cardSubName":"\u5bbf\u708e\u306e\u5fcd\u7d75\u5dfb-\u7d46-","modelId":"0","connectSkillId":"710001"}]}}}</string>
+    </dict>
+</plist>

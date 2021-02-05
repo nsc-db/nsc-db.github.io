@@ -1,0 +1,337 @@
+[        {
+          "cardLevelLimitPlusMaxBonusId": "1001",
+          "rare": "1",
+          "title": "最大HP　",
+          "description": "最大HP75%アップ",
+          "effectIds": "10074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "1002",
+          "rare": "1",
+          "title": "攻撃力　",
+          "description": "攻撃力75%アップ",
+          "effectIds": "11074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "1003",
+          "rare": "1",
+          "title": "防御力　",
+          "description": "防御力75%アップ",
+          "effectIds": "12074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "1004",
+          "rare": "1",
+          "title": "素早さ　",
+          "description": "素早さ45%アップ",
+          "effectIds": "13074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "1005",
+          "rare": "1",
+          "title": "最大チャクラ量　",
+          "description": "最大チャクラ量70アップ",
+          "effectIds": "20006"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "1006",
+          "rare": "1",
+          "title": "スキルダメージ　",
+          "description": "スキルダメージ70%アップ",
+          "effectIds": "30006"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "1007",
+          "rare": "1",
+          "title": "スキル発動速度　",
+          "description": "スキル発動速度1段階アップ",
+          "effectIds": "21000"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "1008",
+          "rare": "1",
+          "title": "ダメージ耐性",
+          "description": "全スキルダメージ軽減",
+          "effectIds": "20500"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "2001",
+          "rare": "2",
+          "title": "最大HP　",
+          "description": "最大HP75%アップ",
+          "effectIds": "10074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "2002",
+          "rare": "2",
+          "title": "攻撃力　",
+          "description": "攻撃力75%アップ",
+          "effectIds": "11074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "2003",
+          "rare": "2",
+          "title": "防御力　",
+          "description": "防御力75%アップ",
+          "effectIds": "12074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "2004",
+          "rare": "2",
+          "title": "素早さ　",
+          "description": "素早さ45%アップ",
+          "effectIds": "13074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "2005",
+          "rare": "2",
+          "title": "最大チャクラ量　",
+          "description": "最大チャクラ量70アップ",
+          "effectIds": "20006"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "2006",
+          "rare": "2",
+          "title": "スキルダメージ　",
+          "description": "スキルダメージ70%アップ",
+          "effectIds": "30006"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "2007",
+          "rare": "2",
+          "title": "スキル発動速度　",
+          "description": "スキル発動速度1段階アップ",
+          "effectIds": "21000"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "2008",
+          "rare": "2",
+          "title": "ダメージ耐性",
+          "description": "全スキルダメージ軽減",
+          "effectIds": "20500"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "3001",
+          "rare": "3",
+          "title": "最大HP　",
+          "description": "最大HP75%アップ",
+          "effectIds": "10074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "3002",
+          "rare": "3",
+          "title": "攻撃力　",
+          "description": "攻撃力75%アップ",
+          "effectIds": "11074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "3003",
+          "rare": "3",
+          "title": "防御力　",
+          "description": "防御力75%アップ",
+          "effectIds": "12074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "3004",
+          "rare": "3",
+          "title": "素早さ　",
+          "description": "素早さ45%アップ",
+          "effectIds": "13074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "3005",
+          "rare": "3",
+          "title": "最大チャクラ量　",
+          "description": "最大チャクラ量70アップ",
+          "effectIds": "20006"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "3006",
+          "rare": "3",
+          "title": "スキルダメージ　",
+          "description": "スキルダメージ70%アップ",
+          "effectIds": "30006"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "3007",
+          "rare": "3",
+          "title": "スキル発動速度　",
+          "description": "スキル発動速度1段階アップ",
+          "effectIds": "21000"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "3008",
+          "rare": "3",
+          "title": "ダメージ耐性",
+          "description": "全スキルダメージ軽減",
+          "effectIds": "20500"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "4001",
+          "rare": "4",
+          "title": "最大HP　",
+          "description": "最大HP75%アップ",
+          "effectIds": "10074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "4002",
+          "rare": "4",
+          "title": "攻撃力　",
+          "description": "攻撃力75%アップ",
+          "effectIds": "11074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "4003",
+          "rare": "4",
+          "title": "防御力　",
+          "description": "防御力75%アップ",
+          "effectIds": "12074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "4004",
+          "rare": "4",
+          "title": "素早さ　",
+          "description": "素早さ45%アップ",
+          "effectIds": "13074"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "4005",
+          "rare": "4",
+          "title": "最大チャクラ量　",
+          "description": "最大チャクラ量70アップ",
+          "effectIds": "20006"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "4006",
+          "rare": "4",
+          "title": "スキルダメージ　",
+          "description": "スキルダメージ70%アップ",
+          "effectIds": "30006"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "4007",
+          "rare": "4",
+          "title": "スキル発動速度　",
+          "description": "スキル発動速度1段階アップ",
+          "effectIds": "21000"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "4008",
+          "rare": "4",
+          "title": "ダメージ耐性",
+          "description": "全スキルダメージ軽減",
+          "effectIds": "20500"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "5001",
+          "rare": "5",
+          "title": "最大HP　",
+          "description": "最大HP50%アップ",
+          "effectIds": "10049"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "5002",
+          "rare": "5",
+          "title": "攻撃力　",
+          "description": "攻撃力50%アップ",
+          "effectIds": "11049"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "5003",
+          "rare": "5",
+          "title": "防御力　",
+          "description": "防御力50%アップ",
+          "effectIds": "12049"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "5004",
+          "rare": "5",
+          "title": "素早さ　",
+          "description": "素早さ30%アップ",
+          "effectIds": "13049"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "5005",
+          "rare": "5",
+          "title": "最大チャクラ量　",
+          "description": "最大チャクラ量50アップ",
+          "effectIds": "20004"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "5006",
+          "rare": "5",
+          "title": "スキルダメージ　",
+          "description": "スキルダメージ50%アップ",
+          "effectIds": "30004"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "5007",
+          "rare": "5",
+          "title": "スキル発動速度　",
+          "description": "スキル発動速度1段階アップ",
+          "effectIds": "21000"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "5008",
+          "rare": "5",
+          "title": "ダメージ耐性",
+          "description": "全スキルダメージ軽減",
+          "effectIds": "20500"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "6001",
+          "rare": "6",
+          "title": "最大HP　",
+          "description": "最大HP50%アップ",
+          "effectIds": "10049"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "6002",
+          "rare": "6",
+          "title": "攻撃力　",
+          "description": "攻撃力50%アップ",
+          "effectIds": "11049"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "6003",
+          "rare": "6",
+          "title": "防御力　",
+          "description": "防御力50%アップ",
+          "effectIds": "12049"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "6004",
+          "rare": "6",
+          "title": "素早さ　",
+          "description": "素早さ30%アップ",
+          "effectIds": "13049"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "6005",
+          "rare": "6",
+          "title": "最大チャクラ量　",
+          "description": "最大チャクラ量50アップ",
+          "effectIds": "20004"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "6006",
+          "rare": "6",
+          "title": "スキルダメージ　",
+          "description": "スキルダメージ50%アップ",
+          "effectIds": "30004"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "6007",
+          "rare": "6",
+          "title": "スキル発動速度　",
+          "description": "スキル発動速度1段階アップ",
+          "effectIds": "21000"
+        },
+        {
+          "cardLevelLimitPlusMaxBonusId": "6008",
+          "rare": "6",
+          "title": "ダメージ耐性",
+          "description": "全スキルダメージ軽減",
+          "effectIds": "20500"
+        }
+      ]
