@@ -1,5 +1,481 @@
 window.detail=[
 {
+          "id": 20040102,
+          "name": "Kakashi Hatake",
+          "subtext": "With a Fallen Comrade",
+
+          "lead": "Konoha Characters: ATK, DEF and SPD +50%",
+
+          "s1n": "Kamui Lightning Blade",
+          "s1": "Deals 50,000 Fixed Damage to target enemy. Grant 'Kamui Mode'. If it's a None enemy: Deal 2x more damage. While under 'Kamui Mode' State: Deal 5x more damage (Max 10x). [Kamui Mode: Immune to and Protect Party From Single Target Skills] (Always Hit)",
+          "s1ntr": "Space-Time",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "How About This",
+          "s2": "Own Skill Damage +100%. Recover 30% HP to Konoha allies and a small amount of Chakra.",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 60,
+
+          "a1n": "Both Mangekyo Sharingan",
+          "a1": "HP and Skill Damage +100%, Chakra +50",
+
+          "a2n": "Team 7's Last Strategy",
+          "a2": "DEF and SPD +25% per Konoha ally (Max 125%)",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20040102,
+          "name": "Kakashi Hatake",
+          "subtext": "With a Fallen Comrade",
+
+          "lead": "Konoha Characters: ATK, DEF and SPD +50%",
+
+          "s1n": "Kamui Lightning Blade",
+          "s1": "Deals 50,000 Fixed Damage to target enemy. Grant 'Kamui Mode'. If it's a None enemy: Deal 2x more damage. While under 'Kamui Mode' State: Deal 5x more damage (Max 10x). [Kamui Mode: Immune to and Protect Party From Single Target Skills] (Always Hit)",
+          "s1ntr": "Space-Time",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "How About This",
+          "s2": "Own Skill Damage +100%. Recover 30% HP to Konoha allies and a small amount of Chakra.",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 60,
+
+          "a1n": "Both Mangekyo Sharingan",
+          "a1": "HP and Skill Damage +100%, Chakra +50",
+
+          "a2n": "Team 7's Last Strategy",
+          "a2": "DEF and SPD +25% per Konoha ally (Max 125%)",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20040605,
+          "name": "Itachi Uchiha",
+          "subtext": "World's Truth",
+
+          "lead": "All Characters: 2 Turns: SPD +400",
+
+          "s1n": "Yasaka Beads",
+          "s1": "Deals 10% of target enemy's HP. While under 'Determined' State: Deal 10x more damage (Max 5,000,000).",
+          "s1ntr": "Sharingan",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "It's A New Light For Me!",
+          "s2": "Own ATK, DEF and SPD +100%. Grant 'Determined' State. [Determined: ATK, DEF and SPD +50%, Recover 25% HP and Chakra when attacked]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Weaving Illusion",
+          "a1": "HP +150%, Debuff and Status Effect Immunity",
+
+          "a2n": "Indefinite Present",
+          "a2": "2 Turns: Cast Speed +1, After 2 Turns: High Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20050106,
+          "name": "Sasuke Uchiha",
+          "subtext": "New Year's Eye Exorcism",
+
+          "lead": "All Characters: SPD +20%, Chakra Recovery +19%",
+
+          "s1n": "Lightning Arrow",
+          "s1": "Deal 3% + 30,000 to all enemies. Chance to Inflict 'Cancel'. While under 'Duel' State: Deal 10x more damage",
+          "s1ntr": "Lightning",
+          "s1cs": "Fast",
+          "s1c": 90,
+
+          "s2n": "I Want to Celebrate With You...",
+          "s2": "Party SPD +100% and Cast Speed +1. Grant 'Duel' State. [Duel: Skill Damage +20% per ally (Max 100%)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 90,
+
+          "a1n": "A Splendid Arrow",
+          "a1": "HP >=50%: SPD +100%, Cast Speed +1",
+
+          "a2n": "Indra's Arrow",
+          "a2": "Skill Damage +120% and Chakra +100",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20050605,
+          "name": "Itachi Uchiha",
+          "subtext": "Shadow Burdened Fate",
+
+          "lead": "Konoha Characters: HP +100%, Status Effect and Genjutsu Immunity",
+
+          "s1n": "Phantom Crow Blade",
+          "s1": "Deal 7% + 500,000 to target enemy. Grant 'Shadow Light' State to self and Non-Itachi enemies. High Chance to Crit and Deal 3x more damage. [Shadow Light: Enemies: ATK, DEF, SPD and Dodge Rate -200%. Self: ATK, Crit Rate and Crit Damage +1,000%]",
+          "s1ntr": "Genjutsu",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "I know…",
+          "s2": "Enemies Skill Damage and DEF -90%. High Chance to Remove Enemies Positive Special State. Chance to Inflict 'Slash' State to all enemies (If it's a Destroyer enemy: Guarantee Inflict). [Slash: Skill Damage -80%, Cast Speed -1]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Loyalty to The Village",
+          "a1": "Insta-Cast Skill 1 against the enemy with the highest SPD and Start the Battle with 100% Chakra, If there's a Destroyer enemy: SPD +150%",
+
+          "a2n": "Brotherly Love",
+          "a2": "If there's a Sasuke ally or enemy: Skill Damage +100%, Withstand +1",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
+          "id": 20060501,
+          "name": "Shibi Aburame",
+          "subtext": "Immovable Bug",
+
+          "lead": "Heart Characters: Skill Damage and SPD +50%",
+
+          "s1n": "Bug Grip",
+          "s1": "Deal 7% + 10,000 to target enemy. Chance to Inflict 'Poison' and 'Paralysis'. While under 'Protection' State: Deal 10 Additional Attacks Dealing 7% + 1,000.",
+          "s1ntr": "Secret",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "I'll Do My Best To Get Rid of It",
+          "s2": "Recover 100,000 HP and Grant 'Protection' State to Party. Remove Party Negative Special State. [Protection: Remove and Immune to Debuff, Status Effects and Negative Special State]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 70,
+
+          "a1n": "Aburame Clan Ancestors",
+          "a1": "Withstand +1. HP Recovery +20%",
+
+          "a2n": "Secret Insect Manipulation Technique",
+          "a2": "Skill Damage +70% and Chance to Dodge Skllls",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20060502,
+          "name": "Deidara",
+          "subtext": "Explosive Model",
+
+          "lead": "All Characters: SPD +35% per Akatsuki ally (Max 175%)",
+
+          "s1n": "Detonation Clay: Explosive Bug Flower",
+          "s1": "Deal 7% + 550,000 to target enemy. Grant 'Additional Bomb' State to self. While under 'Additional Bomb' State: Deal 2 Additional Attacks dealing 7% +55,000. Deal upto 3 Additional Attacks dealling 7% +55,000 based on how many Counters on 'Additional Bomb'. [Additional Bomb: ATK +500% and Skill Damage +100%, Increase Counter when Granted this State]",
+          "s1ntr": "Secret",
+          "s1cs": "Fast",
+          "s1c": 65,
+
+          "s2n": "Art is an...Explosion!",
+          "s2": "Party SPD +250% for 1 Turn. Grant 'Additional Bomb' State to self. Grant 'Fate' State to Akatsuki allies. [Fate: Skill Damage +100%, Cast Speed +1, Withstand +1, Skill Immunity]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 90,
+
+          "a1n": "Seeking the Art of Explosion",
+          "a1": "Withstand +3, Recover 50% HP upon Withstanding (If there's an Origin enemy: Recover Full HP)",
+
+          "a2n": "Encicled Detotating Clay",
+          "a2": "If there's an Origin or Konoha enemy: Chance to Insta-Cast Skill 2",
+
+          "a3n": "Red Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red"
+      },
+{
+          "id": 20060503,
+          "name": "Gaara",
+          "subtext": "Champion's Reward",
+
+          "lead": "Five Village Characters: 1 Turn: Negative Special State Immunity",
+
+          "s1n": "Sand Prison: Prison Seal",
+          "s1": "Deal 800,000 Fixed Damage to all enemies. If there's a GK enemy: High Chance to Inflict 'Quicksand' State. Remove Party 'Disable Positive Special and Positive God State' Effect. [Quicksand: Chance to Inflict 'Cancel'. SPD -150%, HP -10% every turn] (Always Hit)",
+          "s1ntr": "Sealing",
+          "s1cs": "Fastest",
+          "s1c": 100,
+
+          "s2n": "As the Sunagakure's Kazekage",
+          "s2": "Deal 7% + 800,000 to target enemy. Grant 'Sand Shield' State to self. If there's a GK enemy: Grant 'Harden' State to Party. [Sand Shield: Skill (including Fixed Damage Except for Taijutsu, Tailed Beast and Lightning) Immunity. Deal 7% + 300,000 Counterattack Damage to all enemies] [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -200% when Targeted by a Skill]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 100,
+
+          "a1n": "Defender of Relationship",
+          "a1": "Enemy Terrain Immunity, Chakra +250, Start the Battle with 50% Chakra",
+
+          "a2n": "Eradicating Hatred with Sand",
+          "a2": "If there's a GK enemy: Grant First Strike and HP +1,000%",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
+          "id": 20060504,
+          "name": "Itachi Uchiha",
+          "subtext": "Eyes of Black Flames",
+
+          "lead": "Akatsuki Characters: If there's a God enemy: Chance for First Strike",
+
+          "s1n": "Amaterasu: Eternal Black Flames",
+          "s1": "Deals 770,000 Fixed Damage to all enemies. Chance to Inflict 'Black Flames', 'Jet Black' and 'Great Flame' States. Chance to Inflict 1 Turn of 'Genjutsu' to all enemies. If it's a God enemy: Ignore Resistance and Skill Dodge, High Chance to Inflict 1-3 Turns of 'Genjutsu' Effect. High Chance to Deal 5 Additional Attacks dealing 3% + 77,000 to a random Non-Akatsuki enemy. [Black Flames: Reduce HP per turn and Chance for SPD -20%] [Jet Black: Reduce HP per turn and Chance for ATK -20%] [Great Flame: HP -20% per turn]",
+          "s1ntr": "Sharingan",
+          "s1cs": "Fastest",
+          "s1c": 180,
+
+          "s2n": "Making It A Reality",
+          "s2": "Party ATK, DEF and SPD +100%. Change the Terrain to 'Dominating World'. [Dominating World: Enemy: Chance for one of these Effect every turn: 1.) Inflict 1-5 Turns of 'Genjutsu' to self. 2.) Inflict 1 Turn of Befuddle to other allies. 3.) DEF -150% to other allies] [Befuddle: ATK, Crit Chance and Crit Damage +1,000%. Remove Buffs, Debuffs, Status Effects and Special State other than Befuddle. Randomly Basic Attack an Ally] [Genjutsu: Action is Disabled. Skip Action depending of Turns of 'Genjutsu']",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 210,
+
+          "a1n": "Desire for the Eternal Summit",
+          "a1": "If there's a God enemy: At the Start of Battle, High Chance to change the Terrain to 'Dominating World', Chakra +120",
+
+          "a2n": "The Right Eye that Contains the Strongest Flame",
+          "a2": "Withstand +2, Chance for an Extra Turn (If there's a God enemy: Guarantee)",
+
+          "a3n": "White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against White"
+      },
+{
+          "id": 20060506,
+          "name": "Madara Uchiha",
+          "subtext": "Adoring A Mortal Kombat",
+
+          "lead": "None Characters: Skill Damage +80%, Cast Speed +1",
+
+          "s1n": "Limbo: Hengoku",
+          "s1": "Deal 7% + 460,000 to target enemy. High Chance to Inflict 'Skip'. If it's a Five Village enemy: Deal 2 Additional Attacks dealing 200,000 Fixed Damage. HIgh Chance to Inflict 'Fear' State. [Fear: Party SPD -30% (Max -150%), Cast Speed -1 (Max -5) and Chance to Inflict 'Cancel'  other allies] (Always Hit)",
+          "s1ntr": "Rinnegan",
+          "s1cs": "Fastest",
+          "s1c": 160,
+
+          "s2n": "Enterntain Me More",
+          "s2": "Own DEF and Skill Damage +200%. Grant 'Limbo' State to self. Protect Party From Single Target Skills. Remove Positive Special State of EX and Five Village Enemies. [Limbo: Skill (including Fixed Damage, except for Taijutsu, Sage and Six Paths) Immunity]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 130,
+
+          "a1n": "Ecstasy of Exultation",
+          "a1": "If there's an EX enemy: High Chance to Grant 'Instant Action' when Attacked, Revive +1",
+
+          "a2n": "Blood Rushing Dance",
+          "a2": "At the Start of Battle, High Chance to Grant 'Limbo' State (If there's an EX enemy: Guarantee Grant), Chakra +100",
+
+          "a3n": "Red Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red"
+      },
+{
+          "id": 20060507,
+          "name": "Danzo Shimura",
+          "subtext": "Root's Master",
+
+          "lead": "Konoha Characters: 5 Turns: Skip Immunity, Chakra Recovery +30%",
+
+          "s1n": "Wind Style: Vaccum Blast",
+          "s1": "Deal 7% + 430,000 to target enemy. Enemy Chakra Cost +50% (except for Ninja Gears effects). While under 'Reverse Tetragram' State: Deal 2 Additional Attacks dealing 220,000 Fixed Damage. Increase of Chakra Cost is effective against 'Set Chakra Cost to 0' effects",
+          "s1ntr": "Wind",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "The Hand Has Already Turned",
+          "s2": "Own SPD and Skill Damage +200% for 1 Turn. Grant 'Reverse Tetragram' State. Grant 'Love' State to Konoha allies. If it's an EX enemy: Inflict 'Skip'. [Love: ATK, SPD and Skill Damage +100%. Skill Immunity] [Reverse Tetragram: Upon Death: Inflict 'Exhaust' State to 2 random enemies] [Exhaust: Action is Disabled]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 75,
+
+          "a1n": "Mastermind in the Shadows",
+          "a1": "Upon Death: Chance to Inflict 'Exhaust' to all enemies upon Death (If there's an EX enemy: Guarantee Inflict 'Exhaust' and Cast Speed -1)",
+
+          "a2n": "Discerment from the Dark",
+          "a2": "Revive +1, SPD +150%",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow"
+      },
+{
+          "id": 20060508,
+          "name": "Sai",
+          "subtext": "Brush Vitaliy",
+
+          "lead": "Konoha Characters: 5 Turns: Cancel Immunity, HP Recovery +30%",
+
+          "s1n": "Super Beast Scroll: Swift Reblion Lion",
+          "s1": "Deal 7% + 631,000 to a target enemy. Inflict 'Ink' State. If the enemy is under 'Ink' State: Remove Enemy's Positive Special State. [Ink: SPD and Skill Damage -62% per Counter (Max 5)]",
+          "s1ntr": "Unique",
+          "s1cs": "Fast",
+          "s1c": 75,
+
+          "s2n": "Strength...Weak....You...",
+          "s2": "Enemies ATK and DEF -90%. High Chance to Inflict 'Ink' State to all enemies. High Chance to Inflict 'Ink' State to a Random enemy. If it's an Origin enemy: Guarantee Inflict 'Ink' State. (Always Hit)",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 70,
+
+          "a1n": "Painter's Dignity",
+          "a1": "High Chance to Insta-Cast Skill 1 against the enemy with the highest SPD. HP and Chakra Recovery +31%",
+
+          "a2n": "Artistic Life",
+          "a2": "Withstand +2, Chance to Fully Recover HP upon Withtstanding, SPD +150%",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue"
+      },
+{
+          "id": 20060509,
+          "name": "Sakon and Ukon",
+          "subtext": "The Twin Souls of Abduction",
+
+          "lead": "Oto Characters: ATK and SPD +80%",
+
+          "s1n": "Multiple Fists",
+          "s1": "Deal 7% + 50,000 to target enemy. Chance to Deal 2 Additional Attacks Dealing 7% + 20,000. If it's a Konoha enemy: Deal 2x damage.",
+          "s1ntr": "Unique",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "I'll Kill You So Much!",
+          "s2": "Party SPD +70%. Grant 'Connected' State to Oto allies. [Connected: Status Effect -50%, Skill Damage increase depending on how many Oto allies are alive (Max 200%)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "The Mad Brother Who Stays Inside",
+          "a1": "Withstand +1. Chance to Dodge Skills",
+
+          "a2n": "Unpredictable Effort",
+          "a2": "HP >=80%: Skill Damage +80% and Cast Speed +1",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20060511,
+          "name": "Naruto and Sasuke",
+          "subtext": "Changing Together",
+
+          "lead": "All Characters: ATK, DEF and SPD +100%, Cast Speed +1",
+
+          "s1n": "Light: Lava Rasenshuriken",
+          "s1": "Deal 3% + 1,500,000 to all enemies. If it's a GK enemy: Deal 500,000 Fixed Damage. Remove Party's Negative Special State. Grant 'Light Symbol' State to self. [Light Symbol: Skill Damage +150%, HP Recovery +30%. While under 'Shadow Symbol' State: Ignore Resistance and Skill Dodge and Inflict 'Seal' to None enemies when using a Skill] [Seal: Action is Disabled: HP -20% per turn]",
+          "s1ntr": "Lava",
+          "s1cs": "Fastest",
+          "s1c": 100,
+
+          "s2n": "Shadow: Burning Lightning Flicker",
+          "s2": "Deal 1,000,000 Fixed Damage to target enemy. If it's a God enemy: Deal 2 Additional Attacks Dealing 7% + 500,000. Remove Enemies Positive Special State. Grant 'Shadow Symbol' State to self. [Shadow Symbol: SPD +150%, Chakra Cost is set to 0, While under 'Light Symbol' State: Ignore Resistance and Skill Dodge and  Inflict 'Seal' to None enemies when using a Skill] [Seal: Action is Disabled: HP -20% per turn]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 100,
+
+          "a1n": "Crossing the Soul of a Rival",
+          "a1": "If there's a God enemy: High chance for Instant Action when Attacked, If there's a GK enemy: Guarantee Extra Turn",
+
+          "a2n": "Reforming the World with Shadow and Light",
+          "a2": "Revive +5, If there's a None enemy: Guarantee First Strike",
+
+          "a3n": "Black and White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black and White"
+      },
+{
+          "id": 50060501,
+          "name": "Han",
+          "subtext": "Steaming Angle of Rupture",
+
+          "lead": "Low Chance for -1 Ranbu CD every turn, White Characters: Skill Damage +60%",
+
+          "s1n": "Five Tails: Folded Horn",
+          "s1": "Deals 350,000 Fixed Damage to all enemies. Remove Positive Special States. Grant 'Five Tails' Steam' Beast State to a random ally. [Five Tails' Steam: Skip, Cancel, Insta Kill and Enemy Terrain Immunity. HP +1000% & Fully Recovers HP when granted. Enemy's Cast Speed -2 when attacked by a skill. Grants Beast State Immunity when removed] (Always Hit)",
+          "s1ntr": "Tailed Beast",
+          "s1cs": "",
+          "s1c": 0,
+
+          "s2n": "",
+          "s2": "",
+          "s2ntr": "",
+          "s2cs": "",
+          "s2c": 0,
+
+          "a1n": "Concentric Boiling",
+          "a1": "DEF +100%",
+
+          "a2n": "Rigid Sprint",
+          "a2": "Chakra Recovery +20%",
+
+          "a3n": "",
+          "a3": ""
+        },
+{
+          "id": 20070202,
+          "name": "Sasuke Uchiha",
+          "subtext": "Lightning Hatred",
+
+          "lead": "All Characters: If there's a Naruto ally or enemy: ATK, DEF, SPD and Skill Damage +80%",
+
+          "s1n": "Chidori Blade: Lightning Edge",
+          "s1": "Deal 7% + 800,000 to target enemy. If it's a Five Village enemy: Deal an Additional Attack dealing 800,000 Fixed Damage. Ignore Resistance and Inflict 'Paralysis'. Grant 'Lightning Chakra Mode' State. [Lightning Chakra Mode: ATK +200%, Cast Speed is Set to Flash] (Always Hit)",
+          "s1ntr": "Lightning",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "I'm... Annoyed Now",
+          "s2": "Own SPD +200% and Recover 1,500,000 HP. Grant 'Lightning God Mode' State. Grant 'Lightning Protection' and Lightning Guidance: Full' States to self and Non-Five Village allies. [Lightning God Mode: Skill Damage +200%. Protect and Nullfy Single Target Skills targeting allies with 'Lightning Protection' State] [Lightning Guidance: Full: Nullfy Skills Targeting All]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Cold Resolution",
+          "a1": "If there's a Naruto ally or enemy: Grant First Strike, Set Chakra Cost to 0, Withstand +9 and SPD +1,000%",
+
+          "a2n": "Mangekyo Opening",
+          "a2": "If there's a Five Village enemy: Very High Chance for Damage Cut +50% and Extra Turn",
+
+          "a3n": "Red Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red"
+      },
+{
+          "id": 20070201,
+          "name": "Suigetsu Hozuki",
+          "subtext": "Dream of Sword Collection",
+
+          "lead": "All Characters: ATK, DEF and SPD +40%",
+
+          "s1n": "Water Style: Demon Style",
+          "s1": "Deal 7% + 30,000 to target enemy. Inflicts 'Slash' State. Other Kiri allies' SPD +50% for 1 Turn. [Slash: Cast Speed -1 and Skill Damage -20%]",
+          "s1ntr": "Water",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "I Wonder If You Can Have Fun Playing",
+          "s2": "Party ATK +50% and Chakra Cost -30%. Grant 'Slashing Specialist' State. [Slashing Specialist: SPD and Crit Damage +40, HP Recovery +10%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Longing for The Seven Swords",
+          "a1": "3 Turns: SPD and Skill Damage +100%",
+
+          "a2n": "Liquefied Body",
+          "a2": "Withstand +2. 3 Turns: Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
           "id": 20030606,
           "name": "Hinata Hyuga",
           "subtext": "When One-Sided Feelings Come to Fruition",
@@ -41,7 +517,7 @@ window.detail=[
           "s1c": 80,
 
           "s2n": "Supporting My Brother and Sword",
-          "s2": "Party ATK, DEF and SPD +100%. If there's an EX enemy: Recover Party's HP and Restore 50% Chakra and Grant 'Protection' State to Uchiha allies . [Protection: Remove and Immune to Debuff, Status Effects and Negative Special State]",
+          "s2": "Party ATK, DEF and SPD +100%. If there's an EX enemy: Recover Party's HP and Restore 50% Chakra and Grant 'Protection' State to Uchiha allies. [Protection: Remove and Immune to Debuff, Status Effects and Negative Special State]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 100,
@@ -595,7 +1071,7 @@ window.detail=[
           "lead": "None Characters: Cast Speed +1 and Chance for Skip and Cancel Immunity",
 
           "s1n": "Flame Sword: Flying Decapitation",
-          "s1": "Deal 3% + 1,120,000 to all enemies. If the targeted enemy has an Affiliation (not None): Deal 2 Additional Attacks dealing 3% + 500,000. Ignore Resistance and Inflict 'Inferno' State. Inlict 1 turn of 'Remove and Immune to Positive Special and God State' Effect. [Inferno: HP reduced every turn (Max 2000%). Weak to Fire Nature] (Always Hit)",
+          "s1": "Deal 3% + 1,120,000 to all enemies. If the targeted enemy has an Affiliation (not None): Deal 2 Additional Attacks dealing 3% + 500,000. Ignore Resistance and Inflict 'Inferno' State. Inlict 1 Turn of 'Remove and Immune to Positive Special and God State' Effect. [Inferno: HP reduced every turn (Max 2000%). Weak to Fire Nature] (Always Hit)",
           "s1ntr": "Fire",
           "s1cs": "Fast",
           "s1c": 95,
@@ -610,7 +1086,7 @@ window.detail=[
           "a1": "If there's a Konoha enemy: Insta Cast Skill 1, Revive +1, High Chance for Skill (except for Sharingan) Immunity, When Attacked: High chance to grant Instant Action",
 
           "a2n": "Sharingan Ascertainment",
-          "a2": "If there's an Uchiha Ally: Cast Speed +2, Chakra Cost is Set to 0, Grant 'Inherit Eyes' God State and Ignore Resistance and Inflict 'Illusion' Effect",
+          "a2": "If there's an Uchiha Ally: Cast Speed +2, Chakra Cost is Set to 0, Grant 'Inherit Eyes' God State and Ignore Resistance and Inflict 'Genjutsu' Effect",
 
           "a3n": "White Specialization and Battle Formation",
           "a3": "Damage Cut +50% against White, Grant Self and Non-Black allies Type Advantage against White"
@@ -1030,7 +1506,7 @@ window.detail=[
           "a1": "Dodge +100%",
 
           "a2n": "Flight of Seven Colors",
-          "a2": "Chance to Ignore Resistance and Inflict 'Illusion' when attacked",
+          "a2": "Chance to Ignore Resistance and Inflict 'Genjutsu' when attacked",
 
           "a3n": "None",
           "a3": "None"
@@ -2023,7 +2499,7 @@ window.detail=[
           "lead": "All Characters: If there is a Naruto or Minato ally: ATK, DEF and SPD +60% (If both: +120%)",
 
           "s1n": "Super Large Rasengan: Sky Fissure",
-          "s1": "Deal 3% + 1,000,000 to all enemies. High Chance to deal 2 Additional Attacks dealing 3% + 300,000. If under 'Sage Toad' God State: High Chance to Inflict 'Toad Confusion' State and 1-2 Turns of 'Illusion' to all enemies. [Illusion: Skip 2 Turns per 'Illusion' Turn] (Always Hit)",
+          "s1": "Deal 3% + 1,000,000 to all enemies. High Chance to deal 2 Additional Attacks dealing 3% + 300,000. If under 'Sage Toad' God State: High Chance to Inflict 'Toad Confusion' State and 1-2 Turns of 'Genjutsu' to all enemies. [Genjutsu: Skip 2 Turns per 'Genjutsu' Turn] (Always Hit)",
           "s1ntr": "Sage",
           "s1cs": "Fast",
           "s1c": 100,
@@ -2309,7 +2785,7 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "Crimson Burning Time!!!",
-          "s2": "Own ATK and DEF +200%. Ignore Positive God State Nullification and grant 'Crimson Burning Youth' God State for 999 turns. [Crimson Burning Youth: Remove and Immune to Debuffs, Status Effects, Genjutsu, Negative Special State, Negative God State and Illusion. Terrain and Insta Kill Immunity. Basic Attack Always Crit and Damage Up. Attacks Ignore 90% DEF to Allies and Enemies exceeding 500 SPD. State can't be removed. Remove this State after Defeating an Enemy]",
+          "s2": "Own ATK and DEF +200%. Ignore Positive God State Nullification and grant 'Crimson Burning Youth' God State for 999 turns. [Crimson Burning Youth: Remove and Immune to Debuffs, Status Effects, Genjutsu, Negative Special State, Negative God State and Genjutsu. Terrain and Insta Kill Immunity. Basic Attack Always Crit and Damage Up. Attacks Ignore 90% DEF to Allies and Enemies exceeding 500 SPD. State can't be removed. Remove this State after Defeating an Enemy]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 100,
@@ -2611,7 +3087,7 @@ window.detail=[
           "lead": "All Characters: Cast Speed +1, 5 Turns: Skip Immunity",
 
           "s1n": "Inferno Style: Kagutsuchi Wind Protector",
-          "s1": "Deal 1,000,000 Fixed Damage to all enemies. Deal 2 Additional Attacks dealing 3% + 350,000 to Blue and White Characters. Chance to inflict 3 Turns of 'Illusion' to God enemies. [Illusion: Skip 2 Turns per 'Illusion' Turn]",
+          "s1": "Deal 1,000,000 Fixed Damage to all enemies. Deal 2 Additional Attacks dealing 3% + 350,000 to Blue and White Characters. Chance to inflict 3 Turns of 'Genjutsu' to God enemies. [Genjutsu: Skip 2 Turns per 'Genjutsu' Turn]",
           "s1ntr": "Sharingan",
           "s1cs": "Fastest",
           "s1c": 90,

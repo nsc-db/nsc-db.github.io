@@ -98,7 +98,7 @@ window.enggear=[
           "charaIds": "902",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
 {
           "id": 8005,
           "type": "Skill",
@@ -108,7 +108,17 @@ window.enggear=[
           "charaIds": "902",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
+},
+{
+          "id": 8305,
+          "type": "Stats",
+          "name": "Kushina's Bracelet",
+          "effect": "ATK and DEF +100%, SPD +50%",
+          "normal": "ATK and DEF +50%",
+          "charaIds": "4301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	 
 {
           "id": 8845,
           "type": "Chakra",
@@ -138,17 +148,37 @@ window.enggear=[
           "charaIds": "21401",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
+{
+          "id": 106305,
+          "type": "Medal",
+          "name": "Konoha Medal",
+          "effect": "None",
+          "normal": "Cast Speed +1, Konoha Characters: SPD +250, Skill Damage +100%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108305,
+          "type": "Stats",
+          "name": "War God's Instruction",
+          "effect": "HP +150%, SPD +100%, HP and Chakra Recovery +20%",
+          "normal": "HP +100%, SPD +70%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "700002"
+},
 {
           "id": 110025,
           "type": "Resistance",
           "name": "Fist Joined With His Son",
-          "effect": "Negative Special State Immunity, High Chance to dodge Skills",
-          "normal": "Status Effect Reduction",
+          "effect": "Negative Special State Immunity, High Chance to Dodge Skills",
+          "normal": "Status Effect Duration -50%",
           "charaIds": "2104",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
 {
           "id": 110015,
           "type": "Chakra",
@@ -158,7 +188,27 @@ window.enggear=[
           "charaIds": "2104",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
+{
+          "id": 201305,
+          "type": "Chakra",
+          "name": "A Puppet Ninja Who Manipulates The Real Thing",
+          "effect": "Chakra Cost -50%, Chakra Recovery +30%, Chakra +30",
+          "normal": "Chakra Cost -30%, Chakra Recovery +20%"
+          "charaIds": "1503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 203055,
+          "type": "Resistance",
+          "name": "Snow Cave",
+          "effect": "None",
+          "normal": "HP +33%, 3 Turns: Debuff and Status Effect Immunity",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 203065,
           "type": "Food",
@@ -168,7 +218,7 @@ window.enggear=[
           "charaIds": "301,302,303,304,305,306,701,702,703,704",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	
+},	
 {
           "id": 203075,
           "type": "Skill",
@@ -188,7 +238,17 @@ window.enggear=[
           "charaIds": "4301,4302",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
+},
+{
+          "id": 203305,
+          "type": "Chakra",
+          "name": "Guy's Backpack",
+          "effect": "Chakra Cost -50%, ATK +300%, SPD +50%, Normal Attack Always Hit",
+          "normal": "Chakra Cost -15%",
+          "charaIds": "1601,1602,1603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 204015,
           "type": "Additional",
@@ -248,7 +308,17 @@ window.enggear=[
           "charaIds": "21401",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
+{
+          "id": 208305,
+          "type": "Skill",
+          "name": "Hagoromo's Rinnegan",
+          "effect": "1 Turn: Cast Speed +2, ATK +150%",
+          "normal": "1 Turn: Cast Speed +1",
+          "charaIds": "14602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 209105,
           "type": "Skill",
@@ -268,7 +338,17 @@ window.enggear=[
           "charaIds": "601,602,603",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
+{
+          "id": 212305,
+          "type": "Resistance",
+          "name": "Jump Festa 2020 Flyer",
+          "effect": "None",
+          "normal": "20 Turns: SPD +202% and Chakra Recovery +20% and Debuff Duration -50%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 301155,
           "type": "Additional",
@@ -338,14 +418,124 @@ window.enggear=[
           "charaIds": "10301,10302,10303,10304,2301,2302,2303,2304,2305,20401,20402,20601,301,302,303,304,305,306,701,702,703,704,1201,1202,1203,10401,10402,10403,11101,13401,13601,13602,13501",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
+},
 {
-          "id": 305145,
+          "id": 305015,
+          "type": "Additional",
+          "name": "Deidara's Heart",
+          "effect": "2 Turns: Fixed Damage deals 0 Damage, HP and SPD +30% per Akatsuki ally (Max 150%)",
+          "normal": "1 Turn: Chance for Fixed Damage deals 0 Damage",
+          "charaIds": "12001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 305025,
           "type": "Skill",
-          "name": "Power of the Strongest Genjutsu",
-          "effect": "Cast Speed +1, Skill Damage +80%, Chakra +100",
-          "normal": "Skill Damage +50%",
-          "charaIds": "4102",
+          "name": "Shukaku's Spear",
+          "effect": "Skill Damage +150%, Cast Speed +1, If there's a GK enemy: SPD +200%",
+          "normal": "Skill Damage +80%",
+          "charaIds": "1302",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 305035,
+          "type": "Additional",
+          "name": "Yata Mirror",
+          "effect": "3 Turns: Fixed Damage deals 0 Damage and Set Chakra Cost to 0, Grant Instant Action Upon Withstanding Once",
+          "normal": "1 Turn: Chance for Fixed Damage deals 0 Damage",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 305045,
+          "type": "Stats",
+          "name": "Itachi's Ring",
+          "effect": "ATK, DEF and SPD +70%, Chakra Recovery +25%, Chance for Skill Damage +100% for 1 Turn",
+          "normal": "ATK, DEF and SPD +40%",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 305055,
+          "type": "Resistance",
+          "name": "Truth Seeking-Ball",
+          "effect": "Skip Immunity, Cast Speed +1, HP and Chakra Recovery +20%",
+          "normal": "1 Turn: Skip Immunity",
+          "charaIds": "0",
+          "cardIds": "20001736,20030512,20031209,20040810,20060506",
+          "charaGroupIds": "0"
+},
+{
+          "id": 305065,
+          "type": "Chakra",
+          "name": "Madara's Infinite Tsukuyomi",
+          "effect": "2 Turns: Set Chakra Cost to 0 and Fixed Damage deals 0 Damage, After 2 Turns: Chakra Cost -50%",
+          "normal": "2 Turns: Chakra Cost -50%",
+          "charaIds": "0",
+          "cardIds": "20001736,20030512,20031209,20040810,20060506",
+          "charaGroupIds": "0"
+},
+{
+          "id": 305075,
+          "type": "Additional",
+          "name": "Reverse Tetragram Sealing",
+          "effect": "HP and Chakra Recovery +25%, Chakra Cost -25%, 3 Turns: Skip Immunity",
+          "normal": "2 Turns: HP and Chakra Recovery +25%",
+          "charaIds": "4001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 305085,
+          "type": "Stats",
+          "name": "Danzo's Cane",
+          "effect": "HP, DEF, SPD and Skill Damage +100%",
+          "normal": "HP, DEF, SPD and Skill Damage +30%",
+          "charaIds": "4001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 305095,
+          "type": "Additional",
+          "name": "Super Beast Scroll: Lion",
+          "effect": "HP and Chakra Recovery +25%, Chakra Cost -25%, 3 Turns: Cancel Immunity",
+          "normal": "2 Turns: HP and Chakra Recovery +25%",
+          "charaIds": "3701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 305105,
+          "type": "Skill",
+          "name": "Sai's Ink",
+          "effect": "Skill Damage +100%, Unique Skill Damage +100% (Max 200%)",
+          "normal": "Skill Damage +30%, Unique Skill Damage +30% (Max 60%)",
+          "charaIds": "3701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	 {
+          "id": 305115,
+          "type": "Additional",
+          "name": "Bestowed Powers",
+          "effect": "Cast Speed +1, Chakra Recovery +50%, Debuff Immunity, SPD +80%",
+          "normal": "Cast Speed +1",
+          "charaIds": "60101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	 {
+          "id": 305125,
+          "type": "Chakra",
+          "name": "Unleashing Power",
+          "effect": "1 Turn: Set Chakra Cost to 0, Chakra Cost -50%, Status Effect and Genjutsu Immunity, SPD +80%",
+          "normal": "Chakra Cost -30%",
+          "charaIds": "60101",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -355,6 +545,16 @@ window.enggear=[
           "name": "Shisui's Sword Clip",
           "effect": "Start the Battle with 100% Chakra, Debuff Immunity, SPD +80%",
           "normal": "Debuff Immunity",
+          "charaIds": "4102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 305145,
+          "type": "Skill",
+          "name": "Power of the Strongest Genjutsu",
+          "effect": "Cast Speed +1, Skill Damage +80%, Chakra +100",
+          "normal": "Skill Damage +50%",
           "charaIds": "4102",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -774,7 +974,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Will to Challange The Decisive Battlle",
           "effect": "Debuff and Status Effect Immunity, 2 Turns: Fixed Damage Deals 0 Damage",
-          "normal": "Debuff and Status Effect Duaration -50%",
+          "normal": "Debuff and Status Effect Duration -50%",
           "charaIds": "14601",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -794,7 +994,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Will to Revolt",
           "effect": "Debuff and Status Effect Immunity, 2 Turns: Fixed Damage Deals 0 Damage",
-          "normal": "Debuff and Status Effect Duaration -50%",
+          "normal": "Debuff and Status Effect Duration -50%",
           "charaIds": "14701",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -1669,7 +1869,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	     
-	 {
+{
           "id": 401125,
           "type": "Stats",
           "name": "Kakashi's Fireball Jutsu",
@@ -1679,7 +1879,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	{
+{
           "id": 401135,
           "type": "Additional",
           "name": "Izuna's Sword Knot",
@@ -1689,7 +1889,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	{
+{
           "id": 401145,
           "type": "Skill",
           "name": "Izuna's Sword",
@@ -1699,7 +1899,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	  {
+{
           "id": 401165,
           "type": "Stats",
           "name": "Fighting Ninja Instruction I",
@@ -1709,13 +1909,33 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	{
+{
           "id": 401175,
           "type": "Stats",
           "name": "Fighting Ninja Instruction II",
           "effect": "None",
           "normal": "If a Champion character: HP +180%, SPD +120%, Cast Speed +1 and HP and Chakra Recovery +25%",
           "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	 {
+          "id": 402015,
+          "type": "Skill",
+          "name": "Revenge Lightning Sword",
+          "effect": "Lightning Skill Damage +200%, Cast Speed +1",
+          "normal": "Lightning Skill Damage +50%",
+          "charaIds": "204",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 402025,
+          "type": "Chakra",
+          "name": "Resentment Emotion",
+          "effect": "Chakra Recovery +50%, SPD +60%, 2 Turns: If there's a Five Village enemy: Negative State Immunity",
+          "normal": "Chakra Recovery +50%, SPD +60%",
+          "charaIds": "204",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
