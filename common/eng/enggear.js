@@ -69,7 +69,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
-	 {
+{
           "id": 4015,
           "type": "Additional",
           "name": "Six Paths Platform",
@@ -98,7 +98,7 @@ window.enggear=[
           "charaIds": "902",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 8005,
           "type": "Skill",
@@ -108,7 +108,7 @@ window.enggear=[
           "charaIds": "902",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 8305,
           "type": "Stats",
@@ -118,7 +118,7 @@ window.enggear=[
           "charaIds": "4301",
           "cardIds": "0",
           "charaGroupIds": "0"
-},	 
+	},	 
 {
           "id": 8845,
           "type": "Chakra",
@@ -148,7 +148,7 @@ window.enggear=[
           "charaIds": "21401",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 106305,
           "type": "Medal",
@@ -158,7 +158,7 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 108305,
           "type": "Stats",
@@ -168,7 +168,7 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "700002"
-},
+	},
 {
           "id": 110025,
           "type": "Resistance",
@@ -178,7 +178,7 @@ window.enggear=[
           "charaIds": "2104",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 110015,
           "type": "Chakra",
@@ -188,7 +188,7 @@ window.enggear=[
           "charaIds": "2104",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 201305,
           "type": "Chakra",
@@ -198,7 +198,7 @@ window.enggear=[
           "charaIds": "1503",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 203055,
           "type": "Resistance",
@@ -208,7 +208,7 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 203065,
           "type": "Food",
@@ -218,7 +218,7 @@ window.enggear=[
           "charaIds": "301,302,303,304,305,306,701,702,703,704",
           "cardIds": "0",
           "charaGroupIds": "0"
-},	
+	},	
 {
           "id": 203075,
           "type": "Skill",
@@ -238,7 +238,7 @@ window.enggear=[
           "charaIds": "4301,4302",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 203305,
           "type": "Chakra",
@@ -248,7 +248,7 @@ window.enggear=[
           "charaIds": "1601,1602,1603",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 204015,
           "type": "Additional",
@@ -308,7 +308,7 @@ window.enggear=[
           "charaIds": "21401",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 208305,
           "type": "Skill",
@@ -318,7 +318,7 @@ window.enggear=[
           "charaIds": "14602",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 209105,
           "type": "Skill",
@@ -338,7 +338,7 @@ window.enggear=[
           "charaIds": "601,602,603",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 212305,
           "type": "Resistance",
@@ -348,7 +348,7 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 301155,
           "type": "Additional",
@@ -418,7 +418,7 @@ window.enggear=[
           "charaIds": "10301,10302,10303,10304,2301,2302,2303,2304,2305,20401,20402,20601,301,302,303,304,305,306,701,702,703,704,1201,1202,1203,10401,10402,10403,11101,13401,13601,13602,13501",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 305015,
           "type": "Additional",
@@ -428,7 +428,7 @@ window.enggear=[
           "charaIds": "12001",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 305025,
           "type": "Skill",
@@ -438,7 +438,7 @@ window.enggear=[
           "charaIds": "1302",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 305035,
           "type": "Additional",
@@ -448,7 +448,7 @@ window.enggear=[
           "charaIds": "11604",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 305045,
           "type": "Stats",
@@ -458,7 +458,7 @@ window.enggear=[
           "charaIds": "11604",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 305055,
           "type": "Resistance",
@@ -468,7 +468,7 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "20001736,20030512,20031209,20040810,20060506",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 305065,
           "type": "Chakra",
@@ -478,7 +478,7 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "20001736,20030512,20031209,20040810,20060506",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 305075,
           "type": "Additional",
@@ -488,7 +488,7 @@ window.enggear=[
           "charaIds": "4001",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 305085,
           "type": "Stats",
@@ -498,7 +498,7 @@ window.enggear=[
           "charaIds": "4001",
           "cardIds": "0",
           "charaGroupIds": "0"
-},
+	},
 {
           "id": 305095,
           "type": "Additional",
@@ -529,7 +529,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	 {
+{
           "id": 305125,
           "type": "Chakra",
           "name": "Unleashing Power",
@@ -779,7 +779,7 @@ window.enggear=[
           "cardIds": "20060704,20050810,20050811,20050704,20050705,20040709,20040710",
           "charaGroupIds": "0"
      },	
-	 {
+{
           "id": 307075,
           "type": "Additional",
           "name": "Kushina's One Piece",
@@ -789,7 +789,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	 	 	 	 {
+{
           "id": 307085,
           "type": "Skill",
           "name": "Kushina's Red Hair",
@@ -799,7 +799,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
-	 	 	 	 {
+{
           "id": 307095,
           "type": "Additional",
           "name": "Wooden Fist",
@@ -809,7 +809,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	 	 	 	 {
+{
           "id": 307105,
           "type": "Chakra",
           "name": "Sasuke's Lightning Style",
@@ -819,7 +819,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
-	 	 	 {
+{
           "id": 307115,
           "type": "Skill",
           "name": "Sasuke's Sandals (Shinden)",
@@ -829,7 +829,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	 	 	 {
+{
           "id": 307125,
           "type": "Skill",
           "name": "Masked Man's Sword",
@@ -839,7 +839,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
-	 	 	 {
+{
           "id": 307135,
           "type": "Chakra",
           "name": "Chain Connecting Fan",
@@ -849,7 +849,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
-	 	 {
+{
           "id": 307145,
           "type": "Resistance",
           "name": "Sakura's Holster",
@@ -859,7 +859,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
-	 {
+{
           "id": 307155,
           "type": "Resistance",
           "name": "Ninjutsu Scroll",
@@ -869,7 +869,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
-     {
+{
           "id": 307165,
           "type": "Stats",
           "name": "Yellow Wind",
@@ -879,7 +879,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
-     {
+{
           "id": 307175,
           "type": "Skill",
           "name": "Blue Thunder",
@@ -1779,7 +1779,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-     {
+{
           "id": 401035,
           "type": "Chakra",
           "name": "Zabuza's Sandals (Camo)",
@@ -1789,7 +1789,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-     {
+{
           "id": 401045,
           "type": "Stats",
           "name": "Zabuza's Shoulder Belt",
@@ -1799,7 +1799,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-     {
+{
           "id": 401055,
           "type": "Chakra",
           "name": "Gaara's Forehead Protector",
@@ -1809,7 +1809,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-      {
+{
           "id": 401065,
           "type": "Additional",
           "name": "Hatred for Others",
@@ -1819,7 +1819,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-      {
+{
           "id": 401075,
           "type": "Additional",
           "name": "Naruto's Sandals (Kid Edition)",
@@ -1829,7 +1829,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-      {
+{
           "id": 401085,
           "type": "Chakra",
           "name": "Naruto's Pouch (Kid Edition)",
@@ -1839,7 +1839,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
-	      {
+{
           "id": 401095,
           "type": "Additional",
           "name": "Minato's Leggings",
@@ -1849,7 +1849,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	      {
+{
           "id": 401105,
           "type": "Resistance",
           "name": "Minato's Holster",
@@ -1859,7 +1859,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
-	{
+{
           "id": 401115,
           "type": "Resistance",
           "name": "Exercise Bell",
