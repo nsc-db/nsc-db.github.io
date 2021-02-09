@@ -2058,6 +2058,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "4703",
+          "charaId": "47",
+          "name": "うちはイズナ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "4710",
+          "birthday": "210",
+          "constellation": "11",
+          "height": "17480",
+          "weight": "5590",
+          "bloodType": "3",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "10101",
           "charaId": "101",
           "name": "桃地再不斬",
@@ -3777,6 +3791,20 @@ window.charaname=[
           "weight": "0",
           "bloodType": "3",
           "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "50909",
+          "charaId": "509",
+          "name": "うちはオビト",
+          "detail": null,
+          "charaLoveAffinityGroupId": "50910",
+          "birthday": "210",
+          "constellation": "11",
+          "height": "18200",
+          "weight": "7030",
+          "bloodType": "3",
+          "age": "31",
           "gender": "1"
         },
         {

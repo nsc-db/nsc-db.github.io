@@ -27120,6 +27120,26 @@ window.ability=[
           "effectIds": "3724,3725,"
         },
         {
+          "abilityId": "2768",
+          "abilityName": "柱間細胞を宿す肉体",
+          "abilityDescription": "HP0以下で1回HP全回復、敵に神忍がいるとさらに2回HP全回復。最大チャクラ量100アップ",
+          "abilityEffectDescription": "HP0以下で1回HP全回復、敵に神忍がいるとさらに2回HP全回復。最大チャクラ量100アップ",
+          "effectIdx1": "312",
+          "effectIdx2": "874",
+          "effectIdx3": "3731",
+          "effectIds": "312,874,3731,20009,"
+        },
+        {
+          "abilityId": "2769",
+          "abilityName": "奪い取った輪廻眼",
+          "abilityDescription": "敵に神忍がいると、先制攻撃＆チャクラ消費量0。被攻撃時確率で【地形効果：神威ヘノ誘イ】展開",
+          "abilityEffectDescription": "敵に神忍がいると、先制攻撃＆チャクラ消費量0。被攻撃時確率で【地形効果：神威ヘノ誘イ】展開",
+          "effectIdx1": "3733",
+          "effectIdx2": "3734",
+          "effectIdx3": "3735",
+          "effectIds": "3733,3734,3735,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29100,6 +29120,16 @@ window.ability=[
           "effectIds": "229404,228450,3704,3705,3706,3707,"
         },
         {
+          "abilityId": "200014",
+          "abilityName": "技属性特化・疾駆",
+          "abilityDescription": "技属性に対し、スキル攻撃時弱点化＆被ダメージ50％カット。心属性以外の味方1体につき自身の素早さ75%アップ",
+          "abilityEffectDescription": "技属性に対し、スキル攻撃時弱点化＆被ダメージ50％カット。心属性以外の味方1体につき自身の素早さ75%アップ",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "3763",
+          "effectIds": "229104,228150,3763,3764,3765,"
+        },
+        {
           "abilityId": "210001",
           "abilityName": "vs技ダメカット＆弱点扱い",
           "abilityDescription": "心属性ボス用　技属性からのダメ50%カット＆技属性に食らわせた時弱点で食らわせる",
@@ -30978,6 +31008,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3226,"
+        },
+        {
+          "abilityId": "310149",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵に神忍がいると、高確率でスキル回避",
+          "abilityEffectDescription": "敵に神忍がいると、高確率でスキル回避",
+          "effectIdx1": "3726",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3726,"
         },
         {
           "abilityId": "310151",

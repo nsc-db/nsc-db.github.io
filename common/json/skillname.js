@@ -8104,6 +8104,10 @@ window.skillname=[
           "name": "オレは今…イラ立ってる"
         },
         {
+          "cardBattleSkillNameId": "3238",
+          "name": "どうでもいいことだ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
