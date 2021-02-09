@@ -5999,6 +5999,12 @@
           "speechCharactorName": "奈良シカマル"
         },
         {
+          "speechCharactorId": "1025",
+          "cardId": "1025",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "奈良シカマル"
+        },
+        {
           "speechCharactorId": "1026",
           "cardId": "50000013",
           "speechCharactorImgId": "0",
@@ -6089,6 +6095,18 @@
           "speechCharactorName": "うちはマダラ"
         },
         {
+          "speechCharactorId": "1042",
+          "cardId": "1042",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "秋道チョウジ"
+        },
+        {
+          "speechCharactorId": "1045",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "外道魔像"
+        },
+        {
           "speechCharactorId": "1050",
           "cardId": "20001568",
           "speechCharactorImgId": "0",
@@ -6099,6 +6117,36 @@
           "cardId": "20000471",
           "speechCharactorImgId": "0",
           "speechCharactorName": "ペイン（天道）"
+        },
+        {
+          "speechCharactorId": "1058",
+          "cardId": "20050418",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "猿飛アスマ"
+        },
+        {
+          "speechCharactorId": "1059",
+          "cardId": "20001685",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "山中いの"
+        },
+        {
+          "speechCharactorId": "1060",
+          "cardId": "20001687",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "秋道チョウジ"
+        },
+        {
+          "speechCharactorId": "1061",
+          "cardId": "20001638",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "山中いの"
+        },
+        {
+          "speechCharactorId": "1062",
+          "cardId": "20050421",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "秋道チョウジ"
         },
         {
           "speechCharactorId": "5001",

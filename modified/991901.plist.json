@@ -1391,6 +1391,18 @@
           "specialPanelList": "9100022,9100023,9100024,9100034"
         },
         {
+          "sphereBoardId": "50052",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "うちはオビト【虚ろなる創世の意志】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070203",
+          "normalPanelList": "9100001,9100002,9100003,9100031",
+          "specialPanelList": "9100004,9100005,9100006,9100032"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",

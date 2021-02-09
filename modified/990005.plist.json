@@ -1287,5 +1287,15 @@
           "uiIdx": "10027",
           "partyEffects": "3622,3623,3624,3625,3626,3637,",
           "enemyEffects": "3155,"
+        },
+        {
+          "battleFieldEffectId": "10028",
+          "name": "神威ヘノ誘イ",
+          "category": "3",
+          "scriptId": "10028",
+          "overWrite": "1",
+          "uiIdx": "10028",
+          "partyEffects": "3728,3729,3740,3741,",
+          "enemyEffects": null
         }
       ]

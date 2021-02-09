@@ -1505,6 +1505,42 @@
           "materialImageId": "257"
         },
         {
+          "materialId": "258",
+          "materialName": "生肉",
+          "materialRare": "5",
+          "materialImageId": "258"
+        },
+        {
+          "materialId": "259",
+          "materialName": "白米",
+          "materialRare": "5",
+          "materialImageId": "259"
+        },
+        {
+          "materialId": "260",
+          "materialName": "冷麺",
+          "materialRare": "5",
+          "materialImageId": "260"
+        },
+        {
+          "materialId": "261",
+          "materialName": "秘伝のレシピ(壱)",
+          "materialRare": "4",
+          "materialImageId": "158"
+        },
+        {
+          "materialId": "262",
+          "materialName": "秘伝のレシピ(弐)",
+          "materialRare": "4",
+          "materialImageId": "158"
+        },
+        {
+          "materialId": "263",
+          "materialName": "秘伝のレシピ(参)",
+          "materialRare": "4",
+          "materialImageId": "158"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

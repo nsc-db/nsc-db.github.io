@@ -3041,6 +3041,12 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "516",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "518",
           "itemName": "個人Pt",
           "measure": "0",
@@ -3057,6 +3063,12 @@
           "itemName": "昇級試験Pt",
           "measure": "0",
           "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "521",
+          "itemName": "肉Pt",
+          "measure": "0",
+          "itemImgId": "517"
         },
         {
           "shopExchangeItemId": "1001",
@@ -3588,6 +3600,12 @@
         },
         {
           "shopExchangeItemId": "1097",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1098",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
