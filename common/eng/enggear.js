@@ -194,7 +194,7 @@ window.enggear=[
           "type": "Chakra",
           "name": "A Puppet Ninja Who Manipulates The Real Thing",
           "effect": "Chakra Cost -50%, Chakra Recovery +30%, Chakra +30",
-          "normal": "Chakra Cost -30%, Chakra Recovery +20%"
+          "normal": "Chakra Cost -30%, Chakra Recovery +20%",
           "charaIds": "1503",
           "cardIds": "0",
           "charaGroupIds": "0"
