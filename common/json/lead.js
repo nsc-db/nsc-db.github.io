@@ -16156,6 +16156,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1171",
+          "name": "虚ろなる創世の意志",
+          "description": "敵に神忍が生存時、無所属の素早さ・スキルダメージ150%アップ&amp;スキル発動速度1段階アップ",
+          "effectIdx1": "3614",
+          "effectIdx2": "3615",
+          "effectIdx3": "2522",
+          "effectIds": "3614,3615,2522,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "99",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
