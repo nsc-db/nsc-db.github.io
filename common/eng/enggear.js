@@ -662,7 +662,7 @@ window.enggear=[
 	 {
           "id": 304265,
           "type": "Additional",
-          "name": "OBC Flyer"
+          "name": "OBC Flyer",
           "effect": "None",
           "normal": "20 Turns: SPD +200, Skill Dodge Chance +40% and Cast Speed +1",
           "charaIds": "0",
@@ -672,7 +672,7 @@ window.enggear=[
 	 {
           "id": 304275,
           "type": "Skill",
-          "name": "5th Anniversary Sticker"
+          "name": "5th Anniversary Sticker",
           "effect": "None",
           "normal": "5 Turns: Cast Speed +1, ATK, DEF and SPD +55%",
           "charaIds": "0",
@@ -682,7 +682,7 @@ window.enggear=[
 	 {
           "id": 304275,
           "type": "Resistance",
-          "name": "Anniversary Daruma"
+          "name": "Anniversary Daruma",
           "effect": "None",
           "normal": "5 Turns: Incoming Skill Damage -50%, Chakra Cost -55%",
           "charaIds": "0",
@@ -692,7 +692,7 @@ window.enggear=[
 	 {
           "id": 304285,
           "type": "Resistance",
-          "name": "Training Scarecrow (EX, Origin, Destroyer)"
+          "name": "Training Scarecrow (EX, Origin, Destroyer)",
           "effect": "None",
           "normal": "EX, Origin and Destroyer Characters: 1 Turn: Negative Special State Immunity",
           "charaIds": "0",
@@ -702,7 +702,7 @@ window.enggear=[
 	 {
           "id": 304295,
           "type": "Resistance",
-          "name": "Training Scarecrow (God)"
+          "name": "Training Scarecrow (God)",
           "effect": "None",
           "normal": "EX, Origin, Destroyer, GK and God Characters: 3 Turns: Negative Special State Immunity",
           "charaIds": "0",
@@ -2062,7 +2062,7 @@ window.enggear=[
 	 {
           "id": 312175,
           "type": "Chakra",
-          "name": "20 Million DL Commemorative Logo"
+          "name": "20 Million DL Commemorative Logo",
           "effect": "None",
           "normal": "Chakra +120, 2 Turns: Fully Recover Chakra when attacked and Skill Dodge Chance +200%",
           "charaIds": "0",
@@ -2072,7 +2072,7 @@ window.enggear=[
 	 {
           "id": 312185,
           "type": "Additional",
-          "name": "Tree 2020"
+          "name": "Tree 2020",
           "effect": "None",
           "normal": "SPD +60%, Skill Damage +80%, High Chance for Cast Speed +1",
           "charaIds": "0",
@@ -2082,7 +2082,7 @@ window.enggear=[
 	 {
           "id": 312195,
           "type": "Chakra",
-          "name": "Snowman 2020"
+          "name": "Snowman 2020",
           "effect": "None",
           "normal": "1 Turn: Set Chakra Cost to 0, 2 Turns: 25% Chance to Dodge Skills, HP Recovery +12.25%",
           "charaIds": "0",
@@ -2092,7 +2092,7 @@ window.enggear=[
 	 {
           "id": 312205,
           "type": "Resistance",
-          "name": "New Year's Card 2021"
+          "name": "New Year's Card 2021",
           "effect": "None",
           "normal": "1 Turn: Low Chance for Skill and Status Effect Immunity, 2 Turns: DEF +120.21%",
           "charaIds": "0",
@@ -2102,7 +2102,7 @@ window.enggear=[
 	 {
           "id": 312215,
           "type": "Skill",
-          "name": "Cow Stamp"
+          "name": "Cow Stamp",
           "effect": "None",
           "normal": "ATK +202.1%, Crit Damage +2,021%, Chakra Recovery +20.21, Normal Attack Always Hit",
           "charaIds": "0",
@@ -2112,7 +2112,7 @@ window.enggear=[
 	 {
           "id": 312225,
           "type": "Stats",
-          "name": "Happy New Year Logo 2021"
+          "name": "Happy New Year Logo 2021",
           "effect": "None",
           "normal": "Skill Damage +120.2%, At the Start of Battle, Very Low Chance for SPD +202.1% for 1 Turn",
           "charaIds": "0",
@@ -2432,7 +2432,7 @@ window.enggear=[
 	 {
           "id": 402265,
           "type": "Food",
-          "name": "Special Grilled Meat Set"
+          "name": "Special Grilled Meat Set",
           "effect": "None",
           "normal": "Cast Speed +1, Skill Damage and SPD +112.9%, Start the Battle with 50% Chakra",
           "charaIds": "0",
@@ -2442,7 +2442,7 @@ window.enggear=[
 	 {
           "id": 402275,
           "type": "Food",
-          "name": "Gum"
+          "name": "Gum",
           "effect": "None",
           "normal": "SPD +290, Chakra Recovery +29%, Skill Dodge Rate +29%",
           "charaIds": "0",
