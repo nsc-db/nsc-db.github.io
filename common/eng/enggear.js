@@ -1,5 +1,15 @@
 window.enggear=[
 {
+          "id": 1304,
+          "type": "Resistance",
+          "name": "Detoxification Injection",
+          "effect": "None",
+          "normal": "ATK -10%, 5 Turns: 'Poison' Effect Immunity",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
           "id": 1985,
           "type": "Stats",
           "name": "Ino-Shika-Cho Earrings (Ino)",
@@ -198,6 +208,16 @@ window.enggear=[
           "charaIds": "1503",
           "cardIds": "0",
           "charaGroupIds": "0"
+},
+{
+          "id": 203045,
+          "type": "Chakra",
+          "name": "Hinata's Temari",
+          "effect": "HP +130%, Chakra Cost -33%, Cast Speed +1",
+          "normal": "HP +20%, Chakra Cost -10%",
+          "charaIds": "701,702,703,704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
 	},
 {
           "id": 203055,
@@ -274,11 +294,21 @@ window.enggear=[
           "type": "Resistance",
           "name": "Asuma's Gift",
           "effect": "10 Turns: Debuff and Status Effect Immunity, Cast Speed +1, Low Chance for Skill Immunity",
-          "normal": "Incoming Skill Damage, Debuff and Status Effect Reduction",
+          "normal": "Incoming Skill Damage, Debuff and Status Effect Duration -50%",
           "charaIds": "401,402,403,501,502,503,601,602,603",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
+},
+{
+          "id": 207304,
+          "type": "Food 2",
+          "name": "Shaved Ice (Lemon)",
+          "effect": "None",
+          "normal": "Yellow Characters: Chakra Recovery +44%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
 {
           "id": 208105,
           "type": "Chakra",
@@ -368,6 +398,16 @@ window.enggear=[
           "charaIds": "901,902",
           "cardIds": "0",
           "charaGroupIds": "0"
+},
+{
+          "id": 303045,
+          "type": "Skill",
+          "name": "Samehada Band",
+          "effect": "Water Skill Damage +120%, HP and Chakra Recovery +20%",
+          "normal": "Water Skill Damage +40%",
+          "charaIds": "11701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
      },	
 {
           "id": 303065,
@@ -404,8 +444,208 @@ window.enggear=[
           "type": "Stats",
           "name": "Shikamaru's Headband",
           "effect": "ATK and DEF +120%, SPD +80%",
-          "normal": "ATK, SPD and DEF +120%",
+          "normal": "ATK, SPD and DEF +40%",
           "charaIds": "402",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 304025,
+          "type": "Additional",
+          "name": "Shikamaru's Piercing",
+          "effect": "Cast Speed +1, Chakra Recovery +20%, Chance for SPD +150% every turn",
+          "normal": "1 Turn: Cast Speed +1",
+          "charaIds": "402",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 304035,
+          "type": "Skill",
+          "name": "Tenth Edict on Enlightenment Dogs",
+          "effect": "Skill Damage +150%, SPD +60%",
+          "normal": "Skill Damage +50%",
+          "charaIds": "3801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304045,
+          "type": "Resistance",
+          "name": "Palm Seal",
+          "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 1 Turn: Set Chakra Cost to 0",
+          "normal": "3 Turns: Status Effect Duration -50%",
+          "charaIds": "3801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304055,
+          "type": "Resistance",
+          "name": "Hidan's Ring",
+          "effect": "Debuff and Status Effect Immunity, 1 Turn: Fixed Damage deals 0 Damage, Chance for Skill Immunity",
+          "normal": "Debuff and Status Effect Duration -50%",
+          "charaIds": "12301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304065,
+          "type": "Stats",
+          "name": "Jashin's Necklace",
+          "effect": "ATK and SPD +100%, Chakra +100, Chakra Recovery +30%",
+          "normal": "ATK and SPD +40%, Chakra +50",
+          "charaIds": "12301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304075,
+          "type": "Stats",
+          "name": "Water Mask",
+          "effect": "HP and DEF +150%, 3 Turns: Skip Immunity",
+          "normal": "HP and DEF +50%",
+          "charaIds": "12401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304085,
+          "type": "Skill",
+          "name": "Kakuzu's Fire Mask",
+          "effect": "Fire Skill Damage +100%, SPD +30% per Akatsuki ally (Max 150%)",
+          "normal": "Fire Skill Damage +40%",
+          "charaIds": "12401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304095,
+          "type": "Stats",
+          "name": "Ashura's Love Sword",
+          "effect": "HP and Skill Damage +100%",
+          "normal": "HP +50%",
+          "charaIds": "14401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304105,
+          "type": "Additional",
+          "name": "Ashura's Hairpiece",
+          "effect": "When Attacked: 1 Turn: Skill Damage +100%, 2 Turns: Set Chakra Cost to 0",
+          "normal": "1 Turn: Set Chakra Cost to 0",
+          "charaIds": "14401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304115,
+          "type": "Additional",
+          "name": "Indra's Hatred Kunai",
+          "effect": "Cast Speed +1, 5 Turns: Chance for Negative Special State Immunity and Damage Cut +50%",
+          "normal": "1 Turn: Cast Speed +1",
+          "charaIds": "14502",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304125,
+          "type": "Skill",
+          "name": "Indra's Burden of the Otsutsuki's Powers",
+          "effect": "Skill Damage +100%, 3 Turns: Cancel Immunity and High Chance to Dodge Skills",
+          "normal": "3 Turns: Skill Damage +60%",
+          "charaIds": "14502",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304155,
+          "type": "Stats",
+          "name": "Hagoromo's Haori",
+          "effect": "HP and Skill Damage +100%, 3 Turns: DEF +120%",
+          "normal": "HP and Skill Damage +40%",
+          "charaIds": "14601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304165,
+          "type": "Additional",
+          "name": "Seal of Tie",
+          "effect": "6 Turns: Cast Speed +1 and Skip Immunity, Chakra Recovery +30%",
+          "normal": "1 Turn: Cast Speed +1",
+          "charaIds": "14601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304175,
+          "type": "Chakra",
+          "name": "Naruto's Left Arm Ornament",
+          "effect": "2 Turns: Set Chakra Cost to 0, Chakra Recovery +50%",
+          "normal": "Start the Battle with 50% Chakra",
+          "charaIds": "102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304185,
+          "type": "Resistance",
+          "name": "Naruto's Holster",
+          "effect": "5 Turns: Cancel Immunity, SPD +55%, Cast Speed +1",
+          "normal": "3 Turns: Cancel Immunity",
+          "charaIds": "201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304195,
+          "type": "Resistance",
+          "name": "Sasuke's Arm Sleeve",
+          "effect": "5 Turns: Skip Immunity, SPD +55%, Cast Speed +1",
+          "normal": "3 Turns: Skip Immunity",
+          "charaIds": "201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304205,
+          "type": "Chakra",
+          "name": "Uchiha Clan Crest",
+          "effect": "Start the Battle with 100% Chakra, HP and Chakra Recovery +30%, SPD +50%",
+          "normal": "Start the Battle with 50% Chakra",
+          "charaIds": "114",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304215,
+          "type": "Skill",
+          "name": "Descendants of the Uchiha Clan",
+          "effect": "Cast Speed +1, HP +200%, SPD +50%",
+          "normal": "After 3 Turns: Cast Speed +1",
+          "charaIds": "114",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304225,
+          "type": "Additional",
+          "name": "Uchiha Clan Crest",
+          "effect": "Cast Speed +1, ATK +100%, SPD +50%, Chakra +100",
+          "normal": "5 Turns: Cast Speed +1",
+          "charaIds": "216",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 304235,
+          "type": "Chakra",
+          "name": "Descendants of the Uchiha Clan",
+          "effect": "Start the Battle with 100% Chakra, HP and Chakra Recovery +30%, SPD +50%",
+          "normal": "Start the Battle with 50% Chakra",
+          "charaIds": "216",
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
@@ -414,11 +654,61 @@ window.enggear=[
           "type": "Resistance",
           "name": "OBC Beauty Pack Set",
           "effect": "At the Start of Battle, Low chance to Grant 'Snake's Power' State. [Snake's Power: Recover 100% HP when attacked, Set Chakra to 0 when State is Released]",
-          "normal": "Reduces Incoming Skill Damage and Recover 5% of HP when attacked",
+          "normal": "Incoming Skill Damage -50% and Recover 5% of HP when attacked",
           "charaIds": "10301,10302,10303,10304,2301,2302,2303,2304,2305,20401,20402,20601,301,302,303,304,305,306,701,702,703,704,1201,1202,1203,10401,10402,10403,11101,13401,13601,13602,13501",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
+	 {
+          "id": 304265,
+          "type": "Additional",
+          "name": "OBC Flyer"
+          "effect": "None",
+          "normal": "20 Turns: SPD +200, Skill Dodge Chance +40% and Cast Speed +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 304275,
+          "type": "Skill",
+          "name": "5th Anniversary Sticker"
+          "effect": "None",
+          "normal": "5 Turns: Cast Speed +1, ATK, DEF and SPD +55%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 304275,
+          "type": "Resistance",
+          "name": "Anniversary Daruma"
+          "effect": "None",
+          "normal": "5 Turns: Incoming Skill Damage -50%, Chakra Cost -55%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 304285,
+          "type": "Resistance",
+          "name": "Training Scarecrow (EX, Origin, Destroyer)"
+          "effect": "None",
+          "normal": "EX, Origin and Destroyer Characters: 1 Turn: Negative Special State Immunity",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 304295,
+          "type": "Resistance",
+          "name": "Training Scarecrow (God)"
+          "effect": "None",
+          "normal": "EX, Origin, Destroyer, GK and God Characters: 3 Turns: Negative Special State Immunity",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
 {
           "id": 305015,
           "type": "Additional",
@@ -1760,6 +2050,76 @@ window.enggear=[
           "charaGroupIds": "0"
      },
 {
+          "id": 312165,
+          "type": "Additional",
+          "name": "Fleeting Mangekyou Sharingan",
+          "effect": "SPD +100%, Cast Speed +1, Skill Dodge Rate +100%",
+          "normal": "SPD +80%",
+          "charaIds": "11601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	 {
+          "id": 312175,
+          "type": "Chakra",
+          "name": "20 Million DL Commemorative Logo"
+          "effect": "None",
+          "normal": "Chakra +120, 2 Turns: Fully Recover Chakra when attacked and Skill Dodge Chance +200%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 312185,
+          "type": "Additional",
+          "name": "Tree 2020"
+          "effect": "None",
+          "normal": "SPD +60%, Skill Damage +80%, High Chance for Cast Speed +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 312195,
+          "type": "Chakra",
+          "name": "Snowman 2020"
+          "effect": "None",
+          "normal": "1 Turn: Set Chakra Cost to 0, 2 Turns: 25% Chance to Dodge Skills, HP Recovery +12.25%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 312205,
+          "type": "Resistance",
+          "name": "New Year's Card 2021"
+          "effect": "None",
+          "normal": "1 Turn: Low Chance for Skill and Status Effect Immunity, 2 Turns: DEF +120.21%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 312215,
+          "type": "Skill",
+          "name": "Cow Stamp"
+          "effect": "None",
+          "normal": "ATK +202.1%, Crit Damage +2,021%, Chakra Recovery +20.21, Normal Attack Always Hit",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 312225,
+          "type": "Stats",
+          "name": "Happy New Year Logo 2021"
+          "effect": "None",
+          "normal": "Skill Damage +120.2%, At the Start of Battle, Very Low Chance for SPD +202.1% for 1 Turn",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 401015,
           "type": "Resistance",
           "name": "Haku's Sandal",
@@ -1939,4 +2299,154 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
+	 	 {
+          "id": 402035,
+          "type": "Skill",
+          "name": "Obito's Fire Jutsu",
+          "effect": "Fire Skill Damage +200%, Cast Speed +2",
+          "normal": "Cast Speed +1",
+          "charaIds": "50909",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 402045,
+          "type": "Chakra",
+          "name": "Obito's Sandals",
+          "effect": "Start the Battle with 100% Chakra, Chakra Cost -50%, SPD +50% every turn (Max 150%)",
+          "normal": "Start the Battle with 50% Chakra",
+          "charaIds": "50909",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	 {
+          "id": 402155,
+          "type": "Food 2",
+          "name": "NSC General Election 2020 (Dark Illusion)",
+          "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
+          "normal": "Blue Characters: Chakra Cost -30% and Sharingan Skill Damage +100%",
+          "charaIds": "0",
+          "cardIds": "20060309",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402165,
+          "type": "Food 2",
+          "name": "NSC General Election 2020 (Pride)",
+          "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
+          "normal": "EX Characters: Chakra Cost -30% and Byakugan and Lightning Skill Damage +100%",
+          "charaIds": "0",
+          "cardIds": "20060305",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402175,
+          "type": "Food 2",
+          "name": "NSC General Election 2020 (Ninja Creed)",
+          "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
+          "normal": "Origin Characters: Chakra Cost -30% and Byakugan and Wind Skill Damage +100%",
+          "charaIds": "0",
+          "cardIds": "20060406",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402185,
+          "type": "Food 2",
+          "name": "NSC General Election 2020 (Eyes)",
+          "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
+          "normal": "GK Characters: Chakra Cost -30% and Sharingan and Tailed Beast Skill Damage +100%",
+          "charaIds": "0",
+          "cardIds": "20060707",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402195,
+          "type": "Food 2",
+          "name": "NSC General Election 2020 (Wicked Eyes)",
+          "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
+          "normal": "Kaguya Characters: Chakra Cost -30% and Unique Skill Damage +100%",
+          "charaIds": "0",
+          "cardIds": "20060806",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402205,
+          "type": "Food 2",
+          "name": "NSC General Election 2020 (Will)",
+          "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
+          "normal": "Yellow Characters: Chakra Cost -30% and Summoning and Sage Skill Damage +100%",
+          "charaIds": "0",
+          "cardIds": "20060307",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402215,
+          "type": "Food 2",
+          "name": "NSC General Election 2020 (Final Election)",
+          "effect": "At the Start of Battle, Low Chance to Grant 'Protection' State",
+          "normal": "At the Start of Battle, Very Low Chance to Grant 'Protection' State",
+          "charaIds": "0",
+          "cardIds": "20060307,20060806,20060707,20060406,20060305,20060309,20060105,20060107,20060702,20060414,20060805,20060606",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402225,
+          "type": "Food",
+          "name": "Pork Loin",
+          "effect": "None",
+          "normal": "Konoha Characters: HP +112.9%, Cast Speed +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402235,
+          "type": "Food",
+          "name": "Karubi",
+          "effect": "None",
+          "normal": "Konoha Characters: Skill Damage +89.29%, Cast Speed +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402245,
+          "type": "Food",
+          "name": "Salted Tongue",
+          "effect": "None",
+          "normal": "Konoha Characters: SPD +129, Cast Speed +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402255,
+          "type": "Food",
+          "name": "Meat Wrapped Rice Ball",
+          "effect": "None",
+          "normal": "Konoha Characters: HP +129%, Recovers 29% HP every turn and when attacked, Cast Speed +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402265,
+          "type": "Food",
+          "name": "Special Grilled Meat Set"
+          "effect": "None",
+          "normal": "Cast Speed +1, Skill Damage and SPD +112.9%, Start the Battle with 50% Chakra",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402275,
+          "type": "Food",
+          "name": "Gum"
+          "effect": "None",
+          "normal": "SPD +290, Chakra Recovery +29%, Skill Dodge Rate +29%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 ]
