@@ -8108,6 +8108,14 @@ window.skillname=[
           "name": "どうでもいいことだ"
         },
         {
+          "cardBattleSkillNameId": "3239",
+          "name": "神の紙者の術・億ノ光芒"
+        },
+        {
+          "cardBattleSkillNameId": "3240",
+          "name": "私は、散ってもいい花！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

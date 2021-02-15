@@ -27140,6 +27140,26 @@ window.ability=[
           "effectIds": "3733,3734,3735,"
         },
         {
+          "abilityId": "2770",
+          "abilityName": "二人と見た夢",
+          "abilityDescription": "バトル開始時、短い間神の紙者状態になる。HP0以下で6回耐える。最大チャクラ量150アップ",
+          "abilityEffectDescription": "バトル開始時、短い間神の紙者状態になる。HP0以下で6回耐える。最大チャクラ量150アップ",
+          "effectIdx1": "3732",
+          "effectIdx2": "2930",
+          "effectIdx3": "20014",
+          "effectIds": "3732,2930,20014,"
+        },
+        {
+          "abilityId": "2771",
+          "abilityName": "ナルトに見出した希望",
+          "abilityDescription": "味方の“暁”所属の人数に応じて、攻防速100％アップ（自身含）＆生存人数に応じて再行動（最大5人で80％）",
+          "abilityEffectDescription": "味方の“暁”所属の人数に応じて、攻防速100％アップ（自身含）＆生存人数に応じて再行動（最大5人で80％）",
+          "effectIdx1": "3736",
+          "effectIdx2": "3737",
+          "effectIdx3": "3738",
+          "effectIds": "3736,3737,3738,3739,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29130,6 +29150,16 @@ window.ability=[
           "effectIds": "229104,228150,3763,3764,3765,"
         },
         {
+          "abilityId": "200015",
+          "abilityName": "知属性特化・守護",
+          "abilityDescription": "知属性にスキル攻撃時相手の耐性を弱点化&amp;自身と班の勇属性以外のキャラが知属性からのダメージ50%カット",
+          "abilityEffectDescription": "知属性にスキル攻撃時相手の耐性を弱点化&amp;自身と班の勇属性以外のキャラが知属性からのダメージ50%カット",
+          "effectIdx1": "229304",
+          "effectIdx2": "228350",
+          "effectIdx3": "3758",
+          "effectIds": "229304,228350,3758,3759,3760,3761,"
+        },
+        {
           "abilityId": "210001",
           "abilityName": "vs技ダメカット＆弱点扱い",
           "abilityDescription": "心属性ボス用　技属性からのダメ50%カット＆技属性に食らわせた時弱点で食らわせる",
@@ -31018,6 +31048,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3726,"
+        },
+        {
+          "abilityId": "310150",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "敵に破神がいると、即死無効",
+          "abilityEffectDescription": "敵に破神がいると、即死無効",
+          "effectIdx1": "3727",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3727,"
         },
         {
           "abilityId": "310151",
