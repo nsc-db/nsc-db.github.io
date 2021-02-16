@@ -363,32 +363,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1376",
-          "worldAreaId": "5",
-          "priority": "5",
-          "name": "大激闘任務-睦月の陣-",
-          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "1379",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "Pキャラ獲得イベント-睦月の陣-",
-          "description": "個人Ptを集めて固有忍具や育成素材を獲得しよう！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1380",
           "worldAreaId": "5",
           "priority": "5",
@@ -434,19 +408,6 @@
           "name": "本日焼肉サービスデー～ご予約承り中～",
           "description": "忍石最大29（にく）個獲得可能！\r\nドロップ報酬などで忍具素材をGETして、\r\n忍具生成で強力な忍具に！",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "2100",
-          "worldAreaId": "5",
-          "priority": "5",
-          "name": "テンテンの忍具指南コレクション",
-          "description": "個人Ptを集めて忍具や忍具チケットと交換！\r\n特別達成報酬は全て忍石！\r\n※今回獲得できる個人Ptは1月交換所のみ\r\n適用されます。",
-          "notice": "0",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
@@ -506,10 +467,10 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4134",
+          "worldStageId": "4136",
           "worldAreaId": "5",
           "priority": "4",
-          "name": "先生のバースディライフ",
+          "name": "はじまりの万華鏡",
           "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
@@ -519,10 +480,10 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "4136",
+          "worldStageId": "4137",
           "worldAreaId": "5",
           "priority": "4",
-          "name": "はじまりの万華鏡",
+          "name": "平和への懸け橋",
           "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
           "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
@@ -1381,6 +1342,19 @@
           "worldAreaId": "9",
           "priority": "0",
           "name": "第五十三回昇級試験",
+          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "8079",
+          "worldAreaId": "9",
+          "priority": "0",
+          "name": "炎の忍石争奪戦～昇級試験番外篇～",
           "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
           "notice": "0",
           "type": "0",

@@ -16169,6 +16169,34 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1172",
+          "name": "闇伐の紙天使",
+          "description": "“暁”所属の弱体・状態異常・キャンセル無効",
+          "effectIdx1": "64",
+          "effectIdx2": "82",
+          "effectIdx3": "1751",
+          "effectIds": "64,82,1751,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1173",
+          "name": "暴虐の業欲",
+          "description": "スキル発動速度1段階アップ＆バトル開始時、班の音隠れの里所属1人につき乱舞カウントが3減少",
+          "effectIdx1": "1840",
+          "effectIdx2": "3792",
+          "effectIdx3": "0",
+          "effectIds": "1840,3792,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

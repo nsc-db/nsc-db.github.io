@@ -2197,6 +2197,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "10306",
+          "charaId": "103",
+          "name": "大蛇丸",
+          "detail": null,
+          "charaLoveAffinityGroupId": "10310",
+          "birthday": "1027",
+          "constellation": "8",
+          "height": "17200",
+          "weight": "5730",
+          "bloodType": "2",
+          "age": "51",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "10401",
           "charaId": "104",
           "name": "薬師カブト",
@@ -2668,6 +2682,20 @@
           "constellation": "12",
           "height": "0",
           "weight": "0",
+          "bloodType": "3",
+          "age": "0",
+          "gender": "2"
+        },
+        {
+          "charaProfileId": "12504",
+          "charaId": "125",
+          "name": "小南",
+          "detail": "暁",
+          "charaLoveAffinityGroupId": "12510",
+          "birthday": "220",
+          "constellation": "12",
+          "height": "16940",
+          "weight": "4530",
           "bloodType": "3",
           "age": "0",
           "gender": "2"

@@ -779,6 +779,42 @@
           "specialPanelList": "9000010,9000011,9000012"
         },
         {
+          "sphereBoardId": "10076",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "うちはイタチ【闇幻の玲瞳】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060309",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012"
+        },
+        {
+          "sphereBoardId": "10077",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "日向ヒナタ【誇りと想い】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060305",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018"
+        },
+        {
+          "sphereBoardId": "10078",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "大筒木アシュラ【忍宗を継ぐ者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20060406",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -888,15 +924,15 @@
         },
         {
           "sphereBoardId": "50010",
-          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_4枚あり",
           "boardDescription": "綱手【遺志継ぐ豪拳】",
           "rare": "0",
           "costMin": "0",
           "costMax": "0",
           "attribute": "0",
           "cardId": "20060307",
-          "normalPanelList": "9100001,9100002,9100003",
-          "specialPanelList": "9100004,9100005,9100006"
+          "normalPanelList": "9100001,9100002,9100003,9100031",
+          "specialPanelList": "9100004,9100005,9100006,9100032"
         },
         {
           "sphereBoardId": "50011",
@@ -1092,15 +1128,15 @@
         },
         {
           "sphereBoardId": "50027",
-          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚あり",
           "boardDescription": "うちはサスケ【絆を知る双眸】",
           "rare": "0",
           "costMin": "0",
           "costMax": "0",
           "attribute": "0",
           "cardId": "20060707",
-          "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "normalPanelList": "9100025,9100026,9100027,9100037",
+          "specialPanelList": "9100028,9100029,9100030,9100038"
         },
         {
           "sphereBoardId": "50028",
@@ -1116,15 +1152,15 @@
         },
         {
           "sphereBoardId": "50029",
-          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤_4枚あり",
           "boardDescription": "大筒木カグヤ【美しき邪悪の神瞳】",
           "rare": "0",
           "costMin": "0",
           "costMax": "0",
           "attribute": "0",
           "cardId": "20060806",
-          "normalPanelList": "9100007,9100008,9100009",
-          "specialPanelList": "9100010,9100011,9100012"
+          "normalPanelList": "9100007,9100008,9100009,9100035",
+          "specialPanelList": "9100010,9100011,9100012,9100036"
         },
         {
           "sphereBoardId": "50030",
@@ -1403,6 +1439,18 @@
           "specialPanelList": "9100004,9100005,9100006,9100032"
         },
         {
+          "sphereBoardId": "50053",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "小南【闇伐の紙天使】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070205",
+          "normalPanelList": "9100025,9100026,9100027,9100037",
+          "specialPanelList": "9100028,9100029,9100030,9100038"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
@@ -1641,5 +1689,17 @@
           "cardId": "50070101",
           "normalPanelList": "5070101,5070102,5070103",
           "specialPanelList": "5070104,5070105,5070106"
+        },
+        {
+          "sphereBoardId": "5000017",
+          "boardName": "大蛇丸",
+          "boardDescription": "大蛇丸【暴虐の業欲】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50070201",
+          "normalPanelList": "5016001,5016002,5016003",
+          "specialPanelList": "5016004,5016005,5016006"
         }
       ]
