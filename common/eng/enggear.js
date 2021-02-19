@@ -595,7 +595,7 @@ window.enggear=[
           "name": "Naruto's Holster",
           "effect": "5 Turns: Cancel Immunity, SPD +55%, Cast Speed +1",
           "normal": "3 Turns: Cancel Immunity",
-          "charaIds": "201",
+          "charaIds": "101",
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
@@ -612,7 +612,7 @@ window.enggear=[
 {
           "id": 304205,
           "type": "Chakra",
-          "name": "Uchiha Clan Crest",
+          "name": "Uzumaki Clan Crest",
           "effect": "Start the Battle with 100% Chakra, HP and Chakra Recovery +30%, SPD +50%",
           "normal": "Start the Battle with 50% Chakra",
           "charaIds": "114",
@@ -622,7 +622,7 @@ window.enggear=[
 {
           "id": 304215,
           "type": "Skill",
-          "name": "Descendants of the Uchiha Clan",
+          "name": "Oppressive Power of the Nine Tails",
           "effect": "Cast Speed +1, HP +200%, SPD +50%",
           "normal": "After 3 Turns: Cast Speed +1",
           "charaIds": "114",
