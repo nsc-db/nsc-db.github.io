@@ -15860,6 +15860,32 @@ window.unique=[
           "effectIds": "1994,895,3754"
         },
         {
+          "crystalOverwriteEffectId": "1238",
+          "targetCrystal": "40207",
+          "description": "スキル発動速度2段階アップ。自身以外の味方に“暁”生存時、スキップ無効＆チャクラ消費量半減",
+          "charaIds": "12504",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "3755",
+          "effectIdx3": "3756",
+          "effectIdx4": "0",
+          "effectIds": "1549,3755,3756"
+        },
+        {
+          "crystalOverwriteEffectId": "1239",
+          "targetCrystal": "40208",
+          "description": "スキルダメージ150％アップ。行動毎に、HP・チャクラ25％回復＆確率で弱体系特殊状態解除",
+          "charaIds": "12504",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1892",
+          "effectIdx3": "3207",
+          "effectIdx4": "3757",
+          "effectIds": "794,1892,3207,3757"
+        },
+        {
           "crystalOverwriteEffectId": "1240",
           "targetCrystal": "40215",
           "description": "チャクラ消費量半減、全スキルダメージ150%アップ、3回行動まで被攻撃時に確率でアクション状態",

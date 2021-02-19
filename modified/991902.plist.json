@@ -809,6 +809,60 @@
           "customSphereList": "5014117,5014118,5014119"
         },
         {
+          "sphereBoardPanelId": "5016001",
+          "panelType": "1",
+          "panelMaterial": "0",
+          "needMoney": "0",
+          "normalSphereList": "5016001,5016002,5016003,5016004,5016005,5016006,5016007,5016008,5016009,5016010,5016011,5016012,5016013,5016014,5016015",
+          "lastSphereId": "5016016",
+          "customSphereList": "5016017"
+        },
+        {
+          "sphereBoardPanelId": "5016002",
+          "panelType": "1",
+          "panelMaterial": "0",
+          "needMoney": "0",
+          "normalSphereList": "5016021,5016022,5016023,5016024,5016025,5016026,5016027,5016028,5016029,5016030,5016031,5016032,5016033,5016034,5016035",
+          "lastSphereId": "5016036",
+          "customSphereList": "5016037"
+        },
+        {
+          "sphereBoardPanelId": "5016003",
+          "panelType": "1",
+          "panelMaterial": "0",
+          "needMoney": "0",
+          "normalSphereList": "5016041,5016042,5016043,5016044,5016045,5016046,5016047,5016048,5016049,5016050,5016051,5016052,5016053,5016054,5016055",
+          "lastSphereId": "5016056",
+          "customSphereList": "5016057,5016058,5016059"
+        },
+        {
+          "sphereBoardPanelId": "5016004",
+          "panelType": "2",
+          "panelMaterial": "50003:1",
+          "needMoney": "1000000",
+          "normalSphereList": "5016061,5016062,5016063,5016064,5016065,5016066,5016067,5016068,5016069,5016070,5016071,5016072,5016073,5016074,5016075",
+          "lastSphereId": "5016076",
+          "customSphereList": "5016077,5016078"
+        },
+        {
+          "sphereBoardPanelId": "5016005",
+          "panelType": "2",
+          "panelMaterial": "50003:1",
+          "needMoney": "3000000",
+          "normalSphereList": "5016081,5016082,5016083,5016084,5016085,5016086,5016087,5016088,5016089,5016090,5016091,5016092,5016093,5016094,5016095",
+          "lastSphereId": "5016096",
+          "customSphereList": "5016097,5016098"
+        },
+        {
+          "sphereBoardPanelId": "5016006",
+          "panelType": "2",
+          "panelMaterial": "50003:1",
+          "needMoney": "6000000",
+          "normalSphereList": "5016101,5016102,5016103,5016104,5016105,5016106,5016107,5016108,5016109,5016110,5016111,5016112,5016113,5016114,5016115",
+          "lastSphereId": "5016116",
+          "customSphereList": "5016117,5016118,5016119"
+        },
+        {
           "sphereBoardPanelId": "5070101",
           "panelType": "1",
           "panelMaterial": "0",

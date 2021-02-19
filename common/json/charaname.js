@@ -2674,6 +2674,20 @@ window.charaname=[
           "gender": "2"
         },
         {
+          "charaProfileId": "12504",
+          "charaId": "125",
+          "name": "小南",
+          "detail": "暁",
+          "charaLoveAffinityGroupId": "12510",
+          "birthday": "220",
+          "constellation": "12",
+          "height": "16940",
+          "weight": "4530",
+          "bloodType": "3",
+          "age": "0",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "12601",
           "charaId": "126",
           "name": "畜生道",

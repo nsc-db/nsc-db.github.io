@@ -16170,6 +16170,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1172",
+          "name": "闇伐の紙天使",
+          "description": "“暁”所属の弱体・状態異常・キャンセル無効",
+          "effectIdx1": "64",
+          "effectIdx2": "82",
+          "effectIdx3": "1751",
+          "effectIds": "64,82,1751,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
