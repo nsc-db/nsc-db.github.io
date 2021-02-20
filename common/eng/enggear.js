@@ -425,7 +425,7 @@ window.enggear=[
           "name": "Tenten's Summoning Scroll",
           "effect": "2 Turns: Skill Immunity, Chance to Dodge Skills, HP Recovery +20%",
           "normal": "2 Turns: Incoming Skill Damage -50%",
-          "charaIds": "702",
+          "charaIds": "1202",
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
@@ -515,7 +515,7 @@ window.enggear=[
           "name": "Kakashi's Kunai",
           "effect": "Cast Speed +1, Skill Damage and SPD +70%",
           "normal": "Skill Damage and SPD +20%",
-          "charaIds": "2306",
+          "charaIds": "1707",
           "cardIds": "0",
           "charaGroupIds": "0"
      },		 
@@ -525,7 +525,7 @@ window.enggear=[
           "name": "Mr. Ukki",
           "effect": "Grant Instant Action after Withstanding an Attack, Start the Battle With 100% Chakra, Chakra Recovery +30%",
           "normal": "Start the Battle with 50% Chakra",
-          "charaIds": "2306",
+          "charaIds": "1707",
           "cardIds": "0",
           "charaGroupIds": "0"
      },	
