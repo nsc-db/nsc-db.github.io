@@ -28,13 +28,23 @@ window.enggear=[
           "charaIds": "601,602",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
+{
+          "id": 3035,
+          "type": "Chakra",
+          "name": "Sasuke's Forehead Protector",
+          "effect": "Chakra Cost -15%, HP, ATK and DEF +20%",
+          "normal": "Chakra Cost -5%, ATK +20%",
+          "charaIds": "201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
 {
           "id": 3065,
           "type": "Additional",
           "name": "Eight Triagram Seal",
           "effect": "Debuffs and Status Effect Duration -50%, HP and Chakra Recovery +10%",
-          "normal": "'Seal' Reduction",
+          "normal": "'Seal' Effect Duration -50%",
           "charaIds": "101",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -209,6 +219,16 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 },
+{
+          "id": 203035,
+          "type": "Skill",
+          "name": "Peach Blossom",
+          "effect": "Skill Damage +130%, Chakra Cost -33%, Cast Speed +1",
+          "normal": "Skill Damage +30%",
+          "charaIds": "301,302,303,304,305,306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
 {
           "id": 203045,
           "type": "Chakra",
@@ -400,6 +420,36 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 303015,
+          "type": "Resistance",
+          "name": "Tenten's Summoning Scroll",
+          "effect": "2 Turns: Skill Immunity, Chance to Dodge Skills, HP Recovery +20%",
+          "normal": "2 Turns: Incoming Skill Damage -50%",
+          "charaIds": "702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 303025,
+          "type": "Additional",
+          "name": "Tenten's Sandals",
+          "effect": "Skill Damage +101%, ATK +101% every turn (Max 1,010%)",
+          "normal": "ATK +10% every turn (Max 100%)",
+          "charaIds": "1202",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 303035,
+          "type": "Stats",
+          "name": "Hinata's Great Ninja War Vest",
+          "effect": "HP and Skill Damage +120%, If there's a Naruto ally: Skill Damage +80% (Max 200%)",
+          "normal": "HP and Skill Damage +40%, If there's a Naruto ally: Skill Damage +20% (Max 60%)",
+          "charaIds": "702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
           "id": 303045,
           "type": "Skill",
           "name": "Samehada Band",
@@ -436,6 +486,86 @@ window.enggear=[
           "effect": "HP <50%: Skill Damage and SPD +80%, 2 Turns: Skip Immunity",
           "normal": "HP <50%: Skill Damage and SPD +40%",
           "charaIds": "10305",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 303095,
+          "type": "Chakra",
+          "name": "Manda Netsuke",
+          "effect": "Chakra Cost -33%, Chakra Recovery +33%, Cast Speed +1",
+          "normal": "1 Turn: Chakra Cost -33%, Chakra Recovery +33%",
+          "charaIds": "10305",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 303115,
+          "type": "Stats",
+          "name": "Itachi's Akatsuki Cloak",
+          "effect": "ATK, DEF and SPD +80%, 3 Turns: Very High Chance to Dodge Skills",
+          "normal": "ATK, DEF and SPD +30%",
+          "charaIds": "11601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 303125,
+          "type": "Skill",
+          "name": "Kakashi's Kunai",
+          "effect": "Cast Speed +1, Skill Damage and SPD +70%",
+          "normal": "Skill Damage and SPD +20%",
+          "charaIds": "2306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },		 
+{
+          "id": 303135,
+          "type": "Additional",
+          "name": "Mr. Ukki",
+          "effect": "Grant Instant Action after Withstanding an Attack, Start the Battle With 100% Chakra, Chakra Recovery +30%",
+          "normal": "Start the Battle with 50% Chakra",
+          "charaIds": "2306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
+{
+          "id": 303145,
+          "type": "Food",
+          "name": "Naruto's Cupcake",
+          "effect": "3 Turns: HP Recovery +40%, 1 Turn: Chakra Cost -50%, SPD +40%",
+          "normal": "3 Turns: Skill Damage and SPD +40%",
+          "charaIds": "102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 303155,
+          "type": "Food",
+          "name": "Iruka's Cupcake",
+          "effect": "HP and Chakra Recovery +31.4%, 3 Turns: Cast Speed +1, 4 Turns: Incoming Skill Damage -50%",
+          "normal": "3 Turns: HP and Chakra Recovery +31.4%",
+          "charaIds": "2502",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 303165,
+          "type": "Food",
+          "name": "Team 7 Cupcake",
+          "effect": "3 Turns: SPD +314, 1 Turn: Set Chakra Cost to 0, 4 Turns: Skill Damage +131.4%",
+          "normal": "3 Turns: SPD +30%, 1 Turn: Chakra Cost -10%, 4 Turns: Skill Damage +40%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "500004,500005,500006"
+},
+{
+          "id": 303225,
+          "type": "Skill",
+          "name": "Sakura's Jacket",
+          "effect": "Skill Damage +120%, HP +100%, Cast Speed +1",
+          "normal": "Taijutsu and Unique Skill Damage +50%",
+          "charaIds": "303",
           "cardIds": "0",
           "charaGroupIds": "0"
      },	 
@@ -2319,6 +2449,26 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
      },
+{
+          "id": 402075,
+          "type": "Additional",
+          "name": "600 Billion Explosive Tags",
+          "effect": "Cast Speed +2, If there's another Akatsuki ally: Skip Immunity and Chakra Cost -50%",
+          "normal": "Cast Speed +1",
+          "charaIds": "12504",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 402085,
+          "type": "Skill",
+          "name": "Paper Wings",
+          "effect": "Skill Damage +150%, HP and Chakra Recovery +25%, Chance to Remove Negative Special State every turn",
+          "normal": "Skill Damage +50%",
+          "charaIds": "12504",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 	 {
           "id": 402155,
           "type": "Food 2",
