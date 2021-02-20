@@ -3140,25 +3140,25 @@ window.detail=[
           "name": "Naruto Uzumaki",
           "subtext": "Desire to Protect",
 
-          "lead": "ATK, DEF, SPD +80%, Cast Speed +1 to All Characters if there's a Sasuke ally or enemy",
+          "lead": "All Characters: If there's a Sasuke ally or enemy: ATK, DEF, SPD +80%, Cast Speed +1",
 
           "s1n": "Beast Rasengan",
-          "s1": "Deal 3% + 750,000 to all enemies and Guarantee Skip. Deal 1 Hit 3% + 650,000 Additional Attack and Chance to Ignore Withstand, Revive and Immortality. (Always Hit)",
+          "s1": "Deal 3% + 750,000 to all enemies. Guarantee Inflict 'Skip'. Deal an Additional Attack dealing 3% + 650,000. Chance to Ignore Withstand, Revive and Immortality. (Always Hit)",
           "s1ntr": "Wind",
           "s1cs": "Fastest",
           "s1c": 190,
 
           "s2n": "I'm Telling You to Stop It!!",
-          "s2": "Recover 1,500,000 HP and Skill Damage +200% to self. High chance for SPD +999% if there's a Non-Konoha enemy. Ignore Resistance and Skill Dodge and inflict 'Intimidate' State to all enemies. [Intimidate: SPD -200% and Cast Speed -1]",
+          "s2": "Own Skill Damage +200% and Recover 1,500,000 HP. If there's a Non-Konoha enemy:High chance for SPD +999%. Ignore Resistance and Skill Dodge and Inflict 'Intimidate' State to all enemies. [Intimidate: SPD -200% and Cast Speed -1]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 120,
 
           "a1n": "Hidden Power",
-          "a1": "Guarantee Instant Action and Chance to Inflict 'Intimidate' State when Attacked by a Non-Konoha. Guarantee Inflict 'Intimidate' State and Paralysis to All enemies Upon Death",
+          "a1": "Guarantee Instant Action and Chance to Inflict 'Intimidate' State when Attacked by a Non-Konoha enemy. Upon Death: Guarantee Inflict 'Intimidate' State and Paralysis to all enemies",
 
           "a2n": "Friendly Howl",
-          "a2": "Grant First Strike and Chakra Cost is Set to 0 if there's a Sasuke ally or enemy. Withstand +5. Chakra +100",
+          "a2": "If there's a Sasuke ally or enemy: Grant First Strike and Set Chakra Cost to 0. Withstand +5. Chakra +100",
 
           "a3n": "Black Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Black"
@@ -4347,13 +4347,13 @@ window.detail=[
           "lead": "Kiri Characters: Chakra Cost -50% and Skill Damage +150%",
 
           "s1n": "Thousand Needles of Death: Frozen Pillar Burial",
-          "s1": "Deal 3% + 489,000 to target enemy. If the enemy is under 'Block' State: Deal 10 Additional Attacks dealing 89,000 Fixed Damage. Chance to Inflict 'Block' State. Grant 'Mist' State to self and 'Zabuza' allies. (Always Hit) [Block: Skill is Disabled] [Mist: SPD +300%, Very high chance to Dodge Skills, Incoming Skill Damage -150%]",
+          "s1": "Deal 3% + 489,000 to target enemy. If the enemy is under 'Block' State: Deal 10 Additional Attacks dealing 89,000 Fixed Damage. Chance to Inflict 'Block' State. Grant 'Mist' State to self and Zabuza allies. [Block: Skill is Disabled] [Mist: SPD +300%, Very High Chance to Dodge Skills, Incoming Skill Damage -150%] (Always Hit)",
           "s1ntr": "Water",
           "s1cs": "Fast",
           "s1c": 80,
 
           "s2n": "Grasp Your Dream...",
-          "s2": "Recover 500,000 to Party. Grant 'Protection' and 'Resurrection' State to self and 'Zabuza' ally. Grant 'Cooperation' State to 'Zabuza' ally. [Protection: Debuff, Status Effect and Negative Special State Immunity] [Resurrection: Revive +1, Recover 20% Chakra when attacked, remove State after the Revive. When the state is removed, set own Chakra to 0] [Cooperation: After an action, Grant Instant Action to ally Haku]",
+          "s2": "Recover 500,000 to Party. Grant 'Protection' and 'Resurrection' State to self and Zabuza allies. Grant 'Cooperation' State to Zabuza allies. [Protection: Debuff, Status Effect and Negative Special State Immunity] [Resurrection: Revive +1, Recover 20% Chakra when attacked, remove State after the Revive. When the state is removed, set own Chakra to 0] [Cooperation: After an action, Grant Instant Action to Haku allies]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
@@ -4375,22 +4375,22 @@ window.detail=[
           "lead": "Kiri Characters: Chakra Cost -50% and SPD +150%",
 
           "s1n": "Water Dragon: Imperial Wrath",
-          "s1": "Deal 7% + 538,000 to target enemy. If the enemy is under 'Sealed' State: eal 3 Additional Attacks dealing 7% + 383,000. Inflict 'Sealed' State. Grant 'Shadow' State to self and 'Haku' allies. (Always Hit) [Sealed: Action is Disabled, HP reduced per turn] [Shadow: Immune to All Skills including Fixed Damage, Incoming Skill Damage -10,000%. Remove State and Inflict 'Restraint' State when attacked]",
+          "s1": "Deal 7% + 538,000 to target enemy. If the enemy is under 'Sealed' State: Deal 3 Additional Attacks dealing 7% + 383,000. Inflict 'Sealed' State. Grant 'Shadow' State to self and Haku allies. [Sealed: Action is Disabled, HP reduced per turn] [Shadow: Skill (including Fixed Damage) Immunity, Incoming Skill Damage -10,000%. Remove State and Inflict 'Restraint' State when attacked] (Always Hit)",
           "s1ntr": "Water",
           "s1cs": "Fast",
           "s1c": 80,
 
           "s2n": "You Can't Beat Me",
-          "s2": "Own Skill Damage +300% and grant 'Rally' State. 1 Turn: SPD +500%. Grant 'Protection' and 'Cooperation' State to 'Haku' ally. [Rally: ATK, DEF and SPD +200%, HP and Chakra Regen +20%]. [Protection: Debuff, Status Effect and Negative Special State Immunity]. [Cooperation: After an action, Grant Instant Action to ally Zabuza]",
+          "s2": "Own Skill Damage +300. Grant 'Rally' State. 1 Turn: SPD +500%. Grant 'Protection' and 'Cooperation' State to Haku allies. [Rally: ATK, DEF and SPD +200%, HP and Chakra Regen +20%] [Protection: Debuff, Status Effect and Negative Special State Immunity] [Cooperation: After an action, Grant Instant Action to Zabuza allies]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
 
           "a1n": "Blood Mist Nightmare",
-          "a1": "If there's a 'Haku' ally: At the Start of Battle, Grant 'Shadow' and 'Rally' State. Withstand +2",
+          "a1": "If there's a Haku ally: At the Start of Battle, Grant 'Shadow' and 'Rally' State. Withstand +2",
 
           "a2n": "Demon's Bloodlust",
-          "a2": "Chance to Insta Cast Skill 2 (Guarantee if there's a Haku ally), 2 Turns: SPD +200%",
+          "a2": "Chance to Insta Cast Skill 2 (If there's a Haku ally: Guarantee), 2 Turns: SPD +200%",
 
           "a3n": "White Specialization",
           "a3": "Type Advantage and Damage Cut +50% against White"
@@ -4459,7 +4459,7 @@ window.detail=[
           "lead": "Konoha Characters: DEF +200% and Chakra Recovery +30%",
 
           "s1n": "Secret Jutsu: Fleeing Bug Army",
-          "s1": "Deal 3% +330,000 to all enemies. Chance to inflict 'Usurp' State (If it's a Destroyer enemy: Ignore Resistance and Skill Dodge and Guarantee Inflict). If the enemy is under 'Usurp' State: Deal 7 Additional Attacks dealing 3% +120,000. [Usurp: HP and Chakra -25% per turn]",
+          "s1": "Deal 3% + 330,000 to all enemies. Chance to inflict 'Usurp' State (If it's a Destroyer enemy: Ignore Resistance and Skill Dodge and Guarantee Inflict). If the enemy is under 'Usurp' State: Deal 7 Additional Attacks dealing 3% + 120,000. [Usurp: HP and Chakra -25% per turn]",
           "s1ntr": "Secret",
           "s1cs": "Fastest",
           "s1c": 80,
@@ -4487,7 +4487,7 @@ window.detail=[
           "lead": "Cast Speed +1 and Chance for -1 Ranbu CD per Konoha ally",
 
           "s1n": "Fire Style: Toad Flame Bomb",
-          "s1": "1-Hit All 3% + 450,000 and inflict 'Great Flame' State. Very high chance to Skip. Grant 'Guts' state to ally 'Jiraiya, 'Naruto' and 'Minato' [Great Flame: HP reduced per turn (-90%), Remove and Immune to Buff and Debuff] [Guts: Immune and Remove Negative Special State. Withstand +1 and ATK, DEF and SPD +100%] (Always Hit)",
+          "s1": "Deal 3% + 450,000 to all enemies. Inflict 'Great Flame' State. Very High Chance to Skip. Grant 'Guts' state to Jiraiya, Naruto and Minato allies. [Great Flame: HP reduced per turn (-90%), Remove and Immune to Buff and Debuff] [Guts: Immune and Remove Negative Special State. Withstand +1 and ATK, DEF and SPD +100%] (Always Hit)",
           "s1ntr": "Fire",
           "s1cs": "",
           "s1c": 0,
@@ -4499,10 +4499,10 @@ window.detail=[
           "s2c": 0,
 
           "a1n": "Toad's Virtue",
-          "a1": "ATK, DEF and SPD +20% per Konoha ally",
+          "a1": "ATK, DEF and SPD +20% per Konoha ally (Max 100%)",
 
           "a2n": "Flaming Oil",
-          "a2": "High Chance to Inflict 'Great Flame' when Attacked",
+          "a2": "High Chance to Inflict 'Great Flame' State when Attacked",
 
           "a3n": "",
           "a3": ""
@@ -4512,25 +4512,25 @@ window.detail=[
           "name": "Gaara",
           "subtext": "Sand Possessed Massacre",
 
-          "lead": "SPD and Skill Damage +150% to All Characters if there's a God enemy",
+          "lead": "All Characters: If there's a God enemy: SPD and Skill Damage +150%",
 
           "s1n": "Sand Burial: Demon's Curse",
-          "s1": "Deal 1,400,000 Fixed Damage to all enemies. If under 'Love' State:Deal 10 Additional Attacks dealing 3% + 100,000. Remove enemy Positive God State. (Always Hit)",
+          "s1": "Deal 1,400,000 Fixed Damage to all enemies. If under 'Love' State: Deal 10 Additional Attacks dealing 3% + 100,000. Remove enemy Positive God State. (Always Hit)",
           "s1ntr": "Unique",
           "s1cs": "Fastest",
           "s1c": 160,
 
           "s2n": "Let's Do It!... Mother",
-          "s2": "Recover 500,000 HP to self and Grant 'Love' State. Change the Terrain to 'Dancing Sandstorm'. [Love: ATK, SPD and Skill Damage +200% and Skill Immunity] [Dancing Sandstorom: (Allies): Cancel all enemies when attacked by a God (Sand Allies): High chance for All Type Advantage (Enemies): Skill Dodge Disable]",
+          "s2": "Recover 500,000 HP to self and Grant 'Love' State. Change the Terrain to 'Dancing Sandstorm'. [Love: ATK, SPD and Skill Damage +200% and Skill Immunity] [Dancing Sandstorom: Allies: Cancel all enemies when attacked by a God. Sand Allies: High Chance for All Type Advantage. Enemies: Skill Dodge Disable]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 160,
 
           "a1n": "Sand Tyrant",
-          "a1": "Change the Terrain to 'Dancing Sandstorm', Grant 'Love' State and Insta Cast Skill 1 at the Start of Battle if there's a God enemy",
+          "a1": "Change the Terrain to 'Dancing Sandstorm', If there's a God enemy: At the Start of Battle, Grant 'Love' State and Insta Cast Skill 1",
 
           "a2n": "Manifestation of Hatred",
-          "a2": "Chance to Grant Instant Action when Attacked (Guarantee when Attacked by a God), Chakra +180, Withstand +5",
+          "a2": "Chance to Grant Instant Action when Attacked (By a God enemy: Guarantee), Chakra +180, Withstand +5",
 
           "a3n": "Yellow Type Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Yellow Type"
@@ -4540,25 +4540,25 @@ window.detail=[
           "name": "Itachi Uchiha",
           "subtext": "Darkness Walking Towards Inferno",
 
-          "lead": "Akatsuki Cast Speed +1, Chance for Skip and Cancel Immunity",
+          "lead": "Akatsuki Characters: Cast Speed +1, Chance for Skip and Cancel Immunity",
 
           "s1n": "Fire Style: Engraving Darkness",
-          "s1": "Deal 950,000 Fixed Damage to all enemies. Deal 21 Additional Attacks dealing 25,000 Fixed Damage to Non-Akatsuki Enemies. Remove Enemies Positive Special and God State",
+          "s1": "Deal 950,000 Fixed Damage to all enemies. If it's a Non-Akatsuki enemy: Deal 21 Additional Attacks dealing 25,000 Fixed Damage. Remove Enemies' Positive Special and God State",
           "s1ntr": "Fire",
           "s1cs": "Fast",
           "s1c": 100,
 
           "s2n": "You Can't Beat Me",
-          "s2": "Own SPD and Skill Damage +200%, Grant 'Seal Inferno' State to self, Remove Negative Special and God State from Party [Seal Inferno: Remove and Immune Debuff, Status Effect, Genjutsu, Negative Special and God State Ignore Resistance and Skill Dodge and Inflict 'Seal' and 1 Turn of Remove and Immune to Positive Special and God State to God enemies]",
+          "s2": "Own SPD and Skill Damage +200%. Grant 'Seal Inferno' State to self. Remove Party Negative Special and God State [Seal Inferno: Remove and Immune Debuff, Status Effect, Genjutsu, Negative Special and God State Ignore Resistance and Skill Dodge and Inflict 'Seal' and 1 Turn of Remove and Immune to Positive Special and God State to God enemies]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
 
           "a1n": "Proud Mangekyo",
-          "a1": "Revive +2, Grant 'Seal Inferno' State, Instant Action and for 1 turn, Remove and Immune to Negative Special and God State upon Withstanding an attack",
+          "a1": "Revive +2, Grant 'Seal Inferno' State, Instant Action for 1 Turn, Remove and Immune to Negative Special and God State upon Withstanding",
 
           "a2n": "Embodiment of an Uchiha",
-          "a2": "3 Turns: Negative Special State Immunity, Chance for First Strike and Chance for Instant Action when Attacked if there's a God enemy",
+          "a2": "3 Turns: Negative Special State Immunity, If there's a God enemy: Chance for First Strike and Chance for Instant Action when Attacked",
 
           "a3n": "Yellow and White Type Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Yellow and White Type"
@@ -4568,25 +4568,25 @@ window.detail=[
           "name": "Sasuke Uchiha",
           "subtext": "Darkness Expanding Over Inferno and Lightning",
 
-          "lead": "Cast Speed +1 and Cancel Immunity if there's an Uchiha Enemy",
+          "lead": "All Characters: If there's an Uchiha enemy: Cast Speed +1 and Cancel Immunity",
 
           "s1n": "Screeching Thunder",
-          "s1": "Deal 3% + 800,000 to all enemies. Deals 17 Additional Attacks dealing 3% + 50,000 to Akatsuki enemies. Chance to Ignore Resistance and Skill Dodge and Inflict 'Paralysis' to GK enemies",
+          "s1": "Deal 3% + 800,000 to all enemies. If it's a Akatsuki enemy: Deals 17 Additional Attacks dealing 3% + 50,000. If it's a GK enemy: Chance to Ignore Resistance and Skill Dodge and Inflict 'Paralysis'.",
           "s1ntr": "Lightning",
           "s1cs": "Fast",
           "s1c": 100,
 
           "s2n": "Time To Carry Out Own's Purpose",
-          "s2": "All enemies ATK, DEF and SPD -100%, Remove Enemies Terrain, Grant 'Lightning Destruction' State to self, [Lightning Destruction: Cancel and Immune to Negative Special State, Cancel and Skip Immune, Remove Enemy Terrain, Remove Enemy Terrain when Deployed, Ignore Resistance and Skill Dodge and Inflict Paralysis to GK enemies]",
+          "s2": "Enemies' ATK, DEF and SPD -100%. Remove Enemies Terrain. Grant 'Lightning Destruction' State to self. [Lightning Destruction: Cancel and Immune to Negative Special State, Cancel and Skip Immunity, Remove Enemy Terrain, Remove Enemy Terrain when Deployed, Ignore Resistance and Skill Dodge and Inflict Paralysis to GK enemies]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
 
           "a1n": "Sharingan Tenacity",
-          "a1": "Revive +2, Grant 'Lightning Destruction' State, Instant Action and Destroy Enemy Terrain upon Withstanding an attack",
+          "a1": "Revive +2, Grant 'Lightning Destruction' State, Instant Action and Destroy Enemy Terrain upon Withstanding",
 
           "a2n": "Learning a Different Style's Power",
-          "a2": "3 Turns: Negative Special State Immunity, Chance for First Strike and Chance for Instant Action when Attacked if there's a GK enemy",
+          "a2": "3 Turns: Negative Special State Immunity, If there's a GK enemy: Chance for First Strike and Chance for Instant Action when Attacked",
 
           "a3n": "Blue and Black Type Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Blue and Black Type"
