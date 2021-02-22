@@ -1451,6 +1451,18 @@
           "specialPanelList": "9100028,9100029,9100030,9100038"
         },
         {
+          "sphereBoardId": "50054",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
+          "boardDescription": "柱間＆マダラ【忍の神と扇火の豪傑】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070207",
+          "normalPanelList": "9100013,9100014,9100015",
+          "specialPanelList": "9100016,9100017,9100018"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",

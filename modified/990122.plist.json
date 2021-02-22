@@ -4139,6 +4139,18 @@
           "voiceDeath": "minato_death_02_03"
         },
         {
+          "cardVoiceId": "349",
+          "cardId": "20070207",
+          "dirName": "hashirama",
+          "evolutionStep": "",
+          "voiceAppear": "hashirama_battle_02_03",
+          "voiceSkill1": "hashirama_skill_02_02,hashirama_damage_02_02,madara_gacha_tap_03,madara_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hashirama_win_02_01",
+          "voiceDeath": "hashirama_death_02_03"
+        },
+        {
           "cardVoiceId": "350",
           "cardId": "20070202",
           "dirName": "sasuke",

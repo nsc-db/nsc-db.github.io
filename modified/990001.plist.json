@@ -3,272 +3,305 @@
           "name": "スタートダッシュ",
           "type": "2",
           "openTime": "2014.09.05 00:00:00",
-          "closeTime": "2034.09.06 00:00:00"
+          "closeTime": "2034.09.06 00:00:00",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "122",
           "name": "スタートダッシュ！！ ログインボーナス",
           "type": "7",
           "openTime": "2018.03.22 00:00:00",
-          "closeTime": "2034.03.31 23:59:59"
+          "closeTime": "2034.03.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "123",
           "name": "初心者応援キャンペーン",
           "type": "7",
           "openTime": "2018.03.22 00:00:00",
-          "closeTime": "2034.03.31 23:59:59"
+          "closeTime": "2034.03.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "124",
           "name": "初心者応援キャンペーン",
           "type": "7",
           "openTime": "2018.03.22 00:00:00",
-          "closeTime": "2034.03.31 23:59:59"
+          "closeTime": "2034.03.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "141",
           "name": "通常ログインボーナス",
           "type": "1",
           "openTime": "2019.01.16 00:00:00",
-          "closeTime": "2030.12.31 23:59:59"
+          "closeTime": "2030.12.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "464",
           "name": "猿飛ヒルゼン誕生日ログインボーナス",
           "type": "2",
           "openTime": "2021.02.08 00:00:00",
-          "closeTime": "2021.02.08 23:59:59"
+          "closeTime": "2021.02.08 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "465",
           "name": "うちはイズナ・うちはオビト誕生日ログインボーナス",
           "type": "2",
           "openTime": "2021.02.10 00:00:00",
-          "closeTime": "2021.02.10 23:59:59"
-        },
-        {
-          "loginBonusId": "466",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.02 00:00:00",
-          "closeTime": "2021.02.02 23:59:59"
-        },
-        {
-          "loginBonusId": "467",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.03 00:00:00",
-          "closeTime": "2021.02.03 23:59:59"
-        },
-        {
-          "loginBonusId": "468",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.04 00:00:00",
-          "closeTime": "2021.02.04 23:59:59"
-        },
-        {
-          "loginBonusId": "469",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.05 00:00:00",
-          "closeTime": "2021.02.05 23:59:59"
-        },
-        {
-          "loginBonusId": "470",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.06 00:00:00",
-          "closeTime": "2021.02.06 23:59:59"
-        },
-        {
-          "loginBonusId": "471",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.07 00:00:00",
-          "closeTime": "2021.02.07 23:59:59"
+          "closeTime": "2021.02.10 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "472",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.08 00:00:00",
-          "closeTime": "2021.02.08 23:59:59"
+          "closeTime": "2021.02.08 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "473",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.09 00:00:00",
-          "closeTime": "2021.02.09 23:59:59"
+          "closeTime": "2021.02.09 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "474",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.10 00:00:00",
-          "closeTime": "2021.02.10 23:59:59"
+          "closeTime": "2021.02.10 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "475",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.11 00:00:00",
-          "closeTime": "2021.02.11 23:59:59"
+          "closeTime": "2021.02.11 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "476",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.12 00:00:00",
-          "closeTime": "2021.02.12 23:59:59"
+          "closeTime": "2021.02.12 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "477",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.13 00:00:00",
-          "closeTime": "2021.02.13 23:59:59"
+          "closeTime": "2021.02.13 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "478",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.14 00:00:00",
-          "closeTime": "2021.02.14 23:59:59"
+          "closeTime": "2021.02.14 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "479",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.15 00:00:00",
-          "closeTime": "2021.02.15 23:59:59"
+          "closeTime": "2021.02.15 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "480",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.16 00:00:00",
-          "closeTime": "2021.02.16 23:59:59"
+          "closeTime": "2021.02.16 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "481",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.17 00:00:00",
-          "closeTime": "2021.02.17 23:59:59"
+          "closeTime": "2021.02.17 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "482",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.18 00:00:00",
-          "closeTime": "2021.02.18 23:59:59"
+          "closeTime": "2021.02.18 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "483",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.19 00:00:00",
-          "closeTime": "2021.02.19 23:59:59"
+          "closeTime": "2021.02.19 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "484",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.20 00:00:00",
-          "closeTime": "2021.02.20 23:59:59"
+          "closeTime": "2021.02.20 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "485",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.21 00:00:00",
-          "closeTime": "2021.02.21 23:59:59"
+          "closeTime": "2021.02.21 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "486",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.22 00:00:00",
-          "closeTime": "2021.02.22 23:59:59"
+          "closeTime": "2021.02.22 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "487",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.23 00:00:00",
-          "closeTime": "2021.02.23 23:59:59"
+          "closeTime": "2021.02.23 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "488",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.24 00:00:00",
-          "closeTime": "2021.02.24 23:59:59"
+          "closeTime": "2021.02.24 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "489",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.25 00:00:00",
-          "closeTime": "2021.02.25 23:59:59"
+          "closeTime": "2021.02.25 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "490",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.26 00:00:00",
-          "closeTime": "2021.02.26 23:59:59"
+          "closeTime": "2021.02.26 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "491",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
           "openTime": "2021.02.27 00:00:00",
-          "closeTime": "2021.02.27 23:59:59"
+          "closeTime": "2021.02.27 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "492",
           "name": "ガマブン太の月間ログインボーナス-忍にんにんの月2021-",
           "type": "2",
           "openTime": "2021.02.01 00:00:00",
-          "closeTime": "2021.02.28 23:59:59"
+          "closeTime": "2021.02.28 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
+        },
+        {
+          "loginBonusId": "493",
+          "name": "千手扉間誕生日ログインボーナス",
+          "type": "2",
+          "openTime": "2021.02.19 00:00:00",
+          "closeTime": "2021.02.19 23:59:59",
+          "isMidnightReset": "0",
+          "resetTime": null
         },
         {
           "loginBonusId": "501",
           "name": "猫バアの毎日招き猫パック",
           "type": "8",
           "openTime": "2018.01.01 00:00:00",
-          "closeTime": "2035.12.31 23:59:59"
+          "closeTime": "2035.12.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "502",
           "name": "猫バアの毎日招き猫パック",
           "type": "8",
           "openTime": "2018.01.01 00:00:00",
-          "closeTime": "2035.12.31 23:59:59"
+          "closeTime": "2035.12.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "505",
           "name": "猫バアの毎日ガチャパック",
           "type": "8",
           "openTime": "2018.01.01 00:00:00",
-          "closeTime": "2035.12.31 23:59:59"
+          "closeTime": "2035.12.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "506",
           "name": "猫バアの毎日ガチャパック",
           "type": "8",
           "openTime": "2018.01.01 00:00:00",
-          "closeTime": "2035.12.31 23:59:59"
+          "closeTime": "2035.12.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         },
         {
           "loginBonusId": "700",
           "name": "毎日無料ガチャ用ログインボーナス",
           "type": "9",
           "openTime": "2020.02.28 00:00:00",
-          "closeTime": "2035.12.31 23:59:59"
+          "closeTime": "2035.12.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": null
         }
       ]
