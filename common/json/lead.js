@@ -16115,8 +16115,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "1167",
-          "name": "0",
-          "description": "0",
+          "name": "忍の神と扇火の豪傑",
+          "description": "木ノ葉隠れの里所属のスキル発動速度1段階アップ&amp;チャクラ消費半減",
           "effectIdx1": "1840",
           "effectIdx2": "895",
           "effectIdx3": "0",

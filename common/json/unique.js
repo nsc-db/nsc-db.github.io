@@ -15979,7 +15979,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1247",
           "targetCrystal": "40211",
-          "description": "0",
+          "description": "ｽｷﾙ発動速度2段階ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時ﾁｬｸﾗ100%回復、班の自身と異なる属性のｷｬﾗ１体につき素早さ75%ｱｯﾌﾟ",
           "charaIds": "60301",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -15992,7 +15992,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1248",
           "targetCrystal": "40212",
-          "description": "0",
+          "description": "攻撃力・防御力・素早さ・スキルダメージ120%アップ、チャクラ消費半減",
           "charaIds": "60301",
           "cardIds": "0",
           "charaGroupIds": "0",

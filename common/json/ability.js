@@ -27061,9 +27061,9 @@ window.ability=[
         },
         {
           "abilityId": "2760",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "無二の好敵手との共闘",
+          "abilityDescription": "バトル開始・行動時に自身を【忍方陣：創世烈風】状態にする、行動毎に素早さ50%アップ（最大500%）",
+          "abilityEffectDescription": "バトル開始・行動時に自身を【忍方陣：創世烈風】状態にする、行動毎に素早さ50%アップ（最大500%）",
           "effectIdx1": "3793",
           "effectIdx2": "3674",
           "effectIdx3": "3809",
@@ -27071,13 +27071,13 @@ window.ability=[
         },
         {
           "abilityId": "2761",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "忍界震撼の両雄",
+          "abilityDescription": "HP0以下で2回HP全回復、被攻撃時確率で即アクション&amp;確率でHPを基礎値の50%回復、弱体系特殊状態無効",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、被攻撃時確率で即アクション&amp;確率でHPを基礎値の50%回復、弱体系特殊状態無効",
           "effectIdx1": "2676",
           "effectIdx2": "1057",
           "effectIdx3": "874",
-          "effectIds": "2676,1057,874,3278,"
+          "effectIds": "2676,1057,874,3278,2709,"
         },
         {
           "abilityId": "2762",
@@ -27232,12 +27232,12 @@ window.ability=[
         {
           "abilityId": "2777",
           "abilityName": "忍界震撼の両雄",
-          "abilityDescription": "攻撃を受けた時確率でHP50%回復、HP0以下で3回HP全回復、被攻撃時確率で即アクション",
-          "abilityEffectDescription": "攻撃を受けた時確率でHP50%回復、HP0以下で3回HP全回復、被攻撃時確率で即アクション",
+          "abilityDescription": "HP0以下で3回HP全回復、被攻撃時確率で即アクション&amp;確率でHPを基礎値の50%回復、弱体系特殊状態無効",
+          "abilityEffectDescription": "HP0以下で3回HP全回復、被攻撃時確率で即アクション&amp;確率でHPを基礎値の50%回復、弱体系特殊状態無効",
           "effectIdx1": "2676",
           "effectIdx2": "1789",
           "effectIdx3": "874",
-          "effectIds": "2676,1789,874,3278,"
+          "effectIds": "2676,1789,874,3278,2709,"
         },
         {
           "abilityId": "10000",

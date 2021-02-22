@@ -26955,11 +26955,11 @@ window.gear=[
           "effectIds": "1639,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "柱間の金言",
+          "crystalDescription": "確率でスキル発動速度2段階アップ",
           "crystalImageId": "402115",
           "recipeId": "40211",
-          "recipeName": "0"
+          "recipeName": "柱間の金言"
         },
         {
           "crystalId": "40212",
@@ -26972,11 +26972,11 @@ window.gear=[
           "effectIds": "11069,12069,13069,652,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "マダラの金言",
+          "crystalDescription": "攻撃力・防御力・素早さ・スキルダメージ70%アップ",
           "crystalImageId": "402125",
           "recipeId": "40212",
-          "recipeName": "0"
+          "recipeName": "マダラの金言"
         },
         {
           "crystalId": "40215",

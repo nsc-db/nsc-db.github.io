@@ -4216,7 +4216,7 @@ window.charaname=[
         {
           "charaProfileId": "60301",
           "charaId": "603",
-          "name": "0",
+          "name": "柱間＆マダラ",
           "detail": null,
           "charaLoveAffinityGroupId": "60310",
           "birthday": "0",

@@ -3605,7 +3605,7 @@ window.charainfo=[
           "additionId": "0",
           "params": "0,",
           "limitedFlg": "1",
-          "skillUrl": ""
+          "skillUrl": "https://www.youtube.com/embed/6dlg3mBV1Dc?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
           "gachaCardAdditionId": "1001",
