@@ -16114,6 +16114,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1167",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "895",
+          "effectIdx3": "0",
+          "effectIds": "1840,895,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1168",
           "name": "瞳に宿す誇り",
           "description": "無所属のスキル発動速度1段階アップ&amp;確率でスキップ・キャンセル無効",
@@ -16180,6 +16194,34 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1173",
+          "name": "暴虐の業欲",
+          "description": "スキル発動速度1段階アップ＆バトル開始時、班の音隠れの里所属1人につき乱舞カウントが3減少",
+          "effectIdx1": "1840",
+          "effectIdx2": "3792",
+          "effectIdx3": "0",
+          "effectIds": "1840,3792,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1174",
+          "name": "老練なる火の守り人",
+          "description": "木ノ葉隠れの里所属の各自が5回行動するまで、受ける全スキルを半減",
+          "effectIdx1": "1204",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1204,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
         },

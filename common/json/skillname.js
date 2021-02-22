@@ -8116,6 +8116,18 @@ window.skillname=[
           "name": "私は、散ってもいい花！！"
         },
         {
+          "cardBattleSkillNameId": "3241",
+          "name": "火遁・火龍炎弾"
+        },
+        {
+          "cardBattleSkillNameId": "3242",
+          "name": "そう年寄り扱いせんでくれ"
+        },
+        {
+          "cardBattleSkillNameId": "3243",
+          "name": "マンダ・獄落蛇業"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
