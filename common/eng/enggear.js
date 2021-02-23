@@ -2765,7 +2765,7 @@ window.enggear=[
           "name": "Hashirama's Maxim",
           "effect": "Cast Speed +2, Start the Battle with 100% Chakra, SPD +75% per Attribute (Max 375%)",
           "normal": "Chance for Cast Speed +2",
-          "charaIds": "12504",
+          "charaIds": "60301",
           "cardIds": "0",
           "charaGroupIds": "0"
      },
@@ -2775,7 +2775,7 @@ window.enggear=[
           "name": "Madara's Maxim",
           "effect": "ATK, DEF, SPD and Skill Damage +120%, Chakra Cost -50%",
           "normal": "ATK, DEF, SPD and Skill Damage +70%",
-          "charaIds": "12504",
+          "charaIds": "60301",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
