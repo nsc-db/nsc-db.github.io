@@ -27060,6 +27060,26 @@ window.ability=[
           "effectIds": "31707,1089,"
         },
         {
+          "abilityId": "2760",
+          "abilityName": "無二の好敵手との共闘",
+          "abilityDescription": "バトル開始・行動時に自身を【忍方陣：創世烈風】状態にする、行動毎に素早さ50%アップ（最大500%）",
+          "abilityEffectDescription": "バトル開始・行動時に自身を【忍方陣：創世烈風】状態にする、行動毎に素早さ50%アップ（最大500%）",
+          "effectIdx1": "3793",
+          "effectIdx2": "3674",
+          "effectIdx3": "3809",
+          "effectIds": "3793,3674,3809,"
+        },
+        {
+          "abilityId": "2761",
+          "abilityName": "忍界震撼の両雄",
+          "abilityDescription": "HP0以下で2回HP全回復、被攻撃時確率で即アクション&amp;確率でHPを基礎値の50%回復、弱体系特殊状態無効",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、被攻撃時確率で即アクション&amp;確率でHPを基礎値の50%回復、弱体系特殊状態無効",
+          "effectIdx1": "2676",
+          "effectIdx2": "1057",
+          "effectIdx3": "874",
+          "effectIds": "2676,1057,874,3278,2709,"
+        },
+        {
           "abilityId": "2762",
           "abilityName": "マダラに次ぐ実力",
           "abilityDescription": "敵に木ノ葉隠れ存在時ｽｷﾙ１急襲(ﾁｬｸﾗ大回復)、HP0で1回HP全回復、高確率で写輪眼除くｽｷﾙ無効&amp;被攻撃時即ｱｸｼｮﾝ",
@@ -27158,6 +27178,66 @@ window.ability=[
           "effectIdx2": "3737",
           "effectIdx3": "3738",
           "effectIds": "3736,3737,3738,3739,"
+        },
+        {
+          "abilityId": "2772",
+          "abilityName": "欲望の共闘",
+          "abilityDescription": "行動後HP25%回復",
+          "abilityEffectDescription": "行動後HP25%回復",
+          "effectIdx1": "1892",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1892,"
+        },
+        {
+          "abilityId": "2773",
+          "abilityName": "蛇悪の共存",
+          "abilityDescription": "被攻撃時、攻撃者に高確率で耐性を無視して縛状態付与",
+          "abilityEffectDescription": "被攻撃時、攻撃者に高確率で耐性を無視して縛状態付与",
+          "effectIdx1": "3791",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3791,"
+        },
+        {
+          "abilityId": "2774",
+          "abilityName": "老練の気骨",
+          "abilityDescription": "最大HPと攻撃力を100%アップし、HP90%以上の時にスキル発動速度1段階アップ",
+          "abilityEffectDescription": "最大HPと攻撃力を100%アップし、HP90%以上の時にスキル発動速度1段階アップ",
+          "effectIdx1": "684",
+          "effectIdx2": "11099",
+          "effectIdx3": "2626",
+          "effectIds": "684,11099,2626,"
+        },
+        {
+          "abilityId": "2775",
+          "abilityName": "次代を信じる心",
+          "abilityDescription": "最大チャクラ量が100アップ、行動後にチャクラが20％回復する",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、行動後にチャクラが20％回復する",
+          "effectIdx1": "813",
+          "effectIdx2": "583",
+          "effectIdx3": "0",
+          "effectIds": "813,583,"
+        },
+        {
+          "abilityId": "2776",
+          "abilityName": "無二の好敵手との共闘",
+          "abilityDescription": "バトル開始・行動時に自身を【忍方陣：真創生烈風】状態にする、行動毎に素早さ50%アップ（最大500%）",
+          "abilityEffectDescription": "バトル開始・行動時に自身を【忍方陣：真創生烈風】状態にする、行動毎に素早さ50%アップ（最大500%）",
+          "effectIdx1": "3794",
+          "effectIdx2": "3674",
+          "effectIdx3": "3810",
+          "effectIds": "3794,3674,3810,"
+        },
+        {
+          "abilityId": "2777",
+          "abilityName": "忍界震撼の両雄",
+          "abilityDescription": "HP0以下で3回HP全回復、被攻撃時確率で即アクション&amp;確率でHPを基礎値の50%回復、弱体系特殊状態無効",
+          "abilityEffectDescription": "HP0以下で3回HP全回復、被攻撃時確率で即アクション&amp;確率でHPを基礎値の50%回復、弱体系特殊状態無効",
+          "effectIdx1": "2676",
+          "effectIdx2": "1789",
+          "effectIdx3": "874",
+          "effectIds": "2676,1789,874,3278,2709,"
         },
         {
           "abilityId": "10000",

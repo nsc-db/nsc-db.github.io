@@ -4213,6 +4213,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "60301",
+          "charaId": "603",
+          "name": "柱間＆マダラ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "60310",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "60501",
           "charaId": "605",
           "name": "サスケ＆イタチ",
@@ -6946,6 +6960,20 @@
           "charaProfileId": "131601",
           "charaId": "1316",
           "name": "超×忍伝結晶",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "131701",
+          "charaId": "1317",
+          "name": "忍魂",
           "detail": null,
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",

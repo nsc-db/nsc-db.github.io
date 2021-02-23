@@ -793,5 +793,9 @@
         {
           "defineKey": "shinobi_sort_card_type_list",
           "defineValue": "1,2,3,4,5,6,7"
+        },
+        {
+          "defineKey": "card_level_max_9",
+          "defineValue": "140"
         }
       ]

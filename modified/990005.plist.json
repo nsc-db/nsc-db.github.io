@@ -1297,5 +1297,35 @@
           "uiIdx": "10028",
           "partyEffects": "3728,3729,3740,3741,",
           "enemyEffects": null
+        },
+        {
+          "battleFieldEffectId": "20001",
+          "name": "忍方陣：創世烈風・壱",
+          "category": "5",
+          "scriptId": "20001",
+          "overWrite": "1",
+          "uiIdx": "20001",
+          "partyEffects": null,
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20002",
+          "name": "忍方陣：創世烈風・弐",
+          "category": "5",
+          "scriptId": "20002",
+          "overWrite": "1",
+          "uiIdx": "20002",
+          "partyEffects": "3798,2538,",
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20003",
+          "name": "忍方陣：創世烈風・参",
+          "category": "5",
+          "scriptId": "20003",
+          "overWrite": "1",
+          "uiIdx": "20003",
+          "partyEffects": "3798,2538,",
+          "enemyEffects": "3796,3797,3795,"
         }
       ]
