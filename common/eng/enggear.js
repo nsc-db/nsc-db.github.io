@@ -18,6 +18,16 @@ window.enggear=[
           "charaIds": "602",
           "cardIds": "0",
           "charaGroupIds": "0"
+},
+{
+          "id": 2305,
+          "type": "Chakra",
+          "name": "Hidden Stone's Forehead Protector",
+          "effect": "None",
+          "normal": "Chakra Cost -7%, HP Recovery Skill Amount +30%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
      },
 {
           "id": 2815,
@@ -38,7 +48,27 @@ window.enggear=[
           "charaIds": "201",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	
+},	
+{
+          "id": 3055,
+          "type": "Additional",
+          "name": "Stone Statue of The Valley of The End (Left)",
+          "effect": "Recover 5% HP and 10% Chakra when attacked",
+          "normal": "Recover 3% HP and 5% Chakra when attacked",
+          "charaIds": "201,204,207,210,13701,13702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3055,
+          "type": "Additional",
+          "name": "Stone Statue of The Valley of The End (Right)",
+          "effect": "Recover 10% HP and 5% Chakra when attacked",
+          "normal": "Recover 5% HP and 3% Chakra when attacked",
+          "charaIds": "102,104,106,107,109,110,111,1901,1902",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 3065,
           "type": "Additional",
@@ -58,7 +88,67 @@ window.enggear=[
           "charaIds": "101",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
+},
+{
+          "id": 3085,
+          "type": "Chakra",
+          "name": "Jade Ring",
+          "effect": "Chakra Recovery +20%, Skill Damage +50%",
+          "normal": "Weapon Skill Damage +10%, Chakra Recovery +10%",
+          "charaIds": "12101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3095,
+          "type": "Skill",
+          "name": "3rd Kazekage (Puppet)",
+          "effect": "Cast Speed +1, Skill Damage +70%",
+          "normal": "Weapon and Magnet Skill Damage +40%, HP -10% every turn",
+          "charaIds": "12101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3105,
+          "type": "Additional",
+          "name": "Sasuke's White Snake",
+          "effect": "HP and Chakra Recovery +10%, Lightning Skill Damage +60%",
+          "normal": "HP Recovery +10%, Lightning Skill Damage +10%",
+          "charaIds": "204,208,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3115,
+          "type": "Resistance",
+          "name": "Sasuke's Waist Cloth",
+          "effect": "Incoming Wind and Unique Skill Damage -50%, Skill Damage +30%",
+          "normal": "Incoming Wind Skill Damage -50%",
+          "charaIds": "204,208,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
+{
+          "id": 3125,
+          "type": "Chakra",
+          "name": "Naruto's Forehead Protector",
+          "effect": "Chakra Cost -10%, HP, ATK and SPD +20%",
+          "normal": "Chakra Cost -5%, SPD +20%",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	 
+{
+          "id": 3305,
+          "type": "Resistance",
+          "name": "Kakashi's Inner",
+          "effect": "HP +40%, Medium Chance for Skill Immunity",
+          "normal": "Chakra Cost -5%, SPD +20%",
+          "charaIds": "1702,1703,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 3345,
           "type": "Skill",
@@ -98,7 +188,17 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
+{
+          "id": 4305,
+          "type": "Additional",
+          "name": "Grilled Rice Cake",
+          "effect": "None",
+          "normal": "DEF +2,017, Debuff and Status Effect Duration Reduction, Low Chance to Dodge Skills",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 4425,
           "type": "Additional",
@@ -108,7 +208,27 @@ window.enggear=[
           "charaIds": "602",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
+{
+          "id": 5305,
+          "type": "Additional",
+          "name": "Aoda Netsuke (Copper)",
+          "effect": "Incoming Wind and Taijutsu Skill Damage -50%, Fire Skill Damage +50%",
+          "normal": "Incoming Wind and Taijutsu Skill Damage Reduction, Fire Skill Damage +20%",
+          "charaIds": "201,204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6305,
+          "type": "Skill",
+          "name": "Hashirama's Artificial Body",
+          "effect": "HP Recovery +20%, Wood Skill Damage +100%",
+          "normal": "Wood Skill Damage +30%",
+          "charaIds": "0",
+          "cardIds": "20040905,20030815",
+          "charaGroupIds": "0"
+},
 {
           "id": 7995,
           "type": "Stats",
@@ -278,7 +398,37 @@ window.enggear=[
           "charaIds": "4301,4302",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
+{
+          "id": 203105,
+          "type": "Skill",
+          "name": "Tenten's Jacket",
+          "effect": "Skill Damage and SPD +120%, Chakra Cost -50%",
+          "normal": "Skill Damage and SPD +30%",
+          "charaIds": "1202",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 203115,
+          "type": "Additional",
+          "name": "Kisame's Teeth",
+          "effect": "Skill Damage +100%, Chance to Dodge Skills, 2 Turns: Fixed Damage Deals 0 Damage",
+          "normal": "Skill Damage +50%",
+          "charaIds": "11701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 203125,
+          "type": "Stats",
+          "name": "Kisame's Sandals",
+          "effect": "HP and SPD +120%, Status Effect and Cancel Immunity",
+          "normal": "HP and SPD +30%",
+          "charaIds": "11701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 203305,
           "type": "Chakra",
@@ -1538,7 +1688,27 @@ window.enggear=[
           "charaIds": "50907",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
+},
+{
+          "id": 308195,
+          "type": "Food",
+          "name": "5th Anniversary Ice Parfait",
+          "effect": "None",
+          "normal": "Start the Battle with 55% Chakra, 5 Turns: SPD and Skill Damage +105%%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
+{
+          "id": 308205,
+          "type": "Additional",
+          "name": "5th Anniversary Logo",
+          "effect": "None",
+          "normal": "5 Turns: Chance to Fuly Recover Chakra when attacked",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
 {
           "id": 309015,
           "type": "Stats",
@@ -1718,6 +1888,16 @@ window.enggear=[
           "charaIds": "209",
           "cardIds": "0",
           "charaGroupIds": "0"
+},
+{
+          "id": 309195,
+          "type": "Stats",
+          "name": "19 Million DL Commemorative Logo",
+          "effect": "None",
+          "normal": "HP +190,000, 19 Turns: HP Recovery +19% and SPD +190",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
      },
 {
           "id": 310015,
@@ -1878,6 +2058,46 @@ window.enggear=[
           "charaIds": "12102",
           "cardIds": "0",
           "charaGroupIds": "0"
+},
+{
+          "id": 310175,
+          "type": "Food 2",
+          "name": "Naruto Uzumaki Birthday Cake",
+          "effect": "None",
+          "normal": "All Characters: 2 Turns: Cast Speed +2, 7 Turns: SPD +61% and Skill Damage +101%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 310185,
+          "type": "Resistance",
+          "name": "Amulet of The Dream Limit",
+          "effect": "None",
+          "normal": "Damage Cut +90% against Kakashi enemies",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 310195,
+          "type": "Resistance",
+          "name": "Training Scarecrow (God Killer)",
+          "effect": "None",
+          "normal": "GK Characters: 3 Turns: Negative Special State Immunity",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 310205,
+          "type": "Additional",
+          "name": "5.5th Anniversary Logo",
+          "effect": "None",
+          "normal": "5 Turns: HP and Chakra Recovery +25% and Incoming Skill Damage -50%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
      },
 {
           "id": 311015,
@@ -2008,17 +2228,7 @@ window.enggear=[
           "charaIds": "1103",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
-{
-          "id": 311155,
-          "type": "Additional",
-          "name": "Origin of the Name of the Hidden Leaf Village",
-          "effect": "Cast Speed +2, Chance for Instant Action upon Withstand, Withstand +1 per Hashirama ally or enemy",
-          "normal": "If there's a Hashirama ally: Withstand +1",
-          "charaIds": "13703",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
+},
 {
           "id": 311145,
           "type": "Skill",
@@ -2028,7 +2238,87 @@ window.enggear=[
           "charaIds": "13703",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
+{
+          "id": 311155,
+          "type": "Additional",
+          "name": "Origin of the Name of the Hidden Leaf Village",
+          "effect": "Cast Speed +2, Chance for Instant Action upon Withstand, Withstand +1 per Hashirama ally or enemy",
+          "normal": "If there's a Hashirama ally: Withstand +1",
+          "charaIds": "13703",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 311165,
+          "type": "Food",
+          "name": "Mushroom Porridge Ramen",
+          "effect": "None",
+          "normal": "2 Turns: ATK, SPD and DEF +20%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 311175,
+          "type": "Food",
+          "name": "Fresh River Fish Ramen",
+          "effect": "None",
+          "normal": "2 Turns: SPD and Skill Damage +20%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 311185,
+          "type": "Food",
+          "name": "Inari Sushi Ramen",
+          "effect": "None",
+          "normal": "2 Turns: Recover 20% Chakra when attacked",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 311195,
+          "type": "Food",
+          "name": "Mushroom Porridge Ramen: Green",
+          "effect": "None",
+          "normal": "HP +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 311205,
+          "type": "Food",
+          "name": "Mushroom Porridge Ramen: Black",
+          "effect": "None",
+          "normal": "ATK +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 311215,
+          "type": "Food",
+          "name": "Fresh River Fish Ramen: Black",
+          "effect": "None",
+          "normal": "DEF +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 311225,
+          "type": "Food",
+          "name": "Inari Sushi Ramen: Super",
+          "effect": "None",
+          "normal": "HP +200,000, 20 Turns: SPD and Skill Damage +120%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 312015,
           "type": "Resistance",
@@ -2231,7 +2521,7 @@ window.enggear=[
 },
 	 {
           "id": 312215,
-          "type": "Skill",
+          "type": "Stats",
           "name": "Cow Stamp",
           "effect": "None",
           "normal": "ATK +202.1%, Crit Damage +2,021%, Chakra Recovery +20.21, Normal Attack Always Hit",
@@ -2241,7 +2531,7 @@ window.enggear=[
 },
 	 {
           "id": 312225,
-          "type": "Stats",
+          "type": "Skill",
           "name": "Happy New Year Logo 2021",
           "effect": "None",
           "normal": "Skill Damage +120.2%, At the Start of Battle, Very Low Chance for SPD +202.1% for 1 Turn",
@@ -2465,6 +2755,26 @@ window.enggear=[
           "name": "Paper Wings",
           "effect": "Skill Damage +150%, HP and Chakra Recovery +25%, Chance to Remove Negative Special State every turn",
           "normal": "Skill Damage +50%",
+          "charaIds": "12504",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 402115,
+          "type": "Skill",
+          "name": "Hashirama's Maxim",
+          "effect": "Cast Speed +2, Start the Battle with 100% Chakra, SPD +75% per Attribute (Max 375%)",
+          "normal": "Chance for Cast Speed +2",
+          "charaIds": "12504",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 402125,
+          "type": "Stats",
+          "name": "Madara's Maxim",
+          "effect": "ATK, DEF, SPD and Skill Damage +120%, Chakra Cost -50%",
+          "normal": "ATK, DEF, SPD and Skill Damage +70%",
           "charaIds": "12504",
           "cardIds": "0",
           "charaGroupIds": "0"

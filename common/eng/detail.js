@@ -1,5 +1,89 @@
 window.detail=[
 {
+          "id": 20070210,
+          "name": "Hiruzen Sarutobi",
+          "subtext": "A Veteran Fire Guardian",
+
+          "lead": "Konoha Characters: 5 Turns: Incoming Skill Damage -50%",
+
+          "s1n": "Fire Style: Dragon Flame Bomb",
+          "s1": "Deal 7% + 100,000 to target enemy. If there's a Konoha ally: Deal 3x more damage.",
+		  "s1ntr": "Fire",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "Don't Treat Me As Old",
+          "s2": "Party ATK and SPD +80%",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Veteran Spirit",
+          "a1": "HP and ATK +100%, HP >=90%: Cast Speed +1",
+
+          "a2n": "A Heart That Believes in The Next Generation",
+          "a2": "Chakra +100, Chakra Recovery +20%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 50070201,
+          "name": "Orochimaru",
+          "subtext": "Violent Desire",
+
+          "lead": "Oto Characters: At the Start of Battle, -3 Ranbu CD per Oto ally and Cast Speed +1",
+
+          "s1n": "Manda: Hellfall Snake",
+          "s1": "Deal 1,000,000 Fixed Damage to all enemies. Deal 5 Additional Attacks dealing 100,000 Fixed Damage to a random enemy. High Chance to Inflict 'Bind' State. Grants 'Sage Snake' State to Orochimaru, Kabuto and Sasuke allies. [Bind: Skill Damage and SPD -100%] [Sage Snake: SPD and Skill Damage +200%. If there's an enemy is under the 'Bind' State: Revive +∞] (Always Hit)",
+          "s1ntr": "Summoning",
+          "s1cs": "",
+          "s1c": 0,
+
+          "s2n": "",
+          "s2": "",
+          "s2ntr": "",
+          "s2cs": "",
+          "s2c": 0,
+
+          "a1n": "Same Desire",
+          "a1": "HP Recovery +25%",
+
+          "a2n": "Coexistence of Evil Snake",
+          "a2": "When Attacked: High Chance to Ignore Resistance and Infliict 'Bind'",
+
+          "a3n": "",
+          "a3": ""
+        },
+{
+          "id": 20070207,
+          "name": "Hashirama and Madara",
+          "subtext": "God of Shinobi and Master of Fire",
+
+          "lead": "All Characters: Cast Speed +1 and Chakra Cost -50%",
+
+          "s1n": "Wood Style: Wood Golem Jutsu",
+          "s1": "Deal 1,500,000 Fixed Damage to a target enemy. Remove Enemy Terrain. If it's a Non-Konoha enemy: Deal 9 Additional Attacks Dealing 7% + 250,000. [Violent Creation of Reality: Advance to the 2nd Stage of Shinobi Formation when Granted. Increase Counter when using a Skill. When Counter is at 5, Advance to the 3rd State of Shinobi Formation. Increase Counter by 2 when using a different Skill alternately. Shinobi Formation effect can't be overwritten to a lower stage effect] (Always Hit)",
+		  "s1ntr": "Wood",
+          "s1cs": "Fastest",
+          "s1c": 100,
+
+          "s2n": "Majestic Attire: Susano'o",
+          "s2": "Deal 7% + 1,750,000 to a target enemy. Remove enemy Positive Special and God State. If it's a Non-Konoha enemy: Deal 7 Additional Attacks. [Violent Creation of Reality: 1st Stage: (Enemy): High chance to Disable First Strike, Insta Cast and Instant Action. 2nd Stage: (Party): Chance to Remove Negative Special and God State per turn. SPD +250%. 3rd State: (Enemy): Invalidate Withstand, Revive and Immortality] (Always Hit)",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 100,
+
+          "a1n": "Fighting with a Rival",
+          "a1": "Grant 'Violent Creation of Reality' Shinobi Formation at the Start of Battle and Every Turn, SPD +50% per turn (Max 500%)",
+
+          "a2n": "Rivals that Shook the Ninja World",
+          "a2": "Chance to Recover 50% HP and/or Grant Instant Action when attacked, Revive +3",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow."
+      },
+{
           "id": 20001603,
           "name": "Jiraiya",
           "subtext": "The Best of The Heart",
@@ -3395,7 +3479,7 @@ window.detail=[
           "lead": "If there's a None enemy: At the Start of Battle, Inflict 'Disable Positive Special State'",
 
           "s1n": "Storm: Cherry Blossom Sprint",
-          "s1": "Deals 7% + 580,000 to target enemy. Deal 2 Additional Attacks dealing 210,000 Fixed Damage. Grant 'Battle Mode' State to self. If in 'Battle Mode' State: Remove Positive Special State to all enemies. [Battle Mode: SPD and Skill Damage +200%, Cast Speed +2 and Chakra Cost is set to 0] (Always Hit)",
+          "s1": "Deals 7% + 580,000 to target enemy. Deal 2 Additional Attacks dealing 210,000 Fixed Damage. Grant 'Battle Mode' State to self. If in 'Battle Mode' State: Remove Positive Special State to all enemies. [Battle Mode: SPD and Skill Damage +200%, Cast Speed +2 and Set Chakra Cost to 0] (Always Hit)",
           "s1ntr": "Taijutsu",
           "s1cs": "Fastest",
           "s1c": 70,
