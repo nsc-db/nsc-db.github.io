@@ -4633,7 +4633,7 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "You Can't Beat Me",
-          "s2": "Own SPD and Skill Damage +200%. Grant 'Seal Inferno' State to self. Remove Party Negative Special and God State [Seal Inferno: Remove and Immune Debuff, Status Effect, Genjutsu, Negative Special and God State Ignore Resistance and Skill Dodge and Inflict 'Seal' and 1 Turn of Remove and Immune to Positive Special and God State to God enemies]",
+          "s2": "Own SPD and Skill Damage +200%. Grant 'Seal Inferno' State to self. Remove Party Negative Special and God State [Seal Inferno: Remove and Immune to Debuff, Status Effect, Genjutsu, Negative Special and God State. Ignore Resistance and Skill Dodge and Inflict 'Seal' and 1 Turn of Remove and Immune to Positive Special and God State to God enemies]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
