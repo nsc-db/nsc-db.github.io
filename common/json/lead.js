@@ -16226,6 +16226,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1175",
+          "name": "集執の蛇龍仙",
+          "description": "知属性のキャラが行動後にHP・チャクラ40％回復",
+          "effectIdx1": "3799",
+          "effectIdx2": "1830",
+          "effectIdx3": "0",
+          "effectIds": "3799,1830,",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

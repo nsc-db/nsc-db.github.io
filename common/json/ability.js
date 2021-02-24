@@ -27240,6 +27240,26 @@ window.ability=[
           "effectIds": "2676,1789,874,3278,2709,"
         },
         {
+          "abilityId": "2778",
+          "abilityName": "名高き者への羨望",
+          "abilityDescription": "HP0以下で3回耐え超高確率で即死無効｡被攻撃時､耐性無視して攻撃者に各確率で短い間混乱･魅了･封印･気絶･毒付与",
+          "abilityEffectDescription": "HP0以下で3回耐え超高確率で即死無効｡被攻撃時､耐性無視して攻撃者に各確率で短い間混乱･魅了･封印･気絶･毒付与",
+          "effectIdx1": "1789",
+          "effectIdx2": "3800",
+          "effectIdx3": "3801",
+          "effectIds": "1789,3800,3801,3802,3803,3804,3805,"
+        },
+        {
+          "abilityId": "2779",
+          "abilityName": "己を知らぬ強者",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時敵全体を1回行動まで強化系特殊状態不可。敵に木ノ葉ｷｬﾗ生存で被攻撃時に高確率で即ｱｸｼｮﾝ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時敵全体を1回行動まで強化系特殊状態不可。敵に木ノ葉ｷｬﾗ生存で被攻撃時に高確率で即ｱｸｼｮﾝ",
+          "effectIdx1": "3806",
+          "effectIdx2": "3807",
+          "effectIdx3": "0",
+          "effectIds": "3806,3807,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

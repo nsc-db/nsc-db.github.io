@@ -8128,6 +8128,14 @@ window.skillname=[
           "name": "マンダ・獄落蛇業"
         },
         {
+          "cardBattleSkillNameId": "3244",
+          "name": "水遁・蛟奔流"
+        },
+        {
+          "cardBattleSkillNameId": "3245",
+          "name": "ずっと付け足してきたんだ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
