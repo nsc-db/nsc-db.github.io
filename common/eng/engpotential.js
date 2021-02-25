@@ -362,7 +362,7 @@ window.engpotential=[
         {
           "abilityId": "310002",
           "abilityName": "その他",
-          "abilityDescription": "Protect Five village allies From Single Target Skills",
+          "abilityDescription": "Protect Five Village allies From Single Target Skills",
           "abilityEffectDescription": "五大里所属への単体ｽｷﾙ攻撃を受ける※複数人発動は最後が有効",
           "effectIdx1": "2431",
           "effectIdx2": "0",
@@ -1762,7 +1762,7 @@ window.engpotential=[
         {
           "abilityId": "310143",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "ATK, DEF and SPD +25% per turn (75%)",
+          "abilityDescription": "ATK, DEF and SPD +25% per turn (Max 75%)",
           "abilityEffectDescription": "行動するたび攻防速25%アップ(3回まで)",
           "effectIdx1": "872",
           "effectIdx2": "873",

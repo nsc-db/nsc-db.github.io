@@ -40,6 +40,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 3025,
+          "type": "Skill",
+          "name": "Lee's Bandage",
+          "effect": "Skill Damage +70%, SPD +40%, HP Recovery +10%",
+          "normal": "Skill Damage +30%, SPD +20%",
+          "charaIds": "1101,1102,1103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3035,
           "type": "Chakra",
           "name": "Sasuke's Forehead Protector",
@@ -340,6 +350,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 203025,
+          "type": "Skill",
+          "name": "Itachi's Susanoo",
+          "effect": "Skill Damage +120%, Cast Speed +1, 3 Turns: SPD +80%",
+          "normal": "Skill Damage +50%",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
+{
           "id": 203035,
           "type": "Skill",
           "name": "Peach Blossom",
@@ -563,10 +583,200 @@ window.enggear=[
           "id": 301165,
           "type": "Stats",
           "name": "Shino's Sandals",
-          "effect": "SPD +30% per Konoha Ally (Max 120%) and Cast Speed +1",
+          "effect": "SPD +30% per Konoha Ally (Max 150%) and Cast Speed +1",
           "normal": "SPD +30%",
           "charaIds": "901,902",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302015,
+          "type": "Chakra",
+          "name": "Hatred for the Senju Clan",
+          "effect": "3 Turns: Set Chakra Cost to 0, 1 Turn: Fixed Damage deals 0 Damage",
+          "normal": "3 Turns: Chakra Cost -20%",
+          "charaIds": "4702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302025,
+          "type": "Additional",
+          "name": "Izuna's Belt",
+          "effect": "HP Recovery +33%, Cast Speed +1 (HP >=80%: Additional +1)",
+          "normal": "HP Recovery +20%",
+          "charaIds": "4702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302035,
+          "type": "Chakra",
+          "name": "Suspicion of the Uchiha Clan",
+          "effect": "1 Turn: Set Chakra Cost to 0, SPD +40% every turn (Max 200%)",
+          "normal": "1 Turn: Chakra Cost -20%, SPD +20% every turn (Max 80%)",
+          "charaIds": "2003",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302045,
+          "type": "Additional",
+          "name": "Tobirama's Military Headband",
+          "effect": "Grant Instant Action upon Withstanding, 1 Turn: Skip Immunity",
+          "normal": "1 Turn: Skip Immunity",
+          "charaIds": "2003",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302055,
+          "type": "Resistance",
+          "name": "Prayer of Peace Paper Plane",
+          "effect": "3 Turns: Damage Cut +50%, Skill Damage +100%",
+          "normal": "3 Turns: Low Chance for Damage Cut +25%",
+          "charaIds": "12501,12503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302065,
+          "type": "Stats",
+          "name": "Paper Bouquet",
+          "effect": "ATK and DEF +100%, SPD +80%",
+          "normal": "ATK and DEF +50%",
+          "charaIds": "12501,12503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302075,
+          "type": "Resistance",
+          "name": "Materialized Spirits",
+          "effect": "2 Turns: Fixed Damage deals 0 Damage, Chakra and HP Recovery +25%",
+          "normal": "1 Turn: Chance for Fixed Damage deals 0 Damage",
+          "charaIds": "11201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302085,
+          "type": "Additional",
+          "name": "Tayuya's Belt",
+          "effect": "Cast Speed +1, Genjutsu Skill Damage +100%",
+          "normal": "2 Turns: Cast Speed +1",
+          "charaIds": "11201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302095,
+          "type": "Chakra",
+          "name": "Kabuto's Robe",
+          "effect": "2 Turns: Set Chakra Cost to 0, SPD +100%, Cast Speed +1",
+          "normal": "1 Turn: Chakra Cost -20%",
+          "charaIds": "10403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302105,
+          "type": "Additional",
+          "name": "Orochimaru's Blood",
+          "effect": "HP and Skill Damage +200%, If there's a Five Village enemy: 2 Turns: Negative Special State Immunity",
+          "normal": "HP +80%",
+          "charaIds": "10403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302115,
+          "type": "Skill",
+          "name": "Strength of a Hundred",
+          "effect": "Skill Damage +100%, ATK +250%, 5 Turns: Skill Damage +100% (Max 200%)",
+          "normal": "Summoning Skill Damage +40%, ATK +80%",
+          "charaIds": "307",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302125,
+          "type": "Resistance",
+          "name": "Sakura's Forehead Protector (Ninja War)",
+          "effect": "HP +100%, Cast Speed +1, HP >50%: Grant 'Resist' State to Party",
+          "normal": "HP +50%, Debuff and Status Effect Duration Reduction",
+          "charaIds": "307",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302135,
+          "type": "Skill",
+          "name": "Rin's Forehead Protector",
+          "effect": "Skill Damage and SPD +80%",
+          "normal": "Skill Damage and SPD +20%",
+          "charaIds": "51001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302145,
+          "type": "Chakra",
+          "name": "Rin's Face Paint",
+          "effect": "1 Turn: Set Chakra Cost to 0, Chakra Recovery +50%",
+          "normal": "Chakra Recovery +20%",
+          "charaIds": "51001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302155,
+          "type": "Skill",
+          "name": "NSC Grand Prize 2019 (God)",
+          "effect": "Skill Damage +150%, SPD +50%, HP Recovery +30%",
+          "normal": "Six Paths Skill Damage +50%, SPD +30%",
+          "charaIds": "0",
+          "cardIds": "20050103",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302165,
+          "type": "Skill",
+          "name": "NSC Grand Prize 2019 (God Killer)",
+          "effect": "Skill Damage +150%, SPD +50%, HP Recovery +30%",
+          "normal": "Sharingan Skill Damage +50%, SPD +30%",
+          "charaIds": "0",
+          "cardIds": "20050506",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302175,
+          "type": "Skill",
+          "name": "NSC Grand Prize 2019 (Origin)",
+          "effect": "Skill Damage +150%, SPD +50%, HP Recovery +30%",
+          "normal": "Weapon Skill Damage +50%, SPD +30%",
+          "charaIds": "0",
+          "cardIds": "20050709",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302185,
+          "type": "Resistance",
+          "name": "NSC Grand Prize 2019 (Destroyer)",
+          "effect": "HP +200,000, 3 Turns: High Chance to Dodge Skills, 5 Turns: Incoming Skill Damage -50%",
+          "normal": "HP +50,000, 2 Turns: Incoming Skill Damage Reduced",
+          "charaIds": "0",
+          "cardIds": "20050112",
+          "charaGroupIds": "0"
+},
+{
+          "id": 302195,
+          "type": "Skill",
+          "name": "NSC Grand Prize 2019 (EX)",
+          "effect": "Skill Damage +150%, SPD +50%, HP Recovery +30%",
+          "normal": "Sharingan Skill Damage +50%, SPD +30%",
+          "charaIds": "0",
+          "cardIds": "20050514",
           "charaGroupIds": "0"
 },
 {
@@ -2776,6 +2986,26 @@ window.enggear=[
           "effect": "ATK, DEF, SPD and Skill Damage +120%, Chakra Cost -50%",
           "normal": "ATK, DEF, SPD and Skill Damage +70%",
           "charaIds": "60301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 402135,
+          "type": "Stats",
+          "name": "My Favorite Grilled Fish",
+          "effect": "HP, DEF and SPD +100%, Recover 20% HP when attacked",
+          "normal": "HP, DEF and SPD +50%",
+          "charaIds": "10403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 402145,
+          "type": "Skill",
+          "name": "Snake Haw that Blocks the Light",
+          "effect": "Skill Damage +150%, Cast Speed +1",
+          "normal": "Water Skill Damage +50%, Cast Speed +1",
+          "charaIds": "10403",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
