@@ -3099,6 +3099,16 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "315",
+          "category": "4",
+          "iconId": "1368",
+          "name": "烈風神仙",
+          "description": "様々な効果無効。ﾁｬｸﾗ消費0。“暁”にｽｷﾙ時確率耐性弱点化&amp;倒すとｱｸｼｮﾝ。解除自身ｽｷｯﾌﾟ",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "316",
           "category": "5",
           "iconId": "1369",

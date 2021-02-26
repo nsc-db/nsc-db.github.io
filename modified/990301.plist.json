@@ -27231,5 +27231,39 @@
           "crystalImageId": "402275",
           "recipeId": "40227",
           "recipeName": "ガム"
+        },
+        {
+          "crystalId": "40228",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "3237",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "3237,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "仙術・螺旋連丸",
+          "crystalDescription": "1回行動まで弱体系特殊状態無効",
+          "crystalImageId": "402285",
+          "recipeId": "40228",
+          "recipeName": "仙術・螺旋連丸"
+        },
+        {
+          "crystalId": "40229",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "1540",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1540,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "仙法・大玉螺旋丸",
+          "crystalDescription": "1回行動までスキル発動速度2段階アップ",
+          "crystalImageId": "402295",
+          "recipeId": "40229",
+          "recipeName": "仙法・大玉螺旋丸"
         }
       ]

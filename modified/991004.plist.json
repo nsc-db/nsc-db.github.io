@@ -6149,6 +6149,24 @@
           "speechCharactorName": "秋道チョウジ"
         },
         {
+          "speechCharactorId": "1063",
+          "cardId": "112",
+          "speechCharactorImgId": "112",
+          "speechCharactorName": "ペイン(修羅道)"
+        },
+        {
+          "speechCharactorId": "1064",
+          "cardId": "20040704",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ペイン(天道)"
+        },
+        {
+          "speechCharactorId": "1065",
+          "cardId": "230",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "九尾"
+        },
+        {
           "speechCharactorId": "5001",
           "cardId": "50000001",
           "speechCharactorImgId": "0",

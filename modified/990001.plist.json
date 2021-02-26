@@ -44,15 +44,6 @@
           "resetTime": null
         },
         {
-          "loginBonusId": "475",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.11 00:00:00",
-          "closeTime": "2021.02.11 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": null
-        },
-        {
           "loginBonusId": "476",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
@@ -213,6 +204,15 @@
           "closeTime": "2021.02.19 23:59:59",
           "isMidnightReset": "0",
           "resetTime": null
+        },
+        {
+          "loginBonusId": "496",
+          "name": "ガマブン太の月間ログインボーナス",
+          "type": "2",
+          "openTime": "2021.03.01 00:00:00",
+          "closeTime": "2021.03.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
         },
         {
           "loginBonusId": "501",

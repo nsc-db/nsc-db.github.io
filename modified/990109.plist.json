@@ -27259,6 +27259,26 @@
           "effectIds": "3806,3807,"
         },
         {
+          "abilityId": "2782",
+          "abilityName": "仙人モードの実力",
+          "abilityDescription": "バトル開始・行動時確率で自身に烈風神仙付与（敵に“暁”存在時確実）、行動毎に素早さ50%アップ（最大1,000%）",
+          "abilityEffectDescription": "バトル開始・行動時確率で自身に烈風神仙付与（敵に“暁”存在時確実）、行動毎に素早さ50%アップ（最大1,000%）",
+          "effectIdx1": "3811",
+          "effectIdx2": "3812",
+          "effectIdx3": "3813",
+          "effectIds": "3811,3812,3813,3837,3838,"
+        },
+        {
+          "abilityId": "2783",
+          "abilityName": "飛躍する新術",
+          "abilityDescription": "バトル開始時に確率で先制（敵に“暁”存在時確実）、HP0以下で2回HP全回復（敵に“暁”存在時4回全回復）",
+          "abilityEffectDescription": "バトル開始時に確率で先制（敵に“暁”存在時確実）、HP0以下で2回HP全回復（敵に“暁”存在時4回全回復）",
+          "effectIdx1": "2637",
+          "effectIdx2": "3109",
+          "effectIdx3": "3814",
+          "effectIds": "2637,3109,3814,1057,874,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29259,6 +29279,16 @@
           "effectIds": "229304,228350,3758,3759,3760,3761,"
         },
         {
+          "abilityId": "200017",
+          "abilityName": "体属性特化・旋風",
+          "abilityDescription": "体属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラが素早さ70%アップ",
+          "abilityEffectDescription": "体属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラが素早さ70%アップ",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "3815",
+          "effectIds": "229204,228250,3815,3817,3818,3819,"
+        },
+        {
           "abilityId": "210001",
           "abilityName": "vs技ダメカット＆弱点扱い",
           "abilityDescription": "心属性ボス用　技属性からのダメ50%カット＆技属性に食らわせた時弱点で食らわせる",
@@ -31167,6 +31197,56 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3227,"
+        },
+        {
+          "abilityId": "310152",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "被攻撃時にスキップ無効",
+          "abilityEffectDescription": "被攻撃時にスキップ無効",
+          "effectIdx1": "3820",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3820,"
+        },
+        {
+          "abilityId": "310153",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "行動後HP20%回復",
+          "abilityEffectDescription": "行動後HP20%回復",
+          "effectIdx1": "2500",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2500,"
+        },
+        {
+          "abilityId": "310154",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "高確率で敵の地形効果無効",
+          "abilityEffectDescription": "高確率で敵の地形効果無効",
+          "effectIdx1": "3821",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3821,"
+        },
+        {
+          "abilityId": "310155",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "高確率で即死無効",
+          "abilityEffectDescription": "高確率で即死無効",
+          "effectIdx1": "3244",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3244,"
+        },
+        {
+          "abilityId": "310157",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "行動後確率で次の行動まで素早さ200%アップ",
+          "abilityEffectDescription": "行動後確率で次の行動まで素早さ200%アップ",
+          "effectIdx1": "3823",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3823,"
         },
         {
           "abilityId": "801187",
