@@ -10744,6 +10744,11 @@
           "gachaTicketImgId": "4783"
         },
         {
+          "gachaTicketId": "4785",
+          "gachaTicketName": "カブト忍具ガチャチケット",
+          "gachaTicketImgId": "4785"
+        },
+        {
           "gachaTicketId": "4786",
           "gachaTicketName": "くノ一忍具ガチャチケット",
           "gachaTicketImgId": "3964"
@@ -10922,6 +10927,21 @@
           "gachaTicketId": "4821",
           "gachaTicketName": "忍にんにんの月2021記念ガチャチケット",
           "gachaTicketImgId": "4821"
+        },
+        {
+          "gachaTicketId": "4822",
+          "gachaTicketName": "音隠れの里確定・特別ガチャチケット",
+          "gachaTicketImgId": "4822"
+        },
+        {
+          "gachaTicketId": "4823",
+          "gachaTicketName": "薬師カブト誕生記念ガチャチケット",
+          "gachaTicketImgId": "4823"
+        },
+        {
+          "gachaTicketId": "4824",
+          "gachaTicketName": "薬師カブト誕生記念・祭",
+          "gachaTicketImgId": "4823"
         },
         {
           "gachaTicketId": "4825",

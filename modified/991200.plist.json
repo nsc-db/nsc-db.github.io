@@ -16000,5 +16000,31 @@
           "effectIdx3": "1335",
           "effectIdx4": "895",
           "effectIds": "736,12111,1335,895,30011,"
+        },
+        {
+          "crystalOverwriteEffectId": "1249",
+          "targetCrystal": "40213",
+          "description": "最大HP・防御・素早さ100%アップ、ダメージを受けた時にHPが20%回復",
+          "charaIds": "10403,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "12099",
+          "effectIdx3": "13099",
+          "effectIdx4": "1167",
+          "effectIds": "684,12099,13099,1167,"
+        },
+        {
+          "crystalOverwriteEffectId": "1250",
+          "targetCrystal": "40214",
+          "description": "全スキルダメージ150%アップ、スキル発動速度1段階アップ",
+          "charaIds": "10403,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "794,1840,"
         }
       ]

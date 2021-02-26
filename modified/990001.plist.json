@@ -44,51 +44,6 @@
           "resetTime": null
         },
         {
-          "loginBonusId": "464",
-          "name": "猿飛ヒルゼン誕生日ログインボーナス",
-          "type": "2",
-          "openTime": "2021.02.08 00:00:00",
-          "closeTime": "2021.02.08 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": null
-        },
-        {
-          "loginBonusId": "465",
-          "name": "うちはイズナ・うちはオビト誕生日ログインボーナス",
-          "type": "2",
-          "openTime": "2021.02.10 00:00:00",
-          "closeTime": "2021.02.10 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": null
-        },
-        {
-          "loginBonusId": "472",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.08 00:00:00",
-          "closeTime": "2021.02.08 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": null
-        },
-        {
-          "loginBonusId": "473",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.09 00:00:00",
-          "closeTime": "2021.02.09 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": null
-        },
-        {
-          "loginBonusId": "474",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.10 00:00:00",
-          "closeTime": "2021.02.10 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": null
-        },
-        {
           "loginBonusId": "475",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
