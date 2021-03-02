@@ -27266,5 +27266,22 @@ window.gear=[
           "crystalImageId": "402295",
           "recipeId": "40229",
           "recipeName": "仙法・大玉螺旋丸"
+        },
+        {
+          "crystalId": "40317",
+          "crystalType": "13",
+          "crystalRare": "5",
+          "effectIdx1": "21000",
+          "effectIdx2": "3834",
+          "effectIdx3": "3835",
+          "effectIdx4": "3836",
+          "effectIds": "21000,3834,3835,3836,",
+          "money": "1000000",
+          "saleMoney": "2500",
+          "crystalName": "火の勲章II",
+          "crystalDescription": "ｽｷﾙ発動速度1段階ｱｯﾌﾟ。木ノ葉隠れ所属の場合、素早さ350ｱｯﾌﾟ、全ｽｷﾙﾀﾞﾒｰｼﾞ120％ｱｯﾌﾟ、ﾁｬｸﾗ消費量半減",
+          "crystalImageId": "403175",
+          "recipeId": "40317",
+          "recipeName": "火の勲章II"
         }
 ]
