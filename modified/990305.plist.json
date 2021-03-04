@@ -1541,6 +1541,18 @@
           "materialImageId": "158"
         },
         {
+          "materialId": "264",
+          "materialName": "無刻の勲章(火)",
+          "materialRare": "5",
+          "materialImageId": "264"
+        },
+        {
+          "materialId": "265",
+          "materialName": "豪火のチャクラ",
+          "materialRare": "5",
+          "materialImageId": "265"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

@@ -3095,10 +3095,22 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "526",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "527",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "529",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
         },
         {
           "shopExchangeItemId": "1001",
@@ -3642,6 +3654,12 @@
         },
         {
           "shopExchangeItemId": "1099",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1100",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
@@ -4221,6 +4239,12 @@
           "itemName": "忍交換券",
           "measure": "0",
           "itemImgId": "2110"
+        },
+        {
+          "shopExchangeItemId": "2111",
+          "itemName": "ひな祭り2021交換券",
+          "measure": "0",
+          "itemImgId": "2111"
         },
         {
           "shopExchangeItemId": "2112",

@@ -8697,5 +8697,30 @@
           "appUiId": "1741",
           "uiKey": "SellMessageCardType108",
           "text": "乱舞キャラが含まれています！"
+        },
+        {
+          "appUiId": "1810",
+          "uiKey": "TokenTodayProgress",
+          "text": "今日の達成状況"
+        },
+        {
+          "appUiId": "1811",
+          "uiKey": "TokenDailyMission",
+          "text": "今日の修業"
+        },
+        {
+          "appUiId": "1812",
+          "uiKey": "TokenDailyMissionClear",
+          "text": "達成済"
+        },
+        {
+          "appUiId": "1813",
+          "uiKey": "TokenMonthlyMission",
+          "text": "今月の修業"
+        },
+        {
+          "appUiId": "1814",
+          "uiKey": "TokenMonthlyMissionClear",
+          "text": "全達成"
         }
       ]
