@@ -27299,6 +27299,46 @@
           "effectIds": "2637,3109,3814,1057,874,"
         },
         {
+          "abilityId": "2784",
+          "abilityName": "愛を見つけし人柱力と火影",
+          "abilityDescription": "バトル開始時・行動後に【忍方陣：赤血閃光】を展開。被攻撃時、確率で即アクション。確率で再行動",
+          "abilityEffectDescription": "バトル開始時・行動後に【忍方陣：赤血閃光】を展開。被攻撃時、確率で即アクション。確率で再行動",
+          "effectIdx1": "3830",
+          "effectIdx2": "3832",
+          "effectIdx3": "3620",
+          "effectIds": "3830,3832,3620,3829,"
+        },
+        {
+          "abilityId": "2785",
+          "abilityName": "火の意志を継ぐ忍夫婦",
+          "abilityDescription": "HP0以下で2回HP全回復。高確率で弱体・幻・状態異常無効。行動後に高確率で弱体系特殊状態解除",
+          "abilityEffectDescription": "HP0以下で2回HP全回復。高確率で弱体・幻・状態異常無効。行動後に高確率で弱体系特殊状態解除",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3849",
+          "effectIds": "1057,874,3849,3828,"
+        },
+        {
+          "abilityId": "2786",
+          "abilityName": "愛を見つけし人柱力と火影",
+          "abilityDescription": "バトル開始時・行動後に【忍方陣：真・赤血閃光】を展開。被攻撃時、確率で即アクション。確率で再行動",
+          "abilityEffectDescription": "バトル開始時・行動後に【忍方陣：真・赤血閃光】を展開。被攻撃時、確率で即アクション。確率で再行動",
+          "effectIdx1": "3831",
+          "effectIdx2": "3833",
+          "effectIdx3": "3620",
+          "effectIds": "3831,3833,3620,3829,"
+        },
+        {
+          "abilityId": "2787",
+          "abilityName": "火の意志を継ぐ忍夫婦",
+          "abilityDescription": "HP0以下で3回HP全回復。弱体・幻・状態異常無効。行動後に弱体系特殊状態解除",
+          "abilityEffectDescription": "HP0以下で3回HP全回復。弱体・幻・状態異常無効。行動後に弱体系特殊状態解除",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "880",
+          "effectIds": "1789,874,880,3827,1642,"
+        },
+        {
           "abilityId": "2788",
           "abilityName": "極限の引力",
           "abilityDescription": "HP0以下で3回全回復し､耐えた時即ｱｸｼｮﾝ｡敵に木ノ葉隠れの里所属がいるとﾊﾞﾄﾙ開始時にｽｷﾙ2で急襲攻撃(ﾁｬｸﾗ大回復)",

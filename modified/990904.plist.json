@@ -428,6 +428,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1387",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "ナルトの出生～親が託す決意と願い～",
+          "description": "ミナトの日記念任務！\r\n「推薦状」「忍具ガチャチケット」「覚醒素材」\r\n「潜在覚醒素材」「アヤメ」ステージ登場！\r\n欲しい報酬のステージを選んでプレイ！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2101",
           "worldAreaId": "5",
           "priority": "5",

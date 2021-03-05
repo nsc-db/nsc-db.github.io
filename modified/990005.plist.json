@@ -1327,5 +1327,35 @@
           "uiIdx": "20003",
           "partyEffects": "3798,2538,",
           "enemyEffects": "3796,3797,3795,"
+        },
+        {
+          "battleFieldEffectId": "20004",
+          "name": "忍方陣：赤血閃光・壱",
+          "category": "5",
+          "scriptId": "20004",
+          "overWrite": "1",
+          "uiIdx": "20004",
+          "partyEffects": null,
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20005",
+          "name": "忍方陣：赤血閃光・弐",
+          "category": "5",
+          "scriptId": "20005",
+          "overWrite": "1",
+          "uiIdx": "20005",
+          "partyEffects": "3845,3728,3729,",
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20006",
+          "name": "忍方陣：赤血閃光・参",
+          "category": "5",
+          "scriptId": "20006",
+          "overWrite": "1",
+          "uiIdx": "20006",
+          "partyEffects": "3845,3728,3729,",
+          "enemyEffects": "3796,3797,3846,3847,3848,"
         }
       ]

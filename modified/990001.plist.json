@@ -44,15 +44,6 @@
           "resetTime": null
         },
         {
-          "loginBonusId": "482",
-          "name": "忍にんにんの月！忍石ログインボーナス2021",
-          "type": "2",
-          "openTime": "2021.02.18 00:00:00",
-          "closeTime": "2021.02.18 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": null
-        },
-        {
           "loginBonusId": "483",
           "name": "忍にんにんの月！忍石ログインボーナス2021",
           "type": "2",
@@ -150,6 +141,15 @@
           "closeTime": "2021.02.19 23:59:59",
           "isMidnightReset": "0",
           "resetTime": null
+        },
+        {
+          "loginBonusId": "495",
+          "name": "ミナトの日記念ログインボーナス",
+          "type": "2",
+          "openTime": "2021.03.07 10:00:00",
+          "closeTime": "2021.03.17 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
         },
         {
           "loginBonusId": "496",

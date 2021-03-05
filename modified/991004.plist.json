@@ -6101,6 +6101,18 @@
           "speechCharactorName": "秋道チョウジ"
         },
         {
+          "speechCharactorId": "1043",
+          "cardId": "1043",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "1044",
+          "cardId": "1044",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきクシナ"
+        },
+        {
           "speechCharactorId": "1045",
           "cardId": "50000013",
           "speechCharactorImgId": "0",

@@ -12725,6 +12725,33 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "31001001",
+          "timing": "1",
+          "func": "20",
+          "params": "269,0",
+          "comp": "19",
+          "compParams": "20004",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "31001002",
+          "timing": "1",
+          "func": "20",
+          "params": "269,0",
+          "comp": "19",
+          "compParams": "20005",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "31001003",
+          "timing": "1",
+          "func": "20",
+          "params": "269,0",
+          "comp": "19",
+          "compParams": "20006",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "32000000",
           "timing": "5",
           "func": "9",

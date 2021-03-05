@@ -4223,6 +4223,18 @@
           "voiceDeath": "pain_death_02_01"
         },
         {
+          "cardVoiceId": "356",
+          "cardId": "20070312",
+          "dirName": "minato",
+          "evolutionStep": "",
+          "voiceAppear": "minato_attack_02_03",
+          "voiceSkill1": "kushina_skill_02_07,minato_pursuit_02_02,minato_battle_02_01,kushina_pursuit_02_01,kushina_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "minato_pursuit_02_02",
+          "voiceDeath": "minato_death_02_03"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

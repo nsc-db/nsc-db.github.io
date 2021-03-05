@@ -1523,6 +1523,18 @@
           "specialPanelList": "9100010,9100011,9100012,9100036"
         },
         {
+          "sphereBoardId": "50056",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardDescription": "ミナト＆クシナ【黄色い閃光と赤き女傑】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070312",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
