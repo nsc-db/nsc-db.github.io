@@ -8136,12 +8136,36 @@ window.skillname=[
           "name": "ずっと付け足してきたんだ"
         },
         {
+          "cardBattleSkillNameId": "3246",
+          "name": "呪印発動・剛腕撃"
+        },
+        {
+          "cardBattleSkillNameId": "3247",
+          "name": "うオオオォオ！！！"
+        },
+        {
           "cardBattleSkillNameId": "3248",
           "name": "ナルト仙法帖・六禍制裁"
         },
         {
           "cardBattleSkillNameId": "3249",
           "name": "こっからはオレがやる！"
+        },
+        {
+          "cardBattleSkillNameId": "3250",
+          "name": "金剛封鎖・屍鬼封尽"
+        },
+        {
+          "cardBattleSkillNameId": "3251",
+          "name": "連携・閃渦紅舞陣"
+        },
+        {
+          "cardBattleSkillNameId": "3252",
+          "name": "天道・地爆天星"
+        },
+        {
+          "cardBattleSkillNameId": "3253",
+          "name": "…ここまでとはな…"
         },
         {
           "cardBattleSkillNameId": "10136",

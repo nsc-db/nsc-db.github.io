@@ -4242,6 +4242,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "60401",
+          "charaId": "604",
+          "name": "ミナト＆クシナ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "60410",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "60501",
           "charaId": "605",
           "name": "サスケ＆イタチ",

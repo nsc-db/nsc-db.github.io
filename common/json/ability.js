@@ -27260,6 +27260,26 @@ window.ability=[
           "effectIds": "3806,3807,"
         },
         {
+          "abilityId": "2780",
+          "abilityName": "狂気の呪い",
+          "abilityDescription": "弱体と状態異常を半減、毒を無効、攻撃を受けた時HPが20％回復",
+          "abilityEffectDescription": "弱体と状態異常を半減、毒を無効、攻撃を受けた時HPが20％回復",
+          "effectIdx1": "776",
+          "effectIdx2": "65",
+          "effectIdx3": "1167",
+          "effectIds": "776,65,1167,"
+        },
+        {
+          "abilityId": "2781",
+          "abilityName": "自然との対話",
+          "abilityDescription": "HP0以下で1回だけ耐え、3回行動するまで確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で1回だけ耐え、3回行動するまで確率でスキル回避",
+          "effectIdx1": "312",
+          "effectIdx2": "2293",
+          "effectIdx3": "0",
+          "effectIds": "312,2293,"
+        },
+        {
           "abilityId": "2782",
           "abilityName": "仙人モードの実力",
           "abilityDescription": "バトル開始・行動時確率で自身に烈風神仙付与（敵に“暁”存在時確実）、行動毎に素早さ50%アップ（最大1,000%）",
@@ -27278,6 +27298,66 @@ window.ability=[
           "effectIdx2": "3109",
           "effectIdx3": "3814",
           "effectIds": "2637,3109,3814,1057,874,"
+        },
+        {
+          "abilityId": "2784",
+          "abilityName": "愛を見つけし人柱力と火影",
+          "abilityDescription": "バトル開始時・行動後に【忍方陣：赤血閃光】を展開。被攻撃時、確率で即アクション。確率で再行動",
+          "abilityEffectDescription": "バトル開始時・行動後に【忍方陣：赤血閃光】を展開。被攻撃時、確率で即アクション。確率で再行動",
+          "effectIdx1": "3830",
+          "effectIdx2": "3832",
+          "effectIdx3": "3620",
+          "effectIds": "3830,3832,3620,3829,"
+        },
+        {
+          "abilityId": "2785",
+          "abilityName": "火の意志を継ぐ忍夫婦",
+          "abilityDescription": "HP0以下で2回HP全回復。高確率で弱体・幻・状態異常無効。行動後に高確率で弱体系特殊状態解除",
+          "abilityEffectDescription": "HP0以下で2回HP全回復。高確率で弱体・幻・状態異常無効。行動後に高確率で弱体系特殊状態解除",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3849",
+          "effectIds": "1057,874,3849,3828,"
+        },
+        {
+          "abilityId": "2786",
+          "abilityName": "愛を見つけし人柱力と火影",
+          "abilityDescription": "バトル開始時・行動後に【忍方陣：真・赤血閃光】を展開。被攻撃時、確率で即アクション。確率で再行動",
+          "abilityEffectDescription": "バトル開始時・行動後に【忍方陣：真・赤血閃光】を展開。被攻撃時、確率で即アクション。確率で再行動",
+          "effectIdx1": "3831",
+          "effectIdx2": "3833",
+          "effectIdx3": "3620",
+          "effectIds": "3831,3833,3620,3829,"
+        },
+        {
+          "abilityId": "2787",
+          "abilityName": "火の意志を継ぐ忍夫婦",
+          "abilityDescription": "HP0以下で3回HP全回復。弱体・幻・状態異常無効。行動後に弱体系特殊状態解除",
+          "abilityEffectDescription": "HP0以下で3回HP全回復。弱体・幻・状態異常無効。行動後に弱体系特殊状態解除",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "880",
+          "effectIds": "1789,874,880,3827,1642,"
+        },
+        {
+          "abilityId": "2788",
+          "abilityName": "極限の引力",
+          "abilityDescription": "HP0以下で3回全回復し､耐えた時即ｱｸｼｮﾝ｡敵に木ノ葉隠れの里所属がいるとﾊﾞﾄﾙ開始時にｽｷﾙ2で急襲攻撃(ﾁｬｸﾗ大回復)",
+          "abilityEffectDescription": "HP0以下で3回全回復し､耐えた時即ｱｸｼｮﾝ｡敵に木ノ葉隠れの里所属がいるとﾊﾞﾄﾙ開始時にｽｷﾙ2で急襲攻撃(ﾁｬｸﾗ大回復)",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "3840",
+          "effectIds": "1789,874,3840,3241,"
+        },
+        {
+          "abilityId": "2789",
+          "abilityName": "痛みの証明",
+          "abilityDescription": "1回行動まで行動前に自身の弱体系特殊状態を解除｡味方の“暁”所属1人につき攻防速30%アップ(自身含む)",
+          "abilityEffectDescription": "1回行動まで行動前に自身の弱体系特殊状態を解除｡味方の“暁”所属1人につき攻防速30%アップ(自身含む)",
+          "effectIdx1": "1004",
+          "effectIdx2": "1217",
+          "effectIdx3": "1218",
+          "effectIds": "1004,1217,1218,3841,"
         },
         {
           "abilityId": "10000",
@@ -29148,6 +29228,26 @@ window.ability=[
           "effectIdx2": "874",
           "effectIdx3": "967",
           "effectIds": "1057,874,967,"
+        },
+        {
+          "abilityId": "100131",
+          "abilityName": "舞う花に躍る心",
+          "abilityDescription": "弱体と状態異常を無効化、行動後にHPが33%回復、敵に「うちはサスケ」がいると先制攻撃",
+          "abilityEffectDescription": "弱体と状態異常を無効化、行動後にHPが33%回復、敵に「うちはサスケ」がいると先制攻撃",
+          "effectIdx1": "880",
+          "effectIdx2": "2104",
+          "effectIdx3": "3647",
+          "effectIds": "880,2104,3647,"
+        },
+        {
+          "abilityId": "100132",
+          "abilityName": "鞠転がし見る恋の夢",
+          "abilityDescription": "弱体と状態異常を無効化、行動後にHPが33%回復、敵に「うずまきナルト」がいると先制攻撃",
+          "abilityEffectDescription": "弱体と状態異常を無効化、行動後にHPが33%回復、敵に「うずまきナルト」がいると先制攻撃",
+          "effectIdx1": "880",
+          "effectIdx2": "2104",
+          "effectIdx3": "3719",
+          "effectIds": "880,2104,3719,"
         },
         {
           "abilityId": "200001",

@@ -5814,14 +5814,14 @@ window.unique=[
           "crystalOverwriteEffectId": "455",
           "targetCrystal": "699",
           "description": "全スキルダメージと攻撃力が100％アップする",
-          "charaIds": "108,1903,14402,112,114,60101",
+          "charaIds": "108,1903,14402,112,114,60101,116",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "774",
           "effectIdx2": "11099",
           "effectIdx3": "0",
           "effectIdx4": "0",
-          "effectIds": null
+          "effectIds": "774,11099"
         },
         {
           "crystalOverwriteEffectId": "456",
@@ -6204,27 +6204,27 @@ window.unique=[
           "crystalOverwriteEffectId": "485",
           "targetCrystal": "772",
           "description": "全スキルダメージ半減。最大HPと全スキルダメージ100％アップ",
-          "charaIds": "108,112,114",
+          "charaIds": "108,112,114,116",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "20501",
           "effectIdx2": "684",
           "effectIdx3": "774",
           "effectIdx4": "0",
-          "effectIds": null
+          "effectIds": "20501,684,774"
         },
         {
           "crystalOverwriteEffectId": "486",
           "targetCrystal": "773",
           "description": "5回行動まで写輪眼・輪廻写輪眼無効※耐性無視攻撃は除く。最大HP100％とスキル発動速度1段階アップ",
-          "charaIds": "101,102,103,104,105,106,107,108,109,110,111,112,114,60101",
+          "charaIds": "101,102,103,104,105,106,107,108,109,110,111,112,114,60101,116",
           "cardIds": "0",
           "charaGroupIds": "0",
           "effectIdx1": "1591",
           "effectIdx2": "684",
           "effectIdx3": "21000",
           "effectIdx4": "0",
-          "effectIds": null
+          "effectIds": "1591,684,21000"
         },
         {
           "crystalOverwriteEffectId": "487",
@@ -16053,5 +16053,57 @@ window.unique=[
           "effectIdx3": "300012",
           "effectIdx4": "0",
           "effectIds": "1549,30011,300012"
+        },
+        {
+          "crystalOverwriteEffectId": "1253",
+          "targetCrystal": "40301",
+          "description": "2回行動まで耐性無視ダメージ0&amp;全スキル無効。弱体無効",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1838",
+          "effectIdx2": "2343",
+          "effectIdx3": "1772",
+          "effectIdx4": "0",
+          "effectIds": "1838,2343,1772"
+        },
+        {
+          "crystalOverwriteEffectId": "1254",
+          "targetCrystal": "40302",
+          "description": "行動毎に攻・防・素早さ30%アップ（最大5回まで）。スキル発動速度2段階アップ",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3843",
+          "effectIdx2": "2199",
+          "effectIdx3": "1424",
+          "effectIdx4": "1549",
+          "effectIds": "3843,2199,1424,1549"
+        },
+        {
+          "crystalOverwriteEffectId": "1255",
+          "targetCrystal": "40313",
+          "description": "スキル発動速度2段階アップ、行動後に高確率で1回行動まで素早さ200%アップ",
+          "charaIds": "60401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "3850",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1549,3850"
+        },
+        {
+          "crystalOverwriteEffectId": "1256",
+          "targetCrystal": "40314",
+          "description": "攻防速・スキルダメージ120%アップ。チャクラ消費量半減。バトル開始時にチャクラ100%回復",
+          "charaIds": "60401",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "736",
+          "effectIdx2": "12111",
+          "effectIdx3": "1335",
+          "effectIdx4": "30011",
+          "effectIds": "736,12111,1335,30011,895,1994"
         }
         ]

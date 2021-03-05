@@ -16240,6 +16240,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1176",
+          "name": "呪われし力と優しき心",
+          "description": "技属性の攻撃力を50%アップする",
+          "effectIdx1": "251",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "251,",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "2",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1177",
           "name": "仙烈の飛翔刃",
           "description": "木ノ葉隠れの里所属がHP0以下で1回耐え、耐えた時弱体系特殊・神化状態解除",
@@ -16250,6 +16264,34 @@ window.lead=[
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1178",
+          "name": "黄色い閃光と赤き女傑",
+          "description": "木ノ葉隠れの里所属の攻防速100％アップ＆チャクラ消費量半減",
+          "effectIdx1": "11099",
+          "effectIdx2": "12099",
+          "effectIdx3": "13099",
+          "effectIds": "11099,12099,13099,895,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1179",
+          "name": "不撓の執行者",
+          "description": "“暁”所属のチャクラ消費量半減＆素早さ100%アップ＆行動毎にHP20%回復",
+          "effectIdx1": "895",
+          "effectIdx2": "13099",
+          "effectIdx3": "2500",
+          "effectIds": "895,13099,2500,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
           "target2Category": "0",
           "target2Param": "0"
         },
