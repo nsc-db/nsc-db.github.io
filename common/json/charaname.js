@@ -700,6 +700,20 @@ window.charaname=[
           "gender": "2"
         },
         {
+          "charaProfileId": "705",
+          "charaId": "7",
+          "name": "日向ヒナタ",
+          "detail": "疾風伝",
+          "charaLoveAffinityGroupId": "720",
+          "birthday": "1227",
+          "constellation": "10",
+          "height": "16000",
+          "weight": "4500",
+          "bloodType": "1",
+          "age": "16",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "801",
           "charaId": "8",
           "name": "犬塚キバ",

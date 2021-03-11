@@ -8168,6 +8168,14 @@ window.skillname=[
           "name": "…ここまでとはな…"
         },
         {
+          "cardBattleSkillNameId": "3254",
+          "name": "柔拳・乱掌獅吼ノ舞"
+        },
+        {
+          "cardBattleSkillNameId": "3255",
+          "name": "ナルトくんが、大好きだから"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

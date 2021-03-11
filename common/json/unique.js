@@ -16105,5 +16105,31 @@ window.unique=[
           "effectIdx3": "1335",
           "effectIdx4": "30011",
           "effectIds": "736,12111,1335,30011,895,1994"
+        },
+        {
+          "crystalOverwriteEffectId": "1257",
+          "targetCrystal": "40303",
+          "description": "全ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ､ｽｷﾙ発動速度2段階ｱｯﾌﾟ｡HP50%以下の時、被攻撃時に攻撃者に確率で塞付与",
+          "charaIds": "705",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1549",
+          "effectIdx3": "3851",
+          "effectIdx4": "0",
+          "effectIds": "794,1549,3851"
+        },
+        {
+          "crystalOverwriteEffectId": "1258",
+          "targetCrystal": "40304",
+          "description": "最大HPと素早さを120%アップ。行動後にチャクラ50%回復。耐えた時にHP50%回復",
+          "charaIds": "705",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "1335",
+          "effectIdx3": "2644",
+          "effectIdx4": "3096",
+          "effectIds": "1221,1335,2644,3096"
         }
         ]

@@ -27360,6 +27360,26 @@ window.ability=[
           "effectIds": "1004,1217,1218,3841,"
         },
         {
+          "abilityId": "2790",
+          "abilityName": "想い宿る鍛錬の成果",
+          "abilityDescription": "被攻撃時攻撃者に低確率神･点穴を耐性無視付与｡HP0以下で5回耐え､耐えた時､敵全体1回行動まで塞状態耐性無視付与",
+          "abilityEffectDescription": "被攻撃時攻撃者に低確率神･点穴を耐性無視付与｡HP0以下で5回耐え､耐えた時､敵全体1回行動まで塞状態耐性無視付与",
+          "effectIdx1": "3853",
+          "effectIdx2": "1512",
+          "effectIdx3": "3852",
+          "effectIds": "3853,1512,3852,"
+        },
+        {
+          "abilityId": "2791",
+          "abilityName": "ナルトへの深き愛情",
+          "abilityDescription": "味方にナルトがいるとバトル開始時にスキル2で急襲（チャクラ大回復）＆被攻撃時､確率で即アクション",
+          "abilityEffectDescription": "味方にナルトがいるとバトル開始時にスキル2で急襲（チャクラ大回復）＆被攻撃時､確率で即アクション",
+          "effectIdx1": "3551",
+          "effectIdx2": "3871",
+          "effectIdx3": "0",
+          "effectIds": "3551,3871,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29388,6 +29408,16 @@ window.ability=[
           "effectIdx2": "228250",
           "effectIdx3": "3815",
           "effectIds": "229204,228250,3815,3817,3818,3819,"
+        },
+        {
+          "abilityId": "200018",
+          "abilityName": "勇属性特化・旋風",
+          "abilityDescription": "勇属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラが素早さ70%アップ",
+          "abilityEffectDescription": "勇属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラが素早さ70%アップ",
+          "effectIdx1": "229404",
+          "effectIdx2": "228450",
+          "effectIdx3": "3815",
+          "effectIds": "229404,228450,3815,3817,3816,3819,"
         },
         {
           "abilityId": "210001",

@@ -16296,6 +16296,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1180",
+          "name": "揺るぎなき純潔の闘掌",
+          "description": "木ノ葉隠れの里所属の攻撃・防御・素早さ・スキルダメージ120%アップ",
+          "effectIdx1": "736",
+          "effectIdx2": "1094",
+          "effectIdx3": "30011",
+          "effectIds": "736,1094,30011,12111,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
