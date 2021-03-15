@@ -16131,5 +16131,57 @@ window.unique=[
           "effectIdx3": "2644",
           "effectIdx4": "3096",
           "effectIds": "1221,1335,2644,3096"
+        },
+        {
+          "crystalOverwriteEffectId": "1259",
+          "targetCrystal": "40307",
+          "description": "全スキルダメージ＆素早さ120%アップ。スキル発動速度1段階アップ",
+          "charaIds": "11601",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "1335",
+          "effectIdx3": "1840",
+          "effectIdx4": "0",
+          "effectIds": "30011,1335,1840"
+        },
+        {
+          "crystalOverwriteEffectId": "1260",
+          "targetCrystal": "40308",
+          "description": "2回行動まで耐性無視ダメージ0。耐えた時、現在の最大のHP50%回復＆確率で即アクション",
+          "charaIds": "11601",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2807",
+          "effectIdx2": "3096",
+          "effectIdx3": "3839",
+          "effectIdx4": "0",
+          "effectIds": "2807,3096,3839"
+        },
+        {
+          "crystalOverwriteEffectId": "1261",
+          "targetCrystal": "40305",
+          "description": "1回行動するまで全スキル無効、チャクラ50%以上の時、確率で受けるダメージ50%カット",
+          "charaIds": "11701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1794",
+          "effectIdx2": "3865",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1794,3865"
+        },
+        {
+          "crystalOverwriteEffectId": "1262",
+          "targetCrystal": "40306",
+          "description": "会心力5000%アップ、攻撃力300%アップ、1回行動まで素早さ200%アップ、通常攻撃が必中",
+          "charaIds": "11701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1125",
+          "effectIdx2": "1279",
+          "effectIdx3": "1800",
+          "effectIdx4": "30",
+          "effectIds": "1125,1279,1800,30"
         }
         ]

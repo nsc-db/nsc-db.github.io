@@ -8176,6 +8176,22 @@ window.skillname=[
           "name": "ナルトくんが、大好きだから"
         },
         {
+          "cardBattleSkillNameId": "3256",
+          "name": "瞳術・幻夢撃"
+        },
+        {
+          "cardBattleSkillNameId": "3257",
+          "name": "ヤツを止められるのか？"
+        },
+        {
+          "cardBattleSkillNameId": "3258",
+          "name": "鮫肌斬渦"
+        },
+        {
+          "cardBattleSkillNameId": "3259",
+          "name": "かかりましたね！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

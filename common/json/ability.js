@@ -27380,6 +27380,46 @@ window.ability=[
           "effectIds": "3551,3871,"
         },
         {
+          "abilityId": "2792",
+          "abilityName": "未来へ託す希望",
+          "abilityDescription": "HP0以下で3回耐え、耐えた時に耐性を無視して確率で敵全体を幻状態にする",
+          "abilityEffectDescription": "HP0以下で3回耐え、耐えた時に耐性を無視して確率で敵全体を幻状態にする",
+          "effectIdx1": "1789",
+          "effectIdx2": "3854",
+          "effectIdx3": "0",
+          "effectIds": "1789,3854,"
+        },
+        {
+          "abilityId": "2793",
+          "abilityName": "深き親愛",
+          "abilityDescription": "敵に滅キャラか味方に“暁”所属がいると、高確率でスキル2で急襲攻撃（どちらもいると確率アップ）",
+          "abilityEffectDescription": "敵に滅キャラか味方に“暁”所属がいると、高確率でスキル2で急襲攻撃（どちらもいると確率アップ）",
+          "effectIdx1": "3089",
+          "effectIdx2": "3855",
+          "effectIdx3": "3856",
+          "effectIds": "3089,3855,3856,"
+        },
+        {
+          "abilityId": "2794",
+          "abilityName": "流浪の孤鮫",
+          "abilityDescription": "HP0以下で3回耐え、耐えた時に確率で敵全体を気絶状態にする",
+          "abilityEffectDescription": "HP0以下で3回耐え、耐えた時に確率で敵全体を気絶状態にする",
+          "effectIdx1": "1789",
+          "effectIdx2": "3859",
+          "effectIdx3": "0",
+          "effectIds": "1789,3859,"
+        },
+        {
+          "abilityId": "2795",
+          "abilityName": "削り喰いの奇刀",
+          "abilityDescription": "敵に超忍か味方に「うちはｲﾀﾁ」がいると、確率でｽｷﾙ「かかりましたね！」で急襲攻撃（どちらもいると確率ｱｯﾌﾟ）",
+          "abilityEffectDescription": "敵に超忍か味方に「うちはｲﾀﾁ」がいると、確率でｽｷﾙ「かかりましたね！」で急襲攻撃（どちらもいると確率ｱｯﾌﾟ）",
+          "effectIdx1": "3395",
+          "effectIdx2": "3860",
+          "effectIdx3": "0",
+          "effectIds": "3395,3860,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -31378,6 +31418,46 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3823,"
+        },
+        {
+          "abilityId": "310158",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "チャクラ50%以上の時、スキルダメージ100%アップ",
+          "abilityEffectDescription": "チャクラ50%以上の時、スキルダメージ100%アップ",
+          "effectIdx1": "3861",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3861,"
+        },
+        {
+          "abilityId": "310159",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "チャクラ50%以上の時、攻撃力500%アップ",
+          "abilityEffectDescription": "チャクラ50%以上の時、攻撃力500%アップ",
+          "effectIdx1": "3862",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3862,"
+        },
+        {
+          "abilityId": "310160",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "チャクラ50%以上の時、素早さ100%アップ",
+          "abilityEffectDescription": "チャクラ50%以上の時、素早さ100%アップ",
+          "effectIdx1": "3863",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3863,"
+        },
+        {
+          "abilityId": "310161",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "チャクラ50%以上の時、即死無効",
+          "abilityEffectDescription": "チャクラ50%以上の時、即死無効",
+          "effectIdx1": "3864",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3864,"
         },
         {
           "abilityId": "801187",

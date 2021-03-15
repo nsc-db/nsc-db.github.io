@@ -16310,6 +16310,34 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1181",
+          "name": "未来へ導く明知",
+          "description": "“暁”所属の素早さ80%＆全スキルダメージ80%アップ＆1回行動まで弱体・弱体系特殊状態無効",
+          "effectIdx1": "13079",
+          "effectIdx2": "694",
+          "effectIdx3": "3237",
+          "effectIds": "13079,694,3237,3857,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1182",
+          "name": "虐鮫の兇刃",
+          "description": "“暁”所属のチャクラ消費量半減、バトル開始時にチャクラ100%回復、行動後にチャクラ20%回復",
+          "effectIdx1": "895",
+          "effectIdx2": "1994",
+          "effectIdx3": "1768",
+          "effectIds": "895,1994,1768,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
