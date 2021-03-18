@@ -457,3 +457,11 @@ td.rarity[rarity="6" i] {
 	font-size: 12px;
 	margin: 0; padding: 0;
 }
+
+.chara {
+}
+
+.chara-name{
+	padding: 3px;
+	border-style: inset;
+}

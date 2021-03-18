@@ -19711,13 +19711,13 @@ window.ability=[
         },
         {
           "abilityId": "2009",
-          "abilityName": "闘忍の覇者",
+          "abilityName": "古今無双",
           "abilityDescription": "最大チャクラ量250アップ、行動後にHP10%回復",
           "abilityEffectDescription": "最大チャクラ量250アップ、行動後にHP10%回復",
           "effectIdx1": "20044",
           "effectIdx2": "357",
           "effectIdx3": "0",
-          "effectIds": null
+          "effectIds": "20044,357,"
         },
         {
           "abilityId": "2010",
@@ -27420,6 +27420,46 @@ window.ability=[
           "effectIds": "3395,3860,"
         },
         {
+          "abilityId": "2798",
+          "abilityName": "豪胆と忠節",
+          "abilityDescription": "行動後・被攻撃時に、HP・チャクラ15％回復",
+          "abilityEffectDescription": "行動後・被攻撃時に、HP・チャクラ15％回復",
+          "effectIdx1": "947",
+          "effectIdx2": "735",
+          "effectIdx3": "957",
+          "effectIds": "947,735,957,3869,"
+        },
+        {
+          "abilityId": "2799",
+          "abilityName": "急射の粘酸",
+          "abilityDescription": "被攻撃時、自身に確率で1回行動まで快癒状態付与",
+          "abilityEffectDescription": "被攻撃時、自身に確率で1回行動まで快癒状態付与",
+          "effectIdx1": "3870",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3870,"
+        },
+        {
+          "abilityId": "2800",
+          "abilityName": "綱手顔負けの体術",
+          "abilityDescription": "HP0以下で3回までHP全回復、行動後に味方全体の状態異常を解除",
+          "abilityEffectDescription": "HP0以下で3回までHP全回復、行動後に味方全体の状態異常を解除",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "3872",
+          "effectIds": "1789,874,3872,"
+        },
+        {
+          "abilityId": "2801",
+          "abilityName": "医療忍術の追究",
+          "abilityDescription": "高確率でスキル2で急襲攻撃、死亡時に春野サクラ以外の味方を蘇生※最後の死亡時には発動無し",
+          "abilityEffectDescription": "高確率でスキル2で急襲攻撃、死亡時に春野サクラ以外の味方を蘇生※最後の死亡時には発動無し",
+          "effectIdx1": "3061",
+          "effectIdx2": "3873",
+          "effectIdx3": "0",
+          "effectIds": "3061,3873,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29310,6 +29350,66 @@ window.ability=[
           "effectIds": "880,2104,3719,"
         },
         {
+          "abilityId": "100133",
+          "abilityName": "古今無双",
+          "abilityDescription": "最大チャクラ量250アップ、行動後にHP30%回復、敵に破神キャラがいるとバトル開始時に先制攻撃",
+          "abilityEffectDescription": "最大チャクラ量250アップ、行動後にHP30%回復、敵に破神キャラがいるとバトル開始時に先制攻撃",
+          "effectIdx1": "20044",
+          "effectIdx2": "894",
+          "effectIdx3": "3017",
+          "effectIds": "20044,894,3017,"
+        },
+        {
+          "abilityId": "100134",
+          "abilityName": "底知れぬ生命力",
+          "abilityDescription": "HP1で10回まで耐え、敵に破神キャラがいるとバトル開始時にチャクラ100%回復",
+          "abilityEffectDescription": "HP1で10回まで耐え、敵に破神キャラがいるとバトル開始時にチャクラ100%回復",
+          "effectIdx1": "1907",
+          "effectIdx2": "3868",
+          "effectIdx3": "0",
+          "effectIds": "1907,3868,"
+        },
+        {
+          "abilityId": "100135",
+          "abilityName": "孤高の力",
+          "abilityDescription": "最大チャクラ量を250アップ、チャクラ消費量50%減少、素早さ150%アップ",
+          "abilityEffectDescription": "最大チャクラ量を250アップ、チャクラ消費量50%減少、素早さ150%アップ",
+          "effectIdx1": "20044",
+          "effectIdx2": "895",
+          "effectIdx3": "967",
+          "effectIds": "20044,895,967,"
+        },
+        {
+          "abilityId": "100136",
+          "abilityName": "忍術の開祖",
+          "abilityDescription": "2回行動まで耐性無視含む全ｽｷﾙ無効＆ｽｷﾙ発動速度2段階ｱｯﾌﾟ、敵に破神ｷｬﾗがいるとHP0以下で2回耐える",
+          "abilityEffectDescription": "2回行動まで耐性無視含む全ｽｷﾙ無効＆ｽｷﾙ発動速度2段階ｱｯﾌﾟ、敵に破神ｷｬﾗがいるとHP0以下で2回耐える",
+          "effectIdx1": "1914",
+          "effectIdx2": "1645",
+          "effectIdx3": "1838",
+          "effectIds": "1914,1645,1838,3867,"
+        },
+        {
+          "abilityId": "100137",
+          "abilityName": "無双の闘志",
+          "abilityDescription": "最大チャクラ量250アップ、行動後にHP30%回復、敵に破神キャラがいると最大HP200%アップ",
+          "abilityEffectDescription": "最大チャクラ量250アップ、行動後にHP30%回復、敵に破神キャラがいると最大HP200%アップ",
+          "effectIdx1": "20044",
+          "effectIdx2": "894",
+          "effectIdx3": "2833",
+          "effectIds": "20044,894,2833,"
+        },
+        {
+          "abilityId": "100138",
+          "abilityName": "当千の豪傑",
+          "abilityDescription": "3回行動まで受けるダメージを90%カット、敵に破神キャラがいると「昔とは違うのが分かったろ…」で急襲攻撃",
+          "abilityEffectDescription": "3回行動まで受けるダメージを90%カット、敵に破神キャラがいると「昔とは違うのが分かったろ…」で急襲攻撃",
+          "effectIdx1": "2308",
+          "effectIdx2": "2840",
+          "effectIdx3": "0",
+          "effectIds": "2308,2840,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -29438,6 +29538,16 @@ window.ability=[
           "effectIdx2": "228350",
           "effectIdx3": "3758",
           "effectIds": "229304,228350,3758,3759,3760,3761,"
+        },
+        {
+          "abilityId": "200016",
+          "abilityName": "技属性特化・治癒",
+          "abilityDescription": "技属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。自身と班の心属性以外の味方が行動ごとにHP100,000回復",
+          "abilityEffectDescription": "技属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。自身と班の心属性以外の味方が行動ごとにHP100,000回復",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "3874",
+          "effectIds": "229104,228150,3874,3875,3876,3877,3878,"
         },
         {
           "abilityId": "200017",

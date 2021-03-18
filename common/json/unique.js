@@ -16183,5 +16183,31 @@ window.unique=[
           "effectIdx3": "1800",
           "effectIdx4": "30",
           "effectIds": "1125,1279,1800,30"
+        },
+        {
+          "crystalOverwriteEffectId": "1263",
+          "targetCrystal": "40309",
+          "description": "味方に「うちはサスケ」か、敵に“暁”が生存していると素早さ100%アップ（どちらもいると200%アップ）",
+          "charaIds": "307",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3879",
+          "effectIdx2": "3880",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "3879,3880"
+        },
+        {
+          "crystalOverwriteEffectId": "1264",
+          "targetCrystal": "40310",
+          "description": "1回行動まで全スキル無効、最大HP150%アップ、敵に“暁”が生存していると耐性無視ダメージ0",
+          "charaIds": "307",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1794",
+          "effectIdx2": "1212",
+          "effectIdx3": "3881",
+          "effectIdx4": "0",
+          "effectIds": "1794,1212,3881"
         }
         ]

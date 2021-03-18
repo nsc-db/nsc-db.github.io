@@ -16338,6 +16338,34 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1184",
+          "name": "縮裂の酸公",
+          "description": "バトル開始時、班の木ノ葉隠れの里所属1人につき確率で乱舞カウントが1減少&amp;攻防速50％アップ",
+          "effectIdx1": "3629",
+          "effectIdx2": "1332",
+          "effectIdx3": "1793",
+          "effectIds": "3629,1332,1793,1333,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1185",
+          "name": "唸る桜花の豪拳",
+          "description": "木ノ葉隠れの里所属の場合、バトル開始時にチャクラ100%回復＆スキル発動速度1段階アップ",
+          "effectIdx1": "1994",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIds": "1994,1840,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

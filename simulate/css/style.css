@@ -46,6 +46,10 @@ table, th, td{
 
 #myInput:focus {outline: 3px solid #ddd;}
 
+.chara{
+	padding: 15px;
+}
+
 .dropdown {
     position: relative;
     display: inline-block;

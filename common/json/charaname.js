@@ -1554,6 +1554,20 @@ window.charaname=[
           "gender": "2"
         },
         {
+          "charaProfileId": "2307",
+          "charaId": "23",
+          "name": "綱手",
+          "detail": "少年篇",
+          "charaLoveAffinityGroupId": "2310",
+          "birthday": "802",
+          "constellation": "5",
+          "height": "16310",
+          "weight": "4890",
+          "bloodType": "2",
+          "age": "51",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "2401",
           "charaId": "24",
           "name": "自来也",

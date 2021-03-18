@@ -8192,6 +8192,18 @@ window.skillname=[
           "name": "かかりましたね！"
         },
         {
+          "cardBattleSkillNameId": "3261",
+          "name": "カツユ・舌歯粘酸"
+        },
+        {
+          "cardBattleSkillNameId": "3262",
+          "name": "桜花衝・壊震撃"
+        },
+        {
+          "cardBattleSkillNameId": "3263",
+          "name": "アンタは私が捕まえる！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
