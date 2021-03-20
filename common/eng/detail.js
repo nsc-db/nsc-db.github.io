@@ -196,7 +196,7 @@ window.detail=[
           "a3": "None"
       },
 {
-          "id": 20070208,
+          "id": 20070209,
           "name": "Naruto Uzumaki",
           "subtext": "Soaring Sage",
 
