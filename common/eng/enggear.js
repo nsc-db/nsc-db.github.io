@@ -200,6 +200,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 4025,
+          "type": "Additional",
+          "name": "Tabi Socks",
+          "effect": "None",
+          "normal": "4 Turns: 'Super Gravity' Terrain Immunity",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4035,
+          "type": "Stats",
+          "name": "Mei's Hair Clip",
+          "effect": "HP and ATK +70%, Cast Speed +1",
+          "normal": "HP and ATK +40%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 4305,
           "type": "Additional",
           "name": "Grilled Rice Cake",
@@ -468,7 +488,27 @@ window.enggear=[
           "charaIds": "1707",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
+},
+{
+          "id": 204025,
+          "type": "Chakra",
+          "name": "Will to Protect the World",
+          "effect": "1 Turn: Set Chakra Cost to 0 and Fixed Damage Deals 0 Damage, SPD +50%",
+          "normal": "Chakra Cost -30%, SPD +30%",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
+{
+          "id": 204035,
+          "type": "Skill",
+          "name": "Shima Netsuke",
+          "effect": "Skill Damage and ATK +150%, SPD +30%, Basic Attacks Always Hit",
+          "normal": "Skill Damage and ATK +30%",
+          "charaIds": "106",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "0"
+},	
 {
           "id": 204175,
           "type": "Resistance",
@@ -3136,6 +3176,146 @@ window.enggear=[
           "effect": "None",
           "normal": "SPD +290, Chakra Recovery +29%, Skill Dodge Rate +29%",
           "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402285,
+          "type": "Additional",
+          "name": "Sage Jutsu: Rasengan Barrage",
+          "effect": "When Attacked: Chance for Instant Action, Debuff and Negative Special State Immunity, Set Chakra Cost to 0",
+          "normal": "1 Turn: Negative Special State Immunity",
+          "charaIds": "116",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 402295,
+          "type": "Skill",
+          "name": "Sage: Giant Rasengan",
+          "effect": "Cast Speed +2, HP Recovery +30%, Skill Damage +120%",
+          "normal": "1 Turn: Cast Speed +2",
+          "charaIds": "116",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 403015,
+          "type": "Resistance",
+          "name": "Rod to Restrict the Tailed Beast Chakra",
+          "effect": "2 Turns: Fixed and Skill Damage Immunity. Status Effect Immunity",
+          "normal": "1 Turn: Fixed and Skill Damage Immunity",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 403025,
+          "type": "Additional",
+          "name": "Pain's Maxim",
+          "effect": "ATK, DEF and SPD +30% every turn (Max 150%). Cast Speed +2",
+          "normal": "ATK, DEF and SPD +20% every turn (Max 100%)",
+          "charaIds": "11801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 403035,
+          "type": "Skill",
+          "name": "Twin Lion Fist",
+          "effect": "Skill Damage +150%. Cast Speed +2. HP <50%: Chance to Inflict 'Block' State when Attacked",
+          "normal": "Skill Damage +50%. Cast Speed +1",
+          "charaIds": "705",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 403045,
+          "type": "Additional",
+          "name": "Determined to Rise Up",
+          "effect": "HP and SPD +120%. Chakra Recovery +50%. Recover 50% HP upon Withstanding",
+          "normal": "HP and SPD +50%. Chakra Recovery +25%.",
+          "charaIds": "705",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 403055,
+          "type": "Resistance",
+          "name": "Kisame's Favorite Words",
+          "effect": "1 Turn: Skill Immunity. Chakra >50%: Chance for Damage Cut +50%",
+          "normal": "1 Turn: Low Chance for Skill Immunity",
+          "charaIds": "11701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 403065,
+          "type": "Stats",
+          "name": "Kisame's Favorite Food (Crab)",
+          "effect": "Crit Damage +5,000%, ATK +300%, Basic Attack Always Hit, 1 Turn: SPD +100%",
+          "normal": "Crit Damage +100%, ATK +50%, SPD -30%",
+          "charaIds": "11701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 403075,
+          "type": "Skill",
+          "name": "Itachi's Favorite Words",
+          "effect": "Skill Damage and SPD +120%. Cast Speed +1",
+          "normal": "Skill Damage and SPD +50%. Cast Speed +1",
+          "charaIds": "11601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 403085,
+          "type": "Resistance",
+          "name": "Itachi's Favorite Food (Cabbage)",
+          "effect": "2 Turns: Fixed Damage Immunity. Recover 50% HP and Chance for Instant Action upon Withstanding",
+          "normal": "1 Turn: Fixed Damage Immunity. Recover 50% HP upon Withstanding",
+          "charaIds": "11601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 403095,
+          "type": "Stats",
+          "name": "Explosive Kunai to Avoid Poison",
+          "effect": "If there's a Sasuke ally or an Akatsuki enemy: SPD +100% (If Both: +200%)",
+          "normal": "SPD +70%",
+          "charaIds": "307",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 403105,
+          "type": "Resistance",
+          "name": "3 Minutes Antidote",
+          "effect": "1 Turn: Skill Immunity, HP +150%, If there's an Akatsuki enemy: Fixed Damage Immunity",
+          "normal": "1 Turn: Low Chance for Skill Immunity",
+          "charaIds": "307",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 403135,
+          "type": "Skill",
+          "name": "Minato's Maxim",
+          "effect": "Cast Speed +2, High Chance for SPD +200% for 1 Turn",
+          "normal": "Cast Speed +1",
+          "charaIds": "60401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 403145,
+          "type": "Stats",
+          "name": "Kushina's Maxim",
+          "effect": "ATK, DEF, SPD and Skill Damage +120%, Chakra Cost -50%, Start the Battle with 100% Chakra",
+          "normal": "ATK, DEF, SPD and Skill Damage +70%",
+          "charaIds": "60401",
           "cardIds": "0",
           "charaGroupIds": "0"
 },

@@ -1,5 +1,229 @@
 window.detail=[
 {
+          "id": 20070312,
+          "name": "Minato and Kushina",
+          "subtext": "Yellow Flash and Red Maiden",
+
+          "lead": "Konoha Characters: ATK, DEF and SPD +100% and Chakra Cost -50%",
+
+          "s1n": "Adamantine Sealing Chains: Reaper Death Seal",
+          "s1": "Deal 7% + 2,371,000 to a target enemy. Inflict 'Illusion' Effect depending on the Stage of 'True Red Blood and Flash' Shinobi Formation. 2nd Stage: High Chance to Inflict 2 Turns of Illusion (Action Consumed: 1). 3rd Stage: Very High Chance to Inflict 3 Turns of Illusion (Action Consumed: 1). ▼True Red Blood and Flash: Advance to the 2nd Stage of Shinobi Formation when Granted. Increase Counter when using a Skill. When Counter is at 5, Advance to the 3rd State of Shinobi Formation. Increase Counter by 2 when using a different Skill alternately. Shinobi Formation effect can't be overwritten to a lower stage effect▼ (Always Hit)",
+		  "s1ntr": "Seal",
+          "s1cs": "Fastest",
+          "s1c": 100,
+
+          "s2n": "Cooperation: Flash Vortex Crimson Dance",
+          "s2": "Deal 947,000 Fixed Damage to all enemies. Deal 3 Additional Attacks dealing 3% + 947,000. ▼True Red Blood and Flash: 2nd Stage: (Enemies) High chance to Disable First Strike, Insta Cast and Instant Action (Party) Grant 'Flash Mode' State and Remove Negative Special and God State. 3rd Stage: (Enemy) ATK, DEF and SPD -50% per turn (Max -200%)▼ [Flash Mode: SPD +250%. Cast Speed is Set to Flash] (Always Hit)",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 100,
+
+          "a1n": "Finding Love with a Tailed Beast Host and a Hokage",
+          "a1": "Grant 'True Red Blood and Flash' Shinobi Formation at the Start of Battle and Every Turn. Chance to Grant Instant Action when attacked. Chance for an Extra Turn",
+
+          "a2n": "Shinobi Couple Who Inherited the Will of Fire",
+          "a2": "Revive +3, Status Effect, Genjutsu and Debuff Immunity, Remove Negative Special State every turn",
+
+          "a3n": "Yellow and White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow and White"
+      },
+{
+          "id": 20070307,
+          "name": "Sakura Haruno",
+          "subtext": "Howling Cherry Blossom Fist",
+
+          "lead": "Konoha Characters: Cast Speed +1, Start the Battle with 100% Chakra",
+
+          "s1n": "Cherry Blosom Jutsu: Demolition Fist",
+          "s1": "Deal 3% + 1,000,000 to all enemies. Chance to Inflict 'Charm'. Remove Enemies' Positive Special and God State. If it's a Non-Konoha enemy: Deal 3 Additional Attacks dealing 300,000 Fixed Damage. (Always Hit)",
+		  "s1ntr": "Taijutsu",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "I'll Catch You!!",
+          "s2": "Recover 500,000 HP to Party. Grant 'Spring Fragrant' God State and 'Guts' State to self. Randomly Revive a Dead ally. [Spring Fragrant: Remove Status Effect and Grant Instant Action to self when attacked] [Guts: Remove and Immune to Negative Special State. Withstand +1, ATK, DEF and SPD +200%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 100,
+
+          "a1n": "Eclipsing Tsunade's Jutsu",
+          "a1": "Revive +3, Remove Party Status Effect every turn",
+
+          "a2n": "Medical Jutsu Research",
+          "a2": "High Chance to Insta Cast Skill 2, Revive other allies upon Death",
+
+          "a3n": "Blue Specialization and Healing",
+          "a3": "Type Advantage and Damage Cut +50% against Blue. Recover 100,000 HP to Party after own and Non-Yellow Attribute's turn"
+      },
+{
+          "id": 20070306,
+          "name": "Itachi Uchiha",
+          "subtext": "Knowledge to Guide the Future",
+
+          "lead": "Akatsuki Characters: SPD and Skill Damage +80%, 1 Turn: Debuff and Negative Special State Immunity",
+
+          "s1n": "Eye Jutsu: Conquering Phantasm",
+          "s1": "Deal 7% + 800,00 to a target enemy. High Chance to Inflict 'Genjutsu' and 'Jet Black' State. If the enemy Inflicted with 'Genjutsu': Deal 4 Additional Attacks dealing 50x ATK. If it's a Konoha enemy: Ignore Resistance and Inflict 'Great Flame' State. [Jet Black: Decrease HP per turn, ATK and SPD -20% per turn] [Great Flames: Decrease HP per turn (Max 70%), Remove Buff and Debuffs] (Always Hit)",
+		  "s1ntr": "Sharingan",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "Can You Stop Him?",
+          "s2": "Own SPD and Skill Damage +100%. Grant 'Genjutsu Mode' to self. Remove Negative Special State and Grant 'Fate' State to Akatsuki allies. [Genjutsu Mode: Skill Damage +100%. Ignore 80% DEF. Recover 100% Chakra and Grant Instant Action when Attacked] [Fate: Skill Damage +100%, Cast Speed +2, Withstand +1 and Skill Immunity]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Entrusting the Future",
+          "a1": "Withstand +3, Chance to Ignore Resistance and Inflict 'Genjutsu' to all enemies upon Withstanding",
+
+          "a2n": "Deep Love",
+          "a2": "If there's an Destroyer enemy or Akatsuki ally: Chance to Insta Cast Skill 2 (If both: Increased chance)",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow."
+      },
+{
+          "id": 20070305,
+          "name": "Kisame Hoshigaki",
+          "subtext": "Tyrant Shark Assassin Blade",
+
+          "lead": "Akatsuki Characters: Chakra Cost -50%, Start the Battle with 100% Chakra, Chakra Regen +20%",
+
+          "s1n": "Samehada Decapitation",
+          "s1": "Deal 100x ATK Ignoring 50% DEF to a target enemy. Chance to Inflict SPD -99%. If it's a Konoha enemy: Deal 2 Additional Attacks dealing 100x ATK. (Always Hit)",
+		  "s1ntr": "Weapon",
+          "s1cs": "Fastest",
+          "s1c": 70,
+
+          "s2n": "Come!",
+          "s2": "Enemies' DEF -99%. Chance to Inflict 'Break' State to all enemies. If there's a Konoha enemy: Grant 'Cooperation' State to Akatsuki allies. [Break: Skill Damage and DEF -150%. Become Weak to Weapon] [Cooperation: After Action, Grant Instant Action to Kisame allies]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 70,
+
+          "a1n": "Vagrant Lone Shark",
+          "a1": "Withstand +3, Chance to Inflict 'Stun' to all enemies upon Withstanding",
+
+          "a2n": "Swords that Feeds",
+          "a2": "If there's an EX enemy or Itachi ally: Chance to Insta Cast Skill 2 (If both: Increased chance)",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue."
+      },
+{
+          "id": 20070304,
+          "name": "Hinata Hyuga",
+          "subtext": "Unwavering Pure Fist",
+
+          "lead": "Konoha Characters: ATK, DEF, SPD and Skill Damage +120%",
+
+          "s1n": "Gentle Fist: Lion Dance",
+          "s1": "Deal 7% + 1,000,000 to a target enemy. Ignore 'Negative God State' Immunity and Inflict 'God Chakra Point' God State. Deal 2 Additional Attacks dealing 7% + 100,000. [God Chakra Point: Can't be Removed or Immune to. Cast Speed -5. Increase Counter when inflicted by God Chakra Point. Hinata Hyuga, Unwavering Pure Fist's 'Gentle Fist: Lion Dance' Damage Multiplier 4x per counter (Max 64x)] (Always Hit)",
+		  "s1ntr": "Byakugan",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "I Love You, Naruto",
+          "s2": "Own ATK and Skill Damage +200%. Grant 'Battle Fist' God State. SPD +1,000% for 1 Turn. [Battle Fist: Remove and Immune to Debuff, Status Effect, Genjutsu, Negative Special and God State, and Illusion. Terrain and Insta Kill Immunity. Set Chakra Cost to 0. Grant Infinite Turns]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Forging Results",
+          "a1": "When Attacked: Low Chance to Inflict 'God Chakra Point' God State, Withstand +5, Ignore Resistance and Inflict 'Block' State to all enemies for 1 Turn upon Withstanding",
+
+          "a2n": "Deep Love for Naruto",
+          "a2": "If there's a Naruto ally: Insta Cast Skill 2, When Attacked: Chance for Instant Action",
+
+          "a3n": "White Specialization and Whirlwind",
+          "a3": "Type Advantage and Damage Cut +50% against White. Own and Other Attribute: SPD +70%"
+      },
+{
+          "id": 20070302,
+          "name": "Pain",
+          "subtext": "Indomitable Executioner",
+
+          "lead": "Akatsuki Characters: Chakra Cost -50%, SPD +100%, HP Recovery +20%",
+
+          "s1n": "Deva Realm: Planetary Devestation",
+          "s1": "Deal 7% + 880,000 to a target enemy. Guarantee Inflict 'Skip'. Deal 2 Additional Attacks dealing 210,000 Fixed Damage. If it's an EX enemy: Deal 10 Additional Attacks dealing 120,000 Fixed Damage. (Always Hit)",
+		  "s1ntr": "Rinnegan",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "...As as you go...",
+          "s2": "Deal 880,000 Fixed Damage to all enemies. Enemies' ATK, DEF and SPD -99%. High Chance to Inflict 'Cancel'. Grant 'Resist' to Akatsuki allies. Grant 999 turns of 'Hatred' State to self. [Resist: Status Effect, Debuff and Genjutsu Immunity] [Hatred: HP -10% every turn. ATK and Skill Damage +125% per turn (Max 500%)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Limitless Gravitational Force",
+          "a1": "Revive +3, Grant Instant Action upon Withstanding, If there's a Konoha enemy: Insta Cast Skill 2",
+
+          "a2n": "Proof of Pain",
+          "a2": "Grant 1 turn of 'Remove and Immune to Negative Special State' Effect for 1 Turn",
+
+          "a3n": "Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black."
+      },
+{
+          "id": 20070301,
+          "name": "Jugo",
+          "subtext": "Cursed Power and Kind Heart",
+
+          "lead": "Blue Characters: ATK +50%",
+
+          "s1n": "Curse Mark Activation: Pile Hammer",
+          "s1": "Deal 7% + 10,000 to a target enemy. Inflicts 'Crush' State. [Crush: Increases damage multiplier per stack (Max 10x). This state is removed at 3 stacks]",
+		  "s1ntr": "Curse",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "Uoooooo !!!",
+          "s2": "Own ATK and SPD +60%. Grant 'Concentration' State to self. [Concentration: Chakra Cost reduced every turn (Max -80%)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 70,
+
+          "a1n": "Crazy Curse",
+          "a1": "Debuff and Status Effect Immunity, 'Poison' Immunity, HP Recovery +20%",
+
+          "a2n": "Dialogue With Nature",
+          "a2": "Withstand +1, 3 Turns: Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20070208,
+          "name": "Naruto Uzumaki",
+          "subtext": "Soaring Sage",
+
+          "lead": "Konoha Characters: Withstand +1, Remove Negative Special and God State Upon Withstanding",
+
+          "s1n": "Naruto Senpocho: Six Calamity Sanction",
+          "s1": "Deal 3% + 1,100,000 to all enemies. Remove Positive Special State. Chance to Inflict 'Seal'. If it's an Akatsuki enemy: Deal 4 Additional Attack dealing 3% + 250,000. If it's a Non-Konoha enemy: Deal 2 Additional Attacks dealing 3% + 330,000. (Always Hit)",
+		  "s1ntr": "Sage",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "From Here I'll Do It!",
+          "s2": "Own SPD and Skill Damage +200%. Grant 'God Sage's Gust' God State. Ignore Reistance and Skill Dodge and Inflict 'Intimidate' State to Akatsuki enemies. [God Sage's Gust: Status Effect, Negative Special and God State Immunity. Cancel, Enemy Terrain, Illusion Immunity. Set Chakra Cost to 0. When Attacking an Akatsuki: Chance to Ignore Weakness and Grant Instant Action when Defeating. Skip self 3 times when this State is removed] [Intimidate: SPD -200% and Cast Speed -2]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "True Sage Mode",
+          "a1": "Chance to Grant 'God Sage's Gust' God State every turn and at the Start of Battle (If there's an Akatsuki enemy: Guarantee). SPD +50% per turn (Max 1,000%)",
+
+          "a2n": "Stride for a New Technique",
+          "a2": "Chance to grant First Strike (If there's an Akatsuki enemy: Guarantee). Revive +2 (If there's an Akatsuki enemy: Additional +2)",
+
+          "a3n": "Red Specialization and Whirlwind",
+          "a3": "Type Advantage and Damage Cut +50% against Red. Own and Other Attribute: SPD +70%"
+      },
+{
           "id": 20000941,
           "name": "Orochimaru",
           "subtext": "Fearless Laughter",
@@ -536,7 +760,7 @@ window.detail=[
           "name": "Hashirama and Madara",
           "subtext": "God of Shinobi and Master of Fire",
 
-          "lead": "All Characters: Cast Speed +1 and Chakra Cost -50%",
+          "lead": "Konoha Characters: Cast Speed +1 and Chakra Cost -50%",
 
           "s1n": "Wood Style: Wood Golem Jutsu",
           "s1": "Deal 1,500,000 Fixed Damage to a target enemy. Remove Enemy Terrain. If it's a Non-Konoha enemy: Deal 9 Additional Attacks Dealing 7% + 250,000. [Violent Creation of Reality: Advance to the 2nd Stage of Shinobi Formation when Granted. Increase Counter when using a Skill. When Counter is at 5, Advance to the 3rd State of Shinobi Formation. Increase Counter by 2 when using a different Skill alternately. Shinobi Formation effect can't be overwritten to a lower stage effect] (Always Hit)",
