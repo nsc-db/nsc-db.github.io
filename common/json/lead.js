@@ -16338,6 +16338,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1183",
+          "name": "武門に育つ才蕾",
+          "description": "木ノ葉隠れの里所属のそれぞれが5回行動するまで、受ける全スキルを半減",
+          "effectIdx1": "892",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "892,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1184",
           "name": "縮裂の酸公",
           "description": "バトル開始時、班の木ノ葉隠れの里所属1人につき確率で乱舞カウントが1減少&amp;攻防速50％アップ",
@@ -16359,6 +16373,20 @@ window.lead=[
           "effectIdx2": "1840",
           "effectIdx3": "0",
           "effectIds": "1994,1840,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1186",
+          "name": "心技高めし萩華",
+          "description": "木ノ葉隠れの里所属の素早さ100%アップ、行動後にHP30%回復",
+          "effectIdx1": "13099",
+          "effectIdx2": "894",
+          "effectIdx3": "0",
+          "effectIds": "13099,894,",
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",

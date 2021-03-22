@@ -8192,6 +8192,10 @@ window.skillname=[
           "name": "かかりましたね！"
         },
         {
+          "cardBattleSkillNameId": "3260",
+          "name": "ハイ…父上"
+        },
+        {
           "cardBattleSkillNameId": "3261",
           "name": "カツユ・舌歯粘酸"
         },
@@ -8202,6 +8206,14 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "3263",
           "name": "アンタは私が捕まえる！！"
+        },
+        {
+          "cardBattleSkillNameId": "3264",
+          "name": "花片粧・流麗刃"
+        },
+        {
+          "cardBattleSkillNameId": "3265",
+          "name": "準備出来た？"
         },
         {
           "cardBattleSkillNameId": "10136",

@@ -27420,6 +27420,26 @@ window.ability=[
           "effectIds": "3395,3860,"
         },
         {
+          "abilityId": "2796",
+          "abilityName": "姉以上の資質",
+          "abilityDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+          "abilityEffectDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+          "effectIdx1": "20009",
+          "effectIdx2": "1115",
+          "effectIdx3": "312",
+          "effectIds": "20009,1115,312,"
+        },
+        {
+          "abilityId": "2797",
+          "abilityName": "父の期待",
+          "abilityDescription": "通常攻撃回避率が100%アップし、高確率でスキルを回避する",
+          "abilityEffectDescription": "通常攻撃回避率が100%アップし、高確率でスキルを回避する",
+          "effectIdx1": "1141",
+          "effectIdx2": "968",
+          "effectIdx3": "0",
+          "effectIds": "1141,968,"
+        },
+        {
           "abilityId": "2798",
           "abilityName": "豪胆と忠節",
           "abilityDescription": "行動後・被攻撃時に、HP・チャクラ15％回復",
@@ -27458,6 +27478,26 @@ window.ability=[
           "effectIdx2": "3873",
           "effectIdx3": "0",
           "effectIds": "3061,3873,"
+        },
+        {
+          "abilityId": "2802",
+          "abilityName": "ひたむきな日々の修業",
+          "abilityDescription": "HP0以下で2回まで耐え、味方の木ノ葉隠れの里所属に応じて素早さ75%アップ（自身含む）",
+          "abilityEffectDescription": "HP0以下で2回まで耐え、味方の木ノ葉隠れの里所属に応じて素早さ75%アップ（自身含む）",
+          "effectIdx1": "1057",
+          "effectIdx2": "3882",
+          "effectIdx3": "0",
+          "effectIds": "1057,3882,"
+        },
+        {
+          "abilityId": "2803",
+          "abilityName": "前向きな恋探し",
+          "abilityDescription": "敵に滅キャラがいると、確率で先制攻撃＆バトル開始時に自身を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "abilityEffectDescription": "敵に滅キャラがいると、確率で先制攻撃＆バトル開始時に自身を堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効化)",
+          "effectIdx1": "3883",
+          "effectIdx2": "3884",
+          "effectIdx3": "0",
+          "effectIds": "3883,3884,"
         },
         {
           "abilityId": "10000",
