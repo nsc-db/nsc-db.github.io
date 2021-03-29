@@ -3119,6 +3119,26 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "317",
+          "category": "4",
+          "iconId": "1370",
+          "name": "闘掌",
+          "description": "弱体･状態異常･幻･弱体系特殊･神化状態･幻惑解除&amp;無効｡地形･即死無効｡ﾁｬｸﾗ消費0｡何度も再行動",
+          "subScore": "0",
+          "color": "16711680",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "318",
+          "category": "5",
+          "iconId": "1371",
+          "name": "神・点穴",
+          "description": "弱体系神化対象効果･解除･無効に無影響｡ｽｷﾙ発動速度5段階ﾀﾞｳﾝ｡被神･点穴時ｶｳﾝﾄ増､被ﾀﾞﾒｰｼﾞ4倍増(最大64倍)",
+          "subScore": "0",
+          "color": "49151",
+          "type": "3"
+        },
+        {
           "cardUnusualId": "319",
           "category": "5",
           "iconId": "1403",
@@ -3137,5 +3157,35 @@
           "subScore": "0",
           "color": "16719647",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "321",
+          "category": "4",
+          "iconId": "1405",
+          "name": "春薫",
+          "description": "被攻撃時に自身の状態異常を解除＆アクション状態",
+          "subScore": "0",
+          "color": "3858176",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "322",
+          "category": "3",
+          "iconId": "1406",
+          "name": "心乱身",
+          "description": "攻撃力・会心率・会心力アップ。状態（強化・弱体・異常・特殊）を無効化。味方にランダムで通常攻撃",
+          "subScore": "0",
+          "color": "16719871",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "323",
+          "category": "3",
+          "iconId": "1407",
+          "name": "心転身",
+          "description": "行動不能＆素早さダウン。解除時および一定回数攻撃を受けると敵味方全体の心転身解除",
+          "subScore": "0",
+          "color": "16719871",
+          "type": "3"
         }
       ]

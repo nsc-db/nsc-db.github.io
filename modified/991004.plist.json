@@ -6119,6 +6119,12 @@
           "speechCharactorName": "外道魔像"
         },
         {
+          "speechCharactorId": "1046",
+          "cardId": "1046",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
           "speechCharactorId": "1050",
           "cardId": "20001568",
           "speechCharactorImgId": "0",
@@ -6129,6 +6135,24 @@
           "cardId": "20000471",
           "speechCharactorImgId": "0",
           "speechCharactorName": "ペイン（天道）"
+        },
+        {
+          "speechCharactorId": "1054",
+          "cardId": "20001091",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "1055",
+          "cardId": "20000781",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "1057",
+          "cardId": "20000901",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ネジ"
         },
         {
           "speechCharactorId": "1058",
@@ -6177,6 +6201,24 @@
           "cardId": "230",
           "speechCharactorImgId": "0",
           "speechCharactorName": "九尾"
+        },
+        {
+          "speechCharactorId": "1066",
+          "cardId": "20050711",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ネジ"
+        },
+        {
+          "speechCharactorId": "1067",
+          "cardId": "20040703",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ネジ"
+        },
+        {
+          "speechCharactorId": "1069",
+          "cardId": "20000021",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはサスケ"
         },
         {
           "speechCharactorId": "5001",

@@ -3107,6 +3107,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "528",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "529",
           "itemName": "昇級試験Pt",
           "measure": "0",
@@ -3114,6 +3120,30 @@
         },
         {
           "shopExchangeItemId": "530",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "531",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "532",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "533",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "534",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
@@ -4259,10 +4289,22 @@
           "itemImgId": "2098"
         },
         {
+          "shopExchangeItemId": "2113",
+          "itemName": "神忍・破神が選べる交換券",
+          "measure": "0",
+          "itemImgId": "2113"
+        },
+        {
           "shopExchangeItemId": "2114",
           "itemName": "ランキング忍具交換券(4月6日23:59まで)",
           "measure": "0",
           "itemImgId": "2098"
+        },
+        {
+          "shopExchangeItemId": "2115",
+          "itemName": "人気忍具交換券",
+          "measure": "0",
+          "itemImgId": "2115"
         },
         {
           "shopExchangeItemId": "2500",

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>995008</key>
+        <string>{"resData":{"995008":{"tacticsUnusualM":[{"tacticsUnusualId":"101","name":"\u653b\u52e2"},{"tacticsUnusualId":"102","name":"\u653b\u5f31"},{"tacticsUnusualId":"103","name":"\u653b\u52e2\u30fb\u901f"},{"tacticsUnusualId":"201","name":"\u5b88\u52e2"},{"tacticsUnusualId":"202","name":"\u5b88\u5f31"},{"tacticsUnusualId":"203","name":"\u5b88\u52e2\u30fb\u9053"},{"tacticsUnusualId":"204","name":"\u5b88\u52e2\u30fb\u968a"},{"tacticsUnusualId":"301","name":"\u4f1a\u5fc3"},{"tacticsUnusualId":"302","name":"\u4f1a\u5f31"},{"tacticsUnusualId":"401","name":"\u77ac\u8db3"},{"tacticsUnusualId":"402","name":"\u920d\u8db3"},{"tacticsUnusualId":"501","name":"\u7652\u4f53"},{"tacticsUnusualId":"502","name":"\u5727\u4f53"},{"tacticsUnusualId":"601","name":"\u7652\u6c17"},{"tacticsUnusualId":"602","name":"\u5727\u6c17"}]}}}</string>
+    </dict>
+</plist>

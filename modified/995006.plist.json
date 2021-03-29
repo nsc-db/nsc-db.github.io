@@ -1,0 +1,71 @@
+[        {
+          "tacticsSkillActivateId": "1",
+          "tacticsSkillActivateGroupId": "1",
+          "value": "0",
+          "vector": "1",
+          "paramTypeId": "0"
+        },
+        {
+          "tacticsSkillActivateId": "2",
+          "tacticsSkillActivateGroupId": "2",
+          "value": "0",
+          "vector": "2",
+          "paramTypeId": "0"
+        },
+        {
+          "tacticsSkillActivateId": "3",
+          "tacticsSkillActivateGroupId": "3",
+          "value": "0",
+          "vector": "3",
+          "paramTypeId": "0"
+        },
+        {
+          "tacticsSkillActivateId": "4",
+          "tacticsSkillActivateGroupId": "4",
+          "value": "0",
+          "vector": "4",
+          "paramTypeId": "0"
+        },
+        {
+          "tacticsSkillActivateId": "5",
+          "tacticsSkillActivateGroupId": "5",
+          "value": "0",
+          "vector": "5",
+          "paramTypeId": "0"
+        },
+        {
+          "tacticsSkillActivateId": "6",
+          "tacticsSkillActivateGroupId": "6",
+          "value": "0",
+          "vector": "6",
+          "paramTypeId": "0"
+        },
+        {
+          "tacticsSkillActivateId": "7",
+          "tacticsSkillActivateGroupId": "7",
+          "value": "0",
+          "vector": "7",
+          "paramTypeId": "0"
+        },
+        {
+          "tacticsSkillActivateId": "8",
+          "tacticsSkillActivateGroupId": "8",
+          "value": "0",
+          "vector": "8",
+          "paramTypeId": "0"
+        },
+        {
+          "tacticsSkillActivateId": "9",
+          "tacticsSkillActivateGroupId": "9",
+          "value": "0",
+          "vector": "9",
+          "paramTypeId": "0"
+        },
+        {
+          "tacticsSkillActivateId": "10",
+          "tacticsSkillActivateGroupId": "10",
+          "value": "50",
+          "vector": "1",
+          "paramTypeId": "11"
+        }
+      ]

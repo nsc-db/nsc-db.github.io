@@ -863,6 +863,42 @@
           "specialPanelList": "9000028,9000029,9000030"
         },
         {
+          "sphereBoardId": "10083",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "うちはイタチ【未来へ導く明知】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070306",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018"
+        },
+        {
+          "sphereBoardId": "10084",
+          "boardName": "Temp_Ct40_心属性_の潜在覚醒盤",
+          "boardDescription": "干柿鬼鮫【虐鮫の兇刃】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070305",
+          "normalPanelList": "9000001,9000002,9000003",
+          "specialPanelList": "9000004,9000005,9000006"
+        },
+        {
+          "sphereBoardId": "10085",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "山中いの【心技高めし萩華】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070308",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1535,6 +1571,30 @@
           "specialPanelList": "9100022,9100023,9100024"
         },
         {
+          "sphereBoardId": "50057",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "日向ヒナタ【揺るぎなき純潔の闘掌】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070304",
+          "normalPanelList": "9100019,9100020,9100021,9100033",
+          "specialPanelList": "9100022,9100023,9100024,9100034"
+        },
+        {
+          "sphereBoardId": "50058",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "春野サクラ【唸る桜花の豪拳】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070307",
+          "normalPanelList": "9100001,9100002,9100003,9100031",
+          "specialPanelList": "9100004,9100005,9100006,9100032"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
@@ -1785,5 +1845,17 @@
           "cardId": "50070201",
           "normalPanelList": "5016001,5016002,5016003",
           "specialPanelList": "5016004,5016005,5016006"
+        },
+        {
+          "sphereBoardId": "5000018",
+          "boardName": "綱手",
+          "boardDescription": "綱手【縮裂の酸公】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50070301",
+          "normalPanelList": "5017001,5017002,5017003",
+          "specialPanelList": "5017004,5017005,5017006"
         }
       ]

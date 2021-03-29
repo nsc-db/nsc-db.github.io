@@ -1,0 +1,57 @@
+[        {
+          "tacticsBattleConditionId": "1",
+          "groupId": "1",
+          "result": "win",
+          "type": "1",
+          "value": "5",
+          "description": "5ターン以内に敵を殲滅する"
+        },
+        {
+          "tacticsBattleConditionId": "2",
+          "groupId": "2",
+          "result": "win",
+          "type": "2",
+          "value": "5",
+          "description": "5ターン全滅しない"
+        },
+        {
+          "tacticsBattleConditionId": "3",
+          "groupId": "3",
+          "result": "win",
+          "type": "3",
+          "value": "2192830",
+          "description": "うずまきナルト【援軍】死亡（敗北）"
+        },
+        {
+          "tacticsBattleConditionId": "4",
+          "groupId": "4",
+          "result": "lose",
+          "type": "4",
+          "value": "2301909",
+          "description": "大蛇丸【援軍】が死亡（勝利）"
+        },
+        {
+          "tacticsBattleConditionId": "100001",
+          "groupId": "100000",
+          "result": "1",
+          "type": "1",
+          "value": "100",
+          "description": "%dターン経過"
+        },
+        {
+          "tacticsBattleConditionId": "100002",
+          "groupId": "100000",
+          "result": "1",
+          "type": "4",
+          "value": "0",
+          "description": "特定マスに待機"
+        },
+        {
+          "tacticsBattleConditionId": "100003",
+          "groupId": "100000",
+          "result": "1",
+          "type": "3",
+          "value": "0",
+          "description": "特定マスに接触"
+        }
+      ]

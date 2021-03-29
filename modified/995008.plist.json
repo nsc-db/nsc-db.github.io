@@ -1,0 +1,61 @@
+[        {
+          "tacticsUnusualId": "101",
+          "name": "攻勢"
+        },
+        {
+          "tacticsUnusualId": "102",
+          "name": "攻弱"
+        },
+        {
+          "tacticsUnusualId": "103",
+          "name": "攻勢・速"
+        },
+        {
+          "tacticsUnusualId": "201",
+          "name": "守勢"
+        },
+        {
+          "tacticsUnusualId": "202",
+          "name": "守弱"
+        },
+        {
+          "tacticsUnusualId": "203",
+          "name": "守勢・道"
+        },
+        {
+          "tacticsUnusualId": "204",
+          "name": "守勢・隊"
+        },
+        {
+          "tacticsUnusualId": "301",
+          "name": "会心"
+        },
+        {
+          "tacticsUnusualId": "302",
+          "name": "会弱"
+        },
+        {
+          "tacticsUnusualId": "401",
+          "name": "瞬足"
+        },
+        {
+          "tacticsUnusualId": "402",
+          "name": "鈍足"
+        },
+        {
+          "tacticsUnusualId": "501",
+          "name": "癒体"
+        },
+        {
+          "tacticsUnusualId": "502",
+          "name": "圧体"
+        },
+        {
+          "tacticsUnusualId": "601",
+          "name": "癒気"
+        },
+        {
+          "tacticsUnusualId": "602",
+          "name": "圧気"
+        }
+      ]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>995007</key>
+        <string>{"resData":{"995007":{"tacticsSkillLearningTagM":[{"tacticsSkillLearningTagId":"1","modelId":"0","groupId":"1"},{"tacticsSkillLearningTagId":"2","modelId":"676","groupId":"1"},{"tacticsSkillLearningTagId":"5","modelId":"2","groupId":"2"},{"tacticsSkillLearningTagId":"6","modelId":"200","groupId":"4"},{"tacticsSkillLearningTagId":"7","modelId":"4","groupId":"5"}]}}}</string>
+    </dict>
+</plist>

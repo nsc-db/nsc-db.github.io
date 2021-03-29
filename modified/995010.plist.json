@@ -1,0 +1,31 @@
+[        {
+          "tacticsAchievementId": "1",
+          "type": "1",
+          "description": "3人以上生存してクリア",
+          "value": "3"
+        },
+        {
+          "tacticsAchievementId": "2",
+          "type": "2",
+          "description": "3ターン以内にクリア",
+          "value": "3"
+        },
+        {
+          "tacticsAchievementId": "3",
+          "type": "3",
+          "description": "1度の戦闘で3000以上のダメージを与えてクリア",
+          "value": "3000"
+        },
+        {
+          "tacticsAchievementId": "6",
+          "type": "10",
+          "description": "アクティブスキルを使用せずにクリア",
+          "value": "0"
+        },
+        {
+          "tacticsAchievementId": "9",
+          "type": "13",
+          "description": "戦闘回数を10回以内でクリア",
+          "value": "10"
+        }
+      ]

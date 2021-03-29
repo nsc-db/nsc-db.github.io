@@ -1,0 +1,26 @@
+[        {
+          "tacticsSkillLearningTagId": "1",
+          "modelId": "0",
+          "groupId": "1"
+        },
+        {
+          "tacticsSkillLearningTagId": "2",
+          "modelId": "676",
+          "groupId": "1"
+        },
+        {
+          "tacticsSkillLearningTagId": "5",
+          "modelId": "2",
+          "groupId": "2"
+        },
+        {
+          "tacticsSkillLearningTagId": "6",
+          "modelId": "200",
+          "groupId": "4"
+        },
+        {
+          "tacticsSkillLearningTagId": "7",
+          "modelId": "4",
+          "groupId": "5"
+        }
+      ]

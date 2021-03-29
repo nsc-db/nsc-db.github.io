@@ -4235,6 +4235,54 @@
           "voiceDeath": "minato_death_02_03"
         },
         {
+          "cardVoiceId": "357",
+          "cardId": "20070304",
+          "dirName": "hinata",
+          "evolutionStep": "",
+          "voiceAppear": "hinata_attack_02_01",
+          "voiceSkill1": "hinata_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hinata_win_02_01",
+          "voiceDeath": "hinata_damage_02_01"
+        },
+        {
+          "cardVoiceId": "358",
+          "cardId": "20070306",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_attack_02_01",
+          "voiceSkill1": "itachi_attack_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_menu_01",
+          "voiceDeath": "itachi_damage_02_01"
+        },
+        {
+          "cardVoiceId": "359",
+          "cardId": "50070301",
+          "dirName": "tsunade",
+          "evolutionStep": "",
+          "voiceAppear": "",
+          "voiceSkill1": "tsunade_skill_02_04",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "",
+          "voiceDeath": ""
+        },
+        {
+          "cardVoiceId": "360",
+          "cardId": "20070307",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_02_01",
+          "voiceSkill1": "sakura_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_win_02_01",
+          "voiceDeath": "sakura_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

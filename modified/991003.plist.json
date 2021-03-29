@@ -795,6 +795,94 @@
           "defineValue": "1,2,3,4,5,6,7"
         },
         {
+          "defineKey": "tactics_sub_deck_buff_base_level",
+          "defineValue": "0.01"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_base_rare",
+          "defineValue": "0.50"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_base_evolution",
+          "defineValue": "0.10"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_base_limitbreak",
+          "defineValue": "0.50"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_base_sphere",
+          "defineValue": "0.50"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_cost",
+          "defineValue": "5.00"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_bonus_hp",
+          "defineValue": "1"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_bonus_mp",
+          "defineValue": "1"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_bonus_attack",
+          "defineValue": "1"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_bonus_defense",
+          "defineValue": "1"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_bonus_critical",
+          "defineValue": "1"
+        },
+        {
+          "defineKey": "tactics_sub_deck_buff_cost_border",
+          "defineValue": "90"
+        },
+        {
+          "defineKey": "tactics_test_damage_value1",
+          "defineValue": "4"
+        },
+        {
+          "defineKey": "tactics_test_damage_weak_scale",
+          "defineValue": "1.5"
+        },
+        {
+          "defineKey": "tactics_test_damage_counter_scale",
+          "defineValue": "0.7"
+        },
+        {
+          "defineKey": "tactics_stamina_recovery_second",
+          "defineValue": "300"
+        },
+        {
+          "defineKey": "tactics_unit_status_coefficient_rare",
+          "defineValue": "0.1"
+        },
+        {
+          "defineKey": "tactics_unit_status_coefficient_rare_adjust",
+          "defineValue": "1.2"
+        },
+        {
+          "defineKey": "tactics_unit_status_coefficient_level",
+          "defineValue": "0.5"
+        },
+        {
+          "defineKey": "tactics_unit_status_coefficient_limitbreak_main",
+          "defineValue": "0.1"
+        },
+        {
+          "defineKey": "tactics_unit_status_coefficient_limitbreak_sub",
+          "defineValue": "0.05"
+        },
+        {
+          "defineKey": "tactics_unit_status_coefficient_limitbreak_rare",
+          "defineValue": "0.1"
+        },
+        {
           "defineKey": "card_level_max_9",
           "defineValue": "140"
         }

@@ -623,6 +623,18 @@
           "needCount": "1"
         },
         {
+          "worldPhaseKeyId": "105",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600111",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "106",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600113",
+          "needCount": "1"
+        },
+        {
           "worldPhaseKeyId": "1001",
           "keyGroupId": "10000",
           "worldPhaseId": "610001",
@@ -669,5 +681,17 @@
           "keyGroupId": "10000",
           "worldPhaseId": "610008",
           "needCount": "10"
+        },
+        {
+          "worldPhaseKeyId": "1009",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600112",
+          "needCount": "1"
+        },
+        {
+          "worldPhaseKeyId": "1010",
+          "keyGroupId": "10000",
+          "worldPhaseId": "600114",
+          "needCount": "1"
         }
       ]

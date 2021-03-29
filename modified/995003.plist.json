@@ -1,0 +1,109 @@
+[        {
+          "tacticsSkillLearningId": "1",
+          "tacticsSkillId": "1",
+          "tag1": "1",
+          "tag2": "3",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "5",
+          "tacticsSkillId": "2",
+          "tag1": "1",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "6",
+          "tacticsSkillId": "3",
+          "tag1": "1",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "7",
+          "tacticsSkillId": "4",
+          "tag1": "2",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "8",
+          "tacticsSkillId": "5",
+          "tag1": "2",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "9",
+          "tacticsSkillId": "6",
+          "tag1": "2",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "10",
+          "tacticsSkillId": "7",
+          "tag1": "4",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "11",
+          "tacticsSkillId": "8",
+          "tag1": "4",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "12",
+          "tacticsSkillId": "9",
+          "tag1": "4",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "13",
+          "tacticsSkillId": "10",
+          "tag1": "5",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "14",
+          "tacticsSkillId": "11",
+          "tag1": "5",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        },
+        {
+          "tacticsSkillLearningId": "15",
+          "tacticsSkillId": "12",
+          "tag1": "5",
+          "tag2": "0",
+          "tag3": "0",
+          "tag4": "0",
+          "tag5": "0"
+        }
+      ]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>995005</key>
+        <string>{"resData":{"995005":{"tacticsBattleConditionM":[{"tacticsBattleConditionId":"1","groupId":"1","result":"win","type":"1","value":"5","description":"5\u30bf\u30fc\u30f3\u4ee5\u5185\u306b\u6575\u3092\u6bb2\u6ec5\u3059\u308b"},{"tacticsBattleConditionId":"2","groupId":"2","result":"win","type":"2","value":"5","description":"5\u30bf\u30fc\u30f3\u5168\u6ec5\u3057\u306a\u3044"},{"tacticsBattleConditionId":"3","groupId":"3","result":"win","type":"3","value":"2192830","description":"\u3046\u305a\u307e\u304d\u30ca\u30eb\u30c8\u3010\u63f4\u8ecd\u3011\u6b7b\u4ea1\uff08\u6557\u5317\uff09"},{"tacticsBattleConditionId":"4","groupId":"4","result":"lose","type":"4","value":"2301909","description":"\u5927\u86c7\u4e38\u3010\u63f4\u8ecd\u3011\u304c\u6b7b\u4ea1\uff08\u52dd\u5229\uff09"},{"tacticsBattleConditionId":"100001","groupId":"100000","result":"1","type":"1","value":"100","description":"%d\u30bf\u30fc\u30f3\u7d4c\u904e"},{"tacticsBattleConditionId":"100002","groupId":"100000","result":"1","type":"4","value":"0","description":"\u7279\u5b9a\u30de\u30b9\u306b\u5f85\u6a5f"},{"tacticsBattleConditionId":"100003","groupId":"100000","result":"1","type":"3","value":"0","description":"\u7279\u5b9a\u30de\u30b9\u306b\u63a5\u89e6"}]}}}</string>
+    </dict>
+</plist>

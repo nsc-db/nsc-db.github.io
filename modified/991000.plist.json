@@ -8699,6 +8699,331 @@
           "text": "乱舞キャラが含まれています！"
         },
         {
+          "appUiId": "1742",
+          "uiKey": "RecommendStrength",
+          "text": "推奨戦闘力"
+        },
+        {
+          "appUiId": "1743",
+          "uiKey": "VictoryConditions",
+          "text": "勝利条件"
+        },
+        {
+          "appUiId": "1744",
+          "uiKey": "DefeatConditions",
+          "text": "敗北条件"
+        },
+        {
+          "appUiId": "1745",
+          "uiKey": "Mp",
+          "text": "チャクラ"
+        },
+        {
+          "appUiId": "1746",
+          "uiKey": "RiseValuePriority",
+          "text": "上昇値優先"
+        },
+        {
+          "appUiId": "1747",
+          "uiKey": "SelectStatusText",
+          "text": "ステータスを選択してください"
+        },
+        {
+          "appUiId": "1748",
+          "uiKey": "SubDeck1",
+          "text": "第壱援軍"
+        },
+        {
+          "appUiId": "1749",
+          "uiKey": "SubDeck2",
+          "text": "第弐援軍"
+        },
+        {
+          "appUiId": "1750",
+          "uiKey": "SubDeck3",
+          "text": "第参援軍"
+        },
+        {
+          "appUiId": "1751",
+          "uiKey": "SubDeck4",
+          "text": "第四援軍"
+        },
+        {
+          "appUiId": "1752",
+          "uiKey": "SubDeck5",
+          "text": "第五援軍"
+        },
+        {
+          "appUiId": "1753",
+          "uiKey": "FillSubDeckText",
+          "text": "部隊に空きがあります"
+        },
+        {
+          "appUiId": "1754",
+          "uiKey": "TacticsUnitMenuUnit",
+          "text": "忍一覧"
+        },
+        {
+          "appUiId": "1755",
+          "uiKey": "TacticsUnitMenuLevelUp",
+          "text": "レベル\r\nアップ"
+        },
+        {
+          "appUiId": "1756",
+          "uiKey": "TacticsUnitMenuEvolution",
+          "text": "限界\r\n突破"
+        },
+        {
+          "appUiId": "1757",
+          "uiKey": "TacticsUnitMenuSphere",
+          "text": "潜在\r\n覚醒"
+        },
+        {
+          "appUiId": "1758",
+          "uiKey": "TacticsUnitMenuSkill",
+          "text": "スキル"
+        },
+        {
+          "appUiId": "1759",
+          "uiKey": "TacticsUnitMenuSubDeck",
+          "text": "援軍"
+        },
+        {
+          "appUiId": "1760",
+          "uiKey": "Period",
+          "text": "開催期間"
+        },
+        {
+          "appUiId": "1761",
+          "uiKey": "UntilRelease",
+          "text": "解放まで"
+        },
+        {
+          "appUiId": "1762",
+          "uiKey": "SortieAlly",
+          "text": "出撃人数"
+        },
+        {
+          "appUiId": "1763",
+          "uiKey": "Enemy",
+          "text": "敵"
+        },
+        {
+          "appUiId": "1764",
+          "uiKey": "TacticsUserRank",
+          "text": "部隊ランク"
+        },
+        {
+          "appUiId": "1765",
+          "uiKey": "Belong00",
+          "text": "他"
+        },
+        {
+          "appUiId": "1766",
+          "uiKey": "Belong01",
+          "text": "木ノ葉隠れの里"
+        },
+        {
+          "appUiId": "1767",
+          "uiKey": "Belong02",
+          "text": "砂隠れの里"
+        },
+        {
+          "appUiId": "1768",
+          "uiKey": "Belong03",
+          "text": "霧隠れの里"
+        },
+        {
+          "appUiId": "1769",
+          "uiKey": "Belong04",
+          "text": "音隠れの里"
+        },
+        {
+          "appUiId": "1770",
+          "uiKey": "Belong05",
+          "text": "岩隠れの里"
+        },
+        {
+          "appUiId": "1771",
+          "uiKey": "Belong06",
+          "text": "雲隠れの里"
+        },
+        {
+          "appUiId": "1772",
+          "uiKey": "Belong07",
+          "text": "雨隠れの里"
+        },
+        {
+          "appUiId": "1773",
+          "uiKey": "Belong08",
+          "text": "“暁”"
+        },
+        {
+          "appUiId": "1774",
+          "uiKey": "Belong09",
+          "text": "“蛇”"
+        },
+        {
+          "appUiId": "1775",
+          "uiKey": "Belong10",
+          "text": "“鷹”"
+        },
+        {
+          "appUiId": "1776",
+          "uiKey": "Belong11",
+          "text": "滝隠れの里"
+        },
+        {
+          "appUiId": "1777",
+          "uiKey": "Belong12",
+          "text": "鉄の国"
+        },
+        {
+          "appUiId": "1781",
+          "uiKey": "Belong99",
+          "text": "無所属"
+        },
+        {
+          "appUiId": "1782",
+          "uiKey": "TimeStump_TimeHMS",
+          "text": "%s:%s:%s"
+        },
+        {
+          "appUiId": "1783",
+          "uiKey": "TotalStrength",
+          "text": "総合戦闘力"
+        },
+        {
+          "appUiId": "1784",
+          "uiKey": "TacticsBattleUnitStatus",
+          "text": "ステータス"
+        },
+        {
+          "appUiId": "1785",
+          "uiKey": "TacticsBattleUnitEffect",
+          "text": "発動中効果"
+        },
+        {
+          "appUiId": "1786",
+          "uiKey": "TacticsBattleUnitSkill",
+          "text": "スキル一覧"
+        },
+        {
+          "appUiId": "1787",
+          "uiKey": "None",
+          "text": "なし"
+        },
+        {
+          "appUiId": "1788",
+          "uiKey": "TacticsDefaultWinConditionText",
+          "text": "敵の全滅"
+        },
+        {
+          "appUiId": "1789",
+          "uiKey": "TacticsDefaultLoseConditionTextFormat",
+          "text": "%dターン経過、または味方の全滅"
+        },
+        {
+          "appUiId": "1790",
+          "uiKey": "TacticsEnemyNum",
+          "text": "敵　%d"
+        },
+        {
+          "appUiId": "1791",
+          "uiKey": "TacticsLoseConditionTurnTextFormat",
+          "text": "%dターン経過"
+        },
+        {
+          "appUiId": "1792",
+          "uiKey": "TacticsLoseDeathConditionText",
+          "text": "味方の全滅"
+        },
+        {
+          "appUiId": "1793",
+          "uiKey": "ConfirmSubDeckClearText",
+          "text": "この編成を解除しますか？"
+        },
+        {
+          "appUiId": "1794",
+          "uiKey": "ConfirmSubDeckAllClearText",
+          "text": "すべての編成を解除します。\r\nよろしいですか？"
+        },
+        {
+          "appUiId": "1795",
+          "uiKey": "ConfirmSubDeckDecideText",
+          "text": "現在の編成を保存します。\r\nよろしいですか？"
+        },
+        {
+          "appUiId": "1796",
+          "uiKey": "SubDeckSaveFinished",
+          "text": "編成の保存に成功しました！"
+        },
+        {
+          "appUiId": "1797",
+          "uiKey": "ConfirmSubDeckChangedText",
+          "text": "編成が保存されていないため\r\n変更が破棄されます。\r\nよろしいですか？"
+        },
+        {
+          "appUiId": "1798",
+          "uiKey": "RecommendAll",
+          "text": "全おまかせ"
+        },
+        {
+          "appUiId": "1799",
+          "uiKey": "TacticsBattleSubDeckEffect",
+          "text": "援軍効果発動"
+        },
+        {
+          "appUiId": "1800",
+          "uiKey": "TacticsBattleSkip",
+          "text": "もう一度画面タップで演出をスキップします"
+        },
+        {
+          "appUiId": "1801",
+          "uiKey": "TacticsBattleUnitEffectNone",
+          "text": "効果なし"
+        },
+        {
+          "appUiId": "1802",
+          "uiKey": "TacticsBattleFiledEffectUndefined",
+          "text": "地形効果"
+        },
+        {
+          "appUiId": "1803",
+          "uiKey": "TacticsBattleCmdUnusableShortage",
+          "text": "チャクラ不足"
+        },
+        {
+          "appUiId": "1804",
+          "uiKey": "TacticsBattleCmdUnusableOutRange",
+          "text": "射程外"
+        },
+        {
+          "appUiId": "1805",
+          "uiKey": "TacticsBattleCmdUnusableSealed",
+          "text": "封印"
+        },
+        {
+          "appUiId": "1806",
+          "uiKey": "TacticsBattleRetireWindowTitle",
+          "text": "任務をリタイアしますか？"
+        },
+        {
+          "appUiId": "1807",
+          "uiKey": "TacticsBattleRetireWindowDesc",
+          "text": "※スタミナは消費されません"
+        },
+        {
+          "appUiId": "1808",
+          "uiKey": "TacticsBattleRetireWindowButtonRetire",
+          "text": "リタイア"
+        },
+        {
+          "appUiId": "1809",
+          "uiKey": "TacticsBattleRetireWindowButtonResume",
+          "text": "再開"
+        },
+        {
           "appUiId": "1810",
           "uiKey": "TokenTodayProgress",
           "text": "今日の達成状況"
@@ -8722,5 +9047,120 @@
           "appUiId": "1814",
           "uiKey": "TokenMonthlyMissionClear",
           "text": "全達成"
+        },
+        {
+          "appUiId": "1815",
+          "uiKey": "TacticsBattleCmdUnusableInBattle",
+          "text": "戦闘時使用不可"
+        },
+        {
+          "appUiId": "1816",
+          "uiKey": "SphereBulkTitle",
+          "text": "おまかせ解放"
+        },
+        {
+          "appUiId": "1817",
+          "uiKey": "SphereBulkInfo1",
+          "text": "上記を消費して可能な限り"
+        },
+        {
+          "appUiId": "1818",
+          "uiKey": "SphereBulkInfo2",
+          "text": "この盤の通常マスを解放してよろしいですか？"
+        },
+        {
+          "appUiId": "1819",
+          "uiKey": "BulkRelease",
+          "text": "一括解放"
+        },
+        {
+          "appUiId": "1824",
+          "uiKey": "SphereLegendPanelReleaseDescFormat",
+          "text": "「%s」\r\nが必要です"
+        },
+        {
+          "appUiId": "1825",
+          "uiKey": "LegendSpherePanelFormat",
+          "text": "伝説の覚醒・%s"
+        },
+        {
+          "appUiId": "1826",
+          "uiKey": "ReleaseSphereNewLegendPanel",
+          "text": "「%s」の解放が可能になりました\r\n「伝説・解放」ボタンから解放できます"
+        },
+        {
+          "appUiId": "1827",
+          "uiKey": "SphereLegendAbilityShort",
+          "text": "伝承アビ"
+        },
+        {
+          "appUiId": "1828",
+          "uiKey": "SphereLegendAbilityListMessage",
+          "text": "「伝説の覚醒」で解放可能"
+        },
+        {
+          "appUiId": "1829",
+          "uiKey": "SphereLegendAbility",
+          "text": "伝承アビリティ"
+        },
+        {
+          "appUiId": "1830",
+          "uiKey": "LegendAbilitySelectDesc",
+          "text": "※伝承アビリティはLvが最も高いもののみ効果を発揮します"
+        },
+        {
+          "appUiId": "1831",
+          "uiKey": "SphereLegendAbilityDesc",
+          "text": "【現在効果を発揮している伝承アビリティ】\r\n※伝承アビリティは\r\nLvが最も高いもののみ効果を発揮します"
+        },
+        {
+          "appUiId": "1832",
+          "uiKey": "SphereAttribute_501",
+          "text": "壱"
+        },
+        {
+          "appUiId": "1833",
+          "uiKey": "SphereAttribute_502",
+          "text": "弐"
+        },
+        {
+          "appUiId": "1834",
+          "uiKey": "SphereAttribute_503",
+          "text": "参"
+        },
+        {
+          "appUiId": "1835",
+          "uiKey": "SphereAttribute_504",
+          "text": "四"
+        },
+        {
+          "appUiId": "1836",
+          "uiKey": "SphereAttribute_505",
+          "text": "五"
+        },
+        {
+          "appUiId": "1837",
+          "uiKey": "ImplementLater",
+          "text": "この機能は今後実装予定です"
+        },
+        {
+          "appUiId": "1838",
+          "uiKey": "HigherLegendAbilityLearned",
+          "text": "上位の伝承アビリティを解放済みです"
+        },
+        {
+          "appUiId": "1839",
+          "uiKey": "LegendSphereAbilityTitle",
+          "text": "伝承アビリティ"
+        },
+        {
+          "appUiId": "1840",
+          "uiKey": "SphereLegendAbilityNonName",
+          "text": "未解放"
+        },
+        {
+          "appUiId": "1841",
+          "uiKey": "SphereLegendAbilityNonDesc",
+          "text": "未解放"
         }
       ]
