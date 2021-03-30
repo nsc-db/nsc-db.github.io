@@ -8216,6 +8216,14 @@ window.skillname=[
           "name": "準備出来た？"
         },
         {
+          "cardBattleSkillNameId": "3268",
+          "name": "千鳥刀・須佐能乎ノ矢"
+        },
+        {
+          "cardBattleSkillNameId": "3269",
+          "name": "それ以上イタチを語るな"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

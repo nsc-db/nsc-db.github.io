@@ -16394,6 +16394,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1188",
+          "name": "憎悪に染まる闘眼",
+          "description": "全属性スキルダメージ150%アップ&amp;確率で即死無効",
+          "effectIdx1": "794",
+          "effectIdx2": "3463",
+          "effectIdx3": "0",
+          "effectIds": "794,3463,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
