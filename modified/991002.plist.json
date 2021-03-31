@@ -2435,6 +2435,20 @@
           "deleteFlg": "0"
         },
         {
+          "scriptSettingId": "70000068",
+          "triggerId": "0",
+          "priority": "0",
+          "eventId": "0",
+          "worldStageId": "0",
+          "worldPhaseId": "0",
+          "compositionNum": "0",
+          "oneTimeFlg": "1",
+          "exclusionFlg": "0",
+          "saveFlg": "1",
+          "memo": "スフィア盤伝説TOPチュートリアル",
+          "deleteFlg": "0"
+        },
+        {
           "scriptSettingId": "70002000",
           "triggerId": "2",
           "priority": "0",

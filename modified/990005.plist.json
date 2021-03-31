@@ -1299,6 +1299,16 @@
           "enemyEffects": null
         },
         {
+          "battleFieldEffectId": "10029",
+          "name": "裁キノ刻",
+          "category": "3",
+          "scriptId": "10029",
+          "overWrite": "1",
+          "uiIdx": "10029",
+          "partyEffects": "30009,3889,3889,3889,3889,3889,3889,3889,3889,3889,",
+          "enemyEffects": "3892,3890,3890,3890,3890,3890,3890,3891,"
+        },
+        {
           "battleFieldEffectId": "20001",
           "name": "忍方陣：創世烈風・壱",
           "category": "5",

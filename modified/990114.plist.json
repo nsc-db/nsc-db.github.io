@@ -3187,5 +3187,125 @@
           "subScore": "0",
           "color": "16719871",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "328",
+          "category": "7",
+          "iconId": "1412",
+          "name": "伝承：撒菱・壱",
+          "description": "敵アクション時､確率でダメージ",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "329",
+          "category": "7",
+          "iconId": "1413",
+          "name": "伝承：撒菱・弐",
+          "description": "敵アクション時､確率でダメージ",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "330",
+          "category": "7",
+          "iconId": "1414",
+          "name": "伝承：撒菱・参",
+          "description": "敵アクション時､確率でダメージ",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "331",
+          "category": "7",
+          "iconId": "1415",
+          "name": "伝承：苦無・壱",
+          "description": "スキル攻撃時､確率でダメージ追撃",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "332",
+          "category": "7",
+          "iconId": "1416",
+          "name": "伝承：苦無・弐",
+          "description": "スキル攻撃時､確率でダメージ追撃",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "333",
+          "category": "7",
+          "iconId": "1417",
+          "name": "伝承：苦無・参",
+          "description": "スキル攻撃時､確率でダメージ追撃",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "334",
+          "category": "7",
+          "iconId": "1418",
+          "name": "伝承：兵糧丸・壱",
+          "description": "行動選択時､確率でＨＰ・チャクラ回復",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "335",
+          "category": "7",
+          "iconId": "1419",
+          "name": "伝承：兵糧丸・弐",
+          "description": "行動選択時､確率でＨＰ・チャクラ回復",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "336",
+          "category": "7",
+          "iconId": "1420",
+          "name": "伝承：兵糧丸・参",
+          "description": "行動選択時､確率でＨＰ・チャクラ回復",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "343",
+          "category": "7",
+          "iconId": "1427",
+          "name": "伝承：空蝉・壱",
+          "description": "状態付与時､確率で耐える回数を1回増加",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "344",
+          "category": "7",
+          "iconId": "1428",
+          "name": "伝承：空蝉・弐",
+          "description": "状態付与時､確率で耐える回数を1～2回増加",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "345",
+          "category": "7",
+          "iconId": "1429",
+          "name": "伝承：空蝉・参",
+          "description": "状態付与時､確率で耐える回数を1～3回増加",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
         }
       ]

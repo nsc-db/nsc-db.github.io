@@ -1601,6 +1601,51 @@
           "customSphereList": "9100221,9100222,9100223,9100224"
         },
         {
+          "sphereBoardPanelId": "9100041",
+          "panelType": "3",
+          "panelMaterial": "4:1",
+          "needMoney": "36000000",
+          "normalSphereList": "9200563,9200564,9200565,9200566,9200567,9200568,9200569,9200570,9200571,9200572,9200573,9200574,9200575,9200576,9200577",
+          "lastSphereId": "9200578",
+          "customSphereList": "9200579,9200580,9200581,9200582"
+        },
+        {
+          "sphereBoardPanelId": "9100042",
+          "panelType": "3",
+          "panelMaterial": "4:1",
+          "needMoney": "48000000",
+          "normalSphereList": "9200583,9200584,9200585,9200586,9200587,9200588,9200589,9200590,9200591,9200592,9200593,9200594,9200595,9200596,9200597",
+          "lastSphereId": "9200598",
+          "customSphereList": "9200599,9200600,9200601"
+        },
+        {
+          "sphereBoardPanelId": "9100043",
+          "panelType": "3",
+          "panelMaterial": "4:1",
+          "needMoney": "60000000",
+          "normalSphereList": "9200603,9200604,9200605,9200606,9200607,9200608,9200609,9200610,9200611,9200612,9200613,9200614,9200615,9200616,9200617",
+          "lastSphereId": "9200618",
+          "customSphereList": "9200619,9200620,9200621,9200622"
+        },
+        {
+          "sphereBoardPanelId": "9100044",
+          "panelType": "3",
+          "panelMaterial": "4:1",
+          "needMoney": "72000000",
+          "normalSphereList": "9200623,9200624,9200625,9200626,9200627,9200628,9200629,9200630,9200631,9200632,9200633,9200634,9200635,9200636,9200637",
+          "lastSphereId": "9200638",
+          "customSphereList": "9200639,9200640,9200641"
+        },
+        {
+          "sphereBoardPanelId": "9100045",
+          "panelType": "3",
+          "panelMaterial": "4:1",
+          "needMoney": "84000000",
+          "normalSphereList": "9200643,9200644,9200645,9200646,9200647,9200648,9200649,9200650,9200651,9200652,9200653,9200654,9200655,9200656,9200657",
+          "lastSphereId": "9200658",
+          "customSphereList": "9200659,9200660,9200661,9200662"
+        },
+        {
           "sphereBoardPanelId": "9200001",
           "panelType": "1",
           "panelMaterial": "0",

@@ -8,7 +8,8 @@
           "attribute": "0",
           "cardId": "20050813",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10011",
@@ -20,7 +21,8 @@
           "attribute": "0",
           "cardId": "20060416",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10012",
@@ -32,7 +34,8 @@
           "attribute": "0",
           "cardId": "20060411",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10013",
@@ -44,7 +47,8 @@
           "attribute": "0",
           "cardId": "20060412",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10014",
@@ -56,7 +60,8 @@
           "attribute": "0",
           "cardId": "20051006",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10015",
@@ -68,7 +73,8 @@
           "attribute": "0",
           "cardId": "20050206",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10016",
@@ -80,7 +86,8 @@
           "attribute": "0",
           "cardId": "20041103",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10017",
@@ -92,7 +99,8 @@
           "attribute": "0",
           "cardId": "20041006",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10018",
@@ -104,7 +112,8 @@
           "attribute": "0",
           "cardId": "20030924",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10019",
@@ -116,7 +125,8 @@
           "attribute": "0",
           "cardId": "20050514",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10020",
@@ -128,7 +138,8 @@
           "attribute": "0",
           "cardId": "20050408",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10021",
@@ -140,7 +151,8 @@
           "attribute": "0",
           "cardId": "20050113",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10022",
@@ -152,7 +164,8 @@
           "attribute": "0",
           "cardId": "20040115",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10023",
@@ -164,7 +177,8 @@
           "attribute": "0",
           "cardId": "20040113",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10024",
@@ -176,7 +190,8 @@
           "attribute": "0",
           "cardId": "20050605",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10025",
@@ -188,7 +203,8 @@
           "attribute": "0",
           "cardId": "20041206",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10026",
@@ -200,7 +216,8 @@
           "attribute": "0",
           "cardId": "20041110",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10027",
@@ -212,7 +229,8 @@
           "attribute": "0",
           "cardId": "20040702",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10028",
@@ -224,7 +242,8 @@
           "attribute": "0",
           "cardId": "20031206",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10029",
@@ -236,7 +255,8 @@
           "attribute": "0",
           "cardId": "20060703",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10030",
@@ -248,7 +268,8 @@
           "attribute": "0",
           "cardId": "20060711",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10031",
@@ -260,7 +281,8 @@
           "attribute": "0",
           "cardId": "20060712",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10032",
@@ -272,7 +294,8 @@
           "attribute": "0",
           "cardId": "20060803",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10033",
@@ -284,7 +307,8 @@
           "attribute": "0",
           "cardId": "20060804",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10034",
@@ -296,7 +320,8 @@
           "attribute": "0",
           "cardId": "20060807",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10035",
@@ -308,7 +333,8 @@
           "attribute": "0",
           "cardId": "20060808",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10036",
@@ -320,7 +346,8 @@
           "attribute": "0",
           "cardId": "20060802",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10037",
@@ -332,7 +359,8 @@
           "attribute": "0",
           "cardId": "20060902",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10038",
@@ -344,7 +372,8 @@
           "attribute": "0",
           "cardId": "20060903",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10039",
@@ -356,7 +385,8 @@
           "attribute": "0",
           "cardId": "20060904",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10040",
@@ -368,7 +398,8 @@
           "attribute": "0",
           "cardId": "20060907",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10041",
@@ -380,7 +411,8 @@
           "attribute": "0",
           "cardId": "20060906",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10042",
@@ -392,7 +424,8 @@
           "attribute": "0",
           "cardId": "20060908",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10043",
@@ -404,7 +437,8 @@
           "attribute": "0",
           "cardId": "20060909",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10044",
@@ -416,7 +450,8 @@
           "attribute": "0",
           "cardId": "20061002",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10045",
@@ -428,7 +463,8 @@
           "attribute": "0",
           "cardId": "20061003",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10046",
@@ -440,7 +476,8 @@
           "attribute": "0",
           "cardId": "20061005",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10047",
@@ -452,7 +489,8 @@
           "attribute": "0",
           "cardId": "20061007",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10048",
@@ -464,7 +502,8 @@
           "attribute": "0",
           "cardId": "20051117",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10049",
@@ -476,7 +515,8 @@
           "attribute": "0",
           "cardId": "20051118",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10050",
@@ -488,7 +528,8 @@
           "attribute": "0",
           "cardId": "20051119",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10051",
@@ -500,7 +541,8 @@
           "attribute": "0",
           "cardId": "20061008",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10052",
@@ -512,7 +554,8 @@
           "attribute": "0",
           "cardId": "20061102",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10053",
@@ -524,7 +567,8 @@
           "attribute": "0",
           "cardId": "20061105",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10054",
@@ -536,7 +580,8 @@
           "attribute": "0",
           "cardId": "20050614",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10055",
@@ -548,7 +593,8 @@
           "attribute": "0",
           "cardId": "20050913",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10057",
@@ -560,7 +606,8 @@
           "attribute": "0",
           "cardId": "20061107",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10058",
@@ -572,7 +619,8 @@
           "attribute": "0",
           "cardId": "20060403",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10059",
@@ -584,7 +632,8 @@
           "attribute": "0",
           "cardId": "20060302",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10060",
@@ -596,7 +645,8 @@
           "attribute": "0",
           "cardId": "20050907",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10061",
@@ -608,7 +658,8 @@
           "attribute": "0",
           "cardId": "20050711",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10062",
@@ -620,7 +671,8 @@
           "attribute": "0",
           "cardId": "20061108",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10063",
@@ -632,7 +684,8 @@
           "attribute": "0",
           "cardId": "20061202",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10064",
@@ -644,7 +697,8 @@
           "attribute": "0",
           "cardId": "20061203",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10065",
@@ -656,7 +710,8 @@
           "attribute": "0",
           "cardId": "20061205",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10066",
@@ -668,7 +723,8 @@
           "attribute": "0",
           "cardId": "20061207",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10067",
@@ -680,7 +736,8 @@
           "attribute": "0",
           "cardId": "20061208",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10068",
@@ -692,7 +749,8 @@
           "attribute": "0",
           "cardId": "20061209",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10069",
@@ -704,7 +762,8 @@
           "attribute": "0",
           "cardId": "20070102",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10070",
@@ -716,7 +775,8 @@
           "attribute": "0",
           "cardId": "20070103",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10071",
@@ -728,7 +788,8 @@
           "attribute": "0",
           "cardId": "20070105",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10072",
@@ -740,7 +801,8 @@
           "attribute": "0",
           "cardId": "20070107",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10073",
@@ -752,7 +814,8 @@
           "attribute": "0",
           "cardId": "20050207",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10074",
@@ -764,7 +827,8 @@
           "attribute": "0",
           "cardId": "20050208",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10075",
@@ -776,7 +840,8 @@
           "attribute": "0",
           "cardId": "20070202",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10076",
@@ -788,7 +853,8 @@
           "attribute": "0",
           "cardId": "20060309",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10077",
@@ -800,7 +866,8 @@
           "attribute": "0",
           "cardId": "20060305",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10078",
@@ -812,7 +879,8 @@
           "attribute": "0",
           "cardId": "20060406",
           "normalPanelList": "9000007,9000008,9000009",
-          "specialPanelList": "9000010,9000011,9000012"
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10079",
@@ -824,7 +892,8 @@
           "attribute": "0",
           "cardId": "20070208",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10080",
@@ -836,7 +905,8 @@
           "attribute": "0",
           "cardId": "20050304",
           "normalPanelList": "9000019,9000020,9000021",
-          "specialPanelList": "9000022,9000023,9000024"
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10081",
@@ -848,7 +918,8 @@
           "attribute": "0",
           "cardId": "20050305",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10082",
@@ -860,7 +931,8 @@
           "attribute": "0",
           "cardId": "20070302",
           "normalPanelList": "9000025,9000026,9000027",
-          "specialPanelList": "9000028,9000029,9000030"
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10083",
@@ -872,7 +944,8 @@
           "attribute": "0",
           "cardId": "20070306",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10084",
@@ -884,7 +957,8 @@
           "attribute": "0",
           "cardId": "20070305",
           "normalPanelList": "9000001,9000002,9000003",
-          "specialPanelList": "9000004,9000005,9000006"
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "10085",
@@ -896,7 +970,8 @@
           "attribute": "0",
           "cardId": "20070308",
           "normalPanelList": "9000013,9000014,9000015",
-          "specialPanelList": "9000016,9000017,9000018"
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50001",
@@ -908,7 +983,8 @@
           "attribute": "0",
           "cardId": "20051005",
           "normalPanelList": "9100013,9100014,9100015",
-          "specialPanelList": "9100016,9100017,9100018"
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50002",
@@ -920,7 +996,8 @@
           "attribute": "0",
           "cardId": "20051208",
           "normalPanelList": "9100007,9100008,9100009",
-          "specialPanelList": "9100010,9100011,9100012"
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50003",
@@ -932,7 +1009,8 @@
           "attribute": "0",
           "cardId": "20051217",
           "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50004",
@@ -944,7 +1022,8 @@
           "attribute": "0",
           "cardId": "20060108",
           "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50005",
@@ -956,7 +1035,8 @@
           "attribute": "0",
           "cardId": "20060111",
           "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50006",
@@ -968,7 +1048,8 @@
           "attribute": "0",
           "cardId": "20060202",
           "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50007",
@@ -980,7 +1061,8 @@
           "attribute": "0",
           "cardId": "20060203",
           "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50008",
@@ -992,7 +1074,8 @@
           "attribute": "0",
           "cardId": "20060217",
           "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50009",
@@ -1004,7 +1087,8 @@
           "attribute": "0",
           "cardId": "20060308",
           "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50010",
@@ -1016,7 +1100,8 @@
           "attribute": "0",
           "cardId": "20060307",
           "normalPanelList": "9100001,9100002,9100003,9100031",
-          "specialPanelList": "9100004,9100005,9100006,9100032"
+          "specialPanelList": "9100004,9100005,9100006,9100032",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50011",
@@ -1028,7 +1113,8 @@
           "attribute": "0",
           "cardId": "20051109",
           "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50012",
@@ -1040,7 +1126,8 @@
           "attribute": "0",
           "cardId": "20060312",
           "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50013",
@@ -1052,7 +1139,8 @@
           "attribute": "0",
           "cardId": "20051202",
           "normalPanelList": "9100013,9100014,9100015",
-          "specialPanelList": "9100016,9100017,9100018"
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50014",
@@ -1064,7 +1152,8 @@
           "attribute": "0",
           "cardId": "20060407",
           "normalPanelList": "9100001,9100002,9100003",
-          "specialPanelList": "9100004,9100005,9100006"
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50015",
@@ -1076,7 +1165,8 @@
           "attribute": "0",
           "cardId": "20060414",
           "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50016",
@@ -1088,7 +1178,8 @@
           "attribute": "0",
           "cardId": "20060415",
           "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50017",
@@ -1100,7 +1191,8 @@
           "attribute": "0",
           "cardId": "20060504",
           "normalPanelList": "9100019,9100020,9100021,9100033",
-          "specialPanelList": "9100022,9100023,9100024,9100034"
+          "specialPanelList": "9100022,9100023,9100024,9100034",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50018",
@@ -1112,7 +1204,8 @@
           "attribute": "0",
           "cardId": "20060511",
           "normalPanelList": "9100001,9100002,9100003",
-          "specialPanelList": "9100004,9100005,9100006"
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50019",
@@ -1124,7 +1217,8 @@
           "attribute": "0",
           "cardId": "20040502",
           "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50020",
@@ -1136,7 +1230,8 @@
           "attribute": "0",
           "cardId": "20040511",
           "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50021",
@@ -1148,7 +1243,8 @@
           "attribute": "0",
           "cardId": "20040512",
           "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50022",
@@ -1160,7 +1256,8 @@
           "attribute": "0",
           "cardId": "20060510",
           "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50023",
@@ -1172,7 +1269,8 @@
           "attribute": "0",
           "cardId": "20060603",
           "normalPanelList": "9100013,9100014,9100015",
-          "specialPanelList": "9100016,9100017,9100018"
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50024",
@@ -1184,7 +1282,8 @@
           "attribute": "0",
           "cardId": "20060606",
           "normalPanelList": "9100001,9100002,9100003",
-          "specialPanelList": "9100004,9100005,9100006"
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50025",
@@ -1196,7 +1295,8 @@
           "attribute": "0",
           "cardId": "20060611",
           "normalPanelList": "9100007,9100008,9100009",
-          "specialPanelList": "9100010,9100011,9100012"
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50026",
@@ -1208,7 +1308,8 @@
           "attribute": "0",
           "cardId": "20060705",
           "normalPanelList": "9100001,9100002,9100003",
-          "specialPanelList": "9100004,9100005,9100006"
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50027",
@@ -1220,7 +1321,8 @@
           "attribute": "0",
           "cardId": "20060707",
           "normalPanelList": "9100025,9100026,9100027,9100037",
-          "specialPanelList": "9100028,9100029,9100030,9100038"
+          "specialPanelList": "9100028,9100029,9100030,9100038",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50028",
@@ -1232,7 +1334,8 @@
           "attribute": "0",
           "cardId": "20060805",
           "normalPanelList": "9100013,9100014,9100015",
-          "specialPanelList": "9100016,9100017,9100018"
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50029",
@@ -1244,7 +1347,8 @@
           "attribute": "0",
           "cardId": "20060806",
           "normalPanelList": "9100007,9100008,9100009,9100035",
-          "specialPanelList": "9100010,9100011,9100012,9100036"
+          "specialPanelList": "9100010,9100011,9100012,9100036",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50030",
@@ -1256,7 +1360,8 @@
           "attribute": "0",
           "cardId": "20060809",
           "normalPanelList": "9100001,9100002,9100003",
-          "specialPanelList": "9100004,9100005,9100006"
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50031",
@@ -1268,7 +1373,8 @@
           "attribute": "0",
           "cardId": "20060810",
           "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50032",
@@ -1280,7 +1386,8 @@
           "attribute": "0",
           "cardId": "20060905",
           "normalPanelList": "9100007,9100008,9100009",
-          "specialPanelList": "9100010,9100011,9100012"
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50033",
@@ -1292,7 +1399,8 @@
           "attribute": "0",
           "cardId": "20041203",
           "normalPanelList": "9100013,9100014,9100015",
-          "specialPanelList": "9100016,9100017,9100018"
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50034",
@@ -1304,7 +1412,8 @@
           "attribute": "0",
           "cardId": "20050703",
           "normalPanelList": "9100025,9100026,9100027",
-          "specialPanelList": "9100028,9100029,9100030"
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50035",
@@ -1316,7 +1425,8 @@
           "attribute": "0",
           "cardId": "20050820",
           "normalPanelList": "9100001,9100002,9100003",
-          "specialPanelList": "9100004,9100005,9100006"
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50036",
@@ -1328,7 +1438,8 @@
           "attribute": "0",
           "cardId": "20050821",
           "normalPanelList": "9100007,9100008,9100009",
-          "specialPanelList": "9100010,9100011,9100012"
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50037",
@@ -1340,7 +1451,8 @@
           "attribute": "0",
           "cardId": "20050822",
           "normalPanelList": "9100013,9100014,9100015",
-          "specialPanelList": "9100016,9100017,9100018"
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50038",
@@ -1352,7 +1464,8 @@
           "attribute": "0",
           "cardId": "20050916",
           "normalPanelList": "9100013,9100014,9100015",
-          "specialPanelList": "9100016,9100017,9100018"
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50039",
@@ -1364,7 +1477,8 @@
           "attribute": "0",
           "cardId": "20060910",
           "normalPanelList": "9100019,9100020,9100021,9100033",
-          "specialPanelList": "9100022,9100023,9100024,9100034"
+          "specialPanelList": "9100022,9100023,9100024,9100034",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50040",
@@ -1376,7 +1490,8 @@
           "attribute": "0",
           "cardId": "20061004",
           "normalPanelList": "9100001,9100002,9100003,9100031",
-          "specialPanelList": "9100004,9100005,9100006,9100032"
+          "specialPanelList": "9100004,9100005,9100006,9100032",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50041",
@@ -1388,7 +1503,8 @@
           "attribute": "0",
           "cardId": "20061006",
           "normalPanelList": "9100007,9100008,9100009",
-          "specialPanelList": "9100010,9100011,9100012"
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50042",
@@ -1400,7 +1516,8 @@
           "attribute": "0",
           "cardId": "20061009",
           "normalPanelList": "9100013,9100014,9100015",
-          "specialPanelList": "9100016,9100017,9100018"
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50043",
@@ -1412,7 +1529,8 @@
           "attribute": "0",
           "cardId": "20061104",
           "normalPanelList": "9100001,9100002,9100003",
-          "specialPanelList": "9100004,9100005,9100006"
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50044",
@@ -1424,7 +1542,8 @@
           "attribute": "0",
           "cardId": "20050504",
           "normalPanelList": "9100001,9100002,9100003",
-          "specialPanelList": "9100004,9100005,9100006"
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50045",
@@ -1436,7 +1555,8 @@
           "attribute": "0",
           "cardId": "20061106",
           "normalPanelList": "9100019,9100020,9100021,9100033",
-          "specialPanelList": "9100022,9100023,9100024,9100034"
+          "specialPanelList": "9100022,9100023,9100024,9100034",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50046",
@@ -1448,7 +1568,8 @@
           "attribute": "0",
           "cardId": "20061109",
           "normalPanelList": "9100007,9100008,9100009,9100035",
-          "specialPanelList": "9100010,9100011,9100012,9100036"
+          "specialPanelList": "9100010,9100011,9100012,9100036",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50047",
@@ -1460,7 +1581,8 @@
           "attribute": "0",
           "cardId": "20061206",
           "normalPanelList": "9100025,9100026,9100027,9100037",
-          "specialPanelList": "9100028,9100029,9100030,9100038"
+          "specialPanelList": "9100028,9100029,9100030,9100038",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50048",
@@ -1472,7 +1594,8 @@
           "attribute": "0",
           "cardId": "20061204",
           "normalPanelList": "9100013,9100014,9100015,9100039",
-          "specialPanelList": "9100016,9100017,9100018,9100040"
+          "specialPanelList": "9100016,9100017,9100018,9100040",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50049",
@@ -1484,7 +1607,8 @@
           "attribute": "0",
           "cardId": "20070104",
           "normalPanelList": "9100013,9100014,9100015,9100039",
-          "specialPanelList": "9100016,9100017,9100018,9100040"
+          "specialPanelList": "9100016,9100017,9100018,9100040",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50050",
@@ -1496,7 +1620,8 @@
           "attribute": "0",
           "cardId": "20070106",
           "normalPanelList": "9100007,9100008,9100009,9100035",
-          "specialPanelList": "9100010,9100011,9100012,9100036"
+          "specialPanelList": "9100010,9100011,9100012,9100036",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50051",
@@ -1508,7 +1633,8 @@
           "attribute": "0",
           "cardId": "20070108",
           "normalPanelList": "9100019,9100020,9100021,9100033",
-          "specialPanelList": "9100022,9100023,9100024,9100034"
+          "specialPanelList": "9100022,9100023,9100024,9100034",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50052",
@@ -1520,7 +1646,8 @@
           "attribute": "0",
           "cardId": "20070203",
           "normalPanelList": "9100001,9100002,9100003,9100031",
-          "specialPanelList": "9100004,9100005,9100006,9100032"
+          "specialPanelList": "9100004,9100005,9100006,9100032",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50053",
@@ -1532,7 +1659,8 @@
           "attribute": "0",
           "cardId": "20070205",
           "normalPanelList": "9100025,9100026,9100027,9100037",
-          "specialPanelList": "9100028,9100029,9100030,9100038"
+          "specialPanelList": "9100028,9100029,9100030,9100038",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50054",
@@ -1544,7 +1672,8 @@
           "attribute": "0",
           "cardId": "20070207",
           "normalPanelList": "9100013,9100014,9100015",
-          "specialPanelList": "9100016,9100017,9100018"
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50055",
@@ -1556,7 +1685,8 @@
           "attribute": "0",
           "cardId": "20070209",
           "normalPanelList": "9100007,9100008,9100009,9100035",
-          "specialPanelList": "9100010,9100011,9100012,9100036"
+          "specialPanelList": "9100010,9100011,9100012,9100036",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50056",
@@ -1568,7 +1698,8 @@
           "attribute": "0",
           "cardId": "20070312",
           "normalPanelList": "9100019,9100020,9100021",
-          "specialPanelList": "9100022,9100023,9100024"
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50057",
@@ -1580,7 +1711,8 @@
           "attribute": "0",
           "cardId": "20070304",
           "normalPanelList": "9100019,9100020,9100021,9100033",
-          "specialPanelList": "9100022,9100023,9100024,9100034"
+          "specialPanelList": "9100022,9100023,9100024,9100034",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "50058",
@@ -1592,7 +1724,21 @@
           "attribute": "0",
           "cardId": "20070307",
           "normalPanelList": "9100001,9100002,9100003,9100031",
-          "specialPanelList": "9100004,9100005,9100006,9100032"
+          "specialPanelList": "9100004,9100005,9100006,9100032",
+          "legendPanelList": ""
+        },
+        {
+          "sphereBoardId": "50059",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤_4枚伝説",
+          "boardDescription": "うちはサスケ【憎悪に染まる闘眼】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070310",
+          "normalPanelList": "9100007,9100008,9100009,9100035",
+          "specialPanelList": "9100010,9100011,9100012,9100036",
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "60001",
@@ -1604,7 +1750,8 @@
           "attribute": "0",
           "cardId": "60060700",
           "normalPanelList": "9200007,9200008,9200009",
-          "specialPanelList": "9200010,9200011,9200012"
+          "specialPanelList": "9200010,9200011,9200012",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "60002",
@@ -1616,7 +1763,8 @@
           "attribute": "0",
           "cardId": "60061200",
           "normalPanelList": "9200001,9200002,9200003",
-          "specialPanelList": "9200004,9200005,9200006"
+          "specialPanelList": "9200004,9200005,9200006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "70001",
@@ -1628,7 +1776,8 @@
           "attribute": "0",
           "cardId": "20061103",
           "normalPanelList": "9300019,9300020,9300021",
-          "specialPanelList": "9300022,9300023,9300024"
+          "specialPanelList": "9300022,9300023,9300024",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "70002",
@@ -1640,7 +1789,8 @@
           "attribute": "0",
           "cardId": "20060708",
           "normalPanelList": "9300025,9300026,9300027",
-          "specialPanelList": "9300028,9300029,9300030"
+          "specialPanelList": "9300028,9300029,9300030",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000001",
@@ -1652,7 +1802,8 @@
           "attribute": "0",
           "cardId": "50051001",
           "normalPanelList": "5000001,5000002,5000003",
-          "specialPanelList": "5000004,5000005,5000006"
+          "specialPanelList": "5000004,5000005,5000006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000002",
@@ -1664,7 +1815,8 @@
           "attribute": "0",
           "cardId": "50051002",
           "normalPanelList": "5001001,5001002,5001003",
-          "specialPanelList": "5001004,5001005,5001006"
+          "specialPanelList": "5001004,5001005,5001006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000003",
@@ -1676,7 +1828,8 @@
           "attribute": "0",
           "cardId": "50051103",
           "normalPanelList": "5002001,5002002,5002003",
-          "specialPanelList": "5002004,5002005,5002006"
+          "specialPanelList": "5002004,5002005,5002006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000004",
@@ -1688,7 +1841,8 @@
           "attribute": "0",
           "cardId": "50060104",
           "normalPanelList": "5003001,5003002,5003003",
-          "specialPanelList": "5003004,5003005,5003006"
+          "specialPanelList": "5003004,5003005,5003006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000005",
@@ -1700,7 +1854,8 @@
           "attribute": "0",
           "cardId": "50060205",
           "normalPanelList": "5004001,5004002,5004003",
-          "specialPanelList": "5004004,5004005,5004006"
+          "specialPanelList": "5004004,5004005,5004006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000006",
@@ -1712,7 +1867,8 @@
           "attribute": "0",
           "cardId": "50060307",
           "normalPanelList": "5005001,5005002,5005003",
-          "specialPanelList": "5005004,5005005,5005006"
+          "specialPanelList": "5005004,5005005,5005006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000007",
@@ -1724,7 +1880,8 @@
           "attribute": "0",
           "cardId": "50060306",
           "normalPanelList": "5006001,5006002,5006003",
-          "specialPanelList": "5006004,5006005,5006006"
+          "specialPanelList": "5006004,5006005,5006006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000008",
@@ -1736,7 +1893,8 @@
           "attribute": "0",
           "cardId": "50060401",
           "normalPanelList": "5007001,5007002,5007003",
-          "specialPanelList": "5007004,5007005,5007006"
+          "specialPanelList": "5007004,5007005,5007006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000009",
@@ -1748,7 +1906,8 @@
           "attribute": "0",
           "cardId": "50060501",
           "normalPanelList": "5008001,5008002,5008003",
-          "specialPanelList": "5008004,5008005,5008006"
+          "specialPanelList": "5008004,5008005,5008006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000010",
@@ -1760,7 +1919,8 @@
           "attribute": "0",
           "cardId": "50060601",
           "normalPanelList": "5009001,5009002,5009003",
-          "specialPanelList": "5009004,5009005,5009006"
+          "specialPanelList": "5009004,5009005,5009006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000011",
@@ -1772,7 +1932,8 @@
           "attribute": "0",
           "cardId": "50060701",
           "normalPanelList": "5010001,5010002,5010003",
-          "specialPanelList": "5010004,5010005,5010006"
+          "specialPanelList": "5010004,5010005,5010006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000012",
@@ -1784,7 +1945,8 @@
           "attribute": "0",
           "cardId": "50060801",
           "normalPanelList": "5011001,5011002,5011003",
-          "specialPanelList": "5011004,5011005,5011006"
+          "specialPanelList": "5011004,5011005,5011006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000013",
@@ -1796,7 +1958,8 @@
           "attribute": "0",
           "cardId": "50061001",
           "normalPanelList": "5012001,5012002,5012003",
-          "specialPanelList": "5012004,5012005,5012006"
+          "specialPanelList": "5012004,5012005,5012006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000014",
@@ -1808,7 +1971,8 @@
           "attribute": "0",
           "cardId": "50061101",
           "normalPanelList": "5013001,5013002,5013003",
-          "specialPanelList": "5013004,5013005,5013006"
+          "specialPanelList": "5013004,5013005,5013006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000015",
@@ -1820,7 +1984,8 @@
           "attribute": "0",
           "cardId": "50061201",
           "normalPanelList": "5014001,5014002,5014003",
-          "specialPanelList": "5014004,5014005,5014006"
+          "specialPanelList": "5014004,5014005,5014006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000016",
@@ -1832,7 +1997,8 @@
           "attribute": "0",
           "cardId": "50070101",
           "normalPanelList": "5070101,5070102,5070103",
-          "specialPanelList": "5070104,5070105,5070106"
+          "specialPanelList": "5070104,5070105,5070106",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000017",
@@ -1844,7 +2010,8 @@
           "attribute": "0",
           "cardId": "50070201",
           "normalPanelList": "5016001,5016002,5016003",
-          "specialPanelList": "5016004,5016005,5016006"
+          "specialPanelList": "5016004,5016005,5016006",
+          "legendPanelList": ""
         },
         {
           "sphereBoardId": "5000018",
@@ -1856,6 +2023,7 @@
           "attribute": "0",
           "cardId": "50070301",
           "normalPanelList": "5017001,5017002,5017003",
-          "specialPanelList": "5017004,5017005,5017006"
+          "specialPanelList": "5017004,5017005,5017006",
+          "legendPanelList": ""
         }
       ]

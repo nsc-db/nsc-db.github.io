@@ -16234,5 +16234,31 @@
           "effectIdx3": "1840",
           "effectIdx4": "0",
           "effectIds": "1221,794,1840,"
+        },
+        {
+          "crystalOverwriteEffectId": "1267",
+          "targetCrystal": "40315",
+          "description": "スキル発動速度1段階アップ、チャクラ消費半減、確率で写輪眼・仙術・尾獣を除くスキル無効",
+          "charaIds": "212,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "895",
+          "effectIdx3": "3898",
+          "effectIdx4": "0",
+          "effectIds": "1840,895,3898,"
+        },
+        {
+          "crystalOverwriteEffectId": "1268",
+          "targetCrystal": "40316",
+          "description": "スキル発動速度2段階アップ、バトル開始時チャクラ100%回復、チャクラ消費半減",
+          "charaIds": "212,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "895",
+          "effectIdx3": "1994",
+          "effectIdx4": "0",
+          "effectIds": "1549,895,1994,"
         }
       ]

@@ -215,6 +215,24 @@
           "resetTime": "0"
         },
         {
+          "loginBonusId": "522",
+          "name": "頂上決戦任務βカウントダウンログインボーナス",
+          "type": "2",
+          "openTime": "2021.03.31 00:00:00",
+          "closeTime": "2021.03.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "523",
+          "name": "頂上決戦任務βカウントダウンログインボーナス",
+          "type": "2",
+          "openTime": "2021.04.01 00:00:00",
+          "closeTime": "2021.04.01 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
           "loginBonusId": "700",
           "name": "毎日無料ガチャ用ログインボーナス",
           "type": "9",
