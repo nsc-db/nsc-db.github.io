@@ -27502,22 +27502,102 @@ window.ability=[
         {
           "abilityId": "2806",
           "abilityName": "須佐能乎の防御力",
-          "abilityDescription": "被攻撃時高確率でﾀﾞﾒｰｼﾞを1,000,000に軽減&amp;確率で自身に次の行動まで弱体系特殊・神化状態解除&amp;無効付与",
-          "abilityEffectDescription": "被攻撃時高確率でﾀﾞﾒｰｼﾞを1,000,000に軽減&amp;確率で自身に次の行動まで弱体系特殊・神化状態解除&amp;無効付与",
+          "abilityDescription": "HP0以下で1回全回復、被攻撃時高確率でﾀﾞﾒｰｼﾞ1,000,000に軽減&amp;確率で次の行動まで弱体系特殊・神化解除&amp;無効",
+          "abilityEffectDescription": "HP0以下で1回全回復、被攻撃時高確率でﾀﾞﾒｰｼﾞ1,000,000に軽減&amp;確率で次の行動まで弱体系特殊・神化解除&amp;無効",
           "effectIdx1": "3886",
           "effectIdx2": "3887",
-          "effectIdx3": "0",
-          "effectIds": "3886,3887,"
+          "effectIdx3": "312",
+          "effectIds": "3886,3887,312,874,"
         },
         {
           "abilityId": "2807",
           "abilityName": "超速の矢射",
-          "abilityDescription": "HP0以下で1回全回復、素早さ1,200%ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時先制、被攻撃時確率で裁キノ刻展開（敵に神忍生存時確実）",
-          "abilityEffectDescription": "HP0以下で1回全回復、素早さ1,200%ｱｯﾌﾟ、ﾊﾞﾄﾙ開始時先制、被攻撃時確率で裁キノ刻展開（敵に神忍生存時確実）",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時先制、素早さ1,200%ｱｯﾌﾟ、被攻撃時確率で裁キノ刻展開（敵に神忍生存時確実）&amp;素早さ10,000%ｱｯﾌﾟ",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時先制、素早さ1,200%ｱｯﾌﾟ、被攻撃時確率で裁キノ刻展開（敵に神忍生存時確実）&amp;素早さ10,000%ｱｯﾌﾟ",
           "effectIdx1": "3888",
-          "effectIdx2": "312",
-          "effectIdx3": "874",
-          "effectIds": "3888,312,874,13105,3902,2068,"
+          "effectIdx2": "3963",
+          "effectIdx3": "2068",
+          "effectIds": "3888,3963,2068,13105,3902,"
+        },
+        {
+          "abilityId": "2808",
+          "abilityName": "8bit九尾の人柱力",
+          "abilityDescription": "HP0以下で4回耐え、味方に「うちはサスケ」がいるとさらに1回耐える＆確率でスキル2で急襲攻撃",
+          "abilityEffectDescription": "HP0以下で4回耐え、味方に「うちはサスケ」がいるとさらに1回耐える＆確率でスキル2で急襲攻撃",
+          "effectIdx1": "1737",
+          "effectIdx2": "3900",
+          "effectIdx3": "3901",
+          "effectIds": "1737,3900,3901,"
+        },
+        {
+          "abilityId": "2809",
+          "abilityName": "小さな火影の夢",
+          "abilityDescription": "バトル開始時にチャクラ100%回復、HP40.1%以上の時、被攻撃時に確率で即アクション",
+          "abilityEffectDescription": "バトル開始時にチャクラ100%回復、HP40.1%以上の時、被攻撃時に確率で即アクション",
+          "effectIdx1": "1994",
+          "effectIdx2": "3903",
+          "effectIdx3": "0",
+          "effectIds": "1994,3903,"
+        },
+        {
+          "abilityId": "2810",
+          "abilityName": "8bit写輪眼",
+          "abilityDescription": "HP0以下で4回耐え、味方に「うずまきナルト」がいるとさらに1回耐える＆確率でスキル2で急襲攻撃",
+          "abilityEffectDescription": "HP0以下で4回耐え、味方に「うずまきナルト」がいるとさらに1回耐える＆確率でスキル2で急襲攻撃",
+          "effectIdx1": "1737",
+          "effectIdx2": "3904",
+          "effectIdx3": "3905",
+          "effectIds": "1737,3904,3905,"
+        },
+        {
+          "abilityId": "2811",
+          "abilityName": "小さなうちはの誇り",
+          "abilityDescription": "1回行動までチャクラ消費0、HP40.1%以上の時、確率で再行動",
+          "abilityEffectDescription": "1回行動までチャクラ消費0、HP40.1%以上の時、確率で再行動",
+          "effectIdx1": "1411",
+          "effectIdx2": "3968",
+          "effectIdx3": "0",
+          "effectIds": "1411,3968,"
+        },
+        {
+          "abilityId": "2812",
+          "abilityName": "勝利吸引",
+          "abilityDescription": "行動後・被ダメージ時に、HP25％回復",
+          "abilityEffectDescription": "行動後・被ダメージ時に、HP25％回復",
+          "effectIdx1": "1892",
+          "effectIdx2": "3937",
+          "effectIdx3": "0",
+          "effectIds": "1892,3937,"
+        },
+        {
+          "abilityId": "2813",
+          "abilityName": "共に夢を",
+          "abilityDescription": "被ダメージ時、攻撃者に耐性を無視して低確率で短い間夢喰状態付与",
+          "abilityEffectDescription": "被ダメージ時、攻撃者に耐性を無視して低確率で短い間夢喰状態付与",
+          "effectIdx1": "3938",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3938,"
+        },
+        {
+          "abilityId": "2814",
+          "abilityName": "剛健な意志",
+          "abilityDescription": "敵に神忍か破神がいるとバトル開始時に低確率で先制攻撃（どちらもいると確率アップ）",
+          "abilityEffectDescription": "敵に神忍か破神がいるとバトル開始時に低確率で先制攻撃（どちらもいると確率アップ）",
+          "effectIdx1": "3939",
+          "effectIdx2": "3940",
+          "effectIdx3": "0",
+          "effectIds": "3939,3940,"
+        },
+        {
+          "abilityId": "2815",
+          "abilityName": "決意の乾坤一擲",
+          "abilityDescription": "HP0以下で1回耐える",
+          "abilityEffectDescription": "HP0以下で1回耐える",
+          "effectIdx1": "312",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "312,"
         },
         {
           "abilityId": "10000",
@@ -28148,6 +28228,26 @@ window.ability=[
           "effectIdx2": "2621",
           "effectIdx3": "0",
           "effectIds": null
+        },
+        {
+          "abilityId": "20005",
+          "abilityName": "ダメージカット＆弱点化",
+          "abilityDescription": "技体知勇ダメージカット＆弱点化",
+          "abilityEffectDescription": "技体知勇ダメージカット＆弱点化",
+          "effectIdx1": "228275",
+          "effectIdx2": "228150",
+          "effectIdx3": "228350",
+          "effectIds": "228275,228150,228350,228450,229204,3156,2945,2946,"
+        },
+        {
+          "abilityId": "20006",
+          "abilityName": "強化＆スキル回避",
+          "abilityDescription": "防・速・スキルダメージアップ、スキル発動速度5段階アップ、確率でスキル回避",
+          "abilityEffectDescription": "防・速・スキルダメージアップ、スキル発動速度5段階アップ、確率でスキル回避",
+          "effectIdx1": "1766",
+          "effectIdx2": "13104",
+          "effectIdx3": "30019",
+          "effectIds": "1766,13104,30019,300014,1423,"
         },
         {
           "abilityId": "100000",
@@ -29470,6 +29570,66 @@ window.ability=[
           "effectIds": "2308,2840,"
         },
         {
+          "abilityId": "100139",
+          "abilityName": "忍連合に希望を与えし者達",
+          "abilityDescription": "最大チャクラ量が100アップ、HP0以下で5回全回復し､耐えた時に確率で即アクション",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HP0以下で5回全回復し､耐えた時に確率で即アクション",
+          "effectIdx1": "20009",
+          "effectIdx2": "1512",
+          "effectIdx3": "874",
+          "effectIds": "20009,1512,874,3839,"
+        },
+        {
+          "abilityId": "100140",
+          "abilityName": "絆の共闘",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時､確率でｽｷﾙ2で急襲(ﾁｬｸﾗ大回復)｡最大HPが120%ｱｯﾌﾟ＆状態異常と幻とｷｬﾝｾﾙ無効",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時､確率でｽｷﾙ2で急襲(ﾁｬｸﾗ大回復)｡最大HPが120%ｱｯﾌﾟ＆状態異常と幻とｷｬﾝｾﾙ無効",
+          "effectIdx1": "1221",
+          "effectIdx2": "1638",
+          "effectIdx3": "1751",
+          "effectIds": "1221,1638,1751,3014,"
+        },
+        {
+          "abilityId": "100141",
+          "abilityName": "剛健な意志",
+          "abilityDescription": "敵に神忍か破神存在でﾊﾞﾄﾙ開始時に確率で先制＆低確率で敵全体を1回まで耐性無視気絶(どちらもいると確率ｱｯﾌﾟ)",
+          "abilityEffectDescription": "敵に神忍か破神存在でﾊﾞﾄﾙ開始時に確率で先制＆低確率で敵全体を1回まで耐性無視気絶(どちらもいると確率ｱｯﾌﾟ)",
+          "effectIdx1": "3160",
+          "effectIdx2": "3018",
+          "effectIdx3": "3943",
+          "effectIds": "3160,3018,3943,3944,"
+        },
+        {
+          "abilityId": "100142",
+          "abilityName": "決意の乾坤一擲",
+          "abilityDescription": "HP0以下で3回耐え、1回行動まで確率で幻惑解除＆無効化",
+          "abilityEffectDescription": "HP0以下で3回耐え、1回行動まで確率で幻惑解除＆無効化",
+          "effectIdx1": "1789",
+          "effectIdx2": "3947",
+          "effectIdx3": "0",
+          "effectIds": "1789,3947,"
+        },
+        {
+          "abilityId": "100143",
+          "abilityName": "剛健な意志",
+          "abilityDescription": "敵に神忍か破神存在でﾊﾞﾄﾙ開始時に高確率で先制＆確率で敵全体を1回まで耐性無視気絶(どちらもいると確率ｱｯﾌﾟ)",
+          "abilityEffectDescription": "敵に神忍か破神存在でﾊﾞﾄﾙ開始時に高確率で先制＆確率で敵全体を1回まで耐性無視気絶(どちらもいると確率ｱｯﾌﾟ)",
+          "effectIdx1": "3941",
+          "effectIdx2": "3942",
+          "effectIdx3": "3945",
+          "effectIds": "3941,3942,3945,3946,"
+        },
+        {
+          "abilityId": "100144",
+          "abilityName": "決意の乾坤一擲",
+          "abilityDescription": "HP0以下で5回耐え、3回行動まで幻惑解除＆無効化",
+          "abilityEffectDescription": "HP0以下で5回耐え、3回行動まで幻惑解除＆無効化",
+          "effectIdx1": "1512",
+          "effectIdx2": "3948",
+          "effectIdx3": "0",
+          "effectIds": "1512,3948,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -30051,9 +30211,9 @@ window.ability=[
         },
         {
           "abilityId": "309501",
-          "abilityName": "最大HP20000アップ",
-          "abilityDescription": "最大HP20000アップ",
-          "abilityEffectDescription": "最大HP20000アップ",
+          "abilityName": "【伝説】最大HP300,000アップ",
+          "abilityDescription": "最大HP300,000アップ",
+          "abilityEffectDescription": "最大HP300,000アップ",
           "effectIdx1": "3923",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -30061,9 +30221,9 @@ window.ability=[
         },
         {
           "abilityId": "309502",
-          "abilityName": "素早さ8アップ",
-          "abilityDescription": "素早さ8アップ",
-          "abilityEffectDescription": "素早さ8アップ",
+          "abilityName": "【伝説】素早さ150アップ",
+          "abilityDescription": "素早さ150アップ",
+          "abilityEffectDescription": "素早さ150アップ",
           "effectIdx1": "3924",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -30071,23 +30231,53 @@ window.ability=[
         },
         {
           "abilityId": "309503",
-          "abilityName": "行動後HP100000回復",
-          "abilityDescription": "行動後HP100000回復",
-          "abilityEffectDescription": "行動後HP100000回復",
-          "effectIdx1": "3874",
+          "abilityName": "【伝説】行動後にHP300,000回復",
+          "abilityDescription": "行動後HP300,000回復",
+          "abilityEffectDescription": "行動後HP300,000回復",
+          "effectIdx1": "3961",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIds": "3874,"
+          "effectIds": "3961,"
         },
         {
           "abilityId": "309504",
-          "abilityName": "行動後チャクラ5％回復",
-          "abilityDescription": "行動後チャクラ5％回復",
-          "abilityEffectDescription": "行動後チャクラ5％回復",
-          "effectIdx1": "446",
+          "abilityName": "【伝説】行動後にチャクラを10％回復する",
+          "abilityDescription": "行動後チャクラ10％回復",
+          "abilityEffectDescription": "行動後チャクラ10％回復",
+          "effectIdx1": "3962",
           "effectIdx2": "0",
           "effectIdx3": "0",
-          "effectIds": "446,"
+          "effectIds": "3962,"
+        },
+        {
+          "abilityId": "309505",
+          "abilityName": "【伝説】最大HP200,000アップ",
+          "abilityDescription": "最大HP200,000アップ",
+          "abilityEffectDescription": "最大HP200,000アップ",
+          "effectIdx1": "3965",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3965,"
+        },
+        {
+          "abilityId": "309506",
+          "abilityName": "【伝説】素早さ100アップ",
+          "abilityDescription": "素早さ100アップ",
+          "abilityEffectDescription": "素早さ100アップ",
+          "effectIdx1": "3966",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3966,"
+        },
+        {
+          "abilityId": "309507",
+          "abilityName": "【伝説】行動後にHP200,000回復",
+          "abilityDescription": "行動後HP200,000回復",
+          "abilityEffectDescription": "行動後HP200,000回復",
+          "effectIdx1": "3967",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3967,"
         },
         {
           "abilityId": "310001",
@@ -31808,6 +31998,206 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "700503,"
+        },
+        {
+          "abilityId": "310194",
+          "abilityName": "Lv1",
+          "abilityDescription": "【撒菱・壱】敵アクション時、確率で700,000ダメージ",
+          "abilityEffectDescription": "【撒菱・壱】敵アクション時、確率で700,000ダメージ",
+          "effectIdx1": "700002",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700002,"
+        },
+        {
+          "abilityId": "310195",
+          "abilityName": "Lv1",
+          "abilityDescription": "【苦無・壱】スキル攻撃時、確率で700,000ダメージ追撃",
+          "abilityEffectDescription": "【苦無・壱】スキル攻撃時、確率で700,000ダメージ追撃",
+          "effectIdx1": "700102",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700102,"
+        },
+        {
+          "abilityId": "310196",
+          "abilityName": "Lv1",
+          "abilityDescription": "【兵糧丸・壱】行動選択時、確率でＨＰ・チャクラ15%回復",
+          "abilityEffectDescription": "【兵糧丸・壱】行動選択時、確率でＨＰ・チャクラ15%回復",
+          "effectIdx1": "700201",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700201,"
+        },
+        {
+          "abilityId": "310197",
+          "abilityName": "Lv2",
+          "abilityDescription": "【撒菱・弐】敵アクション時、確率で900,000ダメージ",
+          "abilityEffectDescription": "【撒菱・弐】敵アクション時、確率で900,000ダメージ",
+          "effectIdx1": "700012",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700012,"
+        },
+        {
+          "abilityId": "310198",
+          "abilityName": "Lv2",
+          "abilityDescription": "【苦無・弐】スキル攻撃時、確率で900,000ダメージ追撃",
+          "abilityEffectDescription": "【苦無・弐】スキル攻撃時、確率で900,000ダメージ追撃",
+          "effectIdx1": "700112",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700112,"
+        },
+        {
+          "abilityId": "310199",
+          "abilityName": "Lv2",
+          "abilityDescription": "【兵糧丸・弐】行動選択時、確率でＨＰ・チャクラ25%回復",
+          "abilityEffectDescription": "【兵糧丸・弐】行動選択時、確率でＨＰ・チャクラ25%回復",
+          "effectIdx1": "700211",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700211,"
+        },
+        {
+          "abilityId": "310200",
+          "abilityName": "Lv3",
+          "abilityDescription": "【撒菱・参】敵アクション時、確率で1,200,000ダメージ",
+          "abilityEffectDescription": "【撒菱・参】敵アクション時、確率で1,200,000ダメージ",
+          "effectIdx1": "700022",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700022,"
+        },
+        {
+          "abilityId": "310201",
+          "abilityName": "Lv3",
+          "abilityDescription": "【苦無・参】スキル攻撃時、確率で1,200,000ダメージ追撃",
+          "abilityEffectDescription": "【苦無・参】スキル攻撃時、確率で1,200,000ダメージ追撃",
+          "effectIdx1": "700122",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700122,"
+        },
+        {
+          "abilityId": "310202",
+          "abilityName": "Lv3",
+          "abilityDescription": "【兵糧丸・参】行動選択時、確率でＨＰ・チャクラ35%回復",
+          "abilityEffectDescription": "【兵糧丸・参】行動選択時、確率でＨＰ・チャクラ35%回復",
+          "effectIdx1": "700221",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700221,"
+        },
+        {
+          "abilityId": "310203",
+          "abilityName": "Lv1",
+          "abilityDescription": "【撒菱・壱】敵アクション時、確率で500,000ダメージ",
+          "abilityEffectDescription": "【撒菱・壱】敵アクション時、確率で500,000ダメージ",
+          "effectIdx1": "700001",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700001,"
+        },
+        {
+          "abilityId": "310204",
+          "abilityName": "Lv1",
+          "abilityDescription": "【苦無・壱】スキル攻撃時、確率で500,000ダメージ追撃",
+          "abilityEffectDescription": "【苦無・壱】スキル攻撃時、確率で500,000ダメージ追撃",
+          "effectIdx1": "700101",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700101,"
+        },
+        {
+          "abilityId": "310205",
+          "abilityName": "Lv2",
+          "abilityDescription": "【撒菱・弐】敵アクション時、確率で700,000ダメージ",
+          "abilityEffectDescription": "【撒菱・弐】敵アクション時、確率で700,000ダメージ",
+          "effectIdx1": "700011",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700011,"
+        },
+        {
+          "abilityId": "310206",
+          "abilityName": "Lv2",
+          "abilityDescription": "【苦無・弐】スキル攻撃時、確率で700,000ダメージ追撃",
+          "abilityEffectDescription": "【苦無・弐】スキル攻撃時、確率で700,000ダメージ追撃",
+          "effectIdx1": "700111",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700111,"
+        },
+        {
+          "abilityId": "310207",
+          "abilityName": "Lv3",
+          "abilityDescription": "【撒菱・参】敵アクション時、確率で1,000,000ダメージ",
+          "abilityEffectDescription": "【撒菱・参】敵アクション時、確率で1,000,000ダメージ",
+          "effectIdx1": "700021",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700021,"
+        },
+        {
+          "abilityId": "310208",
+          "abilityName": "Lv3",
+          "abilityDescription": "【苦無・参】スキル攻撃時、確率で1,000,000ダメージ追撃",
+          "abilityEffectDescription": "【苦無・参】スキル攻撃時、確率で1,000,000ダメージ追撃",
+          "effectIdx1": "700121",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "700121,"
+        },
+        {
+          "abilityId": "310209",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方の五大隠れ里所属1人につき素早さ25%アップ（自身含）",
+          "abilityEffectDescription": "味方の五大隠れ里所属1人につき素早さ25%アップ（自身含）",
+          "effectIdx1": "1898",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1898,"
+        },
+        {
+          "abilityId": "310210",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "バトル開始時にチャクラ100%回復",
+          "abilityEffectDescription": "バトル開始時にチャクラ100%回復",
+          "effectIdx1": "1994",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1994,"
+        },
+        {
+          "abilityId": "310211",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "死亡時に味方全体に堅護",
+          "abilityEffectDescription": "死亡時に味方全体に堅護",
+          "effectIdx1": "3165",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3165,"
+        },
+        {
+          "abilityId": "310212",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "死亡時に味方全体に幻惑解除＆無効化",
+          "abilityEffectDescription": "死亡時に味方全体に幻惑解除＆無効化",
+          "effectIdx1": "3949",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3949,"
+        },
+        {
+          "abilityId": "310213",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "HP50%以下の時、被攻撃時に確率で即アクション",
+          "abilityEffectDescription": "HP50%以下の時、被攻撃時に確率で即アクション",
+          "effectIdx1": "3950",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3950,"
         },
         {
           "abilityId": "801187",
