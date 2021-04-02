@@ -3189,6 +3189,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "324",
+          "category": "6",
+          "iconId": "1408",
+          "name": "夢喰",
+          "description": "ﾁｬｸﾗ消費量を忍具等効果を除いた40%ｱｯﾌﾟ※｢ﾁｬｸﾗ消費を0にする｣にも効果を発揮｡行動後HP&amp;ﾁｬｸﾗ40%減少",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "3"
+        },
+        {
           "cardUnusualId": "328",
           "category": "7",
           "iconId": "1412",

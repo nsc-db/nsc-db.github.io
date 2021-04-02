@@ -2066,6 +2066,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11162",
+          "name": "期間限定ドットラーメン（4月30日23:59まで）",
+          "description": "スタミナを全回復するラーメン（4月30日23:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11162",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "11163",
           "name": "4月限定ラーメン(2021)",
           "description": "スタミナを全回復するラーメン（4月30日23:59まで期間限定）",
@@ -2373,6 +2386,19 @@
           "itemValue": "0",
           "itemNum": "0",
           "itemImageId": "16015",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
+          "itemId": "16016",
+          "name": "ドットメダル",
+          "description": "ガチャ『ドット…いいわよ　あげるわよ』で使用できるメダル。（4月16日23:59まで使用可能）",
+          "resultWord": "0",
+          "itemCategoryId": "15000",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16016",
           "needCount": "1",
           "priority": "1",
           "selectType": "3"
@@ -4994,6 +5020,19 @@
           "itemId": "80015",
           "name": "期間限定 連合戦参加券",
           "description": "連合戦参加に必要なアイテム（4月15日11:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "28",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "80001",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
+          "itemId": "80016",
+          "name": "期間限定 連合戦参加券",
+          "description": "連合戦参加に必要なアイテム（5月15日11:59まで期間限定）",
           "resultWord": "0",
           "itemCategoryId": "28",
           "itemValue": "1000000",

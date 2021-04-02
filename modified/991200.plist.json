@@ -16260,5 +16260,44 @@
           "effectIdx3": "1994",
           "effectIdx4": "0",
           "effectIds": "1549,895,1994,"
+        },
+        {
+          "crystalOverwriteEffectId": "1269",
+          "targetCrystal": "40413",
+          "description": "最大HP210,401アップ、防御力88.8%アップ、スキル発動速度1段階アップ",
+          "charaIds": "101,102,103,104,105,106,107,108,109,110,111,112,113,114,116,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3929",
+          "effectIdx2": "3930",
+          "effectIdx3": "1840",
+          "effectIdx4": "0",
+          "effectIds": "3929,3930,1840,"
+        },
+        {
+          "crystalOverwriteEffectId": "1270",
+          "targetCrystal": "40414",
+          "description": "素早さ88.8%アップ、88.8%の確率でスキルを回避、スキル発動速度1段階アップ",
+          "charaIds": "201,202,203,204,206,207,208,209,210,212,213,214,215,216,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3933",
+          "effectIdx2": "3934",
+          "effectIdx3": "1840",
+          "effectIdx4": "0",
+          "effectIds": "3933,3934,1840,"
+        },
+        {
+          "crystalOverwriteEffectId": "1271",
+          "targetCrystal": "40415",
+          "description": "最大HP210,401ｱｯﾌﾟ、防御力・素早さ88.8%ｱｯﾌﾟ、88.8%の確率でｽｷﾙ回避、ｽｷﾙ発動速度1段階ｱｯﾌﾟ",
+          "charaIds": "101,102,103,104,105,106,107,108,109,110,111,112,113,114,116,201,202,203,204,206,207,208,209,210,212,213,214,215,216,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3929",
+          "effectIdx2": "3930",
+          "effectIdx3": "3933",
+          "effectIdx4": "3934",
+          "effectIds": "3929,3930,3933,3934,1840,"
         }
       ]

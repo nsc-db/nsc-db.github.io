@@ -44,29 +44,11 @@
           "resetTime": null
         },
         {
-          "loginBonusId": "495",
-          "name": "ミナトの日記念ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.07 10:00:00",
-          "closeTime": "2021.03.17 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "496",
           "name": "ガマブン太の月間ログインボーナス",
           "type": "2",
           "openTime": "2021.03.01 00:00:00",
           "closeTime": "2021.03.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "497",
-          "name": "昇級試験応援ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.17 00:00:00",
-          "closeTime": "2021.03.17 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },
@@ -85,6 +67,15 @@
           "type": "2",
           "openTime": "2021.03.27 00:00:00",
           "closeTime": "2021.04.19 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "500",
+          "name": "ガマブン太の月間ログインボーナス",
+          "type": "2",
+          "openTime": "2021.04.01 00:00:00",
+          "closeTime": "2021.04.30 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },
@@ -166,6 +157,15 @@
           "type": "2",
           "openTime": "2021.03.22 00:00:00",
           "closeTime": "2021.03.22 15:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "514",
+          "name": "伝説盤登場記念ログインボーナス",
+          "type": "2",
+          "openTime": "2021.04.02 00:00:00",
+          "closeTime": "2021.04.30 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },

@@ -1553,6 +1553,30 @@
           "materialImageId": "265"
         },
         {
+          "materialId": "266",
+          "materialName": "フラスコ（空）",
+          "materialRare": "5",
+          "materialImageId": "266"
+        },
+        {
+          "materialId": "267",
+          "materialName": "ドットナルトのもと",
+          "materialRare": "5",
+          "materialImageId": "267"
+        },
+        {
+          "materialId": "268",
+          "materialName": "ドットサスケのもと",
+          "materialRare": "5",
+          "materialImageId": "268"
+        },
+        {
+          "materialId": "269",
+          "materialName": "ドットラーメンのもと",
+          "materialRare": "5",
+          "materialImageId": "269"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

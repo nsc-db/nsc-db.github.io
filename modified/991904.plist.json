@@ -19,6 +19,11 @@
           "materialRare": "5"
         },
         {
+          "sphereMaterialId": "11",
+          "materialName": "豪傑の証",
+          "materialRare": "5"
+        },
+        {
           "sphereMaterialId": "12",
           "materialName": "伝説の証",
           "materialRare": "5"
@@ -306,6 +311,11 @@
         {
           "sphereMaterialId": "60011",
           "materialName": "闘の証",
+          "materialRare": "5"
+        },
+        {
+          "sphereMaterialId": "60012",
+          "materialName": "頂の証",
           "materialRare": "5"
         }
       ]

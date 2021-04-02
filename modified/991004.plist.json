@@ -6221,6 +6221,12 @@
           "speechCharactorName": "うちはサスケ"
         },
         {
+          "speechCharactorId": "1073",
+          "cardId": "99999999",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": ""
+        },
+        {
           "speechCharactorId": "5001",
           "cardId": "50000001",
           "speechCharactorImgId": "0",
@@ -6350,7 +6356,7 @@
           "speechCharactorId": "10008",
           "cardId": "50000013",
           "speechCharactorImgId": "50000013",
-          "speechCharactorName": "　"
+          "speechCharactorName": " "
         },
         {
           "speechCharactorId": "10009",
@@ -6549,5 +6555,179 @@
           "cardId": "20030812",
           "speechCharactorImgId": "20030812",
           "speechCharactorName": "うちはマダラ"
+        },
+        {
+          "speechCharactorId": "10042",
+          "cardId": "20001628",
+          "speechCharactorImgId": "20001628",
+          "speechCharactorName": "油女シノ"
+        },
+        {
+          "speechCharactorId": "10043",
+          "cardId": "20001651",
+          "speechCharactorImgId": "20001651",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "10044",
+          "cardId": "20001722",
+          "speechCharactorImgId": "20001722",
+          "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "10045",
+          "cardId": "20001725",
+          "speechCharactorImgId": "20001725",
+          "speechCharactorName": "香燐"
+        },
+        {
+          "speechCharactorId": "10046",
+          "cardId": "41000001",
+          "speechCharactorImgId": "41000001",
+          "speechCharactorName": ""
+        },
+        {
+          "speechCharactorId": "10047",
+          "cardId": "20070411",
+          "speechCharactorImgId": "41000002",
+          "speechCharactorName": "ドットナルトA"
+        },
+        {
+          "speechCharactorId": "10048",
+          "cardId": "20070411",
+          "speechCharactorImgId": "41000007",
+          "speechCharactorName": "ドットナルトB"
+        },
+        {
+          "speechCharactorId": "10049",
+          "cardId": "20070411",
+          "speechCharactorImgId": "41000008",
+          "speechCharactorName": "ドットナルトC"
+        },
+        {
+          "speechCharactorId": "10050",
+          "cardId": "20070411",
+          "speechCharactorImgId": "41000009",
+          "speechCharactorName": "ドットナルトD"
+        },
+        {
+          "speechCharactorId": "10051",
+          "cardId": "20070411",
+          "speechCharactorImgId": "41000010",
+          "speechCharactorName": "ドットナルトE"
+        },
+        {
+          "speechCharactorId": "10052",
+          "cardId": "20070411",
+          "speechCharactorImgId": "41000011",
+          "speechCharactorName": "ドットナルトF"
+        },
+        {
+          "speechCharactorId": "10053",
+          "cardId": "20070412",
+          "speechCharactorImgId": "41000004",
+          "speechCharactorName": "ドットサスケ"
+        },
+        {
+          "speechCharactorId": "10054",
+          "cardId": "20070412",
+          "speechCharactorImgId": "41000014",
+          "speechCharactorName": "ドットサスケB"
+        },
+        {
+          "speechCharactorId": "10055",
+          "cardId": "20070412",
+          "speechCharactorImgId": "41000015",
+          "speechCharactorName": "ドットサスケB"
+        },
+        {
+          "speechCharactorId": "10056",
+          "cardId": "20070412",
+          "speechCharactorImgId": "41000013",
+          "speechCharactorName": "ドットサスケA"
+        },
+        {
+          "speechCharactorId": "10057",
+          "cardId": "20070411",
+          "speechCharactorImgId": "41000003",
+          "speechCharactorName": "ドットナルト（大）"
+        },
+        {
+          "speechCharactorId": "10058",
+          "cardId": "20070411",
+          "speechCharactorImgId": "41000012",
+          "speechCharactorName": "5人重ねのナルト"
+        },
+        {
+          "speechCharactorId": "10059",
+          "cardId": "20070412",
+          "speechCharactorImgId": "41000016",
+          "speechCharactorName": "ドットサスケ"
+        },
+        {
+          "speechCharactorId": "10060",
+          "cardId": "20001697",
+          "speechCharactorImgId": "20001697",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "10061",
+          "cardId": "20001051",
+          "speechCharactorImgId": "20001051",
+          "speechCharactorName": "綱手"
+        },
+        {
+          "speechCharactorId": "10062",
+          "cardId": "20050419",
+          "speechCharactorImgId": "20050419",
+          "speechCharactorName": "犬塚キバ"
+        },
+        {
+          "speechCharactorId": "10063",
+          "cardId": "41000006",
+          "speechCharactorImgId": "41000006",
+          "speechCharactorName": "赤丸"
+        },
+        {
+          "speechCharactorId": "10064",
+          "cardId": "25000201",
+          "speechCharactorImgId": "25000201",
+          "speechCharactorName": "テウチ"
+        },
+        {
+          "speechCharactorId": "10065",
+          "cardId": "20040712",
+          "speechCharactorImgId": "20040712",
+          "speechCharactorName": "鬼灯水月"
+        },
+        {
+          "speechCharactorId": "10066",
+          "cardId": "20070412",
+          "speechCharactorImgId": "41000015",
+          "speechCharactorName": "ドットサスケK"
+        },
+        {
+          "speechCharactorId": "10067",
+          "cardId": "20070412",
+          "speechCharactorImgId": "41000014",
+          "speechCharactorName": "ドットサスケQ"
+        },
+        {
+          "speechCharactorId": "10068",
+          "cardId": "50000013",
+          "speechCharactorImgId": "50000013",
+          "speechCharactorName": "里の住人"
+        },
+        {
+          "speechCharactorId": "10069",
+          "cardId": "20070412",
+          "speechCharactorImgId": "41000005",
+          "speechCharactorName": "ドットサスケ"
+        },
+        {
+          "speechCharactorId": "10070",
+          "cardId": "41000017",
+          "speechCharactorImgId": "41000017",
+          "speechCharactorName": "ドットサスケ"
         }
       ]

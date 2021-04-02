@@ -974,6 +974,32 @@
           "legendPanelList": ""
         },
         {
+          "sphereBoardId": "10086",
+          "boardName": "Temp_Ct40_心属性_の潜在覚醒盤",
+          "boardDescription": "うずまきナルト【うずまき8bit忍法帖】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070411",
+          "normalPanelList": "9000001,9000002,9000003",
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "10087",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "うちはサスケ【8bit仕立ての復讐心】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070412",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1313,7 +1339,7 @@
         },
         {
           "sphereBoardId": "50027",
-          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚あり",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚伝説",
           "boardDescription": "うちはサスケ【絆を知る双眸】",
           "rare": "0",
           "costMin": "0",
@@ -1322,7 +1348,7 @@
           "cardId": "20060707",
           "normalPanelList": "9100025,9100026,9100027,9100037",
           "specialPanelList": "9100028,9100029,9100030,9100038",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50028",
@@ -1469,7 +1495,7 @@
         },
         {
           "sphereBoardId": "50039",
-          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_4枚伝説",
           "boardDescription": "うちはサスケ【革命の意志】",
           "rare": "0",
           "costMin": "0",
@@ -1478,7 +1504,7 @@
           "cardId": "20060910",
           "normalPanelList": "9100019,9100020,9100021,9100033",
           "specialPanelList": "9100022,9100023,9100024,9100034",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50040",
@@ -1741,6 +1767,32 @@
           "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
+          "sphereBoardId": "50060",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_伝説",
+          "boardDescription": "うちはサスケ【暗焔ノ羅刹】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050506",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
+          "sphereBoardId": "50061",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤_伝説",
+          "boardDescription": "うずまきナルト【猛き雷に荒ぶ風】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20040802",
+          "normalPanelList": "9100013,9100014,9100015",
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
@@ -1791,6 +1843,19 @@
           "normalPanelList": "9300025,9300026,9300027",
           "specialPanelList": "9300028,9300029,9300030",
           "legendPanelList": ""
+        },
+        {
+          "sphereBoardId": "80001",
+          "boardName": "Temp_Ct90_技属性_の潜在覚醒盤",
+          "boardDescription": "綱手【戦医の拳英】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070309",
+          "normalPanelList": "9400007,9400008,9400009",
+          "specialPanelList": "9400010,9400011,9400012",
+          "legendPanelList": "0"
         },
         {
           "sphereBoardId": "5000001",
@@ -2025,5 +2090,18 @@
           "normalPanelList": "5017001,5017002,5017003",
           "specialPanelList": "5017004,5017005,5017006",
           "legendPanelList": ""
+        },
+        {
+          "sphereBoardId": "5000019",
+          "boardName": "ダンゾウ",
+          "boardDescription": "志村ダンゾウ【業吸の夢獣】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50070401",
+          "normalPanelList": "5018001,5018002,5018003",
+          "specialPanelList": "5018004,5018005,5018006",
+          "legendPanelList": "0"
         }
       ]

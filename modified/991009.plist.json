@@ -3149,10 +3149,22 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "536",
+          "itemName": "ドットPt",
+          "measure": "0",
+          "itemImgId": "536"
+        },
+        {
           "shopExchangeItemId": "537",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "538",
+          "itemName": "ドットPt",
+          "measure": "0",
+          "itemImgId": "536"
         },
         {
           "shopExchangeItemId": "1001",
@@ -4443,6 +4455,12 @@
           "itemName": "疾風札[4月]",
           "measure": "0",
           "itemImgId": "2600"
+        },
+        {
+          "shopExchangeItemId": "2801",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
         },
         {
           "shopExchangeItemId": "3000",
