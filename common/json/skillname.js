@@ -8216,6 +8216,14 @@ window.skillname=[
           "name": "準備出来た？"
         },
         {
+          "cardBattleSkillNameId": "3266",
+          "name": "水破撃"
+        },
+        {
+          "cardBattleSkillNameId": "3267",
+          "name": "待ってたぜ…"
+        },
+        {
           "cardBattleSkillNameId": "3268",
           "name": "千鳥刀・須佐能乎ノ矢"
         },
@@ -8258,6 +8266,22 @@ window.skillname=[
         {
           "cardBattleSkillNameId": "3278",
           "name": "弱体＆解除"
+        },
+        {
+          "cardBattleSkillNameId": "3279",
+          "name": "火遁・龍舞刃"
+        },
+        {
+          "cardBattleSkillNameId": "3280",
+          "name": "水龍弾・激涛"
+        },
+        {
+          "cardBattleSkillNameId": "3281",
+          "name": "紅昂衝"
+        },
+        {
+          "cardBattleSkillNameId": "3282",
+          "name": "ホラ！さっさと噛め！！"
         },
         {
           "cardBattleSkillNameId": "10136",

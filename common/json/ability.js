@@ -27500,6 +27500,26 @@ window.ability=[
           "effectIds": "3883,3884,"
         },
         {
+          "abilityId": "2804",
+          "abilityName": "統率する力",
+          "abilityDescription": "1回行動するまで素早さ＆スキルダメージ100%アップ",
+          "abilityEffectDescription": "1回行動するまで素早さ＆スキルダメージ100%アップ",
+          "effectIdx1": "1542",
+          "effectIdx2": "2598",
+          "effectIdx3": "0",
+          "effectIds": "1542,2598,"
+        },
+        {
+          "abilityId": "2805",
+          "abilityName": "影の名を持つ者",
+          "abilityDescription": "HP0以下で1回だけ耐える、弱体・状態異常を半減",
+          "abilityEffectDescription": "HP0以下で1回だけ耐える、弱体・状態異常を半減",
+          "effectIdx1": "312",
+          "effectIdx2": "776",
+          "effectIdx3": "0",
+          "effectIds": "312,776,"
+        },
+        {
           "abilityId": "2806",
           "abilityName": "須佐能乎の防御力",
           "abilityDescription": "HP0以下で1回全回復、被攻撃時高確率でﾀﾞﾒｰｼﾞ1,000,000に軽減&amp;確率で次の行動まで弱体系特殊・神化解除&amp;無効",
@@ -27598,6 +27618,66 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "312,"
+        },
+        {
+          "abilityId": "2816",
+          "abilityName": "忠志の先駆者",
+          "abilityDescription": "バトル開始時・行動後に【忍方陣：火水双鋭】を展開。確率で火遁・水遁以外の全スキル無効",
+          "abilityEffectDescription": "バトル開始時・行動後に【忍方陣：火水双鋭】を展開。確率で火遁・水遁以外の全スキル無効",
+          "effectIdx1": "3982",
+          "effectIdx2": "3984",
+          "effectIdx3": "3986",
+          "effectIds": "3982,3984,3986,"
+        },
+        {
+          "abilityId": "2817",
+          "abilityName": "一族最強を支える知勇",
+          "abilityDescription": "HP0以下で2回HP全回復。耐えた時、敵の地形効果解除＆味方全体の弱体系神化・特殊状態解除",
+          "abilityEffectDescription": "HP0以下で2回HP全回復。耐えた時、敵の地形効果解除＆味方全体の弱体系神化・特殊状態解除",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3587",
+          "effectIds": "1057,874,3587,3988,3989,"
+        },
+        {
+          "abilityId": "2818",
+          "abilityName": "忠志の先駆者",
+          "abilityDescription": "バトル開始時・行動後に【忍方陣：真・火水双鋭】を展開。高確率で火遁・水遁以外の全スキル無効",
+          "abilityEffectDescription": "バトル開始時・行動後に【忍方陣：真・火水双鋭】を展開。高確率で火遁・水遁以外の全スキル無効",
+          "effectIdx1": "3983",
+          "effectIdx2": "3985",
+          "effectIdx3": "3987",
+          "effectIds": "3983,3985,3987,"
+        },
+        {
+          "abilityId": "2819",
+          "abilityName": "一族最強を支える知勇",
+          "abilityDescription": "HP0以下で3回HP全回復。耐えた時、敵の地形効果解除＆味方全体の弱体系神化・特殊状態解除",
+          "abilityEffectDescription": "HP0以下で3回HP全回復。耐えた時、敵の地形効果解除＆味方全体の弱体系神化・特殊状態解除",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "3587",
+          "effectIds": "1789,874,3587,3988,3989,"
+        },
+        {
+          "abilityId": "2820",
+          "abilityName": "献身的な補佐",
+          "abilityDescription": "HP0以下で3回耐え、味方に『うちはサスケ』生存で、ﾊﾞﾄﾙ開始時にﾒｶﾞﾈ状態＆被攻撃時に味方全体のHP30%回復",
+          "abilityEffectDescription": "HP0以下で3回耐え、味方に『うちはサスケ』生存で、ﾊﾞﾄﾙ開始時にﾒｶﾞﾈ状態＆被攻撃時に味方全体のHP30%回復",
+          "effectIdx1": "1789",
+          "effectIdx2": "3990",
+          "effectIdx3": "3991",
+          "effectIds": "1789,3990,3991,"
+        },
+        {
+          "abilityId": "2821",
+          "abilityName": "変質的な偏愛",
+          "abilityDescription": "敵に滅ｷｬﾗか五大隠れ里所属が生存で、ﾊﾞﾄﾙ開始時に確率で敵全体を耐性無視して縛（どちらもいると確率ｱｯﾌﾟ）",
+          "abilityEffectDescription": "敵に滅ｷｬﾗか五大隠れ里所属が生存で、ﾊﾞﾄﾙ開始時に確率で敵全体を耐性無視して縛（どちらもいると確率ｱｯﾌﾟ）",
+          "effectIdx1": "3992",
+          "effectIdx2": "3993",
+          "effectIdx3": "0",
+          "effectIds": "3992,3993,"
         },
         {
           "abilityId": "10000",
@@ -28231,23 +28311,23 @@ window.ability=[
         },
         {
           "abilityId": "20005",
-          "abilityName": "ダメージカット＆弱点化",
-          "abilityDescription": "技体知勇ダメージカット＆弱点化",
-          "abilityEffectDescription": "技体知勇ダメージカット＆弱点化",
+          "abilityName": "ダメージカット＆弱点化＆即行動",
+          "abilityDescription": "技体知勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション",
+          "abilityEffectDescription": "技体知勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション",
           "effectIdx1": "228275",
           "effectIdx2": "228150",
           "effectIdx3": "228350",
-          "effectIds": "228275,228150,228350,228450,229204,3156,2945,2946,"
+          "effectIds": "228275,228150,228350,228450,229204,3156,2945,2946,3969,"
         },
         {
           "abilityId": "20006",
           "abilityName": "強化＆スキル回避",
-          "abilityDescription": "防・速・スキルダメージアップ、スキル発動速度5段階アップ、確率でスキル回避",
-          "abilityEffectDescription": "防・速・スキルダメージアップ、スキル発動速度5段階アップ、確率でスキル回避",
+          "abilityDescription": "防・速・スキルダメージアップ、スキル発動速度7段階アップ、確率でスキル回避",
+          "abilityEffectDescription": "防・速・スキルダメージアップ、スキル発動速度7段階アップ、確率でスキル回避",
           "effectIdx1": "1766",
           "effectIdx2": "13104",
           "effectIdx3": "30019",
-          "effectIds": "1766,13104,30019,300014,1423,"
+          "effectIds": "1766,13104,30019,300018,1423,"
         },
         {
           "abilityId": "100000",
@@ -32198,6 +32278,36 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3950,"
+        },
+        {
+          "abilityId": "310214",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "敵か味方に「うちはサスケ」生存時、確率で先制攻撃",
+          "abilityEffectDescription": "敵か味方に「うちはサスケ」生存時、確率で先制攻撃",
+          "effectIdx1": "3994",
+          "effectIdx2": "3995",
+          "effectIdx3": "0",
+          "effectIds": "3994,3995,"
+        },
+        {
+          "abilityId": "310215",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方に「うちはサスケ」生存時、素早さ200%アップ",
+          "abilityEffectDescription": "味方に「うちはサスケ」生存時、素早さ200%アップ",
+          "effectIdx1": "3996",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3996,"
+        },
+        {
+          "abilityId": "310216",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "「うちはサスケ」から受けるダメージ99%カット",
+          "abilityEffectDescription": "「うちはサスケ」から受けるダメージ99%カット",
+          "effectIdx1": "3997",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3997,"
         },
         {
           "abilityId": "801187",
