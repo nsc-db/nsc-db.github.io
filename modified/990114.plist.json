@@ -3199,6 +3199,16 @@
           "type": "3"
         },
         {
+          "cardUnusualId": "325",
+          "category": "3",
+          "iconId": "1409",
+          "name": "メガネ",
+          "description": "耐性無視ﾀﾞﾒｰｼﾞ0&amp;全ｽｷﾙ無効、受けるｽｷﾙﾀﾞﾒｰｼﾞﾀﾞｳﾝ、ｽｷﾙ攻撃を受けると解除され敵全体に拘束状態を付与",
+          "subScore": "0",
+          "color": "9109504",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "328",
           "category": "7",
           "iconId": "1412",

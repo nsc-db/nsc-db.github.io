@@ -16393,6 +16393,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1187",
+          "name": "想い託す者",
+          "description": "知属性の素早さとスキルダメージを50%アップする",
+          "effectIdx1": "112",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "effectIds": "112,682,",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "6",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1188",
           "name": "憎悪に染まる闘眼",
           "description": "全属性スキルダメージ150%アップ&amp;確率で即死無効",
@@ -16456,6 +16470,20 @@
           "effectIdx2": "1840",
           "effectIdx3": "0",
           "effectIds": "13079,1840,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1194",
+          "name": "明敏な才女",
+          "description": "全属性のスキル発動速度1段階アップ、行動後にチャクラとHP30%回復",
+          "effectIdx1": "1840",
+          "effectIdx2": "2524",
+          "effectIdx3": "894",
+          "effectIds": "1840,2524,894,",
           "compType": "0",
           "target1Category": "0",
           "target1Param": "0",

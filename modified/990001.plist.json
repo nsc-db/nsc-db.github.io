@@ -116,51 +116,6 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "507",
-          "name": "昇級試験応援ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.18 00:00:00",
-          "closeTime": "2021.03.18 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "508",
-          "name": "昇級試験応援ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.19 00:00:00",
-          "closeTime": "2021.03.19 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "509",
-          "name": "昇級試験応援ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.20 00:00:00",
-          "closeTime": "2021.03.20 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "510",
-          "name": "昇級試験応援ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.21 00:00:00",
-          "closeTime": "2021.03.21 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "511",
-          "name": "昇級試験応援ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.22 00:00:00",
-          "closeTime": "2021.03.22 15:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "514",
           "name": "伝説盤登場記念ログインボーナス",
           "type": "2",

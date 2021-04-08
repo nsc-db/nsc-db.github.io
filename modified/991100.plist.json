@@ -4143,6 +4143,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "52901",
+          "charaId": "529",
+          "name": "やぐら",
+          "detail": null,
+          "charaLoveAffinityGroupId": "52910",
+          "birthday": "403",
+          "constellation": "1",
+          "height": "14300",
+          "weight": "3880",
+          "bloodType": "4",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "52902",
           "charaId": "529",
           "name": "やぐら",

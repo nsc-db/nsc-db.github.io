@@ -3149,6 +3149,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "535",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "536",
           "itemName": "ドットPt",
           "measure": "0",
@@ -3714,6 +3720,12 @@
         },
         {
           "shopExchangeItemId": "1100",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "1101",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
@@ -4323,6 +4335,12 @@
           "itemName": "人気忍具交換券",
           "measure": "0",
           "itemImgId": "2115"
+        },
+        {
+          "shopExchangeItemId": "2116",
+          "itemName": "忍交換券",
+          "measure": "0",
+          "itemImgId": "2116"
         },
         {
           "shopExchangeItemId": "2118",

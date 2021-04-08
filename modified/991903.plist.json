@@ -32547,7 +32547,7 @@
           "sphereType": "2",
           "iconId": "201",
           "effectId": "402002",
-          "sphereMaterial": "702:21,10:4",
+          "sphereMaterial": "702:21,11:1",
           "needMoney": "120000"
         },
         {
@@ -32707,7 +32707,7 @@
           "sphereType": "2",
           "iconId": "204",
           "effectId": "402002",
-          "sphereMaterial": "703:12,10:6",
+          "sphereMaterial": "703:12,11:1",
           "needMoney": "240000"
         },
         {
@@ -32995,7 +32995,7 @@
           "sphereType": "2",
           "iconId": "203",
           "effectId": "402002",
-          "sphereMaterial": "702:24,10:4",
+          "sphereMaterial": "702:24,11:1",
           "needMoney": "180000"
         },
         {
@@ -33283,7 +33283,7 @@
           "sphereType": "2",
           "iconId": "202",
           "effectId": "402002",
-          "sphereMaterial": "703:12,10:6",
+          "sphereMaterial": "703:12,11:1",
           "needMoney": "360000"
         },
         {
