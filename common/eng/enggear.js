@@ -3345,7 +3345,7 @@ window.enggear=[
           "name": "Sasuke's Susano'o (2nd Stage)",
           "effect": "Cast Speed +1, Chakra Cost -50%, Chance for Skill (except for Sharingan, Sage and Tailed Beast) Immunity",
           "normal": "Low Chance for Skill (except for Sharingan, Sage and Tailed Beast) Immunity",
-          "charaIds": "211",
+          "charaIds": "211,212",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -3355,7 +3355,7 @@ window.enggear=[
           "name": "Sasuke's Susano'o (2nd Stage) Bow",
           "effect": "Cast Speed +2, Start the Battle with 100% Chakra, Chakra Cost -50%",
           "normal": "Start the Battle with 100% Chakra",
-          "charaIds": "211",
+          "charaIds": "211,212",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
