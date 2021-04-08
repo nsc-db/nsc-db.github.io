@@ -1,5 +1,313 @@
 window.detail=[
 {
+          "id": 50070401,
+          "name": "Danzo Shimura",
+          "subtext": "Karma Sucking Dream Beast",
+
+          "lead": "At the Start of Battle, Chance for -1 Ranbu CD and ATK, DEF and SPD +50% per Konoha ally",
+
+          "s1n": "Summoning Jutsu: Baku",
+          "s1": "Deal 3% + 450,000 to all enemies. Remove Enemies' Positive Special States. Chance to Inflict 'Dream Eater' Beast State. Grant 'Izanagi' State to a random ally. [Dream Eater: Chakra Cost +40%. HP and Chakra -40% every turn] [Izanagi: Skill and Fixed Damage Immunity. Incoming Skill Damage -10,000%. After attacked, Remove this State, Set Chakra to 0 and Other allies Fully Recover HP and Chakra] (Always Hit)",
+          "s1ntr": "Summoning",
+          "s1cs": "",
+          "s1c": 0,
+
+          "s2n": "",
+          "s2": "",
+          "s2ntr": "",
+          "s2cs": "",
+          "s2c": 0,
+
+          "a1n": "Victory Suction",
+          "a1": "Recover 25% of HP every turn and when attacked",
+
+          "a2n": "Dream Together",
+          "a2": "When Attacked: Low Chance to Ignore Resistance and Infliict 'Dream Eater' Beast State",
+
+          "a3n": "",
+          "a3": ""
+        },
+{
+          "id": 50070301,
+          "name": "Tsunade",
+          "subtext": "Shrinking Acid",
+
+          "lead": "At the Start of Battle, Chance for -1 Ranbu CD and ATK, DEF and SPD +50% per Konoha ally",
+
+          "s1n": "Katsuyu: Viscous Acid",
+          "s1": "Deal 3% + 700,000 to all enemies. Enemies' SPD -99%. Grant 'Healing' State to Party and 'Resurrection' State to a random ally. If there's a Sakura or Tsunade ally: Chance to Grant 'Resurrection' State to Sakura and Tsunade allies [Healing: Damage Cut +150% against Skills targeted to you. Recovers 30% of HP when attacked] [Resurrection: Reduce Incoming Skill Damage. Revive +1. After revive, remove this state] (Always Hit)",
+          "s1ntr": "Summoning",
+          "s1cs": "",
+          "s1c": 0,
+
+          "s2n": "",
+          "s2": "",
+          "s2ntr": "",
+          "s2cs": "",
+          "s2c": 0,
+
+          "a1n": "Bold and Loyal",
+          "a1": "Recover 15% of HP and Chakra every turn and when attacked",
+
+          "a2n": "Point Shooting Mucilage",
+          "a2": "When Attacked: Chance to Grant 'Healing' State for 1 Turn",
+
+          "a3n": "",
+          "a3": ""
+        },
+{
+          "id": 20070412,
+          "name": "Sasuke Uchiha",
+          "subtext": "8-bit Tailored Revenge",
+
+          "lead": "Blue Characters: ATK, SPD and Skill Damage +80%",
+
+          "s1n": "Gabi Gabi Chidori Sword",
+          "s1": "Deal 210,401 Fixed Damage to a target enemy. If there's a Naruto ally: Deal 2 Additional Attacks dealing 7% + 210,401. Chance for Enemy's ATK and SPD -40.1%. High Chance to Inflict 'Skip'",
+		  "s1ntr": "Unique",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "Even in This Figure, We Will Revive",
+          "s2": "Party ATK and SPD +140.1%. Grant 'Fate' State. If there's a Naruto ally: Grant 'Cooperation' State. [Fate: Skill Damage +40%, Cast Speed +1, Withstand +1 and Skill Immunity] [Cooperation: After Action, Grant Instant Action to Naruto allies]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "8-bit Sharingan",
+          "a1": "Withstand +4, If there's a Naruto ally: Withstand +1 (Max 5) and Chance to Insta-Cast Skill 2",
+
+          "a2n": "Pride of Being Small",
+          "a2": "1 Turn: Set Chakra Cost to 0, HP >=40.1%: Chance for an Extra Turn",
+
+          "a3n": "Red Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red."
+      },
+{
+          "id": 20070411,
+          "name": "Naruto Uzumaki",
+          "subtext": "Uzumaki 8-bit Ninja Arts",
+
+          "lead": "Yellow Characters: ATK, SPD and Skill Damage +80%",
+
+          "s1n": "Pico Pico Rasengan",
+          "s1": "Deal 7% + 210,401 to a target enemy. If there's a Sasuke ally: Deal 2 Additional Attacks dealing 210,401 Fixed Damage. Chance for Enemy's DEF and Skill Damage -40.1%. High Chance to Inflict 'Cancel'",
+		  "s1ntr": "Unique",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "I'm Gonna Get Something Crazy!",
+          "s2": "Party DEF and Skill Damage +140.1%. Grant 'Guts' State. If there's a Sasuke ally: Grant 'Cooperation' State. [Guts: Release and Immune to Negative Special State, Withstand +1, ATK, DEF and SPD +40.1%] [Cooperation: After Action, Grant Instant Action to Sasuke allies]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "8-bit Nine-Tails Jinchūriki",
+          "a1": "Withstand +4, If there's a Sasuke ally: Withstand +1 (Max 5) and Chance to Insta-Cast Skill 2",
+
+          "a2n": "Little Hokage's Dream",
+          "a2": "Start the Battle with 100% Chakra, HP >=40.1%: Chance for Instant Action when Attacked",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue."
+      },
+{
+          "id": 20070403,
+          "name": "Izuna and Tobirama",
+          "subtext": "Swords At War",
+
+          "lead": "All Characters: Cast Speed +2",
+
+          "s1n": "Fire Style: Fire Dance Blade",
+          "s1": "Deal 7% + 1,500,000 to a target enemy. Deal 4 Additional Attacks dealing 222,222 Fixed Damage. High Chance to Insta Kill. ▼True Pair of Fire and Water Blade: Advance to the 2nd Stage of Shinobi Formation when Granted. Increase Counter when using a Skill. When Counter is at 5, Advance to the 3rd State of Shinobi Formation. Increase Counter by 2 when using a different Skill alternately. Shinobi Formation effect can't be overwritten to a lower stage effect.▼ (Always Hit)",
+		  "s1ntr": "Fire",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "Water Dragon: Violent Waves",
+          "s2": "Deal 3% + 1,000,000 to all enemies. Deal 3 Additional Attacks dealing 500,000 Fixed Damage. ▼True Pair of Fire and Water Blade: 2nd Stage: (Enemies): High Chance to Disable First Strike, Insta Cast and Instant Action. (Party): Chance to Grant an Extra Turn. (Konoha and None Allies): Remove Negative Special and God State every turn. 3rd Stage: (Party): Enemy Terrain Immunity. (Konoha and None Allies): SPD and Skill Damage +75% every turn (Max 300%)▼ (Always Hit)",
+          "s2ntr": "Water",
+          "s2cs": "Fastest",
+          "s2c": 100,
+
+          "a1n": "Leader of Loyalty",
+          "a1": "Grant 'True Pair of Fire and Water Blade' Shinobi Formation at the Start of Battle and Every Turn, High Chance for Skill (except Fire and Water) Immunity",
+
+          "a2n": "Clan's Strongest Pillar",
+          "a2": "Revive +3, Remove Enemy Terrain and Party's Negative Special and God State upon Withstanding",
+
+          "a3n": "Blue and Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue and Black."
+      },
+{
+          "id": 20070402,
+          "name": "Karin",
+          "subtext": "Intelligent Woman",
+
+          "lead": "All Characters: Cast Speed +1 and HP and Chakra Recovery +30%",
+
+          "s1n": "Crimson Rising Punch",
+          "s1": "Deal 7% + 400,000 to a target enemy. High Chance to Inflict 'Bind' State. If it's a Five Village enemy: Deal 3 Additional Attacks dealing 150,000 Fixed Damage. If the enemy is inflicted with 'Bind' State: High Chance to Inflict 'Sealed' State. [Bind: Skill Damage -100% and SPD -150%] [Sealed: Action Disabled. HP -10% per turn] (Always Hit)",
+		  "s1ntr": "Taijutsu",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "Hurry! Bite Quickly!!",
+          "s2": "Recover 300,000 HP and Set Chakra Cost to 0 to Party. If there's a Sasuke ally: Grant 'Glasses' State. [Glasses: Skill and Fixed Damage Immunity. Incoming Skill Damage -10,000%. Ignore Resistance and Inflict 'Restraint' State to All enemies and Remove this State when attacked] [Restraint: SPD -80% and Cast Speed -1]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 70,
+
+          "a1n": "Dedicated Assistant",
+          "a1": "Withstand +3, If there's a Sasuke ally: At the Start of Battle, Grant 'Glasses' State and Recover 30% HP to Party when Attacked",
+
+          "a2n": "Peverted Favoritsm",
+          "a2": "If there's a Destroyer or Five Village enemy: At the Start of Battle, Ignore Resistance and Chance to Inflict 'Bind' State to All enemies (If Both: Increased Chance)",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow."
+      },
+{
+          "id": 20070401,
+          "name": "Yagura",
+          "subtext": "Those Who Entrust",
+
+          "lead": "Black Characters: SPD and Skill Damage +50%",
+
+          "s1n": "Water Blast",
+          "s1": "Deal 7% + 90,000 to a target enemy.  Chance to Ignore Resistance and Skip 1 Turn.",
+		  "s1ntr": "Taijutsu",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "I've Been Waiting ...",
+          "s2": "Party Skill Damage +80%. Grant 'Determined' State to Five Village allies. [Determined: ATK, DEF and SPD +80%, Recovers 10% of HP and Chakra when Attacked]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Power to Lead",
+          "a1": "1 Turn: SPD and Skill Damage +100%",
+
+          "a2n": "Those with The Name of The Kage",
+          "a2": "Withstand +1, Debuff and Status Effect Duration -50%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20070311,
+          "name": "Hanabi Hyuga",
+          "subtext": "Talented Flower That Grows Up in The Hyuga",
+
+          "lead": "Konoha Characters: 5 Turns: Incoming Skill Damage -50%",
+
+          "s1n": "Soft Fist",
+          "s1": "Deal 7% + 30,000 to a target enemy. Chance to Inflict 'Fascinated' to self. Deal more damage the more Konoha allies alive (Max 5x with 5 people).",
+		  "s1ntr": "Byakugan",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "Hi... Father",
+          "s2": "Enemies' SPD and Skill Damage -50%. Grant 'Rally' State to self. [Rally: ATK, DEF and SPD +100%, HP and Chakra Recovery +20%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "More Qualities Than My Sister",
+          "a1": "Chakra +100, Start the Battle with 50% Chakra, Withstand +1",
+
+          "a2n": "Father's Expectations",
+          "a2": "Dodge Rate +100%, High Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20070310,
+          "name": "Sasuke Uchiha",
+          "subtext": "Eye's Tainted with Hatred",
+
+          "lead": "All Characters: Skill Damage +150% and Chance for Insta Kill Immunity",
+
+          "s1n": "Chidori Blade: Susano's Arrow",
+          "s1": "Deal 3% + 1,200,000 to All enemies. High Chance to Deal 3 Additional Attacks dealing 3% + 240,000. HP <10%: Deal 5 Additional Attacks dealing 3% + 440,000. (Always Hit)",
+		  "s1ntr": "Lightning",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "Don't Talk About Itachi",
+          "s2": "Own SPD +250%. Inflict 1 Turn of 'Disable Positive Special and God State' Effect to All enemies. Change the Terrain to 'Judgement'. [Judgement: Allies: Upon Deployment or Action, Skill Damage +100% - 1,000%. Enemies (All): HP -10% - 70% per turn. Enemies (God): HP is set to 1 while taking an Action]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 90,
+
+          "a1n": "Defensive Power of the Susano'o",
+          "a1": "High Chance for Damage Limit 1,000,000, Chance to Grant 1 Turn of 'Negative Special and God State Immunity'",
+
+          "a2n": "Extreme Arrow",
+          "a2": "Revive +1, SPD +1,200%, Grant First Strike, Chance to Change the Terrain to 'Judgement' when Attacked (If by a God: Guaranteed)",
+
+          "a3n": "Red Specialization and Crush",
+          "a3": "Type Advantage against Red, Self and Party other than Blue Attribute Damage Cut +50%"
+      },
+{
+          "id": 20070309,
+          "name": "Tsunade",
+          "subtext": "War Doctor's Fist",
+
+          "lead": "All Characters: SPD +100% and Cast Speed +1",
+
+          "s1n": "Byakugo: Heavenly Fist",
+          "s1": "Deal 3% + 1,000,000 to all enemies. High Chance to Inflict 'Stun'. If it's a God or GK enemy: Deal 5 Additional Attacks dealing 3% + 250,000. (Always Hit)",
+		  "s1ntr": "Taijutsu",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "Don't Think I'm Just a Medical Ninja",
+          "s2": "Recover 500,000 HP to Party. Grant 'Slug Division' State to self. Revive a Random Dead ally. [Slug Division: Damage Cut +1,000,000.  When attacked by a Skill, Grant 'Slug Division' State to a random ally. Recover 50% HP to all allies when released]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Robust Will",
+          "a1": "If there's a God or GK enemy: At the Start of Battle, High chance for First Strike and Chance to Ignore Resistance and Inflict 'Stun' (If Both: Increased Chance)",
+
+          "a2n": "Determination to Risk Everything",
+          "a2": "Withstand +5, 3 Turns: Remove and Immune to 'Illusion'",
+
+          "a3n": "Red Specialization and Protection",
+          "a3": "Type Advantage against Red, Self and Party other than Blue Attribute Damage Cut +50%"
+      },
+{
+          "id": 20070308,
+          "name": "Ino Yamanaka",
+          "subtext": "Mental Clover Flower",
+
+          "lead": "Konoha Characters: SPD +100% and HP Recovery +30%",
+
+          "s1n": "Petal Cosmetic: Flowing Blade",
+          "s1": "Deal 400,000 Fixed Damage to a target enemy. Chance for either effect to occur: 1.) Ignore Resistance and Inflict 'Mind Destruction' to enemy. 2.) Ignore Resistance and Inflict 'Mind Transfer' to enemy and self. [Mind Transfer: Action Disable. SPD -150%. Remove Mind Transfer to Everyone when Attacked 5 times] (Always Hit)",
+		  "s1ntr": "Weapon",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "Are You Ready?",
+          "s2": "Recover 250,000 HP and Remove Negative Special State to Party. If there's a Destroyer enemy: Chance to Inflict 'Mind Destruction' State to a random enemy. [Mind Destruction: ATK, Crit Damage and Crit Chance +3,000%. Remove Buffs, Debuffs, Status Effect and Special State except for 'Mind Destruction' and 'Mind Transfer'. Randomly Basic Attack Allies]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Everyday Study",
+          "a1": "Withstand +2, SPD +75% per Konoha ally (Max 375%)",
+
+          "a2n": "Searching for Love",
+          "a2": "If there's a Destroyer enemy: Chance for First Strike and Grant 'Protection' State to Party",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow."
+      },
+{
           "id": 20070312,
           "name": "Minato and Kushina",
           "subtext": "Yellow Flash and Red Maiden",
@@ -2819,7 +3127,7 @@ window.detail=[
           "s2c": 200,
 
           "a1n": "Zealot Pursuer",
-          "a1": "Revive +2, Charka +150",
+          "a1": "Revive +2, Chakra +150",
 
           "a2n": "Void Wisdom",
           "a2": "If there's a God, Sasuke or Itachi enemy: SPD +250%",
@@ -3373,7 +3681,7 @@ window.detail=[
           "s1c": 150,
 
           "s2n": "I Can Still... Go...",
-          "s2": "Party DEF +300% and SPD +100%. Grant 'God's Shield' God State to self. Grant 'Cooperation' State to Naruto allies. [God's Shield: Remove and Immune to Negative Special and God State. Damage Cut +90%. Protect All Allies From Single Target Attacks. Chance to grant Instant Action when Attacked] [Cooperatoin: After an action, High chance to grant Instant Action to Naruto allies] ",
+          "s2": "Party DEF +300% and SPD +100%. Grant 'God's Shield' God State to self. Grant 'Cooperation' State to Naruto allies. [God's Shield: Remove and Immune to Negative Special and God State. Damage Cut +90%. Protect All Allies From Single Target Attacks. Chance to grant Instant Action when Attacked] [Cooperation: After an action, High chance to grant Instant Action to Naruto allies] ",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 170,

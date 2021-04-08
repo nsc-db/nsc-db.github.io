@@ -3300,6 +3300,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 403115,
+          "type": "Chakra",
+          "name": "Ino's Favorite Food (Tomato)",
+          "effect": "Start the Battle with 50% Chakra, SPD +60%, Chakra Recovery +30%",
+          "normal": "Start the Battle with 30% Chakra, SPD +30%",
+          "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 403125,
+          "type": "Additional",
+          "name": "Ino's Top (Shippuden)",
+          "effect": "HP +120%, Skill Damage +150%, Cast Speed +1",
+          "normal": "HP +60%, Skill Damage +70%",
+          "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 403135,
           "type": "Skill",
           "name": "Minato's Maxim",
@@ -3316,6 +3336,106 @@ window.enggear=[
           "effect": "ATK, DEF, SPD and Skill Damage +120%, Chakra Cost -50%, Start the Battle with 100% Chakra",
           "normal": "ATK, DEF, SPD and Skill Damage +70%",
           "charaIds": "60401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 403155,
+          "type": "Additional",
+          "name": "Sasuke's Susano'o (2nd Stage)",
+          "effect": "Cast Speed +1, Chakra Cost -50%, Chance for Skill (except for Sharingan, Sage and Tailed Beast) Immunity",
+          "normal": "Low Chance for Skill (except for Sharingan, Sage and Tailed Beast) Immunity",
+          "charaIds": "211",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 403165,
+          "type": "Skill",
+          "name": "Sasuke's Susano'o (2nd Stage) Bow",
+          "effect": "Cast Speed +2, Start the Battle with 100% Chakra, Chakra Cost -50%",
+          "normal": "Start the Battle with 100% Chakra",
+          "charaIds": "211",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 403175,
+          "type": "Medal",
+          "name": "Konoha Medal II",
+          "effect": "None",
+          "normal": "Cast Speed +1. Konoha Characters: SPD +350, Skill Damage +120%, Chakra Cost -50%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
+{
+          "id": 404015,
+          "type": "Additional",
+          "name": "Karin's Top",
+          "effect": "Start the Battle with 50% Chakra, SPD +70%, High Chance to Dodge Skills",
+          "normal": "SPD +30%, Chance to Dodge Skills",
+          "charaIds": "13401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 404025,
+          "type": "Stats",
+          "name": "Karin's Pants",
+          "effect": "HP +120%, SPD +60%, Skill Damage +100%",
+          "normal": "HP +60%, SPD +30%, Skill Damage +50%",
+          "charaIds": "13401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 404035,
+          "type": "Additional",
+          "name": "Dedicated to the Clan",
+          "effect": "Cast Speed +2. Chakra Recovery +50%, Chance for Fire Skill Damage +100%",
+          "normal": "Cast Speed +1. Chance for Fire Skill Damage +30%",
+          "charaIds": "60601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 404045,
+          "type": "Stats",
+          "name": "Stability and Peace",
+          "effect": "ATK, DEF and SPD +120%. Chakra Cost -50%, Chance for Water Skill Damage +100%",
+          "normal": "ATK, DEF and SPD +70%. Chance for Water Skill Damage +30%",
+          "charaIds": "60601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 404135,
+          "type": "Stats",
+          "name": "Naruto's Medicine",
+          "effect": "HP +210,401, DEF +88.8%, Cast Speed +1",
+          "normal": "HP and DEF +40.1%",
+          "charaIds": "101,102,103,104,105,106,107,108,109,110,111,112,113,114,116",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 404145,
+          "type": "Stats",
+          "name": "Sasuke's Medicine",
+          "effect": "88.8% Chance to Dodge Skills, SPD +88.8%, Cast Speed +1",
+          "normal": "40.1% Chance to Dodge Skills, SPD +40.1%",
+          "charaIds": "201,202,203,204,206,207,208,209,210,212,213,214,215,216",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 404155,
+          "type": "Stats",
+          "name": "Rainbow Ramen Medicine",
+          "effect": "88.8% Chance to Dodge Skills, HP +210,401, DEF and SPD +88.8%, Cast Speed +1",
+          "normal": "40.1% Chance to Dodge Skills, SPD, HP and DEF +40.1%, 4 Turns: Cast Speed +1",
+          "charaIds": "101,102,103,104,105,106,107,108,109,110,111,112,113,114,116,201,202,203,204,206,207,208,209,210,212,213,214,215,216",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
