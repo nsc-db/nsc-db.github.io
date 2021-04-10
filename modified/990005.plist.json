@@ -1417,5 +1417,35 @@
           "uiIdx": "20006",
           "partyEffects": "3845,3728,3729,",
           "enemyEffects": "3796,3797,3846,3847,3848,"
+        },
+        {
+          "battleFieldEffectId": "20007",
+          "name": "忍方陣：火水双鋭・壱",
+          "category": "5",
+          "scriptId": "20007",
+          "overWrite": "1",
+          "uiIdx": "20007",
+          "partyEffects": null,
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20008",
+          "name": "忍方陣：火水双鋭・弐",
+          "category": "5",
+          "scriptId": "20008",
+          "overWrite": "1",
+          "uiIdx": "20008",
+          "partyEffects": "3974,3975,3976,3977,3829,",
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20009",
+          "name": "忍方陣：火水双鋭・参",
+          "category": "5",
+          "scriptId": "20009",
+          "overWrite": "1",
+          "uiIdx": "20009",
+          "partyEffects": "3974,3975,3976,3977,3952,3829,3978,3979,3980,3981,",
+          "enemyEffects": "3796,3797,"
         }
       ]

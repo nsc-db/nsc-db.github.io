@@ -1377,6 +1377,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "8081",
+          "worldAreaId": "9",
+          "priority": "0",
+          "name": "第五十七回昇級試験",
+          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "9000",
           "worldAreaId": "4",
           "priority": "0",
@@ -1999,19 +2012,6 @@
           "openWeek": null,
           "openTime": "2017.12.31 17:00:00",
           "closeTime": "2018.01.04 15:59:59"
-        },
-        {
-          "worldStageId": "40008",
-          "worldAreaId": "5",
-          "priority": "1",
-          "name": "夢限の大樹",
-          "description": "初回クリア報酬で忍石やガチャチケットをGET！\r\nここでしか手に入らない特別な忍具を生成しよう！\r\n\r\n[高難易度]Extraステージで『禁忌の至宝』や\r\n『ﾗﾝｷﾝｸﾞ忍具・極ｶﾞﾁｬﾁｹｯﾄ』獲得のチャンス！",
-          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
         },
         {
           "worldStageId": "60013",

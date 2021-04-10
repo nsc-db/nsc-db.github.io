@@ -4325,6 +4325,20 @@
           "gender": "1"
         },
         {
+          "charaProfileId": "60601",
+          "charaId": "606",
+          "name": "イズナ＆扉間",
+          "detail": null,
+          "charaLoveAffinityGroupId": "60610",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",

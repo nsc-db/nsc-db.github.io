@@ -4295,6 +4295,18 @@
           "voiceDeath": "sasuke_death_02_01"
         },
         {
+          "cardVoiceId": "362",
+          "cardId": "20070403",
+          "dirName": "tobirama",
+          "evolutionStep": "",
+          "voiceAppear": "tobirama_attack_02_02",
+          "voiceSkill1": "tobirama_skill_02_03",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "tobirama_win_02_02",
+          "voiceDeath": "tobirama_damage_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

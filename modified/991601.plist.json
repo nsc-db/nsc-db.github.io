@@ -3522,6 +3522,32 @@
           "selectType": "2"
         },
         {
+          "itemId": "51088",
+          "name": "期間限定 昇級Pt倍化薬",
+          "description": "昇級試験での獲得Ptが2倍になります（04月12日 15:59まで期間限定）",
+          "resultWord": "昇級試験 獲得Pt2倍",
+          "itemCategoryId": "11",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "51089",
+          "name": "期間限定 昇級Pt5倍化薬",
+          "description": "昇級試験での獲得Ptが5倍になります。（04月12日 15:59まで期間限定）",
+          "resultWord": "昇級試験 獲得Pt5倍",
+          "itemCategoryId": "11",
+          "itemValue": "50000",
+          "itemNum": "0",
+          "itemImageId": "51002",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "52000",
           "name": "限定ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。（1月4日15:59まで期間限定）",

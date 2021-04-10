@@ -16477,6 +16477,20 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1193",
+          "name": "戦乱に躍る双鋭",
+          "description": "全属性のスキル発動速度2段階アップ",
+          "effectIdx1": "1549",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1549,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1194",
           "name": "明敏な才女",
           "description": "全属性のスキル発動速度1段階アップ、行動後にチャクラとHP30%回復",

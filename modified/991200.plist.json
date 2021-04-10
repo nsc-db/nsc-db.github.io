@@ -16301,6 +16301,32 @@
           "effectIds": "3929,3930,3933,3934,1840,"
         },
         {
+          "crystalOverwriteEffectId": "1272",
+          "targetCrystal": "40403",
+          "description": "スキル発動速度2段階アップ。行動後にチャクラ50%回復＆確率で火遁タイプのスキルダメージ100%アップ",
+          "charaIds": "60601,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "2644",
+          "effectIdx3": "3972",
+          "effectIdx4": "0",
+          "effectIds": "1549,2644,3972,"
+        },
+        {
+          "crystalOverwriteEffectId": "1273",
+          "targetCrystal": "40404",
+          "description": "攻防速120%アップ。チャクラ消費量半減。行動後に確率で水遁タイプのスキルダメージ100%アップ",
+          "charaIds": "60601,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "736",
+          "effectIdx2": "12111",
+          "effectIdx3": "1335",
+          "effectIdx4": "895",
+          "effectIds": "736,12111,1335,895,3973,"
+        },
+        {
           "crystalOverwriteEffectId": "1274",
           "targetCrystal": "40401",
           "description": "バトル開始時にチャクラ50%回復、素早さ70%アップ、高確率でスキルを回避",

@@ -1806,6 +1806,19 @@
           "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
         },
         {
+          "sphereBoardId": "50063",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤",
+          "boardDescription": "イズナ＆扉間【戦乱に躍る双鋭】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070403",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",

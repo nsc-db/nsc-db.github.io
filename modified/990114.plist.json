@@ -3209,6 +3209,26 @@
           "type": "2"
         },
         {
+          "cardUnusualId": "326",
+          "category": "5",
+          "iconId": "1410",
+          "name": "忍方陣：火水双鋭",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "327",
+          "category": "5",
+          "iconId": "1411",
+          "name": "忍方陣：真・火水双鋭",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
+          "subScore": "0",
+          "color": "7920895",
+          "type": "2"
+        },
+        {
           "cardUnusualId": "328",
           "category": "7",
           "iconId": "1412",

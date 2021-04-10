@@ -188,6 +188,15 @@
           "resetTime": "0"
         },
         {
+          "loginBonusId": "550",
+          "name": "春の新生活『覚醒』応援ログインボーナス",
+          "type": "2",
+          "openTime": "2021.04.09 00:00:00",
+          "closeTime": "2021.04.16 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
           "loginBonusId": "700",
           "name": "毎日無料ガチャ用ログインボーナス",
           "type": "9",
