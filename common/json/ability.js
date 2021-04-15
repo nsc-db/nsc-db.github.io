@@ -25452,8 +25452,8 @@ window.ability=[
         {
           "abilityId": "2597",
           "abilityName": "七つの異能",
-          "abilityDescription": "1,000,000以上のダメージを1,000,000ダメージに軽減、攻撃を受けるたびに素早さ100%アップ（最大500%）",
-          "abilityEffectDescription": "1,000,000以上のダメージを1,000,000ダメージに軽減、攻撃を受けるたびに素早さ100%アップ（最大500%）",
+          "abilityDescription": "ダメージ上限1,000,000、攻撃を受けるたびに素早さ100%アップ（最大500%）",
+          "abilityEffectDescription": "ダメージ上限1,000,000、攻撃を受けるたびに素早さ100%アップ（最大500%）",
           "effectIdx1": "3079",
           "effectIdx2": "2573",
           "effectIdx3": "0",
@@ -26092,8 +26092,8 @@ window.ability=[
         {
           "abilityId": "2661",
           "abilityName": "神の断罪",
-          "abilityDescription": "ﾊﾞﾄﾙ開始時「ｽｷﾙ2」で急襲攻撃（ﾁｬｸﾗ大回復）、最大ﾁｬｸﾗ量150ｱｯﾌﾟ、500,000以上ﾀﾞﾒｰｼﾞを500,000ﾀﾞﾒｰｼﾞに軽減",
-          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時「ｽｷﾙ2」で急襲攻撃（ﾁｬｸﾗ大回復）、最大ﾁｬｸﾗ量150ｱｯﾌﾟ、500,000以上ﾀﾞﾒｰｼﾞを500,000ﾀﾞﾒｰｼﾞに軽減",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時「ｽｷﾙ2」で急襲攻撃（ﾁｬｸﾗ大回復）、最大ﾁｬｸﾗ量150ｱｯﾌﾟ、ﾀﾞﾒｰｼﾞ上限500,000",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時「ｽｷﾙ2」で急襲攻撃（ﾁｬｸﾗ大回復）、最大ﾁｬｸﾗ量150ｱｯﾌﾟ、ﾀﾞﾒｰｼﾞ上限500,000",
           "effectIdx1": "3303",
           "effectIdx2": "20014",
           "effectIdx3": "3304",
@@ -27522,8 +27522,8 @@ window.ability=[
         {
           "abilityId": "2806",
           "abilityName": "須佐能乎の防御力",
-          "abilityDescription": "HP0以下で1回全回復、被攻撃時高確率でﾀﾞﾒｰｼﾞ1,000,000に軽減&amp;確率で次の行動まで弱体系特殊・神化解除&amp;無効",
-          "abilityEffectDescription": "HP0以下で1回全回復、被攻撃時高確率でﾀﾞﾒｰｼﾞ1,000,000に軽減&amp;確率で次の行動まで弱体系特殊・神化解除&amp;無効",
+          "abilityDescription": "HP0以下で1回全回復、被攻撃時高確率でﾀﾞﾒｰｼﾞ上限1,000,000&amp;確率で次の行動まで弱体系特殊・神化解除&amp;無効",
+          "abilityEffectDescription": "HP0以下で1回全回復、被攻撃時高確率でﾀﾞﾒｰｼﾞ上限1,000,000&amp;確率で次の行動まで弱体系特殊・神化解除&amp;無効",
           "effectIdx1": "3886",
           "effectIdx2": "3887",
           "effectIdx3": "312",
@@ -27678,6 +27678,26 @@ window.ability=[
           "effectIdx2": "3993",
           "effectIdx3": "0",
           "effectIds": "3992,3993,"
+        },
+        {
+          "abilityId": "2826",
+          "abilityName": "夢を守る決断",
+          "abilityDescription": "HP0以下で3回全回復し、耐えた時即アクション&amp;敵にうちは一族生存で敵全体を耐性を無視して封印",
+          "abilityEffectDescription": "HP0以下で3回全回復し、耐えた時即アクション&amp;敵にうちは一族生存で敵全体を耐性を無視して封印",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "3241",
+          "effectIds": "1789,874,3241,3999,"
+        },
+        {
+          "abilityId": "2827",
+          "abilityName": "忍耐の英志",
+          "abilityDescription": "高確率でスキル2で急襲（チャクラ大回復）敵にうちは一族がいると確実。5回行動まで敵の地形効果無効",
+          "abilityEffectDescription": "高確率でスキル2で急襲（チャクラ大回復）敵にうちは一族がいると確実。5回行動まで敵の地形効果無効",
+          "effectIdx1": "3061",
+          "effectIdx2": "4000",
+          "effectIdx3": "4001",
+          "effectIds": "3061,4000,4001,"
         },
         {
           "abilityId": "10000",
@@ -29878,6 +29898,16 @@ window.ability=[
           "effectIdx2": "3895",
           "effectIdx3": "3896",
           "effectIds": "3893,3895,3896,3897,229204,228250,"
+        },
+        {
+          "abilityId": "200022",
+          "abilityName": "技属性特化・軽減",
+          "abilityDescription": "技属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50％ｶｯﾄ。自身と異なる属性の味方が受ける全ｽｷﾙﾀﾞﾒｰｼﾞを20%ｶｯﾄ",
+          "abilityEffectDescription": "技属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50％ｶｯﾄ。自身と異なる属性の味方が受ける全ｽｷﾙﾀﾞﾒｰｼﾞを20%ｶｯﾄ",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "4002",
+          "effectIds": "229104,228150,4002,4003,4004,4005,"
         },
         {
           "abilityId": "210001",
@@ -32308,6 +32338,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3997,"
+        },
+        {
+          "abilityId": "310220",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さ40%ｱｯﾌﾟ",
+          "abilityEffectDescription": "味方の木ノ葉所属の人数に応じて攻撃・防御・素早さ40%ｱｯﾌﾟ",
+          "effectIdx1": "1254",
+          "effectIdx2": "1256",
+          "effectIdx3": "1255",
+          "effectIds": "1254,1256,1255,"
         },
         {
           "abilityId": "801187",

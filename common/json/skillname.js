@@ -8284,6 +8284,14 @@ window.skillname=[
           "name": "ホラ！さっさと噛め！！"
         },
         {
+          "cardBattleSkillNameId": "3287",
+          "name": "真数千手・千剛拳"
+        },
+        {
+          "cardBattleSkillNameId": "3288",
+          "name": "…行くぞ！！"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

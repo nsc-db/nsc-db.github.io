@@ -16506,6 +16506,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1197",
+          "name": "屹然たる黎明の意志",
+          "description": "木ノ葉隠れの里所属の素早さ100%アップ&amp;1回行動まで弱体・弱体系特殊・弱体系神化状態無効",
+          "effectIdx1": "13099",
+          "effectIdx2": "3857",
+          "effectIdx3": "3998",
+          "effectIds": "13099,3857,3998,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
