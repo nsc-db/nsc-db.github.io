@@ -1,5 +1,15 @@
 window.enggear=[
 {
+          "id": 1304,
+          "type": "Resistance",
+          "name": "Detoxification Injection",
+          "effect": "None",
+          "normal": "ATK -10%, 5 Turns: 'Poison' Effect Immunity",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 1574,
           "type": "Skill",
           "name": "Large Senjutsu Scroll",
@@ -38,7 +48,17 @@ window.enggear=[
           "charaIds": "101,102,103,104,106,107,109,110,111",
           "cardIds": "0",
           "charaGroupIds": "0"
-}, 
+},
+{
+          "id": 1985,
+          "type": "Stats",
+          "name": "Ino-Shika-Cho Earrings (Ino)",
+          "effect": "HP, SPD and HP Recovery Skill Amount +50%",
+          "normal": "HP and SPD +20%",
+          "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 2235,
           "type": "Resistance",
@@ -48,7 +68,27 @@ window.enggear=[
           "charaIds": "106",
           "cardIds": "20001519,20001709,20001549,20001763,20001782",
           "charaGroupIds": "0"
-}, 
+},
+{
+          "id": 2305,
+          "type": "Chakra",
+          "name": "Hidden Stone's Forehead Protector",
+          "effect": "None",
+          "normal": "Chakra Cost -7%, HP Recovery Skill Amount +30%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+{
+          "id": 2815,
+          "type": "Chakra",
+          "name": "Yellow Flower Hair Ornament",
+          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
+          "normal": "Chakra Recovery +10%",
+          "charaIds": "601,602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 2335,
           "type": "Additional",
@@ -90,43 +130,43 @@ window.enggear=[
           "charaGroupIds": "0"
 }, 
 {
-          "id": 1304,
+          "id": 2625,
+          "type": "Skill",
+          "name": "Naruto's Truth Seeking Orb",
+          "effect": "HP and Skill Damage +100%",
+          "normal": "Skill Damage +40%, HP -50%",
+          "charaIds": "110,111",
+          "cardIds": "20001734,20001776",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 2645,
           "type": "Resistance",
-          "name": "Detoxification Injection",
-          "effect": "None",
-          "normal": "ATK -10%, 5 Turns: 'Poison' Effect Immunity",
-          "charaIds": "0",
-          "cardIds": "0",
+          "name": "Naruto's 6 Paths Haori",
+          "effect": "Incoming Skill (except Six Paths) Damage Reduction, Status Effect Immunity",
+          "normal": "Incoming Skill (except Six Paths) Damage Reduction, HP -20% every turn",
+          "charaIds": "110,111",
+          "cardIds": "20001734,20001776",
           "charaGroupIds": "0"
-},
+}, 
 {
-          "id": 1985,
+          "id": 2655,
+          "type": "Additional",
+          "name": "Naruto's Palm Sign",
+          "effect": "Revive +1",
+          "normal": "Chakra +5",
+          "charaIds": "110,111",
+          "cardIds": "20001734,20001776",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 2665,
           "type": "Stats",
-          "name": "Ino-Shika-Cho Earrings (Ino)",
-          "effect": "HP, SPD and HP Recovery Skill Amount +50%",
-          "normal": "HP and SPD +20%",
-          "charaIds": "602",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-},
-{
-          "id": 2305,
-          "type": "Chakra",
-          "name": "Hidden Stone's Forehead Protector",
-          "effect": "None",
-          "normal": "Chakra Cost -7%, HP Recovery Skill Amount +30%",
-          "charaIds": "0",
-          "cardIds": "0",
-          "charaGroupIds": "0"
-     },
-{
-          "id": 2815,
-          "type": "Chakra",
-          "name": "Yellow Flower Hair Ornament",
-          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
-          "normal": "Chakra Recovery +10%",
-          "charaIds": "601,602",
-          "cardIds": "0",
+          "name": "Father's Kunai",
+          "effect": "ATK +120%, SPD and Skill Damage +30%",
+          "normal": "ATK +60%, SPD +20%",
+          "charaIds": "2101,2102,2103,110,111",
+          "cardIds": "20001734,20001776",
           "charaGroupIds": "0"
 },
 {
@@ -150,7 +190,7 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
-          "id": 3055,
+          "id": 3045,
           "type": "Additional",
           "name": "Stone Statue of The Valley of The End (Left)",
           "effect": "Recover 5% HP and 10% Chakra when attacked",
@@ -238,7 +278,47 @@ window.enggear=[
           "charaIds": "102,104,106,107,109,110,111",
           "cardIds": "0",
           "charaGroupIds": "0"
-},	 
+},
+{
+          "id": 3135,
+          "type": "Stats",
+          "name": "Naruto's Jersey",
+          "effect": "ATK and Wind Skill Damage +100%",
+          "normal": "ATK and Wind Skill Damage +30%",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
+{
+          "id": 3225,
+          "type": "Additional",
+          "name": "Fukasaku Netsuke",
+          "effect": "Incoming Rinnegan and Sharingan Skill Damage -50%, Sage Skill Damage +60%",
+          "normal": "Incoming Rinnegan and Sharingan Skill Damage Reduction",
+          "charaIds": "106",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 3265,
+          "type": "Stats",
+          "name": "Worn-Out Jersey",
+          "effect": "HP and DEF +90%, Cast Speed +1",
+          "normal": "HP and DEF +50%",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 3275,
+          "type": "Resistance",
+          "name": "Tattered Chainmail",
+          "effect": "Low Chance to Dodge Skills (HP <50%: Dodge Chance increases)",
+          "normal": "Low Chance to Dodge Skills",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+}, 
 {
           "id": 3305,
           "type": "Resistance",
@@ -257,6 +337,16 @@ window.enggear=[
           "normal": "HP Recovery Skill Amount +20%",
           "charaIds": "602",
           "cardIds": "0",
+          "charaGroupIds": "0"
+     },
+	 {
+          "id": 3375,
+          "type": "Chakra",
+          "name": "Sage Chakra",
+          "effect": "Chakra Recovery +10%, HP and Sage Skill Damage +50%",
+          "normal": "Chakra Recovery +5%",
+          "charaIds": "2401,106",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
           "charaGroupIds": "0"
      },
 {
