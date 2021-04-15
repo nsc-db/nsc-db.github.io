@@ -1,6 +1,6 @@
 window.enggear=[
 {
-          "id": 115,
+          "id": 1574,
           "type": "Skill",
           "name": "Large Senjutsu Scroll",
           "effect": "HP and ATK +40%, Sage Skill Damage +100%",
@@ -10,7 +10,7 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
-          "id": 116,
+          "id": 1585,
           "type": "Chakra",
           "name": "Nine-Tails Chakra",
           "effect": "3 Turns: Set Chakra Cost to 0",
@@ -20,7 +20,7 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
-          "id": 137,
+          "id": 1805,
           "type": "Additional",
           "name": "Heaven Scroll",
           "effect": "When Attacked: Chance to Recover 100% Chakra and 50% HP, Skill Damage +100%",
@@ -30,7 +30,7 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
-          "id": 151,
+          "id": 1945,
           "type": "Additional",
           "name": "Gamakichi Netsuke",
           "effect": "Incoming Fire, Lightning, and Sharingan Skill Damage -50%, Summoning Skill Damage +100%",
@@ -40,13 +40,53 @@ window.enggear=[
           "charaGroupIds": "0"
 }, 
 {
-          "id": 184,
+          "id": 2235,
           "type": "Resistance",
           "name": "Sage Jacket",
           "effect": "Debuffs and Status Effect Duration -50%, Low Chance to Dodge Skills",
           "normal": "Debuffs and Status Effect Duration -50%, HP and Chakra -15% every turn",
           "charaIds": "106",
           "cardIds": "20001519,20001709,20001549,20001763,20001782",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 2335,
+          "type": "Additional",
+          "name": "Letter from Iruka",
+          "effect": "ATK, DEF and SPD +30%, Cast Speed +1",
+          "normal": "ATK, DEF and SPD +10%",
+          "charaIds": "107",
+          "cardIds": "20001631,20001719",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 2515,
+          "type": "Resistance",
+          "name": "Tattered Jersey",
+          "effect": "Low Chance to Dodge Skills, Incoming Wind and Unique Skill Damage -50%",
+          "normal": "Incoming Wind and Unique Skill Damage Reduction",
+          "charaIds": "50701,101",
+          "cardIds": "",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 2545,
+          "type": "Stats",
+          "name": "Seventh Hokage's Cloak",
+          "effect": "HP and DEF +80%, SPD +40%",
+          "normal": "HP and DEF +30%",
+          "charaIds": "103",
+          "cardIds": "",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 2585,
+          "type": "Chakra",
+          "name": "All Tailed Beasts' Chakra",
+          "effect": "9 Turns: Chakra Cost -50% and Skill Damage +50%",
+          "normal": "9 Turns: Chakra Cost -15%",
+          "charaIds": "50903,110,207,111",
+          "cardIds": "20001734,20001735,20001736,20001776,20001777,20030512,20030920,20030921,20031209,20040810,20060506",
           "charaGroupIds": "0"
 }, 
 {
