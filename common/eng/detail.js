@@ -1,5 +1,33 @@
 window.detail=[
 {
+          "id": 20070404,
+          "name": "Hashirama Senju",
+          "subtext": "Towering Will of Dawn",
+
+          "lead": "Konoha Characters: SPD +100% and 1 Turn: 'Disable Negative Special and God State' Effect",
+
+          "s1n": "True Thousand Hands: Thousand Fists",
+          "s1": "Deal 3% + 1,000,000 to all enemies. Chance to Inflict 'Jutsu Seal' State. Remove Party Negative Special and God State. If it's an Uchiha enemy: Deal 5 Additional Attacks Dealing 3% + 200,000. [Jutsu Seal: Skill Disabled] (Always Hit)",
+		  "s1ntr": "Sage",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "...Lets Go!!",
+          "s2": "Recover 1,000,000 HP and SPD +200% to Party. Grant 'Cell Creation' State to Konoha allies. Ignore Resistance and Inflict 'Thousand Fists' God State to all enemies. [Cell Creation: Max HP +1,000% and Recover 1,000,000 HP to allies with 'Cell Creation' State per turn] [Thousand Fists: Disable Positive Special and God State. Instant Action Disabled. Skill Dodge Disabled. High Chance for Hashirama to Cut-In upon Action]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 100,
+
+          "a1n": "Decision to Protect Your Dreams",
+          "a1": "Revive +3, Grant Instant Action Upon Withstanding, If there's an Uchiha enemy: Ignore Resistance and Inflict 'Seal' to all enemies",
+
+          "a2n": "Patient Hero",
+          "a2": "High Chance to Insta Cast Skill 2 (If there's an Uchiha enemy: Guaranteed), 5 Turns: Enemy Terrain Immunity",
+
+          "a3n": "Blue Advantage and Reduction",
+          "a3": "Type Advantage and Damage Cut +50% against Blue, Own and Non-Blue Attribute Damage Cut +20%"
+      },
+{
           "id": 50070401,
           "name": "Danzo Shimura",
           "subtext": "Karma Sucking Dream Beast",

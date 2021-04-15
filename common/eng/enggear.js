@@ -1,5 +1,55 @@
 window.enggear=[
 {
+          "id": 115,
+          "type": "Skill",
+          "name": "Large Senjutsu Scroll",
+          "effect": "HP and ATK +40%, Sage Skill Damage +100%",
+          "normal": "HP +30%, Sage Skill Damage +40%",
+          "charaIds": "101,102,103,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 116,
+          "type": "Chakra",
+          "name": "Nine-Tails Chakra",
+          "effect": "3 Turns: Set Chakra Cost to 0",
+          "normal": "3 Turns: Chakra Cost -20%",
+          "charaIds": "107,109,2103,110,111",
+          "cardIds": "20001631,20001676,20001719,20001718",
+          "charaGroupIds": "0"
+},
+{
+          "id": 137,
+          "type": "Additional",
+          "name": "Heaven Scroll",
+          "effect": "When Attacked: Chance to Recover 100% Chakra and 50% HP, Skill Damage +100%",
+          "normal": "When Attacked: Chance to Recover 5% Chakra",
+          "charaIds": "101,201,301,2801,302",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
+{
+          "id": 151,
+          "type": "Additional",
+          "name": "Gamakichi Netsuke",
+          "effect": "Incoming Fire, Lightning, and Sharingan Skill Damage -50%, Summoning Skill Damage +100%",
+          "normal": "Incoming Fire, Lightning, and Sharingan Skill Damage Reduction",
+          "charaIds": "101,102,103,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 184,
+          "type": "Resistance",
+          "name": "Sage Jacket",
+          "effect": "Debuffs and Status Effect Duration -50%, Low Chance to Dodge Skills",
+          "normal": "Debuffs and Status Effect Duration -50%, HP and Chakra -15% every turn",
+          "charaIds": "106",
+          "cardIds": "20001519,20001709,20001549,20001763,20001782",
+          "charaGroupIds": "0"
+}, 
+{
           "id": 1304,
           "type": "Resistance",
           "name": "Detoxification Injection",
@@ -8,7 +58,7 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
+},
 {
           "id": 1985,
           "type": "Stats",
@@ -3406,6 +3456,26 @@ window.enggear=[
           "effect": "ATK, DEF and SPD +120%. Chakra Cost -50%, Chance for Water Skill Damage +100%",
           "normal": "ATK, DEF and SPD +70%. Chance for Water Skill Damage +30%",
           "charaIds": "60601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 404055,
+          "type": "Skill",
+          "name": "Hashirama's True Thousand Hands",
+          "effect": "Skill Damage and SPD +150%, Cast Speed +1",
+          "normal": "Skill Damage and SPD +50%",
+          "charaIds": "1903",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 404065,
+          "type": "Resistance",
+          "name": "Hashirama's Fierce Fighting Armor",
+          "effect": "Fire and Lightning Skills Immunity, When Attacked: Grant 'Protection' State",
+          "normal": "Incoming Fire and Lightning Skill Damage -50%",
+          "charaIds": "1903",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
