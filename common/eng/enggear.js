@@ -112,7 +112,7 @@ window.enggear=[
 {
           "id": 2545,
           "type": "Stats",
-          "name": "Seventh Hokage's Cloak",
+          "name": "7th Hokage's Cloak",
           "effect": "HP and DEF +80%, SPD +40%",
           "normal": "HP and DEF +30%",
           "charaIds": "103",
@@ -338,8 +338,8 @@ window.enggear=[
           "charaIds": "602",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
-	 {
+},
+{
           "id": 3375,
           "type": "Chakra",
           "name": "Sage Chakra",
@@ -348,7 +348,57 @@ window.enggear=[
           "charaIds": "2401,106",
           "cardIds": "20001519,20001549,20001709,20001763,20001782",
           "charaGroupIds": "0"
-     },
+},
+{
+          "id": 3395,
+          "type": "Skill",
+          "name": "Naruto's Large Scroll",
+          "effect": "3 Turns: ATK and Sage Skill Damage +80%, After 3 Turns: ATK and Sage Skill Damage +150%",
+          "normal": "ATK and Sage Skill Damage +40%",
+          "charaIds": "106",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3405,
+          "type": "Additional",
+          "name": "Shima's Home Cooking",
+          "effect": "Critical Chance and Damage +50%, 3 Turns: Skill Immunity",
+          "normal": "3 Turns: Skill Immunity, HP and SPD -30%",
+          "charaIds": "2401,106",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3415,
+          "type": "Resistance",
+          "name": "4th Hokage's Cloak",
+          "effect": "HP, SPD and Skill Damage +50%, Medium Chance to Dodge Skills",
+          "normal": "SPD +20%, Very Low Chance to Dodge Skills",
+          "charaIds": "2101,2103",
+          "cardIds": "20001781",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3425,
+          "type": "Skill",
+          "name": "Statue of Predecessors",
+          "effect": "Chakra +20, Sage Skill Damage +120%",
+          "normal": "Skill Damage +40%, Weak to Incoming Skills",
+          "charaIds": "2401,106",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3685,
+          "type": "Skill",
+          "name": "Naruto's Racket",
+          "effect": "Unique Skill Damage +30%",
+          "normal": "Unique Skill Damage and ATK +60%, 'Seal' State Immunity",
+          "charaIds": "101,102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 3755,
           "type": "Skill",
@@ -368,7 +418,17 @@ window.enggear=[
           "charaIds": "3101",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
+},	 
+{
+          "id": 3815,
+          "type": "Stats",
+          "name": "Training Rubber Balls",
+          "effect": "ATK +100%, SPD and Skill Damage +50%",
+          "normal": "ATK and SPD +20%, Wind Skill Damage +30%",
+          "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	
 {
           "id": 4015,
           "type": "Additional",
