@@ -1101,7 +1101,7 @@
           "cardId": "20060203",
           "normalPanelList": "9100025,9100026,9100027",
           "specialPanelList": "9100028,9100029,9100030",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50008",
@@ -1179,7 +1179,7 @@
           "cardId": "20051202",
           "normalPanelList": "9100013,9100014,9100015",
           "specialPanelList": "9100016,9100017,9100018",
-          "legendPanelList": ""
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
         },
         {
           "sphereBoardId": "50014",
@@ -1817,6 +1817,32 @@
           "normalPanelList": "9100025,9100026,9100027",
           "specialPanelList": "9100028,9100029,9100030",
           "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "50064",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤",
+          "boardDescription": "うちはマダラ【騒乱ノ鉄火】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051003",
+          "normalPanelList": "9100001,9100002,9100003",
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
+          "sphereBoardId": "50065",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "千手柱間【屹然たる黎明の意志】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070404",
+          "normalPanelList": "9100001,9100002,9100003,9100031",
+          "specialPanelList": "9100004,9100005,9100006,9100032",
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "60001",

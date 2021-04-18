@@ -44,24 +44,6 @@
           "resetTime": null
         },
         {
-          "loginBonusId": "496",
-          "name": "ガマブン太の月間ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.01 00:00:00",
-          "closeTime": "2021.03.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "498",
-          "name": "サクラ誕生日ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.28 00:00:00",
-          "closeTime": "2021.03.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "499",
           "name": "二大新イベント記念ログインボーナス",
           "type": "2",
@@ -125,15 +107,6 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "515",
-          "name": "日向ハナビ_誕生日ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.27 00:00:00",
-          "closeTime": "2021.03.27 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "518",
           "name": "忍タクティクスアルファ版スタートダッシュログインボーナス",
           "type": "2",
@@ -143,48 +116,12 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "519",
-          "name": "タクティクスα版カウントダウンログインボーナス１日目",
+          "loginBonusId": "532",
+          "name": "春の新生活応援プレゼント",
           "type": "2",
-          "openTime": "2021.03.27 00:00:00",
-          "closeTime": "2021.03.27 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "520",
-          "name": "タクティクスα版カウントダウンログインボーナス２日目",
-          "type": "2",
-          "openTime": "2021.03.28 00:00:00",
-          "closeTime": "2021.03.28 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "521",
-          "name": "タクティクスα版カウントダウンログインボーナス３日目",
-          "type": "2",
-          "openTime": "2021.03.29 00:00:00",
-          "closeTime": "2021.03.29 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "522",
-          "name": "頂上決戦任務βカウントダウンログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.31 00:00:00",
-          "closeTime": "2021.03.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "523",
-          "name": "頂上決戦任務βカウントダウンログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.01 00:00:00",
-          "closeTime": "2021.04.01 23:59:59",
-          "isMidnightReset": "1",
+          "openTime": "2021.04.16 16:00:00",
+          "closeTime": "2021.04.19 23:59:59",
+          "isMidnightReset": "0",
           "resetTime": "0"
         },
         {

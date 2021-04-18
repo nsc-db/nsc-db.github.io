@@ -3347,5 +3347,15 @@
           "subScore": "0",
           "color": "0",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "346",
+          "category": "4",
+          "iconId": "1430",
+          "name": "千剛拳",
+          "description": "強化系特殊・神化解除&amp;無効化。即ｱｸｼｮﾝ不可。ｽｷﾙ回避不可。ｱｸｼｮﾝ時に高確率で敵の千手柱間にｶｯﾄｲﾝされる",
+          "subScore": "0",
+          "color": "7859729",
+          "type": "3"
         }
       ]

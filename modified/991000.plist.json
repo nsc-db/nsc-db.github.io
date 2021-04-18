@@ -9162,5 +9162,20 @@
           "appUiId": "1841",
           "uiKey": "SphereLegendAbilityNonDesc",
           "text": "未解放"
+        },
+        {
+          "appUiId": "1847",
+          "uiKey": "SphereUseSpecificConfirmText",
+          "text": "は伝説盤の解放時にも必要なアイテムです\r\n"
+        },
+        {
+          "appUiId": "1848",
+          "uiKey": "SphereMaterialSelectText",
+          "text": "消費する素材をタップで選択してください"
+        },
+        {
+          "appUiId": "1849",
+          "uiKey": "SphereUseSpecificConfirmFormat",
+          "text": "本当に\r\n%s\r\nを消費して解放してもよろしいですか？"
         }
       ]

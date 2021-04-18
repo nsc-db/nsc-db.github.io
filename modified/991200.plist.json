@@ -16351,5 +16351,31 @@
           "effectIdx3": "774",
           "effectIdx4": "0",
           "effectIds": "1221,13059,774,"
+        },
+        {
+          "crystalOverwriteEffectId": "1276",
+          "targetCrystal": "40405",
+          "description": "全スキルダメージ&amp;素早さを150%アップ。スキル発動速度1段階アップ",
+          "charaIds": "1903,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "794",
+          "effectIdx3": "967",
+          "effectIdx4": "0",
+          "effectIds": "1840,794,967,"
+        },
+        {
+          "crystalOverwriteEffectId": "1277",
+          "targetCrystal": "40406",
+          "description": "火遁・雷遁無効。被攻撃時、自身に次の行動まで堅護付与(弱体/状態異常/弱体系特殊解除&amp;無効)",
+          "charaIds": "1903,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "36",
+          "effectIdx2": "86",
+          "effectIdx3": "3708",
+          "effectIdx4": "0",
+          "effectIds": "36,86,3708,"
         }
       ]

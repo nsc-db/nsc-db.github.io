@@ -4307,6 +4307,18 @@
           "voiceDeath": "tobirama_damage_02_02"
         },
         {
+          "cardVoiceId": "365",
+          "cardId": "20070404",
+          "dirName": "hashirama",
+          "evolutionStep": "",
+          "voiceAppear": "hashirama_battle_02_01",
+          "voiceSkill1": "hashirama_win_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hashirama_win_02_03",
+          "voiceDeath": "hashirama_damage_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
