@@ -428,7 +428,7 @@ window.enggear=[
           "charaIds": "101",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	
+},	
 {
           "id": 4015,
           "type": "Additional",
@@ -455,7 +455,17 @@ window.enggear=[
           "name": "Mei's Hair Clip",
           "effect": "HP and ATK +70%, Cast Speed +1",
           "normal": "HP and ATK +40%",
-          "charaIds": "0",
+          "charaIds": "20401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4205,
+          "type": "Additional",
+          "name": "Naruto Haori",
+          "effect": "HP and ATK +100%, DEF and SPD +50%",
+          "normal": "HP and ATK +40%",
+          "charaIds": "101",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -480,12 +490,270 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 4555,
+          "type": "Additional",
+          "name": "Naruto's Armband",
+          "effect": "When Attacked: HP Recovery +10%, Skill Damage +50%",
+          "normal": "When Attacked: HP Recovery +5%",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4565,
+          "type": "Stats",
+          "name": "Naruto's Mission Uniform",
+          "effect": "ATK, DEF and SPD +30%",
+          "normal": "HP, ATK, DEF and SPD +60%",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4765,
+          "type": "Additional",
+          "name": "Kurama's Haori",
+          "effect": "Status Effect Duration -50%, Skill Damage +50%, Chakra Recovery +5%",
+          "normal": "Status Effect Duration Reduction",
+          "charaIds": "107,109,110,111",
+          "cardIds": "20001631,20001676,20001719,20001718,20001718,20001853",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4795,
+          "type": "Additional",
+          "name": "EX Selection Certificate (Friday)",
+          "effect": "HP and Skill Damage +50%, Chance to recover Chakra when attacked (50%)",
+          "normal": "Skill Damage +15%",
+          "charaIds": "",
+          "cardIds": "20001830,20001777,20001776",
+          "charaGroupIds": "0"
+},
+          "id": 4795,
+          "type": "Additional",
+          "name": "2nd Selection Certificate (Friday)",
+          "effect": "HP and Skill Damage +50%, Chance to recover Chakra when attacked (50%)",
+          "normal": "Skill Damage +15%",
+          "charaIds": "",
+          "cardIds": "20030602,20001678,20030601",
+          "charaGroupIds": "0"
+},
+          "id": 4795,
+          "type": "Additional",
+          "name": "3rd Selection Certificate (Friday)",
+          "effect": "HP and Skill Damage +50%, Chance to recover Chakra when attacked (50%)",
+          "normal": "Skill Damage +15%",
+          "charaIds": "",
+          "cardIds": "20031011,20031206",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4805,
+          "type": "Skill",
+          "name": "Naruto's Pouch",
+          "effect": "Skill Damage +80%, Chakra Cost -10%",
+          "normal": "Tailed Beast Skill Damage +20%",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5015,
+          "type": "Additional",
+          "name": "EX Selection Certificate (Silver)",
+          "effect": "HP and Skill Damage +50%",
+          "normal": "Skill Damage +10%",
+          "charaIds": "",
+          "cardIds": "20001735,20001786,20001736,20001818",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5025,
+          "type": "Additional",
+          "name": "2nd Selection Certificate (Silver)",
+          "effect": "HP and Skill Damage +50%",
+          "normal": "Skill Damage +10%",
+          "charaIds": "",
+          "cardIds": "20001807,20001831,20030701,20001704",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5025,
+          "type": "Additional",
+          "name": "3rd Selection Certificate (Silver)",
+          "effect": "HP and Skill Damage +50%",
+          "normal": "Skill Damage +10%",
+          "charaIds": "",
+          "cardIds": "20031012,20031115",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5085,
+          "type": "Stats",
+          "name": "Six Paths Giant Rasenshuriken",
+          "effect": "ATK +100%",
+          "normal": "6 Turns: ATK +100%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5095,
+          "type": "Skill",
+          "name": "Tailed Beast Rasenshuriken",
+          "effect": "Skill Damage +150%",
+          "normal": "6 Turns: Skill Damage +100%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5125,
+          "type": "Skill",
+          "name": "Mini Rasen-Shuriken",
+          "effect": "Unique Skill Damage and SPD +50%, Debuff Duration -50%",
+          "normal": "Unique Skill Damage +40%",
+          "charaIds": "107",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5185,
+          "type": "Skill",
+          "name": "Water Balloon",
+          "effect": "Wind Skill Damage and ATK +100%",
+          "normal": "Wind Skill Damage +40%",
+          "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5275,
+          "type": "Additional",
+          "name": "Gamakichi Netsuke (Bronze)",
+          "effect": "Incoming Taijutsu and Fire Skill Damage -50%, Wind Skill Damage +50%",
+          "normal": "Incoming Taijutsu and Fire Skill Damage Reduction, Wind Skill Damage +20%",
+          "charaIds": "101,102,103,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5285,
+          "type": "Additional",
+          "name": "Gamakichi Netsuke (Silver)",
+          "effect": "HP +50%, Incoming Taijutsu and Fire Skill Damage -50%, Wind Skill Damage +80%",
+          "normal": "Incoming Taijutsu and Fire Skill Damage Reduction, Wind Skill Damage +30%",
+          "charaIds": "101,102,103,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5295,
+          "type": "Additional",
+          "name": "Gamakichi Netsuke (Gold)",
+          "effect": "HP +50%, Incoming Taijutsu and Fire Skill Damage -50%, Wind Skill Damage +100%",
+          "normal": "Incoming Taijutsu and Fire Skill Damage Reduction, Wind Skill Damage +40%",
+          "charaIds": "101,102,103,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 5305,
           "type": "Additional",
-          "name": "Aoda Netsuke (Copper)",
+          "name": "Aoda Netsuke (Bronze)",
           "effect": "Incoming Wind and Taijutsu Skill Damage -50%, Fire Skill Damage +50%",
           "normal": "Incoming Wind and Taijutsu Skill Damage Reduction, Fire Skill Damage +20%",
           "charaIds": "201,204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5315,
+          "type": "Additional",
+          "name": "Aoda Netsuke (Silver)",
+          "effect": "HP +50%, Incoming Wind and Taijutsu Skill Damage -50%, Fire Skill Damage +80%",
+          "normal": "Incoming Wind and Taijutsu Skill Damage Reduction, Fire Skill Damage +30%",
+          "charaIds": "201,204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5325,
+          "type": "Additional",
+          "name": "Aoda Netsuke (Gold)",
+          "effect": "HP +50%, Incoming Wind and Taijutsu Skill Damage -50%, Fire Skill Damage +100%",
+          "normal": "Incoming Wind and Taijutsu Skill Damage Reduction, Fire Skill Damage +40%",
+          "charaIds": "201,204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5365,
+          "type": "Additional",
+          "name": "Yin Seal",
+          "effect": "Chakra +40, Chance to Recover 50% HP and Chakra",
+          "normal": "Low Chance for Chakra Recovery +10%",
+          "charaIds": "109,110,111",
+          "cardIds": "20030511,20001853,20001676",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5745,
+          "type": "Additional",
+          "name": "YES / NO Pillow",
+          "effect": "ATK +100%, Cast Speed +1",
+          "normal": "ATK +30%",
+          "charaIds": "0",
+          "cardIds": "20030605,20030606",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5755,
+          "type": "Food",
+          "name": "All-you-can-eat ticket",
+          "effect": "After 6 Turns: HP Recovery +50% and Skill Damage +20%",
+          "normal": "3 Turns: HP Recovery +30%",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5765,
+          "type": "Food",
+          "name": "Ichiraku Topping Free Ticket",
+          "effect": "6 Turns: Chakra Cost -50% and Skill Damage +20%",
+          "normal": "3 Turns: Chakra Cost -30%",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5875,
+          "type": "Additional",
+          "name": "Naruto's Shorts",
+          "effect": "ATK and Sage Skill Damage +50%, Chakra Recovery +10%",
+          "normal": "ATK and Sage Skill Damage +10%",
+          "charaIds": "106",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6135,
+          "type": "Chakra",
+          "name": "Nine Tails' Chakra",
+          "effect": "Chakra Recovery +20%, 9 Turns: Skill Damage +50%",
+          "normal": "9 Turns: Chakra Recovery +20%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6145,
+          "type": "Additional",
+          "name": "Six Paths Tailed Beast Bomb",
+          "effect": "HP, ATK and DEF +20,000",
+          "normal": "HP, ATK and DEF +10,000",
+          "charaIds": "108,112",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -497,6 +765,136 @@ window.enggear=[
           "normal": "Wood Skill Damage +30%",
           "charaIds": "0",
           "cardIds": "20040905,20030815",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6315,
+          "type": "Skill",
+          "name": "Naruto's Yo-Yo",
+          "effect": "Skill Damage +70%, ATK +30%",
+          "normal": "Unique Skill Damage +40%",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6345,
+          "type": "Additional",
+          "name": "Sparkler",
+          "effect": "ATK and SPD +50%, 3 Turns: Chakra Recovery +30%",
+          "normal": "3 Turns: ATK and SPD +50%",
+          "charaIds": "105,704,4602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6355,
+          "type": "Stats",
+          "name": "Tobi Festival Mask",
+          "effect": "ATK and SPD +70%",
+          "normal": "HP, ATK and SPD +100%",
+          "charaIds": "105,704,4602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6475,
+          "type": "Skill",
+          "name": "Bells",
+          "effect": "Skill Damage +70%, HP +40%",
+          "normal": "Skill Damage and HP +20%",
+          "charaIds": "1702,101,201,302,301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6495,
+          "type": "Food",
+          "name": "Lunch from a Friend",
+          "effect": "4 Turns: HP and Chakra Recovery +30% and Skill Damage +30%",
+          "normal": "2 Turns: HP and Chakra Recovery +20%",
+          "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6855,
+          "type": "Additional",
+          "name": "Gerotora",
+          "effect": "ATK, DEF and SPD +70%, 'Seal' Immunity",
+          "normal": "'Seal' Duration -50%",
+          "charaIds": "102,104,106,107,109,110,111,2101,2401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6865,
+          "type": "Additional",
+          "name": "Nine Tails Seal Key",
+          "effect": "Chakra +40, Skill Damage +50%",
+          "normal": "Chakra +10, Skill Damage -20%",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6895,
+          "type": "Additional",
+          "name": "Sage of the 6 Paths' Mark",
+          "effect": "ATK and Skill Damage +60%, Debuff Immunity",
+          "normal": "ATK +50%",
+          "charaIds": "110,104,207,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6915,
+          "type": "Skill",
+          "name": "Six Paths Statue",
+          "effect": "Six Paths Skill Damage +150%, SPD +50%",
+          "normal": "Six Paths Skill Damage +30%",
+          "charaIds": "110,104,207,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6945,
+          "type": "Skill",
+          "name": "Ashura's Soul",
+          "effect": "ATK and Skill Damage +100%",
+          "normal": "ATK and Skill Damage +50%",
+          "charaIds": "108,1903,14402,112,114,60101,116",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7055,
+          "type": "Food",
+          "name": "Naru-ckers! ",
+          "effect": "ATK +70%, After 3 Turns: HP Recovery +10%",
+          "normal": "3 Turns: SPD +50%, After 3 Turns: ATK +70%",
+          "charaIds": "501,502,503,101,102,103,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7615,
+          "type": "Resistance",
+          "name": "Opposition to Sasuke (God) ",
+          "effect": "Incoming Skill Damage -50%, HP and Skill Damage +100%",
+          "normal": "Incoming Sharingan and Rinnesharingan Skill Damage Reduction",
+          "charaIds": "108,112,114,116",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7615,
+          "type": "Resistance",
+          "name": "Opposition to Sasuke (All) ",
+          "effect": "5 Turns: Sharingan and Rinnesharingan Skill Immunity, HP +100%, Cast Speed +1",
+          "normal": "Incoming Sharingan and Rinnesharingan Skill Damage Reduction",
+          "charaIds": "101,102,103,104,105,106,107,108,109,110,111,112,114,60101,116",
+          "cardIds": "0",
           "charaGroupIds": "0"
 },
 {
