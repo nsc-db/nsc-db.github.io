@@ -538,8 +538,8 @@ window.enggear=[
           "charaIds": "",
           "cardIds": "20030602,20001678,20030601",
           "charaGroupIds": "0"
-{
 },
+{
           "id": 4795,
           "type": "Additional",
           "name": "3rd Selection Certificate (Friday)",
