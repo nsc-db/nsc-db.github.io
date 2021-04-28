@@ -3377,5 +3377,35 @@
           "subScore": "0",
           "color": "14211288",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "349",
+          "category": "3",
+          "iconId": "1433",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "350",
+          "category": "3",
+          "iconId": "1434",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "0",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "351",
+          "category": "6",
+          "iconId": "1435",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "0",
+          "type": "2"
         }
       ]

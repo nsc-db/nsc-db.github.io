@@ -415,6 +415,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1397",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "六周年記念忍術大会～青春強制の罠",
+          "description": "六周年を記念し五代目火影、綱手主催の忍術大会が\r\n開かれる。大会考案者の自来也の根回しにより、\r\nカカシ、ガイがそれぞれの教え子と共に出場する。\r\nしかし、自来也が仕掛けた趣向により、忍術大会は\r\nある人物にとって、恐るべき悪夢へと変わり…！？",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2103",
           "worldAreaId": "5",
           "priority": "5",
@@ -473,6 +486,19 @@
           "name": "キング・オブ・ダメラン-特別篇-～総合～",
           "description": "0",
           "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "4140",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "忍界を繋ぐ親子",
+          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

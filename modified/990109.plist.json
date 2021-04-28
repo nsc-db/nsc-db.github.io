@@ -27679,6 +27679,46 @@
           "effectIds": "3992,3993,"
         },
         {
+          "abilityId": "2822",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3266",
+          "effectIdx2": "4006",
+          "effectIdx3": "4066",
+          "effectIds": "3266,4006,4066,2644,"
+        },
+        {
+          "abilityId": "2823",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3244",
+          "effectIdx2": "4008",
+          "effectIdx3": "4007",
+          "effectIds": "3244,4008,4007,20019,3028,"
+        },
+        {
+          "abilityId": "2824",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3266",
+          "effectIdx2": "4009",
+          "effectIdx3": "1724",
+          "effectIds": "3266,4009,1724,4067,"
+        },
+        {
+          "abilityId": "2825",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3244",
+          "effectIdx2": "4008",
+          "effectIdx3": "3821",
+          "effectIds": "3244,4008,3821,3467,439,"
+        },
+        {
           "abilityId": "2826",
           "abilityName": "夢を守る決断",
           "abilityDescription": "HP0以下で3回全回復し、耐えた時即アクション&amp;敵にうちは一族生存で敵全体の耐性を無視して封印",
@@ -30057,6 +30097,26 @@
           "effectIdx2": "3895",
           "effectIdx3": "3896",
           "effectIds": "3893,3895,3896,3897,229204,228250,"
+        },
+        {
+          "abilityId": "200020",
+          "abilityName": "体・勇属性特化",
+          "abilityDescription": "体・勇属性へのスキル攻撃時に相手の耐性を弱点とする。体・勇属性からのダメージを50%カット",
+          "abilityEffectDescription": "体・勇属性へのスキル攻撃時に相手の耐性を弱点とする。体・勇属性からのダメージを50%カット",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "229404",
+          "effectIds": "229204,228250,229404,228450,"
+        },
+        {
+          "abilityId": "200021",
+          "abilityName": "心・知属性特化",
+          "abilityDescription": "心・知属性へのスキル攻撃時に相手の耐性を弱点とする。心・知属性からのダメージを50%カット",
+          "abilityEffectDescription": "心・知属性へのスキル攻撃時に相手の耐性を弱点とする。心・知属性からのダメージを50%カット",
+          "effectIdx1": "229004",
+          "effectIdx2": "228050",
+          "effectIdx3": "229304",
+          "effectIds": "229004,228050,229304,228350,"
         },
         {
           "abilityId": "200022",
@@ -32497,6 +32557,36 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3997,"
+        },
+        {
+          "abilityId": "310217",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "最大HP150%アップ",
+          "abilityEffectDescription": "最大HP150%アップ",
+          "effectIdx1": "1212",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1212,"
+        },
+        {
+          "abilityId": "310218",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "アクション時に確率で自身の状態異常を解除",
+          "abilityEffectDescription": "アクション時に確率で自身の状態異常を解除",
+          "effectIdx1": "4012",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "4012,"
+        },
+        {
+          "abilityId": "310219",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "最大HPを100%アップし、行動後HPが20%回復する",
+          "abilityEffectDescription": "最大HPを100%アップし、行動後HPが20%回復する",
+          "effectIdx1": "684",
+          "effectIdx2": "2500",
+          "effectIdx3": "0",
+          "effectIds": "684,2500,"
         },
         {
           "abilityId": "310220",

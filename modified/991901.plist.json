@@ -1936,6 +1936,19 @@
           "legendPanelList": ""
         },
         {
+          "sphereBoardId": "60003",
+          "boardName": "忍絵巻_技属性_の潜在覚醒盤",
+          "boardDescription": "ナルト&amp;ミナト【命光の忍絵巻-絆-】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "60070400",
+          "normalPanelList": "9200007,9200008,9200009",
+          "specialPanelList": "9200010,9200011,9200012",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "70001",
           "boardName": "Temp_Ct100_知属性_の潜在覚醒盤",
           "boardDescription": "マイト・ガイ【闘忍の覇者】",

@@ -3203,6 +3203,12 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "545",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -4397,6 +4403,12 @@
           "itemImgId": "2119"
         },
         {
+          "shopExchangeItemId": "2120",
+          "itemName": "ランキング忍具交換券(6月4日23:59まで)",
+          "measure": "0",
+          "itemImgId": "2098"
+        },
+        {
           "shopExchangeItemId": "2500",
           "itemName": "神忍札[4月]",
           "measure": "0",
@@ -4519,6 +4531,12 @@
         {
           "shopExchangeItemId": "2612",
           "itemName": "疾風札[4月]",
+          "measure": "0",
+          "itemImgId": "2600"
+        },
+        {
+          "shopExchangeItemId": "2613",
+          "itemName": "疾風札[5月]",
           "measure": "0",
           "itemImgId": "2600"
         },

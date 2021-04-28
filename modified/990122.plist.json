@@ -4307,6 +4307,30 @@
           "voiceDeath": "tobirama_damage_02_02"
         },
         {
+          "cardVoiceId": "363",
+          "cardId": "60070401",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_02_11",
+          "voiceSkill1": "naruto_battle_02_29,minato_battle_02_01,naruto_battle_02_15",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_02_03",
+          "voiceDeath": "naruto_death_02_02"
+        },
+        {
+          "cardVoiceId": "364",
+          "cardId": "60070402",
+          "dirName": "minato",
+          "evolutionStep": "",
+          "voiceAppear": "minato_battle_02_04",
+          "voiceSkill1": "minato_skill_02_01,minato_battle_02_01,naruto_battle_02_15",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "minato_win_02_01",
+          "voiceDeath": "minato_death_02_03"
+        },
+        {
           "cardVoiceId": "365",
           "cardId": "20070404",
           "dirName": "hashirama",

@@ -16505,6 +16505,34 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1195",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "4010",
+          "effectIdx2": "4011",
+          "effectIdx3": "0",
+          "effectIds": "4010,4011,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1196",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "1335",
+          "effectIdx3": "734",
+          "effectIds": "1840,1335,734,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "1197",
           "name": "屹然たる黎明の意志",
           "description": "木ノ葉隠れの里所属の素早さ100%アップ&amp;1回行動まで弱体・弱体系特殊・弱体系神化状態無効",

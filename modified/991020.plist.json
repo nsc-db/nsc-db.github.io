@@ -4773,5 +4773,21 @@
           "color": "0",
           "effectIds": "0",
           "equipStatus": "3"
+        },
+        {
+          "titleId": "5340",
+          "title": "命光の絆を紡ぎし者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5341",
+          "title": "命光の絆を輝せし者",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
         }
       ]

@@ -13,5 +13,13 @@
           "cardSubName": "宿炎の忍絵巻-絆-",
           "modelId": "0",
           "connectSkillId": "710001"
+        },
+        {
+          "connectCardId": "60070400",
+          "ownerProfileId": "61301",
+          "cardName": "ナルト＆ミナト",
+          "cardSubName": "命光の忍絵巻-絆-",
+          "modelId": "0",
+          "connectSkillId": "710002"
         }
       ]

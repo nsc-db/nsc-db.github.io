@@ -5765,6 +5765,12 @@
           "speechCharactorName": "日向ヒナタ"
         },
         {
+          "speechCharactorId": "984",
+          "cardId": "20001605",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "シズネ"
+        },
+        {
           "speechCharactorId": "985",
           "cardId": "985",
           "speechCharactorImgId": "0",
@@ -6219,6 +6225,24 @@
           "cardId": "20000021",
           "speechCharactorImgId": "0",
           "speechCharactorName": "うちはサスケ"
+        },
+        {
+          "speechCharactorId": "1070",
+          "cardId": "20070406",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うずまきナルト"
+        },
+        {
+          "speechCharactorId": "1071",
+          "cardId": "20070408",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "1072",
+          "cardId": "20070409",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "はたけカカシ"
         },
         {
           "speechCharactorId": "1073",
