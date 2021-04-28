@@ -11449,6 +11449,11 @@
           "gachaTicketImgId": "4935"
         },
         {
+          "gachaTicketId": "4936",
+          "gachaTicketName": "2021年忍具[2月]ガチャチケット",
+          "gachaTicketImgId": "4936"
+        },
+        {
           "gachaTicketId": "4947",
           "gachaTicketName": "新・2020年12月忍具ガチャチケット",
           "gachaTicketImgId": "4947"
@@ -11634,6 +11639,16 @@
           "gachaTicketImgId": "4985"
         },
         {
+          "gachaTicketId": "4986",
+          "gachaTicketName": "LvMAX！[2020年8月以降]★7忍伝・創確定ガチャチケット",
+          "gachaTicketImgId": "4986"
+        },
+        {
+          "gachaTicketId": "4987",
+          "gachaTicketName": "忍伝・創 大放出祭ガチャチケット",
+          "gachaTicketImgId": "4987"
+        },
+        {
           "gachaTicketId": "4988",
           "gachaTicketName": "\"蛇\"＆\"鷹\"忍具ガチャチケット",
           "gachaTicketImgId": "4988"
@@ -11670,17 +11685,17 @@
         },
         {
           "gachaTicketId": "4995",
-          "gachaTicketName": "0",
+          "gachaTicketName": "風来ノ三傑・特別ガチャチケット",
           "gachaTicketImgId": "4995"
         },
         {
           "gachaTicketId": "4996",
-          "gachaTicketName": "0",
+          "gachaTicketName": "風来ノ三傑ガチャチケット",
           "gachaTicketImgId": "4996"
         },
         {
           "gachaTicketId": "4997",
-          "gachaTicketName": "0",
+          "gachaTicketName": "風来ノ三傑・祭",
           "gachaTicketImgId": "4996"
         },
         {
@@ -11697,6 +11712,21 @@
           "gachaTicketId": "5020",
           "gachaTicketName": "6周年記念・極ガチャチケット",
           "gachaTicketImgId": "5020"
+        },
+        {
+          "gachaTicketId": "5036",
+          "gachaTicketName": "6周年記念！神忍・破神6%ガチャチケット",
+          "gachaTicketImgId": "5036"
+        },
+        {
+          "gachaTicketId": "5037",
+          "gachaTicketName": "6周年記念！神忍・破神66%ガチャチケット",
+          "gachaTicketImgId": "5037"
+        },
+        {
+          "gachaTicketId": "5038",
+          "gachaTicketName": "\"暁\"ガチャチケット・極",
+          "gachaTicketImgId": "5038"
         },
         {
           "gachaTicketId": "5055",

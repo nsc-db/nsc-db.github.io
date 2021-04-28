@@ -2430,6 +2430,19 @@
           "selectType": "3"
         },
         {
+          "itemId": "16017",
+          "name": "芸術玉",
+          "description": "限定交換所『デイダラの芸術指南』で使用できる玉。",
+          "resultWord": "0",
+          "itemCategoryId": "15000",
+          "itemValue": "0",
+          "itemNum": "0",
+          "itemImageId": "16017",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "3"
+        },
+        {
           "itemId": "51000",
           "name": "ドロップ数２倍の秘伝書",
           "description": "バトルでの獲得ドロップ数が２倍になります。",

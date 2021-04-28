@@ -3357,5 +3357,25 @@
           "subScore": "0",
           "color": "7859729",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "347",
+          "category": "3",
+          "iconId": "1431",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "65535",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "348",
+          "category": "3",
+          "iconId": "1432",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "14211288",
+          "type": "2"
         }
       ]

@@ -363,19 +363,6 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
-          "worldStageId": "1392",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "【もっと】ちいさなちいさな大冒険2",
-          "description": "忍具素材を集めて、ドット忍具を生成！\r\nドットPtを集めてドットメダルを獲得しよう！\r\nドットメダルで、ドットマイペ配置物を獲得！",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
           "worldStageId": "1393",
           "worldAreaId": "5",
           "priority": "5",
@@ -402,6 +389,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1395",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "大激闘任務-皐月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "1396",
           "worldAreaId": "5",
           "priority": "4",
@@ -420,6 +420,19 @@
           "priority": "5",
           "name": "テンテンの忍具指南コレクション",
           "description": "個人Ptを集めて忍具や忍具チケットと交換！\r\n特別達成報酬は全て忍石！\r\n※今回獲得できる個人Ptは4月交換所のみ\r\n適用されます。",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "2104",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "デイダラの芸術指南だァア！！…うん！",
+          "description": "個人Ptを集めて忍具や忍具チケットと交換！\r\n特別達成報酬は全て忍石！\r\n※今回獲得できる個人Ptは本任務の交換所のみ\r\n適用されます。",
           "notice": "0",
           "type": "0",
           "prerequisiteWorldStageId": "0",
@@ -1318,19 +1331,6 @@
           "name": "頂上決戦任務β～綱手～",
           "description": "限定キャラ『綱手【戦医の拳英】』は\r\n初級の初回クリア報酬で獲得可能！\r\n\r\n強化・覚醒素材を集めて\r\n★7覚醒・コスト40を目指そう！",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は初級から地獄級となります。\r\n※地獄級は超級クリア後に解放されます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "8080",
-          "worldAreaId": "9",
-          "priority": "0",
-          "name": "第五十六回昇級試験",
-          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
-          "notice": "0",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

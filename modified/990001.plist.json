@@ -197,6 +197,24 @@
           "resetTime": "0"
         },
         {
+          "loginBonusId": "534",
+          "name": "デイダラ_誕生日記念ログインボーナス",
+          "type": "2",
+          "openTime": "2021.05.05 00:00:00",
+          "closeTime": "2021.05.10 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "535",
+          "name": "伝説盤登場記念第二弾ログインボーナス！",
+          "type": "2",
+          "openTime": "2021.05.02 00:00:00",
+          "closeTime": "2021.05.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
           "loginBonusId": "550",
           "name": "春の新生活『覚醒』応援ログインボーナス",
           "type": "2",

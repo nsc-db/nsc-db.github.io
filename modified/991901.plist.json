@@ -1026,6 +1026,58 @@
           "legendPanelList": "0"
         },
         {
+          "sphereBoardId": "10090",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "うずまきナルト【青春に挑む迷走】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070406",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "10091",
+          "boardName": "Temp_Ct40_心属性_の潜在覚醒盤",
+          "boardDescription": "うちはサスケ【力を求む迷瞳】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070407",
+          "normalPanelList": "9000001,9000002,9000003",
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "10092",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "春野サクラ【華麗を望む迷桜】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070408",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "10093",
+          "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
+          "boardDescription": "はたけカカシ【青春を望まぬ英眼】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070409",
+          "normalPanelList": "9000025,9000026,9000027",
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1235,7 +1287,7 @@
         },
         {
           "sphereBoardId": "50017",
-          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_4枚伝説",
           "boardDescription": "うちはイタチ【黒焔の征瞳】",
           "rare": "0",
           "costMin": "0",
@@ -1560,7 +1612,7 @@
         },
         {
           "sphereBoardId": "50042",
-          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤_伝説",
           "boardDescription": "サソリ【朱染めの伝説】",
           "rare": "0",
           "costMin": "0",

@@ -27719,10 +27719,30 @@
           "effectIds": "13099,776,"
         },
         {
+          "abilityId": "2830",
+          "abilityName": "ポッチャリ系の主張",
+          "abilityDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "abilityEffectDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "effectIdx1": "689",
+          "effectIdx2": "312",
+          "effectIdx3": "0",
+          "effectIds": "689,312,"
+        },
+        {
+          "abilityId": "2831",
+          "abilityName": "食事への執念",
+          "abilityDescription": "弱体と状態異常を半減する",
+          "abilityEffectDescription": "弱体と状態異常を半減する",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "776,"
+        },
+        {
           "abilityId": "2832",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "異仙忍者の大立ち回り",
+          "abilityDescription": "バトル開始時確率でスキル2で急襲（敵に“暁”所属がいると確実に急襲）（チャクラ大回復）",
+          "abilityEffectDescription": "バトル開始時確率でスキル2で急襲（敵に“暁”所属がいると確実に急襲）（チャクラ大回復）",
           "effectIdx1": "2919",
           "effectIdx2": "4013",
           "effectIdx3": "0",
@@ -27730,13 +27750,93 @@
         },
         {
           "abilityId": "2833",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "蝦蟇たちとの友誼",
+          "abilityDescription": "HP0以下で2回全回復し､耐えた時に即アクション。被攻撃時､攻撃者に耐性を無視して確率で蛙幻付与",
+          "abilityEffectDescription": "HP0以下で2回全回復し､耐えた時に即アクション。被攻撃時､攻撃者に耐性を無視して確率で蛙幻付与",
           "effectIdx1": "1057",
           "effectIdx2": "874",
           "effectIdx3": "3241",
           "effectIds": "1057,874,3241,4014,"
+        },
+        {
+          "abilityId": "2834",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3995",
+          "effectIdx2": "4017",
+          "effectIdx3": "4018",
+          "effectIds": "3995,4017,4018,1789,4026,4027,4028,"
+        },
+        {
+          "abilityId": "2835",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4021",
+          "effectIdx2": "1994",
+          "effectIdx3": "4019",
+          "effectIds": "4021,1994,4019,"
+        },
+        {
+          "abilityId": "2836",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4016",
+          "effectIdx2": "4017",
+          "effectIdx3": "4018",
+          "effectIds": "4016,4017,4018,1789,4025,4027,4028,"
+        },
+        {
+          "abilityId": "2837",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4022",
+          "effectIdx2": "1994",
+          "effectIdx3": "4020",
+          "effectIds": "4022,1994,4020,"
+        },
+        {
+          "abilityId": "2838",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4016",
+          "effectIdx2": "3995",
+          "effectIdx3": "4018",
+          "effectIds": "4016,3995,4018,4025,4026,4028,1789,"
+        },
+        {
+          "abilityId": "2839",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4023",
+          "effectIdx2": "4024",
+          "effectIdx3": "0",
+          "effectIds": "4023,4024,"
+        },
+        {
+          "abilityId": "2840",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4016",
+          "effectIdx2": "3995",
+          "effectIdx3": "4017",
+          "effectIds": "4016,3995,4017,4025,4026,4027,1789,"
+        },
+        {
+          "abilityId": "2841",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4031",
+          "effectIdx2": "4032",
+          "effectIdx3": "0",
+          "effectIds": "4031,4032,"
         },
         {
           "abilityId": "10000",
@@ -29767,6 +29867,26 @@
           "effectIdx2": "3948",
           "effectIdx3": "0",
           "effectIds": "1512,3948,"
+        },
+        {
+          "abilityId": "100145",
+          "abilityName": "忍連合に希望を与えし者達",
+          "abilityDescription": "最大チャクラ量が100アップ、HP0以下で5回全回復し､耐えた時に確率で即アクション",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HP0以下で5回全回復し､耐えた時に確率で即アクション",
+          "effectIdx1": "20009",
+          "effectIdx2": "1512",
+          "effectIdx3": "874",
+          "effectIds": "20009,1512,874,3839,"
+        },
+        {
+          "abilityId": "100146",
+          "abilityName": "共闘すべき刻",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時､確率でｽｷﾙ2で急襲(ﾁｬｸﾗ大回復)､最大HP120%ｱｯﾌﾟ＆状態異常&amp;幻&amp;ｷｬﾝｾﾙ無効",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時､確率でｽｷﾙ2で急襲(ﾁｬｸﾗ大回復)､最大HP120%ｱｯﾌﾟ＆状態異常&amp;幻&amp;ｷｬﾝｾﾙ無効",
+          "effectIdx1": "1221",
+          "effectIdx2": "1638",
+          "effectIdx3": "1751",
+          "effectIds": "1221,1638,1751,3014,"
         },
         {
           "abilityId": "200001",

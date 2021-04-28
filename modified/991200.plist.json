@@ -16381,7 +16381,7 @@
         {
           "crystalOverwriteEffectId": "1278",
           "targetCrystal": "40407",
-          "description": "0",
+          "description": "最大HP・素早さを120%アップし、被攻撃時に低確率で即アクション",
           "charaIds": "2401,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16394,7 +16394,7 @@
         {
           "crystalOverwriteEffectId": "1279",
           "targetCrystal": "40408",
-          "description": "0",
+          "description": "全スキルダメージ120%アップ、行動後にHPを30%回復、スキル発動速度1段階アップ",
           "charaIds": "2401,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16403,5 +16403,57 @@
           "effectIdx3": "1840",
           "effectIdx4": "0",
           "effectIds": "30011,300012,1840,"
+        },
+        {
+          "crystalOverwriteEffectId": "1280",
+          "targetCrystal": "40501",
+          "description": "0",
+          "charaIds": "12002,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "1840",
+          "effectIdx3": "2246",
+          "effectIdx4": "0",
+          "effectIds": "1115,1840,2246,"
+        },
+        {
+          "crystalOverwriteEffectId": "1281",
+          "targetCrystal": "40502",
+          "description": "0",
+          "charaIds": "12002,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "880",
+          "effectIdx3": "894",
+          "effectIdx4": "0",
+          "effectIds": "30011,880,894,"
+        },
+        {
+          "crystalOverwriteEffectId": "1285",
+          "targetCrystal": "40411",
+          "description": "0",
+          "charaIds": "102,204,303,1704,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "11069",
+          "effectIdx3": "12069",
+          "effectIdx4": "13069",
+          "effectIds": "1549,11069,12069,13069,652,"
+        },
+        {
+          "crystalOverwriteEffectId": "1286",
+          "targetCrystal": "40412",
+          "description": "0",
+          "charaIds": "102,204,303,1704,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "4069",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "4069,"
         }
       ]
