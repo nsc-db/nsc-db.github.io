@@ -1013,6 +1013,19 @@
           "legendPanelList": "0"
         },
         {
+          "sphereBoardId": "10089",
+          "boardName": "Temp_Ct40_知属性_の潜在覚醒盤",
+          "boardDescription": "自来也【風来ノ三傑】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070405",
+          "normalPanelList": "9000019,9000020,9000021",
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1205,7 +1218,7 @@
           "cardId": "20060414",
           "normalPanelList": "9100019,9100020,9100021",
           "specialPanelList": "9100022,9100023,9100024",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50016",
@@ -1218,7 +1231,7 @@
           "cardId": "20060415",
           "normalPanelList": "9100025,9100026,9100027",
           "specialPanelList": "9100028,9100029,9100030",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50017",

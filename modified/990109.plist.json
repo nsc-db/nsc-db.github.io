@@ -27699,6 +27699,46 @@
           "effectIds": "3061,4000,4001,"
         },
         {
+          "abilityId": "2828",
+          "abilityName": "型にはまらぬ思考",
+          "abilityDescription": "HP0以下で1回耐え、確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で1回耐え、確率でスキル回避",
+          "effectIdx1": "312",
+          "effectIdx2": "679",
+          "effectIdx3": "0",
+          "effectIds": "312,679,"
+        },
+        {
+          "abilityId": "2829",
+          "abilityName": "影の操手",
+          "abilityDescription": "素早さを100%アップし、弱体と状態異常を半減する",
+          "abilityEffectDescription": "素早さを100%アップし、弱体と状態異常を半減する",
+          "effectIdx1": "13099",
+          "effectIdx2": "776",
+          "effectIdx3": "0",
+          "effectIds": "13099,776,"
+        },
+        {
+          "abilityId": "2832",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "2919",
+          "effectIdx2": "4013",
+          "effectIdx3": "0",
+          "effectIds": "2919,4013,"
+        },
+        {
+          "abilityId": "2833",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3241",
+          "effectIds": "1057,874,3241,4014,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

@@ -402,6 +402,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1396",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "謎の六！～休息と面倒ごと～",
+          "description": "6周年で特効発揮のシカマルや、禁忌の至宝、\r\n6周年記念ガチャチケットなど豪華報酬を獲得！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2103",
           "worldAreaId": "5",
           "priority": "5",
@@ -447,19 +460,6 @@
           "name": "キング・オブ・ダメラン-特別篇-～総合～",
           "description": "0",
           "notice": "0",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "4139",
-          "worldAreaId": "5",
-          "priority": "4",
-          "name": "復讐に囚われし瞳",
-          "description": "Ptランキング開催！\r\n個人Ptはイベント期間中のみ加算されます",
-          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,
@@ -1312,6 +1312,19 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "6102",
+          "worldAreaId": "5",
+          "priority": "1",
+          "name": "頂上決戦任務β～綱手～",
+          "description": "限定キャラ『綱手【戦医の拳英】』は\r\n初級の初回クリア報酬で獲得可能！\r\n\r\n強化・覚醒素材を集めて\r\n★7覚醒・コスト40を目指そう！",
+          "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は初級から地獄級となります。\r\n※地獄級は超級クリア後に解放されます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "8080",
           "worldAreaId": "9",
           "priority": "0",
@@ -1329,6 +1342,19 @@
           "worldAreaId": "9",
           "priority": "0",
           "name": "第五十七回昇級試験",
+          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
+          "notice": "0",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "8082",
+          "worldAreaId": "9",
+          "priority": "0",
+          "name": "第五十八回昇級試験",
           "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
           "notice": "0",
           "type": "0",

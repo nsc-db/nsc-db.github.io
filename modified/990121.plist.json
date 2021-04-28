@@ -9449,6 +9449,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20045388",
+          "timing": "1",
+          "func": "34",
+          "params": "182,0",
+          "comp": "3",
+          "compParams": "8",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20045400",
           "timing": "1",
           "func": "22",

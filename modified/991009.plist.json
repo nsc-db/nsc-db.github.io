@@ -3185,6 +3185,18 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "542",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "543",
+          "itemName": "昇級試験Pt",
+          "measure": "0",
+          "itemImgId": "128"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -4355,10 +4367,22 @@
           "itemImgId": "2116"
         },
         {
+          "shopExchangeItemId": "2117",
+          "itemName": "人気忍具交換券",
+          "measure": "0",
+          "itemImgId": "2115"
+        },
+        {
           "shopExchangeItemId": "2118",
           "itemName": "ランキング忍具交換券(5月6日23:59まで)",
           "measure": "0",
           "itemImgId": "2098"
+        },
+        {
+          "shopExchangeItemId": "2119",
+          "itemName": "忍交換券",
+          "measure": "0",
+          "itemImgId": "2119"
         },
         {
           "shopExchangeItemId": "2500",
@@ -4488,6 +4512,12 @@
         },
         {
           "shopExchangeItemId": "2801",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "2802",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"
