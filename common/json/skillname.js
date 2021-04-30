@@ -8284,12 +8284,84 @@ window.skillname=[
           "name": "ホラ！さっさと噛め！！"
         },
         {
+          "cardBattleSkillNameId": "3283",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3284",
+          "name": "仙法・大玉螺旋丸・九極共鳴"
+        },
+        {
+          "cardBattleSkillNameId": "3285",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3286",
+          "name": "0"
+        },
+        {
           "cardBattleSkillNameId": "3287",
           "name": "真数千手・千剛拳"
         },
         {
           "cardBattleSkillNameId": "3288",
           "name": "…行くぞ！！"
+        },
+        {
+          "cardBattleSkillNameId": "3289",
+          "name": "起爆札付きクナイ"
+        },
+        {
+          "cardBattleSkillNameId": "3290",
+          "name": "オレがやる…"
+        },
+        {
+          "cardBattleSkillNameId": "3291",
+          "name": "倍化の術"
+        },
+        {
+          "cardBattleSkillNameId": "3292",
+          "name": "いただきま～～す！"
+        },
+        {
+          "cardBattleSkillNameId": "3293",
+          "name": "仁義の蝦蟇侠客"
+        },
+        {
+          "cardBattleSkillNameId": "3294",
+          "name": "天外魔境暴れ舞い！！"
+        },
+        {
+          "cardBattleSkillNameId": "3295",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3296",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3297",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3298",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3299",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3300",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3301",
+          "name": "0"
+        },
+        {
+          "cardBattleSkillNameId": "3302",
+          "name": "0"
         },
         {
           "cardBattleSkillNameId": "10136",

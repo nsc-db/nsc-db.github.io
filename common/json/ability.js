@@ -27680,10 +27680,50 @@ window.ability=[
           "effectIds": "3992,3993,"
         },
         {
+          "abilityId": "2822",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3266",
+          "effectIdx2": "4006",
+          "effectIdx3": "4066",
+          "effectIds": "3266,4006,4066,2644,"
+        },
+        {
+          "abilityId": "2823",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3244",
+          "effectIdx2": "4008",
+          "effectIdx3": "4007",
+          "effectIds": "3244,4008,4007,20019,3028,"
+        },
+        {
+          "abilityId": "2824",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3266",
+          "effectIdx2": "4009",
+          "effectIdx3": "1724",
+          "effectIds": "3266,4009,1724,4067,"
+        },
+        {
+          "abilityId": "2825",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3244",
+          "effectIdx2": "4008",
+          "effectIdx3": "3821",
+          "effectIds": "3244,4008,3821,3467,439,"
+        },
+        {
           "abilityId": "2826",
           "abilityName": "夢を守る決断",
-          "abilityDescription": "HP0以下で3回全回復し、耐えた時即アクション&amp;敵にうちは一族生存で敵全体を耐性を無視して封印",
-          "abilityEffectDescription": "HP0以下で3回全回復し、耐えた時即アクション&amp;敵にうちは一族生存で敵全体を耐性を無視して封印",
+          "abilityDescription": "HP0以下で3回全回復し、耐えた時即アクション&amp;敵にうちは一族生存で敵全体の耐性を無視して封印",
+          "abilityEffectDescription": "HP0以下で3回全回復し、耐えた時即アクション&amp;敵にうちは一族生存で敵全体の耐性を無視して封印",
           "effectIdx1": "1789",
           "effectIdx2": "874",
           "effectIdx3": "3241",
@@ -27698,6 +27738,146 @@ window.ability=[
           "effectIdx2": "4000",
           "effectIdx3": "4001",
           "effectIds": "3061,4000,4001,"
+        },
+        {
+          "abilityId": "2828",
+          "abilityName": "型にはまらぬ思考",
+          "abilityDescription": "HP0以下で1回耐え、確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で1回耐え、確率でスキル回避",
+          "effectIdx1": "312",
+          "effectIdx2": "679",
+          "effectIdx3": "0",
+          "effectIds": "312,679,"
+        },
+        {
+          "abilityId": "2829",
+          "abilityName": "影の操手",
+          "abilityDescription": "素早さを100%アップし、弱体と状態異常を半減する",
+          "abilityEffectDescription": "素早さを100%アップし、弱体と状態異常を半減する",
+          "effectIdx1": "13099",
+          "effectIdx2": "776",
+          "effectIdx3": "0",
+          "effectIds": "13099,776,"
+        },
+        {
+          "abilityId": "2830",
+          "abilityName": "ポッチャリ系の主張",
+          "abilityDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "abilityEffectDescription": "最大チャクラ量が50アップ、HP0以下で1回だけ耐える",
+          "effectIdx1": "689",
+          "effectIdx2": "312",
+          "effectIdx3": "0",
+          "effectIds": "689,312,"
+        },
+        {
+          "abilityId": "2831",
+          "abilityName": "食事への執念",
+          "abilityDescription": "弱体と状態異常を半減する",
+          "abilityEffectDescription": "弱体と状態異常を半減する",
+          "effectIdx1": "776",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "776,"
+        },
+        {
+          "abilityId": "2832",
+          "abilityName": "異仙忍者の大立ち回り",
+          "abilityDescription": "バトル開始時確率でスキル2で急襲（敵に“暁”所属がいると確実に急襲）（チャクラ大回復）",
+          "abilityEffectDescription": "バトル開始時確率でスキル2で急襲（敵に“暁”所属がいると確実に急襲）（チャクラ大回復）",
+          "effectIdx1": "2919",
+          "effectIdx2": "4013",
+          "effectIdx3": "0",
+          "effectIds": "2919,4013,"
+        },
+        {
+          "abilityId": "2833",
+          "abilityName": "蝦蟇たちとの友誼",
+          "abilityDescription": "HP0以下で2回全回復し､耐えた時に即アクション。被攻撃時､攻撃者に耐性を無視して確率で蛙幻付与",
+          "abilityEffectDescription": "HP0以下で2回全回復し､耐えた時に即アクション。被攻撃時､攻撃者に耐性を無視して確率で蛙幻付与",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3241",
+          "effectIds": "1057,874,3241,4014,"
+        },
+        {
+          "abilityId": "2834",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "3995",
+          "effectIdx2": "4017",
+          "effectIdx3": "4018",
+          "effectIds": "3995,4017,4018,1789,4026,4027,4028,"
+        },
+        {
+          "abilityId": "2835",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4021",
+          "effectIdx2": "1994",
+          "effectIdx3": "4019",
+          "effectIds": "4021,1994,4019,"
+        },
+        {
+          "abilityId": "2836",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4016",
+          "effectIdx2": "4017",
+          "effectIdx3": "4018",
+          "effectIds": "4016,4017,4018,1789,4025,4027,4028,"
+        },
+        {
+          "abilityId": "2837",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4022",
+          "effectIdx2": "1994",
+          "effectIdx3": "4020",
+          "effectIds": "4022,1994,4020,"
+        },
+        {
+          "abilityId": "2838",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4016",
+          "effectIdx2": "3995",
+          "effectIdx3": "4018",
+          "effectIds": "4016,3995,4018,4025,4026,4028,1789,"
+        },
+        {
+          "abilityId": "2839",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4023",
+          "effectIdx2": "4024",
+          "effectIdx3": "0",
+          "effectIds": "4023,4024,"
+        },
+        {
+          "abilityId": "2840",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4016",
+          "effectIdx2": "3995",
+          "effectIdx3": "4017",
+          "effectIds": "4016,3995,4017,4025,4026,4027,1789,"
+        },
+        {
+          "abilityId": "2841",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4031",
+          "effectIdx2": "4032",
+          "effectIdx3": "0",
+          "effectIds": "4031,4032,"
         },
         {
           "abilityId": "10000",
@@ -29730,6 +29910,26 @@ window.ability=[
           "effectIds": "1512,3948,"
         },
         {
+          "abilityId": "100145",
+          "abilityName": "忍連合に希望を与えし者達",
+          "abilityDescription": "最大チャクラ量が100アップ、HP0以下で5回全回復し､耐えた時に確率で即アクション",
+          "abilityEffectDescription": "最大チャクラ量が100アップ、HP0以下で5回全回復し､耐えた時に確率で即アクション",
+          "effectIdx1": "20009",
+          "effectIdx2": "1512",
+          "effectIdx3": "874",
+          "effectIds": "20009,1512,874,3839,"
+        },
+        {
+          "abilityId": "100146",
+          "abilityName": "共闘すべき刻",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時､確率でｽｷﾙ2で急襲(ﾁｬｸﾗ大回復)､最大HP120%ｱｯﾌﾟ＆状態異常&amp;幻&amp;ｷｬﾝｾﾙ無効",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時､確率でｽｷﾙ2で急襲(ﾁｬｸﾗ大回復)､最大HP120%ｱｯﾌﾟ＆状態異常&amp;幻&amp;ｷｬﾝｾﾙ無効",
+          "effectIdx1": "1221",
+          "effectIdx2": "1638",
+          "effectIdx3": "1751",
+          "effectIds": "1221,1638,1751,3014,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -29898,6 +30098,26 @@ window.ability=[
           "effectIdx2": "3895",
           "effectIdx3": "3896",
           "effectIds": "3893,3895,3896,3897,229204,228250,"
+        },
+        {
+          "abilityId": "200020",
+          "abilityName": "体・勇属性特化",
+          "abilityDescription": "体・勇属性へのスキル攻撃時に相手の耐性を弱点とする。体・勇属性からのダメージを50%カット",
+          "abilityEffectDescription": "体・勇属性へのスキル攻撃時に相手の耐性を弱点とする。体・勇属性からのダメージを50%カット",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "229404",
+          "effectIds": "229204,228250,229404,228450,"
+        },
+        {
+          "abilityId": "200021",
+          "abilityName": "心・知属性特化",
+          "abilityDescription": "心・知属性へのスキル攻撃時に相手の耐性を弱点とする。心・知属性からのダメージを50%カット",
+          "abilityEffectDescription": "心・知属性へのスキル攻撃時に相手の耐性を弱点とする。心・知属性からのダメージを50%カット",
+          "effectIdx1": "229004",
+          "effectIdx2": "228050",
+          "effectIdx3": "229304",
+          "effectIds": "229004,228050,229304,228350,"
         },
         {
           "abilityId": "200022",
@@ -32338,6 +32558,36 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "3997,"
+        },
+        {
+          "abilityId": "310217",
+          "abilityName": "Bマス用_通常",
+          "abilityDescription": "最大HP150%アップ",
+          "abilityEffectDescription": "最大HP150%アップ",
+          "effectIdx1": "1212",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "1212,"
+        },
+        {
+          "abilityId": "310218",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "アクション時に確率で自身の状態異常を解除",
+          "abilityEffectDescription": "アクション時に確率で自身の状態異常を解除",
+          "effectIdx1": "4012",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "4012,"
+        },
+        {
+          "abilityId": "310219",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "最大HPを100%アップし、行動後HPが20%回復する",
+          "abilityEffectDescription": "最大HPを100%アップし、行動後HPが20%回復する",
+          "effectIdx1": "684",
+          "effectIdx2": "2500",
+          "effectIdx3": "0",
+          "effectIds": "684,2500,"
         },
         {
           "abilityId": "310220",

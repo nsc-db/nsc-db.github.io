@@ -4340,6 +4340,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "61301",
+          "charaId": "613",
+          "name": "ナルト＆ミナト",
+          "detail": "忍絵巻-絆-",
+          "charaLoveAffinityGroupId": "61301",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "100101",
           "charaId": "0",
           "name": "体のガマ",
