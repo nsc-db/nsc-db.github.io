@@ -3362,8 +3362,8 @@
           "cardUnusualId": "347",
           "category": "3",
           "iconId": "1431",
-          "name": "0",
-          "description": "0",
+          "name": "青春？",
+          "description": "通常攻撃が常に会心、ダメージアップ。行動後HPを回復する",
           "subScore": "0",
           "color": "65535",
           "type": "2"
@@ -3372,8 +3372,8 @@
           "cardUnusualId": "348",
           "category": "3",
           "iconId": "1432",
-          "name": "0",
-          "description": "0",
+          "name": "回天守護？",
+          "description": "味方全体に対してのスキルを無効化。※単体攻撃と耐性無視攻撃は無効化できない",
           "subScore": "0",
           "color": "14211288",
           "type": "2"
@@ -3382,8 +3382,8 @@
           "cardUnusualId": "349",
           "category": "3",
           "iconId": "1433",
-          "name": "0",
-          "description": "0",
+          "name": "九尾・陽",
+          "description": "被攻撃時に高確率でHP0以下で何度でも耐え、 耐えたとき次の行動までランダムな味方１体を九尾・陽状態",
           "subScore": "0",
           "color": "0",
           "type": "2"
@@ -3392,8 +3392,8 @@
           "cardUnusualId": "350",
           "category": "3",
           "iconId": "1434",
-          "name": "0",
-          "description": "0",
+          "name": "九尾・陰",
+          "description": "行動時にダメージを受け、ランダムな味方１体を耐性・スキル回避を無視して九尾・陰状態にする",
           "subScore": "0",
           "color": "0",
           "type": "3"
