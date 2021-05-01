@@ -16645,6 +16645,34 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1205",
+          "name": "闘忍の覇者",
+          "description": "五大里所属の最大HP100%アップ、スキル発動速度1段階アップ",
+          "effectIdx1": "4042",
+          "effectIdx2": "2161",
+          "effectIdx3": "0",
+          "effectIds": "4042,2161,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1206",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "684",
+          "effectIdx3": "0",
+          "effectIds": "1840,684,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",
