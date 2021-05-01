@@ -27681,19 +27681,19 @@ window.ability=[
         },
         {
           "abilityId": "2822",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "両親の想いを宿す生き様",
+          "abilityDescription": "確率で先制（敵に神忍生存時確実）、耐えた時即ｱｸｼｮﾝ、行動後ﾁｬｸﾗ50%回復、HP0以下で3回全回復",
+          "abilityEffectDescription": "確率で先制（敵に神忍生存時確実）、耐えた時即ｱｸｼｮﾝ、行動後ﾁｬｸﾗ50%回復、HP0以下で3回全回復",
           "effectIdx1": "3266",
           "effectIdx2": "4006",
-          "effectIdx3": "4066",
-          "effectIds": "3266,4006,4066,2644,"
+          "effectIdx3": "3241",
+          "effectIds": "3266,4006,3241,2644,1789,874,"
         },
         {
           "abilityId": "2823",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "救界のチャクラ",
+          "abilityDescription": "高確率で即死・幻惑無効＆弱体系特殊状態解除＆無効、最大ﾁｬｸﾗ量200ｱｯﾌﾟ、行動後素早さ100%ｱｯﾌﾟ（最大500%）",
+          "abilityEffectDescription": "高確率で即死・幻惑無効＆弱体系特殊状態解除＆無効、最大ﾁｬｸﾗ量200ｱｯﾌﾟ、行動後素早さ100%ｱｯﾌﾟ（最大500%）",
           "effectIdx1": "3244",
           "effectIdx2": "4008",
           "effectIdx3": "4007",
@@ -27701,19 +27701,19 @@ window.ability=[
         },
         {
           "abilityId": "2824",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "陰の九喇嘛と息子の言葉",
+          "abilityDescription": "確率で先制（敵に破神生存時確実）被攻撃時高確率で次の行動まで素早さ10,000%ｱｯﾌﾟ、HP0以下で3回全回復",
+          "abilityEffectDescription": "確率で先制（敵に破神生存時確実）被攻撃時高確率で次の行動まで素早さ10,000%ｱｯﾌﾟ、HP0以下で3回全回復",
           "effectIdx1": "3266",
           "effectIdx2": "4009",
-          "effectIdx3": "1724",
-          "effectIds": "3266,4009,1724,4067,"
+          "effectIdx3": "3963",
+          "effectIds": "3266,4009,3963,1789,874,"
         },
         {
           "abilityId": "2825",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "飛雷神の援護",
+          "abilityDescription": "高確率で即死・幻惑・敵の地形効果無効、スキル発動速度が常に閃光、行動後確率で再行動（再行動後再行動不可）",
+          "abilityEffectDescription": "高確率で即死・幻惑・敵の地形効果無効、スキル発動速度が常に閃光、行動後確率で再行動（再行動後再行動不可）",
           "effectIdx1": "3244",
           "effectIdx2": "4008",
           "effectIdx3": "3821",
@@ -27801,9 +27801,9 @@ window.ability=[
         },
         {
           "abilityId": "2834",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "青春への憧れ",
+          "abilityDescription": "味方に「サスケ・サクラ・カカシ」が生存していると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
+          "abilityEffectDescription": "味方に「サスケ・サクラ・カカシ」が生存していると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
           "effectIdx1": "3995",
           "effectIdx2": "4017",
           "effectIdx3": "4018",
@@ -27811,9 +27811,9 @@ window.ability=[
         },
         {
           "abilityId": "2835",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "クセになる着心地",
+          "abilityDescription": "バトル開始時、チャクラ100%回復＆自身に青春？付与。被攻撃時、攻撃者に低確率で耐性無視して破付与",
+          "abilityEffectDescription": "バトル開始時、チャクラ100%回復＆自身に青春？付与。被攻撃時、攻撃者に低確率で耐性無視して破付与",
           "effectIdx1": "4021",
           "effectIdx2": "1994",
           "effectIdx3": "4019",
@@ -27821,9 +27821,9 @@ window.ability=[
         },
         {
           "abilityId": "2836",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "共通する名門の矜持",
+          "abilityDescription": "味方に「ナルト・サクラ・カカシ」が生存していると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
+          "abilityEffectDescription": "味方に「ナルト・サクラ・カカシ」が生存していると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
           "effectIdx1": "4016",
           "effectIdx2": "4017",
           "effectIdx3": "4018",
@@ -27831,9 +27831,9 @@ window.ability=[
         },
         {
           "abilityId": "2837",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "回天に見出す螺旋への対抗策",
+          "abilityDescription": "バトル開始時、チャクラ100%回復＆自身に回転守護？付与。被攻撃時、攻撃者に低確率で耐性無視して塞付与",
+          "abilityEffectDescription": "バトル開始時、チャクラ100%回復＆自身に回転守護？付与。被攻撃時、攻撃者に低確率で耐性無視して塞付与",
           "effectIdx1": "4022",
           "effectIdx2": "1994",
           "effectIdx3": "4020",
@@ -27841,9 +27841,9 @@ window.ability=[
         },
         {
           "abilityId": "2838",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "迷走する桜花",
+          "abilityDescription": "味方に「ナルト・サスケ・カカシ」が生存していると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
+          "abilityEffectDescription": "味方に「ナルト・サスケ・カカシ」が生存していると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
           "effectIdx1": "4016",
           "effectIdx2": "3995",
           "effectIdx3": "4018",
@@ -27851,9 +27851,9 @@ window.ability=[
         },
         {
           "abilityId": "2839",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "結局はゲンコツ勝負",
+          "abilityDescription": "バトル開始時、自身に堅護付与＆低確率で敵全体に耐性無視して1回行動まで魅了付与",
+          "abilityEffectDescription": "バトル開始時、自身に堅護付与＆低確率で敵全体に耐性無視して1回行動まで魅了付与",
           "effectIdx1": "4023",
           "effectIdx2": "4024",
           "effectIdx3": "0",
@@ -27861,9 +27861,9 @@ window.ability=[
         },
         {
           "abilityId": "2840",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "強制的青春任務",
+          "abilityDescription": "味方に「ナルト・サスケ・サクラ」が生存していると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
+          "abilityEffectDescription": "味方に「ナルト・サスケ・サクラ」が生存していると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
           "effectIdx1": "4016",
           "effectIdx2": "3995",
           "effectIdx3": "4017",
@@ -27871,13 +27871,53 @@ window.ability=[
         },
         {
           "abilityId": "2841",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "最も避けたい写輪眼の使い方",
+          "abilityDescription": "バトル開始時、それぞれ低確率で敵全体に「強化系特殊状態不可」付与＆耐性無視して1回行動まで麻痺付与",
+          "abilityEffectDescription": "バトル開始時、それぞれ低確率で敵全体に「強化系特殊状態不可」付与＆耐性無視して1回行動まで麻痺付与",
           "effectIdx1": "4031",
           "effectIdx2": "4032",
           "effectIdx3": "0",
           "effectIds": "4031,4032,"
+        },
+        {
+          "abilityId": "2842",
+          "abilityName": "六道仙人",
+          "abilityDescription": "最大チャクラ量250アップ、敵に破神キャラかうちは一族がいると、バトル開始時に味方全体を確率で幻惑無効",
+          "abilityEffectDescription": "最大チャクラ量250アップ、敵に破神キャラかうちは一族がいると、バトル開始時に味方全体を確率で幻惑無効",
+          "effectIdx1": "20044",
+          "effectIdx2": "4037",
+          "effectIdx3": "4038",
+          "effectIds": "20044,4037,4038,"
+        },
+        {
+          "abilityId": "2843",
+          "abilityName": "宿命を見守る魂",
+          "abilityDescription": "HP0以下で2回耐える、敵に破神キャラがいるとさらに1回耐える＆バトル開始時に確率で先制攻撃",
+          "abilityEffectDescription": "HP0以下で2回耐える、敵に破神キャラがいるとさらに1回耐える＆バトル開始時に確率で先制攻撃",
+          "effectIdx1": "3018",
+          "effectIdx2": "4040",
+          "effectIdx3": "3140",
+          "effectIds": "3018,4040,3140,"
+        },
+        {
+          "abilityId": "2844",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1789",
+          "effectIdx2": "3840",
+          "effectIdx3": "4074",
+          "effectIds": "1789,3840,4074,4075,4076,4077,"
+        },
+        {
+          "abilityId": "2845",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4044",
+          "effectIdx2": "4045",
+          "effectIdx3": "0",
+          "effectIds": "4044,4045,"
         },
         {
           "abilityId": "10000",
@@ -29930,6 +29970,26 @@ window.ability=[
           "effectIds": "1221,1638,1751,3014,"
         },
         {
+          "abilityId": "100147",
+          "abilityName": "六道仙人",
+          "abilityDescription": "最大チャクラ量250アップ、敵に破神キャラかうちは一族がいると、バトル開始時に味方全体を高確率で幻惑無効",
+          "abilityEffectDescription": "最大チャクラ量250アップ、敵に破神キャラかうちは一族がいると、バトル開始時に味方全体を高確率で幻惑無効",
+          "effectIdx1": "20044",
+          "effectIdx2": "4047",
+          "effectIdx3": "4048",
+          "effectIds": "20044,4047,4048,"
+        },
+        {
+          "abilityId": "100148",
+          "abilityName": "宿命を見守る魂",
+          "abilityDescription": "HP0以下で3回耐える、敵に破神キャラがいるとさらに2回耐える＆バトル開始時に高確率で先制攻撃",
+          "abilityEffectDescription": "HP0以下で3回耐える、敵に破神キャラがいるとさらに2回耐える＆バトル開始時に高確率で先制攻撃",
+          "effectIdx1": "3942",
+          "effectIdx2": "4049",
+          "effectIdx3": "3867",
+          "effectIds": "3942,4049,3867,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -30128,6 +30188,16 @@ window.ability=[
           "effectIdx2": "228150",
           "effectIdx3": "4002",
           "effectIds": "229104,228150,4002,4003,4004,4005,"
+        },
+        {
+          "abilityId": "200023",
+          "abilityName": "勇属性特化・疾駆",
+          "abilityDescription": "勇属性に対し、スキル攻撃時弱点化＆被ダメージ50％カット。知属性以外の味方1体につき自身の素早さ75%アップ",
+          "abilityEffectDescription": "勇属性に対し、スキル攻撃時弱点化＆被ダメージ50％カット。知属性以外の味方1体につき自身の素早さ75%アップ",
+          "effectIdx1": "229404",
+          "effectIdx2": "228450",
+          "effectIdx3": "3762",
+          "effectIds": "229404,228450,3762,3763,3764,3766,"
         },
         {
           "abilityId": "210001",
@@ -32598,6 +32668,16 @@ window.ability=[
           "effectIdx2": "1256",
           "effectIdx3": "1255",
           "effectIds": "1254,1256,1255,"
+        },
+        {
+          "abilityId": "310221",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "2回行動まで幻惑解除＆無効化",
+          "abilityEffectDescription": "2回行動まで幻惑解除＆無効化",
+          "effectIdx1": "4070",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "4070,"
         },
         {
           "abilityId": "801187",

@@ -3768,6 +3768,14 @@ window.charainfo=[
           "skillUrl": ""
         },
         {
+          "gachaCardAdditionId": "495",
+          "targetCardId": "20070502",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "104",
+          "skillUrl": ""
+        },
+        {
           "gachaCardAdditionId": "1001",
           "targetCardId": "20001600",
           "additionId": "0",
@@ -5402,6 +5410,14 @@ window.charainfo=[
         {
           "gachaCardAdditionId": "20000013",
           "targetCardId": "20061103",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "120",
+          "skillUrl": null
+        },
+        {
+          "gachaCardAdditionId": "20000014",
+          "targetCardId": "20070505",
           "additionId": "0",
           "params": "0,",
           "limitedFlg": "120",

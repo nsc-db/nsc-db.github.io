@@ -16434,7 +16434,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1282",
           "targetCrystal": "40409",
-          "description": "0",
+          "description": "最大HP150%アップ、行動後にチャクラ50%回復、被攻撃時低確率で全スキル無効",
           "charaIds": "109",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16447,7 +16447,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1283",
           "targetCrystal": "40410",
-          "description": "0",
+          "description": "スキル発動速度2段階アップ、全スキルダメージ120%アップ、被攻撃時低確率で耐性無視ダメージ0",
           "charaIds": "2103",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16458,9 +16458,22 @@ window.unique=[
           "effectIds": "1549,30011,4030"
         },
         {
+          "crystalOverwriteEffectId": "1284",
+          "targetCrystal": "40511",
+          "description": "全スキルダメージ150%アップ、スキル発動速度1段階アップ、敵に破神キャラ生存で素早さ200%アップ",
+          "charaIds": "14601",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1840",
+          "effectIdx3": "3026",
+          "effectIdx4": "0",
+          "effectIds": "794,1840,3026"
+        },
+        {
           "crystalOverwriteEffectId": "1285",
           "targetCrystal": "40411",
-          "description": "0",
+          "description": "スキル発動速度2段階アップ。攻防速・スキルダメージ70%アップ",
           "charaIds": "102,204,303,1704",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16473,7 +16486,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1286",
           "targetCrystal": "40412",
-          "description": "0",
+          "description": "低確率で全スキル無効",
           "charaIds": "102,204,303,1704",
           "cardIds": "0",
           "charaGroupIds": "0",

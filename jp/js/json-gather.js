@@ -18,7 +18,7 @@
 			image = id + ".png";
 		}
 		//Create Entries in the Table
-		if(abilityCount == 8 || (data["cardId"] > 50000000 && data["cardId"] < 60000000)){
+		if(abilityCount == 8 || (data["cardId"] > 50000000 && data["cardId"] < 70000000)){
 			var model = '<tr class="clickable" data-toggle="modal" data-target="#newModal">'
 					+'		<td class="text-center"><img id="icon-table" src="../common/assets/img/units/icons/thumb_' + image + '"height="60px" width="60px" style="background: linear-gradient(to bottom right,white,gold,white, gold) border-box;" /><div style="display:">' + data['cardId'] + '</td>'
 					+'		<td class="text-left"><a href= "view/' + data["cardId"] + '" data-toggle="modal" data-target="#newModal"><strong>' + name + " 【" + data["cardSubName"] + '】</a></td>'

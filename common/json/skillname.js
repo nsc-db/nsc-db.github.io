@@ -8285,7 +8285,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3283",
-          "name": "0"
+          "name": "行くぜ父ちゃん！！！"
         },
         {
           "cardBattleSkillNameId": "3284",
@@ -8293,11 +8293,11 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3285",
-          "name": "0"
+          "name": "螺旋閃光超輪舞孔参式"
         },
         {
           "cardBattleSkillNameId": "3286",
-          "name": "0"
+          "name": "ああ！！"
         },
         {
           "cardBattleSkillNameId": "3287",
@@ -8333,34 +8333,46 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3295",
-          "name": "0"
+          "name": "木ノ葉旋風！だってばよ！"
         },
         {
           "cardBattleSkillNameId": "3296",
-          "name": "0"
+          "name": "青春だァーってばよ！！"
         },
         {
           "cardBattleSkillNameId": "3297",
-          "name": "0"
+          "name": "模倣回天・千鳥散刃"
         },
         {
           "cardBattleSkillNameId": "3298",
-          "name": "0"
+          "name": "うちはこそ木ノ葉にて最強…"
         },
         {
           "cardBattleSkillNameId": "3299",
-          "name": "0"
+          "name": "桜花拳法・転々衝"
         },
         {
           "cardBattleSkillNameId": "3300",
-          "name": "0"
+          "name": "華麗に行くわよ！"
         },
         {
           "cardBattleSkillNameId": "3301",
-          "name": "0"
+          "name": "カカシ流・木ノ葉剛力旋風"
         },
         {
           "cardBattleSkillNameId": "3302",
+          "name": "ま、やるしかないのね…"
+        },
+        {
+          "cardBattleSkillNameId": "3303",
+          "name": "風哭雷荒陣"
+        },
+        {
+          "cardBattleSkillNameId": "3304",
+          "name": "それがお前の答えか…"
+        },
+        {
+          "cardBattleSkillNameId": "3305",
           "name": "0"
         },
         {

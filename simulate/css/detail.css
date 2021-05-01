@@ -103,7 +103,18 @@ h1{
 	text-align: right;
 }
 img{
+	position: absolute;
 	display: block;
 	margin: 0 auto;
+	top: 0px;
+    left: 0px;
+}
+
+.f1imga{
+	z-index: 10;
+}
+
+.f1imgb{
+	z-index: 20;
 }
 

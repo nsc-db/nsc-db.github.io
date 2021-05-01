@@ -2604,6 +2604,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "12002",
+          "charaId": "120",
+          "name": "0",
+          "detail": "暁",
+          "charaLoveAffinityGroupId": "12010",
+          "birthday": "505",
+          "constellation": "2",
+          "height": "16600",
+          "weight": "5080",
+          "bloodType": "4",
+          "age": "19",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "12101",
           "charaId": "121",
           "name": "サソリ",

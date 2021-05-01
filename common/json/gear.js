@@ -27703,11 +27703,11 @@ window.gear=[
           "effectIds": "649,2524,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "共鳴する螺旋丸（陽）",
+          "crystalDescription": "最大HP80%アップ、行動後にチャクラ30%回復",
           "crystalImageId": "404095",
           "recipeId": "40409",
-          "recipeName": "0"
+          "recipeName": "共鳴する螺旋丸（陽）"
         },
         {
           "crystalId": "40410",
@@ -27720,11 +27720,11 @@ window.gear=[
           "effectIds": "21000,682,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "共鳴する螺旋丸（陰）",
+          "crystalDescription": "スキル発動速度1段階アップ、全スキルダメージ50%アップ",
           "crystalImageId": "404105",
           "recipeId": "40410",
-          "recipeName": "0"
+          "recipeName": "共鳴する螺旋丸（陰）"
         },
         {
           "crystalId": "40411",
@@ -27737,11 +27737,11 @@ window.gear=[
           "effectIds": "1840,4050,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "最初の演習の思い出",
+          "crystalDescription": "スキル発動速度1段階アップ。木ノ葉隠れの里所属の場合、攻防速35%アップ",
           "crystalImageId": "404115",
           "recipeId": "40411",
-          "recipeName": "0"
+          "recipeName": "最初の演習の思い出"
         },
         {
           "crystalId": "40412",
@@ -27754,11 +27754,11 @@ window.gear=[
           "effectIds": "4068,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "異なる装束",
+          "crystalDescription": "低確率で全スキル半減",
           "crystalImageId": "404125",
           "recipeId": "40412",
-          "recipeName": "0"
+          "recipeName": "異なる装束"
         },
         {
           "crystalId": "40413",
@@ -27812,6 +27812,23 @@ window.gear=[
           "recipeName": "ﾚｲﾝﾎﾞｰﾗｰﾒﾝのくすり"
         },
         {
+          "crystalId": "40416",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "4059",
+          "effectIdx2": "4060",
+          "effectIdx3": "4061",
+          "effectIdx4": "0",
+          "effectIds": "4059,4060,4061,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "6周年ロゴ",
+          "crystalDescription": "6回行動するまで66%の確率でスキルを回避＆チャクラ消費量66%減少＆行動後にHP16%回復",
+          "crystalImageId": "404165",
+          "recipeId": "40416",
+          "recipeName": "6周年ロゴ"
+        },
+        {
           "crystalId": "40501",
           "crystalType": "3",
           "crystalRare": "5",
@@ -27844,5 +27861,22 @@ window.gear=[
           "crystalImageId": "405025",
           "recipeId": "40502",
           "recipeName": "0"
+        },
+        {
+          "crystalId": "40511",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "694",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "694,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "忍宗の開祖",
+          "crystalDescription": "全スキルダメージ80%アップ",
+          "crystalImageId": "405115",
+          "recipeId": "40511",
+          "recipeName": "忍宗の開祖"
         }
 ]
