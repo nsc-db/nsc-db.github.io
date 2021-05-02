@@ -4069,6 +4069,66 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 },
+{
+          "id": 404075,
+          "type": "Stats",
+          "name": "Gamaken's Sasumata",
+          "effect": "HP and SPD +150%, Low Chance for Instant Action",
+          "normal": "HP and SPD +50%",
+          "charaIds": "2401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 404085,
+          "type": "Skill",
+          "name": "Gamahiro's Sword",
+          "effect": "Skill Damage +120%, HP Recovery +30%, Cast Speed +1",
+          "normal": "Skill Damage +60%",
+          "charaIds": "2401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 404095,
+          "type": "Additional",
+          "name": "Resonating Rasengan (Yang)",
+          "effect": "HP +150%, Chakra Recovery +50%, When Attacked: Low Chance for Skill Immunity",
+          "normal": "HP +80%, Chakra Recovery +30%",
+          "charaIds": "109",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 404105,
+          "type": "Skill",
+          "name": "Resonating Rasengan (Yin)",
+          "effect": "Skill Damage +120%, Cast Speed +2, When Attacked: Low Chance for Fixed Damage Immunity",
+          "normal": "Skill Damage +50%, Cast Speed +1",
+          "charaIds": "2103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 404115,
+          "type": "Skill",
+          "name": "Memories of the First Practice",
+          "effect": "Cast Speed +2. ATK, DEF, SPD and Skill Damage +120%",
+          "normal": "Cast Speed +1. If Konoha: ATK, DEF and SPD +35%",
+          "charaIds": "102,204,303,1704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+	 {
+          "id": 404125,
+          "type": "Resistance",
+          "name": "Different Outfit",
+          "effect": "Low Chance for Skill Immunity",
+          "normal": "Low Chance for Incoming Skill Damage -50%",
+          "charaIds": "102,204,303,1704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 	 {
           "id": 404135,
           "type": "Stats",
@@ -4096,6 +4156,16 @@ window.enggear=[
           "effect": "88.8% Chance to Dodge Skills, HP +210,401, DEF and SPD +88.8%, Cast Speed +1",
           "normal": "40.1% Chance to Dodge Skills, SPD, HP and DEF +40.1%, 4 Turns: Cast Speed +1",
           "charaIds": "101,102,103,104,105,106,107,108,109,110,111,112,113,114,116,201,202,203,204,206,207,208,209,210,212,213,214,215,216",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 404125,
+          "type": "Skill",
+          "name": "Founder of Nishu",
+          "effect": "Skill Damage +150%, Cast Speed +1, If there's a GK enemy: SPD +200%",
+          "normal": "Skill Damage +80%",
+          "charaIds": "14601",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
