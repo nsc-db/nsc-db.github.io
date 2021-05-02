@@ -4160,7 +4160,7 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
-          "id": 404125,
+          "id": 405115,
           "type": "Skill",
           "name": "Founder of Nishu",
           "effect": "Skill Damage +150%, Cast Speed +1, If there's a GK enemy: SPD +200%",
