@@ -168,7 +168,7 @@ window.detail=[
           "a3": "None"
       },
 {
-          "id": 20070408,
+          "id": 20070407,
           "name": "Kakashi Hatake",
           "subtext": "Youth Great Eye Desire",
 
@@ -196,7 +196,7 @@ window.detail=[
           "a3": "Type Advantage and Damage Cut +50% against Black."
       },
 {
-          "id": 20070407,
+          "id": 20070408,
           "name": "Sakura Haruno",
           "subtext": "Cherry Blossom's Splendid Desire",
 
