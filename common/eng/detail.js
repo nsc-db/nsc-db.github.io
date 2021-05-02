@@ -1,5 +1,33 @@
 window.detail=[
 {
+          "id": 20040802,
+          "name": "Naruto Uzumaki",
+          "subtext": "Severing Lightning in Rough Winds",
+
+          "lead": "Five Village Characters: ATK +150% and Skill Damage +100%",
+
+          "s1n": "Majestic Attire: Susano'o",
+          "s1": "Deal 3% + 761,000 to all enemies. While under 'Hope' God State: Deal 2x damage and Guarantee Skip. If there's a Sasuke ally: Deal 3x damage. (Always Hit)",
+		  "s1ntr": "Tailed Beast",
+          "s1cs": "Fastest",
+          "s1c": 180,
+
+          "s2n": "Because It's My Nindo",
+          "s2": "Party Skill Damage +200% and Recover 500,000 HP. Grant 'Hope' God State and 'Flash Mode' to Five Village allies. [Hope: ATK, DEF and SPD +200%, Remove and Immune to Debuff and Status Effect. HP and Chakra Recovery +40%] [Flash Mode: SPD +150%, Set Cast Speed to Flash]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 150,
+
+          "a1n": "Shinobi Allied Forces' Hope",
+          "a1": "Chakra +100, Revive +5, Chance to Grant 'Instant Action' upon Reviving",
+
+          "a2n": "United Bonds",
+          "a2": "Chance to Insta Cast Skill 2, HP +120%, Status Effects and Cancel Immunity",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow."
+      },
+{
           "id": 60070402,
           "name": "Minato Namikaze",
           "subtext": "Entrusted Shining Bond",
@@ -47,7 +75,7 @@ window.detail=[
           "s2c": 90,
 
           "a1n": "Parent's Feelings on My Way of Life",
-          "a1": "Chance for First Strike (If there's a God enemy: Guaranteed), Grant Instant Action upon Revive, Chakra Recovery +50%, Revive +3",
+          "a1": "Chance for First Strike (If there's a God enemy: Guaranteed), Grant Instant Action upon Reviving, Chakra Recovery +50%, Revive +3",
 
           "a2n": "Chakra Salvation",
           "a2": "High Chance for Insta Kill, Illusion and Negative Special State Immunity, Chakra +200, SPD +100% every turn (Max 500%)",
