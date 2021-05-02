@@ -168,7 +168,7 @@ window.detail=[
           "a3": "None"
       },
 {
-          "id": 20070407,
+          "id": 20070409,
           "name": "Kakashi Hatake",
           "subtext": "Youth Great Eye Desire",
 
