@@ -27811,6 +27811,23 @@
           "recipeName": "ﾚｲﾝﾎﾞｰﾗｰﾒﾝのくすり"
         },
         {
+          "crystalId": "40416",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "4059",
+          "effectIdx2": "4060",
+          "effectIdx3": "4061",
+          "effectIdx4": "0",
+          "effectIds": "4059,4060,4061,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "6周年ロゴ",
+          "crystalDescription": "6回行動するまで66%の確率でスキルを回避＆チャクラ消費量66%減少＆行動後にHP16%回復",
+          "crystalImageId": "404165",
+          "recipeId": "40416",
+          "recipeName": "6周年ロゴ"
+        },
+        {
           "crystalId": "40501",
           "crystalType": "3",
           "crystalRare": "5",
@@ -27843,5 +27860,22 @@
           "crystalImageId": "405025",
           "recipeId": "40502",
           "recipeName": "0"
+        },
+        {
+          "crystalId": "40511",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "694",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "694,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "忍宗の開祖",
+          "crystalDescription": "全スキルダメージ80%アップ",
+          "crystalImageId": "405115",
+          "recipeId": "40511",
+          "recipeName": "忍宗の開祖"
         }
       ]

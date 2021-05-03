@@ -16457,6 +16457,19 @@
           "effectIds": "1549,30011,4030,"
         },
         {
+          "crystalOverwriteEffectId": "1284",
+          "targetCrystal": "40511",
+          "description": "全スキルダメージ150%アップ、スキル発動速度1段階アップ、敵に破神キャラ生存で素早さ200%アップ",
+          "charaIds": "14601,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "794",
+          "effectIdx2": "1840",
+          "effectIdx3": "3026",
+          "effectIdx4": "0",
+          "effectIds": "794,1840,3026,"
+        },
+        {
           "crystalOverwriteEffectId": "1285",
           "targetCrystal": "40411",
           "description": "スキル発動速度2段階アップ。攻防速・スキルダメージ70%アップ",

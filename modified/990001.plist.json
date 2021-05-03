@@ -215,11 +215,29 @@
           "resetTime": "0"
         },
         {
+          "loginBonusId": "536",
+          "name": "ガマブン太の月間ログインボーナス-6周年特別篇-",
+          "type": "2",
+          "openTime": "2021.05.01 00:00:00",
+          "closeTime": "2021.05.31 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
           "loginBonusId": "550",
           "name": "春の新生活『覚醒』応援ログインボーナス",
           "type": "2",
           "openTime": "2021.04.09 00:00:00",
           "closeTime": "2021.04.16 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "551",
+          "name": "祝！ナルコレ６周年記念ログインボーナス",
+          "type": "2",
+          "openTime": "2021.05.01 00:00:00",
+          "closeTime": "2021.05.10 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },

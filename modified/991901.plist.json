@@ -1910,6 +1910,32 @@
           "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
+          "sphereBoardId": "50069",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_伝説",
+          "boardDescription": "うちはサスケ【烈しき風に鳴る雷】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20040803",
+          "normalPanelList": "9100001,9100002,9100003",
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
+          "sphereBoardId": "50070",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_4枚あり",
+          "boardDescription": "デイダラ【飛び爆ぜる芸術の昇華】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070502",
+          "normalPanelList": "9100019,9100020,9100021,9100033",
+          "specialPanelList": "9100022,9100023,9100024,9100034",
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
@@ -1973,6 +1999,19 @@
           "normalPanelList": "9300025,9300026,9300027",
           "specialPanelList": "9300028,9300029,9300030",
           "legendPanelList": ""
+        },
+        {
+          "sphereBoardId": "70003",
+          "boardName": "Temp_Ct100_技属性_の潜在覚醒盤",
+          "boardDescription": "大筒木ハゴロモ【闘忍の覇者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070505",
+          "normalPanelList": "9300007,9300008,9300009",
+          "specialPanelList": "9300010,9300011,9300012",
+          "legendPanelList": "0"
         },
         {
           "sphereBoardId": "80001",
