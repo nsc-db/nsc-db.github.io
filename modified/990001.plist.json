@@ -44,15 +44,6 @@
           "resetTime": null
         },
         {
-          "loginBonusId": "499",
-          "name": "二大新イベント記念ログインボーナス",
-          "type": "2",
-          "openTime": "2021.03.27 00:00:00",
-          "closeTime": "2021.04.19 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "500",
           "name": "ガマブン太の月間ログインボーナス",
           "type": "2",
@@ -103,15 +94,6 @@
           "type": "2",
           "openTime": "2021.04.02 00:00:00",
           "closeTime": "2021.04.30 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "524",
-          "name": "6周年前夜祭ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.22 00:00:00",
-          "closeTime": "2021.04.22 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },
@@ -179,15 +161,6 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "532",
-          "name": "春の新生活応援プレゼント",
-          "type": "2",
-          "openTime": "2021.04.16 16:00:00",
-          "closeTime": "2021.04.19 23:59:59",
-          "isMidnightReset": "0",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "533",
           "name": "6周年前夜祭ログインボーナス",
           "type": "2",
@@ -220,15 +193,6 @@
           "type": "2",
           "openTime": "2021.05.01 00:00:00",
           "closeTime": "2021.05.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "550",
-          "name": "春の新生活『覚醒』応援ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.09 00:00:00",
-          "closeTime": "2021.04.16 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },

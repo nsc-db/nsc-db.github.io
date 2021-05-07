@@ -3402,8 +3402,8 @@
           "cardUnusualId": "351",
           "category": "6",
           "iconId": "1435",
-          "name": "0",
-          "description": "0",
+          "name": "九尾・共",
+          "description": "弱体系特殊・神化解除＆無効。 被攻撃時高確率で何度でも耐え、高確率でスキル攻撃時追撃。解除時獣化不可",
           "subScore": "0",
           "color": "0",
           "type": "2"
@@ -3412,10 +3412,30 @@
           "cardUnusualId": "352",
           "category": "4",
           "iconId": "1436",
+          "name": "芸術爆発",
+          "description": "攻撃者の行動ｽｷｯﾌﾟ、特定所属・状態の敵から受けるﾀﾞﾒｰｼﾞｶｯﾄ、3回行動後に敵のﾗﾝﾀﾞﾑ1体を確率で即死",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "353",
+          "category": "5",
+          "iconId": "1437",
           "name": "0",
           "description": "0",
           "subScore": "0",
-          "color": "14614842",
+          "color": "49151",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "354",
+          "category": "5",
+          "iconId": "1438",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "49151",
           "type": "2"
         }
       ]

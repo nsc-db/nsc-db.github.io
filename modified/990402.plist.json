@@ -3767,12 +3767,20 @@
           "skillUrl": ""
         },
         {
+          "gachaCardAdditionId": "493",
+          "targetCardId": "20070503",
+          "additionId": "0",
+          "params": "0,",
+          "limitedFlg": "1",
+          "skillUrl": ""
+        },
+        {
           "gachaCardAdditionId": "495",
           "targetCardId": "20070502",
           "additionId": "0",
           "params": "0,",
           "limitedFlg": "104",
-          "skillUrl": ""
+          "skillUrl": "https://www.youtube.com/embed/vyBs3fuDTQ4?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
         },
         {
           "gachaCardAdditionId": "1001",
