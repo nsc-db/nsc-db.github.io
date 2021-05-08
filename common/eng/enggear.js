@@ -900,6 +900,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 7625,
+          "type": "Additional",
+          "name": "Fragment of Stone Statue (Right)",
+          "effect": "Chakra +50, ATK +100%, SPD +50%",
+          "normal": "Chakra +10",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7945,
+          "type": "Skill",
+          "name": "Gamakichi's Haori",
+          "effect": "Wind and Summoning Skill Damage +100%, When Attacked: HP Recovery +10%",
+          "normal": "Wind and Summoning Skill Damage +40%",
+          "charaIds": "101,102,103,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 7995,
           "type": "Stats",
           "name": "Shino's Hood",
@@ -920,6 +940,46 @@ window.enggear=[
           "charaGroupIds": "0"
 	},
 {
+          "id": 8035,
+          "type": "Chakra",
+          "name": "Crushed Necklace",
+          "effect": "Chakra Cost -50%, ATK and Skill Damage +50%",
+          "normal": "Chakra Cost -10%",
+          "charaIds": "0",
+          "cardIds": "20040109",
+          "charaGroupIds": "0"
+	},
+{
+          "id": 8045,
+          "type": "Additional",
+          "name": "Embodied Bones",
+          "effect": "HP, ATK and Tailed Beast Skill Damage +100%",
+          "normal": "HP and ATK +20%",
+          "charaIds": "0",
+          "cardIds": "20040109",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8175,
+          "type": "Additional",
+          "name": "Tales of a Gutsy Ninja",
+          "effect": "ATK +100%, HP and Skill Damage +50%",
+          "normal": "HP and ATK +20%, Sage Skill Damage +30%",
+          "charaIds": "103,104,105,106,107,109,110,111,2401,2101,2103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8285,
+          "type": "Chakra",
+          "name": "Nine Tails Chakra (Yin Yang)",
+          "effect": "9 Turns: Skill Damage +80%, 3 Turns: Set Chakra Cost to 0",
+          "normal": "3 Turns: Chakra Cost -20%",
+          "charaIds": "2103,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 8305,
           "type": "Stats",
           "name": "Kushina's Bracelet",
@@ -929,6 +989,36 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 	},	 
+{
+          "id": 8405,
+          "type": "Additional",
+          "name": "Shima's Homemade Bento",
+          "effect": "Skill Damage +70%, 5 Turns: Skill Immunity",
+          "normal": "2 Turns: Skill Immunity",
+          "charaIds": "106,2401",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "0"
+},	
+{
+          "id": 8415,
+          "type": "Chakra",
+          "name": "Natural Energy",
+          "effect": "Chakra Cost -50%, Chakra +50, SPD and Skill Damage +50%",
+          "normal": "Chakra Cost -10%",
+          "charaIds": "1901,1902,2401,10403",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "100301"
+},	
+{
+          "id": 8425,
+          "type": "Skill",
+          "name": "Natural Energy",
+          "effect": "Skill Damage and SPD +70%, Lava Skill Damage +100%",
+          "normal": "Skill Damage +30%",
+          "charaIds": "104,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 8845,
           "type": "Chakra",
@@ -960,6 +1050,36 @@ window.enggear=[
           "charaGroupIds": "0"
 	},
 {
+          "id": 106015,
+          "type": "Skill",
+          "name": "Nine Tails Chakra Hands",
+          "effect": "HP and Skill Damage +100%, Chakra +50",
+          "normal": "Wind Skill Damage +80%",
+          "charaIds": "104,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 106025,
+          "type": "Additional",
+          "name": "Friend-Saving Sunlight",
+          "effect": "HP Recovery +20%, HP >80%: Cast Speed +2",
+          "normal": "HP Recovery +20%",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 106195,
+          "type": "Skill",
+          "name": "EX Memorial Certificate",
+          "effect": "Skill Damage +100%, HP and Chakra Recovery +20%",
+          "normal": "Skill Damage +20%",
+          "charaIds": "0",
+          "cardIds": "20001818,20001704,20030601,20001776,20030602",
+          "charaGroupIds": "0"
+},
+{
           "id": 106305,
           "type": "Medal",
           "name": "Konoha Medal",
@@ -970,6 +1090,86 @@ window.enggear=[
           "charaGroupIds": "0"
 	},
 {
+          "id": 107025,
+          "type": "Chakra",
+          "name": "Naruto's Sage Chakra",
+          "effect": "2 Turns: Set Chakra Cost to 0, After 2 Turns: Chakra Cost -50%",
+          "normal": "2 Turns: Chakra Cost -20%",
+          "charaIds": "2103,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
+{
+          "id": 107095,
+          "type": "Stats",
+          "name": "Naruto's Forehead Protector (Nine Tails)",
+          "effect": "ATK, DEF and SPD +90%",
+          "normal": "ATK +50%",
+          "charaIds": "107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 107105,
+          "type": "Resistance",
+          "name": "Father and Mother's Love",
+          "effect": "Debuff Immunity, HP and Skill Damage +70%",
+          "normal": "Debuff Duration -50%",
+          "charaIds": "107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108025,
+          "type": "Food",
+          "name": "Oshiruko",
+          "effect": "HP Recovery +20%, ATK +70%, Skill Damage +50%",
+          "normal": "HP Recovery +10%",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108055,
+          "type": "Skill",
+          "name": "Majestic Attire: Susanoo Sword",
+          "effect": "Skill Damage +120%, Cast Speed +1",
+          "normal": "Skill Damage +20%",
+          "charaIds": "108,112,209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108065,
+          "type": "Resistance",
+          "name": "Majestic Attire: Susanoo",
+          "effect": "Incoming Skill Damage -50%, Chakra Cost -20%, SPD +50%",
+          "normal": "Incoming Skill Damage Reduction",
+          "charaIds": "108,112,209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108075,
+          "type": "Skill",
+          "name": "Large Fan",
+          "effect": "Skill Damage and ATK +100%, Unique Skill Damage +50%",
+          "normal": "Unique Skill Damage +30%",
+          "charaIds": "102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108085,
+          "type": "Resistance",
+          "name": "Naruto's Happi",
+          "effect": "Status Effect Duration -50%, ATK and SPD +40%",
+          "normal": "Status Effect Duration Reduction",
+          "charaIds": "102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 108305,
           "type": "Stats",
           "name": "War God's Instruction",
@@ -978,6 +1178,26 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "700002"
+	},
+{
+          "id": 109195,
+          "type": "Stats",
+          "name": "Parent-Child Bond",
+          "effect": "HP +94,700, ATK +3,710, DEF +7,610",
+          "normal": "HP +9,470, ATK +3,710, DEF +7,610",
+          "charaIds": "2101,2102,2103,4301,4302,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 110015,
+          "type": "Chakra",
+          "name": "Nine Tails' Chakra (Yin)",
+          "effect": "Chakra Recovery +10%, HP +150%, Skill Damage +50%",
+          "normal": "Chakra Recovery +5%",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
 	},
 {
           "id": 110025,
@@ -990,15 +1210,25 @@ window.enggear=[
           "charaGroupIds": "0"
 	},
 {
-          "id": 110015,
-          "type": "Chakra",
-          "name": "Nine Tails' Chakra (Yin)",
-          "effect": "Chakra Recovery +10%, HP +150%, Skill Damage +50%",
-          "normal": "Chakra Recovery +5%",
-          "charaIds": "2104",
+          "id": 110075,
+          "type": "Food",
+          "name": "Naruto Rice Ball",
+          "effect": "6 Turns: ATK +90%, HP and Chakra Recovery +30%",
+          "normal": "3 Turns: HP and Chakra Recovery +15%",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
+{
+          "id": 110085,
+          "type": "Skill",
+          "name": "Miraculous Ultra-Big Ball Rasengan",
+          "effect": "Skill Damage, HP and ATK +150%",
+          "normal": "Skill Damage +40%",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 201305,
           "type": "Chakra",
