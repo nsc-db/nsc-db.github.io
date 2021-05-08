@@ -1230,6 +1230,56 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 201035,
+          "type": "Stats",
+          "name": "Naruto's Haori 2019",
+          "effect": "HP +120%, SPD +80%, Skill Damage +50%",
+          "normal": "HP +31%",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201065,
+          "type": "Chakra",
+          "name": "Kurama's Shadow Clone Chakra",
+          "effect": "1 Turn: Set Chakra Cost to 0, HP and Chakra Recovery +30%, Debuff Immunity",
+          "normal": "1 Turn: Chakra Cost -20%, HP and Chakra Recovery +10%, Debuff Duration -50%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201075,
+          "type": "Additional",
+          "name": "Will to Rescue a Friend",
+          "effect": "SPD +70% every turn (Max 210%), Cast Speed +1, Cancel Immunity",
+          "normal": "SPD +20% every turn (Max 60%)",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201115,
+          "type": "Chakra",
+          "name": "Master and Student Toad",
+          "effect": "If there's a Jiraiya ally: Chakra Cost -70% and SPD +60%, If there's a Naruto ally: SPD and Skill Damage +60%",
+          "normal": "If there's a Jiraiya or Naruto ally: SPD +20%",
+          "charaIds": "101,102,104,105,106,107,109,110,111,2401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201175,
+          "type": "Medal",
+          "name": "Narukore Grand Prize Certificate (2)",
+          "effect": "Skill Damage, HP and ATK +150%",
+          "normal": "HP +100%",
+          "charaIds": "0",
+          "cardIds": "20041006",
+          "charaGroupIds": "0"
+},
+{
           "id": 201305,
           "type": "Chakra",
           "name": "A Puppet Ninja Who Manipulates The Real Thing",
@@ -1384,7 +1434,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Team 8's Bond",
           "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 8 Turns: Chance for Skill Immunity",
-          "normal": "Incoming Skill Damage, Debuff and Status Effect Reduction",
+          "normal": "Incoming Skill Damage, Debuff and Status Effect Duration Reduction",
           "charaIds": "701,702,703,704,801,802,901,902",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -1394,8 +1444,48 @@ window.enggear=[
           "type": "Resistance",
           "name": "Asuma's Gift",
           "effect": "10 Turns: Debuff and Status Effect Immunity, Cast Speed +1, Low Chance for Skill Immunity",
-          "normal": "Incoming Skill Damage, Debuff and Status Effect Duration -50%",
+          "normal": "Incoming Skill Damage, Debuff and Status Effect Duration Reduction",
           "charaIds": "401,402,403,501,502,503,601,602,603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 204195,
+          "type": "Additional",
+          "name": "Naruto's Jacket",
+          "effect": "SPD and Skill Damage +69%, 3 Turns: Chakra Cost -69%",
+          "normal": "SPD and Skill Damage +30%",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 205015,
+          "type": "Resistance",
+          "name": "Feelings Parents",
+          "effect": "2 Turns: Skill Immunity, HP Recovery +50%, SPD +30%",
+          "normal": "2 Turns: Incoming Skill Damage -50%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 205025,
+          "type": "Additional",
+          "name": "Naruto's Nine Tails Netsuke",
+          "effect": "2 Turns: SPD +90%, Cast Speed +1",
+          "normal": "SPD +40%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 207235,
+          "type": "Chakra",
+          "name": "Uzumaki Clan Crest",
+          "effect": "1 Turn: Set Chakra Cost to 0, Chakra Recovery +30%, Chance to Dodge Skills",
+          "normal": "Chakra Recovery +10%, Low Chance to Dodge Skills",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1420,6 +1510,26 @@ window.enggear=[
           "charaGroupIds": "0"
      },	 
 {
+          "id": 208155,
+          "type": "Chakra",
+          "name": "Naruto's Forehead Protector (Nine Tails)",
+          "effect": "Chakra Cost -50%, Tailed Beast Skill Damage +100%",
+          "normal": "Chakra Cost -25%",
+          "charaIds": "107",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 208165,
+          "type": "Stats",
+          "name": "Kurama's Haori",
+          "effect": "Chakra +50, ATK, DEF and SPD +70%, Cast Speed +1",
+          "normal": "Chakra +20, ATK, DEF and SPD +20%",
+          "charaIds": "107",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 208215,
           "type": "Additional",
           "name": "Kurotsuchi's Forehead Protector",
@@ -1439,6 +1549,26 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 	},
+{
+          "id": 208235,
+          "type": "Skill",
+          "name": "Naruto's Truth Seeking Orb (God)",
+          "effect": "ATK and Skill Damage +150%, Chakra Cost -50%",
+          "normal": "ATK and Skill Damage +50%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 208245,
+          "type": "Stats",
+          "name": "Naruto's Six Paths Haori",
+          "effect": "HP +150%, SPD +70%, High Chance to Dodge Skills",
+          "normal": "HP +100%, SPD +30%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 208305,
           "type": "Skill",
@@ -1468,7 +1598,47 @@ window.enggear=[
           "charaIds": "601,602,603",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
+{
+          "id": 210055,
+          "type": "Stats",
+          "name": "Seal Lock",
+          "effect": "HP +120%, ATK, DEF and SPD +80%",
+          "normal": "HP, ATK, DEF and SPD +20%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 210065,
+          "type": "Chakra",
+          "name": "Unleashed Chakra",
+          "effect": "1 Turn: Set Chakra Cost to 0, 2 Turns: Cast Speed +1, 3 Turns: Cancel Immunity",
+          "normal": "1 Turn: Chakra Cost -20%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 212155,
+          "type": "Chakra",
+          "name": "Hashirama Cell Prosthetic Arm",
+          "effect": "Chakra +100, 2 Turns: Set Chakra Cost to 0, 3 Turns: Chakra Cost -50%",
+          "normal": "Chakra +30, 2 Turns: Chakra Cost -20%",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 212185,
+          "type": "Additional",
+          "name": "Naruto's Haori 2020",
+          "effect": "1 Turn: Set Chakra Cost to 0, 2 Turns: Cast Speed +1, 3 Turns: Skill Damage +100%",
+          "normal": "1 Turn: Set Chakra Cost to 0",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 212305,
           "type": "Resistance",
@@ -2433,7 +2603,7 @@ window.enggear=[
           "id": 307035,
           "type": "Resistance",
           "name": "Mount Myoboku's Vegetation",
-          "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 2 Turns: Fixed Damage Deals 0 Damage",
+          "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 2 Turns: Fixed Damage Immunity",
           "normal": "Debuffs and Status Effect Duration -50%",
           "charaIds": "106",
           "cardIds": "0",
@@ -2564,7 +2734,7 @@ window.enggear=[
           "type": "Stats",
           "name": "Yellow Wind",
           "effect": "HP and SPD +100%, Chakra Recovery +50%, Start the Battle with 100% Chakra",
-          "normal": "HP and SPD +40%.",
+          "normal": "HP and SPD +40%",
           "charaIds": "104",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -2584,7 +2754,7 @@ window.enggear=[
           "type": "Food 2",
           "name": "NSC 7 Star Election 2020 (Yellow)",
           "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 3 Turns: Cast Speed +1",
-          "normal": "Yellow Characters: Start the Battle with 50% Chakra and Rinne Sharingan, Sharingan and Illusion Skill Damage +80%",
+          "normal": "Yellow Characters: Start the Battle with 50% Chakra and Rinne Sharingan, Sharingan and Genjutsu Skill Damage +80%",
           "charaIds": "0",
           "cardIds": "20041110,20050514,20051006",
           "charaGroupIds": "0"
@@ -2604,7 +2774,7 @@ window.enggear=[
           "type": "Food 2",
           "name": "NSC 7 Star Election 2020 (Red)",
           "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 1 Turn: Chance for Fixed Damage deals 0 Damage",
-          "normal": "Red Characters: Start the Battle with 50% Chakra and Sage, Sharingan and Illusion Skill Damage +80%",
+          "normal": "Red Characters: Start the Battle with 50% Chakra and Sage, Sharingan and Genjutsu Skill Damage +80%",
           "charaIds": "0",
           "cardIds": "20050605,20030924,20040115",
           "charaGroupIds": "0"
@@ -3063,7 +3233,7 @@ window.enggear=[
           "id": 310055,
           "type": "Skill",
           "name": "Massive Tailed Beast Rasenshuriken",
-          "effect": "Cast Speed +1 (Additional +1 when HP >80%), Skill Damage +50%, Chakra Recovery +30%",
+          "effect": "Cast Speed +1, HP >80%: Cast Speed +1 (Max 2), Skill Damage +50%, Chakra Recovery +30%",
           "normal": "Cast Speed +1, Chakra Recovery +10%",
           "charaIds": "108",
           "cardIds": "0",
@@ -4344,7 +4514,7 @@ window.enggear=[
           "type": "Skill",
           "name": "Memories of the First Practice",
           "effect": "Cast Speed +2. ATK, DEF, SPD and Skill Damage +120%",
-          "normal": "Cast Speed +1. If Konoha: ATK, DEF and SPD +35%",
+          "normal": "Cast Speed +1. Konoha Characters: ATK, DEF and SPD +35%",
           "charaIds": "102,204,303,1704",
           "cardIds": "0",
           "charaGroupIds": "0"
