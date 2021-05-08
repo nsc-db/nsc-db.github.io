@@ -4160,6 +4160,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 405015,
+          "type": "Additional",
+          "name": "Deidara's Maxim",
+          "effect": "Start the Battle with 50% Chakra, Cast Speed +2, 5 Turns: High Chance to Dodge Skills",
+          "normal": "Cast Speed +1, 3 Turns: Chance to Dodge Skills",
+          "charaIds": "12002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 405025,
+          "type": "Skill",
+          "name": "18th Genjutsu Art: C2 Dragon",
+          "effect": "Skill Damage +120%, Debuff and Status Effect Immunity, HP Recovery +30%",
+          "normal": "Skill Damage +60%, Debuff and Status Effect Duration -50%",
+          "charaIds": "12002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 405115,
           "type": "Skill",
           "name": "Founder of Nishu",
