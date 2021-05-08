@@ -27839,11 +27839,11 @@ window.gear=[
           "effectIds": "1840,2293,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "デイダラの金言",
+          "crystalDescription": "スキル発動速度1段階アップ、3回行動まで確率でスキル回避",
           "crystalImageId": "405015",
           "recipeId": "40501",
-          "recipeName": "0"
+          "recipeName": "デイダラの金言"
         },
         {
           "crystalId": "40502",
@@ -27856,11 +27856,11 @@ window.gear=[
           "effectIds": "678,776,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "十八番芸術・C2ドラゴン",
+          "crystalDescription": "全スキルダメージ60%アップ、弱体・状態異常を半減",
           "crystalImageId": "405025",
           "recipeId": "40502",
-          "recipeName": "0"
+          "recipeName": "十八番芸術・C2ドラゴン"
         },
         {
           "crystalId": "40511",

@@ -16660,8 +16660,8 @@
         },
         {
           "cardLeaderSkillId": "1206",
-          "name": "0",
-          "description": "0",
+          "name": "飛び爆ぜる芸術の昇華",
+          "description": "“暁”所属のスキル発動速度1段階アップ、最大HP100%アップ",
           "effectIdx1": "1840",
           "effectIdx2": "684",
           "effectIdx3": "0",
@@ -16669,6 +16669,20 @@
           "compType": "1",
           "target1Category": "2",
           "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1207",
+          "name": "0",
+          "description": "0",
+          "effectIdx1": "1840",
+          "effectIdx2": "13099",
+          "effectIdx3": "12099",
+          "effectIds": "1840,13099,12099,11099,1794,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
           "target2Category": "0",
           "target2Param": "0"
         },

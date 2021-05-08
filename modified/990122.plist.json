@@ -4355,6 +4355,18 @@
           "voiceDeath": "deidara_death_02_03"
         },
         {
+          "cardVoiceId": "367",
+          "cardId": "20070503",
+          "dirName": "kakasi",
+          "evolutionStep": "",
+          "voiceAppear": "kakasi_battle_02_05",
+          "voiceSkill1": "guy_attack_02_02,kakasi_battle_02_05,kakasi_skill_02_24,guy_skill_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "kakasi_win_02_03",
+          "voiceDeath": "kakasi_death_02_07"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

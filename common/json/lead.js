@@ -16661,8 +16661,8 @@ window.lead=[
         },
         {
           "cardLeaderSkillId": "1206",
-          "name": "0",
-          "description": "0",
+          "name": "飛び爆ぜる芸術の昇華",
+          "description": "“暁”所属のスキル発動速度1段階アップ、最大HP100%アップ",
           "effectIdx1": "1840",
           "effectIdx2": "684",
           "effectIdx3": "0",

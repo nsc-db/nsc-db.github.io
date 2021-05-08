@@ -1447,5 +1447,35 @@
           "uiIdx": "20009",
           "partyEffects": "3974,3975,3976,3977,3952,3829,3978,3979,3980,3981,",
           "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20010",
+          "name": "忍方陣：迅雷猛獣・壱",
+          "category": "5",
+          "scriptId": "20010",
+          "overWrite": "1",
+          "uiIdx": "20010",
+          "partyEffects": null,
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20011",
+          "name": "忍方陣：迅雷猛獣・弐",
+          "category": "5",
+          "scriptId": "20011",
+          "overWrite": "1",
+          "uiIdx": "20011",
+          "partyEffects": "3952,3620,3728,3729,",
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20012",
+          "name": "忍方陣：迅雷猛獣・参",
+          "category": "5",
+          "scriptId": "20012",
+          "overWrite": "1",
+          "uiIdx": "20012",
+          "partyEffects": "3952,3620,3728,3729,4072,3829,",
+          "enemyEffects": "3796,3797,"
         }
       ]

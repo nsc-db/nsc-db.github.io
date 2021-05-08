@@ -27696,7 +27696,7 @@
           "effectIdx1": "3244",
           "effectIdx2": "4008",
           "effectIdx3": "4007",
-          "effectIds": "3244,4008,4007,20019,3028,"
+          "effectIds": "3244,4008,4007,20019,3028,4080,"
         },
         {
           "abilityId": "2824",
@@ -27716,7 +27716,7 @@
           "effectIdx1": "3244",
           "effectIdx2": "4008",
           "effectIdx3": "3821",
-          "effectIds": "3244,4008,3821,3467,439,"
+          "effectIds": "3244,4008,3821,3467,439,4080,"
         },
         {
           "abilityId": "2826",
@@ -27900,9 +27900,9 @@
         },
         {
           "abilityId": "2844",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "反骨の芸術観",
+          "abilityDescription": "HP0以下で3回耐え、敵に五大隠れ里所属がいると「スーパーフラットだ、うん！」で急襲攻撃",
+          "abilityEffectDescription": "HP0以下で3回耐え、敵に五大隠れ里所属がいると「スーパーフラットだ、うん！」で急襲攻撃",
           "effectIdx1": "1789",
           "effectIdx2": "3840",
           "effectIdx3": "4074",
@@ -27910,13 +27910,53 @@
         },
         {
           "abilityId": "2845",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "こだわりの粘土造形",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時に敵に五大里存在で敵全体に確率で瞬間起爆(耐性無視)、死亡時に敵の五大隠れ里所属を確率で即死",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時に敵に五大里存在で敵全体に確率で瞬間起爆(耐性無視)、死亡時に敵の五大隠れ里所属を確率で即死",
           "effectIdx1": "4044",
           "effectIdx2": "4045",
           "effectIdx3": "0",
           "effectIds": "4044,4045,"
+        },
+        {
+          "abilityId": "2850",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "4033",
+          "effectIdx2": "4035",
+          "effectIdx3": "13107",
+          "effectIds": "4033,4035,13107,"
+        },
+        {
+          "abilityId": "2851",
+          "abilityName": "0",
+          "abilityDescription": "0",
+          "abilityEffectDescription": "0",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3620",
+          "effectIds": "1057,874,3620,1794,"
+        },
+        {
+          "abilityId": "2852",
+          "abilityName": "永遠のライバル",
+          "abilityDescription": "バトル開始・行動時に自身を【忍方陣：真・迅雷猛獣】を展開｡素早さ666%アップ",
+          "abilityEffectDescription": "バトル開始・行動時に自身を【忍方陣：真・迅雷猛獣】を展開｡素早さ666%アップ",
+          "effectIdx1": "4034",
+          "effectIdx2": "4036",
+          "effectIdx3": "13107",
+          "effectIds": "4034,4036,13107,"
+        },
+        {
+          "abilityId": "2853",
+          "abilityName": "冷静と情熱の共闘",
+          "abilityDescription": "HP0以下で3回HP全回復、2回行動まで全スキル無効｡被攻撃時､確率で即アクション",
+          "abilityEffectDescription": "HP0以下で3回HP全回復、2回行動まで全スキル無効｡被攻撃時､確率で即アクション",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "3620",
+          "effectIds": "1789,874,3620,2343,"
         },
         {
           "abilityId": "10000",

@@ -8373,7 +8373,7 @@ window.skillname=[
         },
         {
           "cardBattleSkillNameId": "3305",
-          "name": "0"
+          "name": "スーパーフラットだ、うん！"
         },
         {
           "cardBattleSkillNameId": "10136",

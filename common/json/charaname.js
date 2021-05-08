@@ -2606,7 +2606,7 @@ window.charaname=[
         {
           "charaProfileId": "12002",
           "charaId": "120",
-          "name": "0",
+          "name": "デイダラ",
           "detail": "暁",
           "charaLoveAffinityGroupId": "12010",
           "birthday": "505",

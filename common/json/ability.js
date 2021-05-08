@@ -27697,7 +27697,7 @@ window.ability=[
           "effectIdx1": "3244",
           "effectIdx2": "4008",
           "effectIdx3": "4007",
-          "effectIds": "3244,4008,4007,20019,3028,"
+          "effectIds": "3244,4008,4007,20019,3028,4080,"
         },
         {
           "abilityId": "2824",
@@ -27717,7 +27717,7 @@ window.ability=[
           "effectIdx1": "3244",
           "effectIdx2": "4008",
           "effectIdx3": "3821",
-          "effectIds": "3244,4008,3821,3467,439,"
+          "effectIds": "3244,4008,3821,3467,439,4080,"
         },
         {
           "abilityId": "2826",
@@ -27901,9 +27901,9 @@ window.ability=[
         },
         {
           "abilityId": "2844",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "反骨の芸術観",
+          "abilityDescription": "HP0以下で3回耐え、敵に五大隠れ里所属がいると「スーパーフラットだ、うん！」で急襲攻撃",
+          "abilityEffectDescription": "HP0以下で3回耐え、敵に五大隠れ里所属がいると「スーパーフラットだ、うん！」で急襲攻撃",
           "effectIdx1": "1789",
           "effectIdx2": "3840",
           "effectIdx3": "4074",
@@ -27911,9 +27911,9 @@ window.ability=[
         },
         {
           "abilityId": "2845",
-          "abilityName": "0",
-          "abilityDescription": "0",
-          "abilityEffectDescription": "0",
+          "abilityName": "こだわりの粘土造形",
+          "abilityDescription": "ﾊﾞﾄﾙ開始時に敵に五大里存在で敵全体に確率で瞬間起爆(耐性無視)、死亡時に敵の五大隠れ里所属を確率で即死",
+          "abilityEffectDescription": "ﾊﾞﾄﾙ開始時に敵に五大里存在で敵全体に確率で瞬間起爆(耐性無視)、死亡時に敵の五大隠れ里所属を確率で即死",
           "effectIdx1": "4044",
           "effectIdx2": "4045",
           "effectIdx3": "0",

@@ -16408,7 +16408,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1280",
           "targetCrystal": "40501",
-          "description": "0",
+          "description": "バトル開始時にチャクラ50%回復、スキル発動速度1段階アップ、5回行動まで高確率でスキル回避",
           "charaIds": "12002",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16421,7 +16421,7 @@ window.unique=[
         {
           "crystalOverwriteEffectId": "1281",
           "targetCrystal": "40502",
-          "description": "0",
+          "description": "全スキルダメージ120%アップ、弱体・状態異常無効、行動後にHP30%回復",
           "charaIds": "12002",
           "cardIds": "0",
           "charaGroupIds": "0",
