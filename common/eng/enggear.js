@@ -450,7 +450,7 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
-          "id": 3205,
+          "id": 3215,
           "type": "Resistance",
           "name": "Sasuke's Wristband",
           "effect": "Incoming Wind and Sage Skill Damage -50%, ATK, DEF, and SPD +30%",
