@@ -15,4 +15,12 @@ window.engkizuna=[
           "cs": "Fastest",
           "cost": 100
         }
+		{
+          "cardBattleSkillId": "710002",
+          "name": "Sage: Giant Rasengan :Nine Tails Resonance",
+          "description": "＜Kizuna Skill＞ Deal 3% + 2,750,000 Penetration Damage to all enemies. High Chance to Ignore Withstand, Revive and Immortality on Non-Konoha enemies. Grant 'Nine Tailed ・ Union' Beast State. [Nine Tailed ・ Union: Remove and Immune to Negative Special and God State. High Chance to Grant Immortality when Attacked. High chance to Deal 9 Additional Attacks dealing 999,999]※ Cast Speed Effect Disabled, Skip, Cancel and Instant Action Disabled while Casting. Penetration Damage: Unaffected by Skill Immunity, Resistance, Mitigation, Damage Cut and Skill Dodge. Skill Damage cannot go below 100%. (Damage is still Halved while Defending) ",
+          "nature": "Unique",
+          "cs": "Fastest",
+          "cost": 100
+        }
 ]
