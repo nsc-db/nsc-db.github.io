@@ -5,6 +5,16 @@ window.enggear=[
           "name": "Detoxification Injection",
           "effect": "None",
           "normal": "ATK -10%, 5 Turns: 'Poison' Effect Immunity",
+          "charaIds": "201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1485,
+          "type": "Stats",
+          "name": "Sasuke's Demon Shiruken",
+          "effect": "ATK +60%, SPD +10%",
+          "normal": "ATK +100%, SPD +30%, Fire Skill Damage +50%",
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -30,6 +40,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 1655,
+          "type": "Resistance",
+          "name": "Sasuke's Belt",
+          "effect": "Sharingan Skill Immunity and HP and Chakra Recovery +10%",
+          "normal": "Incoming Sharingan Skill Damage -50%",
+          "charaIds": "0",
+          "cardIds": "20001642,20001722",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1665,
+          "type": "Stats",
+          "name": "Sasuke's Chidori Sword",
+          "effect": "Sharingan Skill Damage and ATK +100%",
+          "normal": "Sharingan Skill Damage and ATK +30%",
+          "charaIds": "0",
+          "cardIds": "20001642,20001722",
+          "charaGroupIds": "0"
+},
+{
           "id": 1805,
           "type": "Additional",
           "name": "Heaven Scroll",
@@ -40,12 +70,32 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
+          "id": 1855,
+          "type": "Skill",
+          "name": "Sasuke's Bow",
+          "effect": "ATK and Lightning Skill Damage +60%",
+          "normal": "ATK and Lightning Skill Damage +10%",
+          "charaIds": "201,202,204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
+{
           "id": 1945,
           "type": "Additional",
           "name": "Gamakichi Netsuke",
           "effect": "Incoming Fire, Lightning, and Sharingan Skill Damage -50%, Summoning Skill Damage +100%",
           "normal": "Incoming Fire, Lightning, and Sharingan Skill Damage Reduction",
           "charaIds": "101,102,103,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1955,
+          "type": "Additional",
+          "name": "Aoda Netsuke",
+          "effect": "Incoming Taijutsu Skill Damage -50%, SPD +40%, Summoning Skill Damage +80%",
+          "normal": "Incoming Taijutsu Skill Damage Reduction, SPD +20%",
+          "charaIds": "201,202,203,204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -78,16 +128,6 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
-{
-          "id": 2815,
-          "type": "Chakra",
-          "name": "Yellow Flower Hair Ornament",
-          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
-          "normal": "Chakra Recovery +10%",
-          "charaIds": "601,602",
-          "cardIds": "0",
-          "charaGroupIds": "0"
 },
 {
           "id": 2335,
@@ -97,6 +137,46 @@ window.enggear=[
           "normal": "ATK, DEF and SPD +10%",
           "charaIds": "107",
           "cardIds": "20001631,20001719",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2375,
+          "type": "Stats",
+          "name": "Jugo's Cells",
+          "effect": "'Paralysis' State Immunity, ATK and SPD +50%",
+          "normal": "ATK and SPD +50%, HP -40% every turn",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2414,
+          "type": "Stats",
+          "name": "Sasuke's White Jacket",
+          "effect": "HP and ATK +70%, Chakra Recovery +5%",
+          "normal": "HP and ATK +60%",
+          "charaIds": "204,13401,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2415,
+          "type": "Stats",
+          "name": "Sasuke's White Jacket",
+          "effect": "HP and ATK +100%, Chakra Recovery +10%",
+          "normal": "HP and ATK +20%",
+          "charaIds": "204,13401,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2425,
+          "type": "Resistance",
+          "name": "Hebi Cloak",
+          "effect": "Incoming Skill Damage Reduction, DEF and HP +30%",
+          "normal": "Incoming Water, Fire, Lightning, Earth and Wind Skill Damage Reduction",
+          "charaIds": "210",
+          "cardIds": "20001723,20001724,20001725,20001726,20001807,20040507,20040701,20040711,20040712",
           "charaGroupIds": "0"
 }, 
 {
@@ -108,6 +188,16 @@ window.enggear=[
           "charaIds": "50701,101",
           "cardIds": "",
           "charaGroupIds": "0"
+},
+{
+          "id": 2535,
+          "type": "Stats",
+          "name": "Sasuke's Cloak",
+          "effect": "SPD, HP and Skill Damage +40%",
+          "normal": "HP and SPD +40%",
+          "charaIds": "203",
+          "cardIds": "0",
+          "charaGroupIds": "0"
 }, 
 {
           "id": 2545,
@@ -117,6 +207,26 @@ window.enggear=[
           "normal": "HP and DEF +30%",
           "charaIds": "103",
           "cardIds": "",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2565,
+          "type": "Additional",
+          "name": "Sasuke's Heaven Seal",
+          "effect": "High Chance to Dodge Skills, Chakra +100",
+          "normal": "Low Chance to Dodge Skills, HP -5% every turn",
+          "charaIds": "210",
+          "cardIds": "20000491,20001431,20001572,20001723,20001759,20001807,20030923",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2565,
+          "type": "Additional",
+          "name": "Sasuke's Curse Mark",
+          "effect": "HP Recovery +10%, Chakra +50",
+          "normal": "Chakra Recovery +7%, HP -5% every turn",
+          "charaIds": "201",
+          "cardIds": "0",
           "charaGroupIds": "0"
 }, 
 {
@@ -170,6 +280,46 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 2705,
+          "type": "Chakra",
+          "name": "Translplanted Cells",
+          "effect": "Chakra Recovery +20%, Chakra Cost -20%",
+          "normal": "Chakra Recovery +20%, HP -20%",
+          "charaIds": "10403",
+          "cardIds": "20001735,20001777",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2715,
+          "type": "Skill",
+          "name": "Curse",
+          "effect": "Skill Damage +100%, SPD +50%",
+          "normal": "Sharingan and Rinnegan Skill Damage +30%",
+          "charaIds": "207",
+          "cardIds": "20001735,20001777,20001766,20030715,20030920,20030921",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2725,
+          "type": "Additional",
+          "name": "Sasuke's Palm Sign",
+          "effect": "Revive +1",
+          "normal": "Chakra +5",
+          "charaIds": "207",
+          "cardIds": "20001735,20001777,20001766,20030715,20030920,20030921",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 2815,
+          "type": "Chakra",
+          "name": "Yellow Flower Hair Ornament",
+          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
+          "normal": "Chakra Recovery +10%",
+          "charaIds": "601,602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3025,
           "type": "Skill",
           "name": "Lee's Bandage",
@@ -193,8 +343,8 @@ window.enggear=[
           "id": 3045,
           "type": "Additional",
           "name": "Stone Statue of The Valley of The End (Left)",
-          "effect": "Recover 5% HP and 10% Chakra when attacked",
-          "normal": "Recover 3% HP and 5% Chakra when attacked",
+          "effect": "When Attacked: Chakra Recovery +10% and HP Recovery +5%",
+          "normal": "When Attacked: Chakra Recovery +5% and HP Recovery +3%",
           "charaIds": "201,204,207,210,13701,13702",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -203,8 +353,8 @@ window.enggear=[
           "id": 3055,
           "type": "Additional",
           "name": "Stone Statue of The Valley of The End (Right)",
-          "effect": "Recover 10% HP and 5% Chakra when attacked",
-          "normal": "Recover 5% HP and 3% Chakra when attacked",
+          "effect": "When Attacked: Chakra Recovery +3% and HP Recovery +5%",
+          "normal": "When Attacked: Chakra Recovery +5% and HP Recovery +10%",
           "charaIds": "102,104,106,107,109,110,111,1901,1902",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -255,7 +405,7 @@ window.enggear=[
           "name": "Sasuke's White Snake",
           "effect": "HP and Chakra Recovery +10%, Lightning Skill Damage +60%",
           "normal": "HP Recovery +10%, Lightning Skill Damage +10%",
-          "charaIds": "204,208,210",
+          "charaIds": "204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -265,7 +415,7 @@ window.enggear=[
           "name": "Sasuke's Waist Cloth",
           "effect": "Incoming Wind and Unique Skill Damage -50%, Skill Damage +30%",
           "normal": "Incoming Wind Skill Damage -50%",
-          "charaIds": "204,208,210",
+          "charaIds": "204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },	
@@ -290,6 +440,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
+          "id": 3205,
+          "type": "Additional",
+          "name": "Sasuke's Hawk",
+          "effect": "HP and Chakra Recovery +10%, Sharingan Skill Damage +60%",
+          "normal": "Chakra Recovery +10%, Sharingan Skill Damage +10%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3205,
+          "type": "Resistance",
+          "name": "Sasuke's Wristband",
+          "effect": "Incoming Wind and Sage Skill Damage -50%, ATK, DEF, and SPD +30%",
+          "normal": "Incoming Wind and Sage Skill Damage Reduction, SPD +10%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3225,
           "type": "Additional",
           "name": "Fukasaku Netsuke",
@@ -299,6 +469,26 @@ window.enggear=[
           "cardIds": "20001519,20001549,20001709,20001763,20001782",
           "charaGroupIds": "0"
 }, 
+{
+          "id": 3245,
+          "type": "Skill",
+          "name": "Sasuke's Summoning Mark",
+          "effect": "Weapons and Lightning Skill Damage +120%, SPD +40%",
+          "normal": "Weapons and Lightning Skill Damage +30%, SPD +10%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3255,
+          "type": "Resistance",
+          "name": "Tattered Jacket",
+          "effect": "Debuff and Status Effect Immunity, HP <40%: Incoming Skill Damage -50%",
+          "normal": "Debuff and Status Effect Duration Reduction",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 3265,
           "type": "Stats",
@@ -350,6 +540,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 3385,
+          "type": "Stats",
+          "name": "Sword of Kusanagi (Chidori)",
+          "effect": "ATK +150%, Cast Speed +1",
+          "normal": "ATK +100%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3395,
           "type": "Skill",
           "name": "Naruto's Large Scroll",
@@ -393,9 +593,19 @@ window.enggear=[
           "id": 3685,
           "type": "Skill",
           "name": "Naruto's Racket",
-          "effect": "Unique Skill Damage +30%",
-          "normal": "Unique Skill Damage and ATK +60%, 'Seal' State Immunity",
+          "effect": "Unique Skill Damage and ATK +60%, 'Seal' State Immunity",
+          "normal": "Unique Skill Damage +30%",
           "charaIds": "101,102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3695,
+          "type": "Skill",
+          "name": "Sasuke's Racket",
+          "effect": "Fire Skill Damage and ATK +60%, 'Paralysis' State Immunity",
+          "normal": "Fire Skill Damage +30%",
+          "charaIds": "201,202,204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -426,6 +636,26 @@ window.enggear=[
           "effect": "ATK +100%, SPD and Skill Damage +50%",
           "normal": "ATK and SPD +20%, Wind Skill Damage +30%",
           "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3855,
+          "type": "Additional",
+          "name": "Thunderstorm",
+          "effect": "3 Turns: SPD and Lightning Skill Damage +40%, After 3 Turns: SPD and Lightning Skill Damage +100%",
+          "normal": "Lightning Skill Damage +20%, HP -20% every turn",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3865,
+          "type": "Stats",
+          "name": "Sasuke's Sleeveless Clothes",
+          "effect": "HP, ATK and SPD +70%, HP Recovery +10%",
+          "normal": "HP +40%",
+          "charaIds": "204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },	
@@ -465,7 +695,17 @@ window.enggear=[
           "name": "Naruto Haori",
           "effect": "HP and ATK +100%, DEF and SPD +50%",
           "normal": "HP and ATK +40%",
-          "charaIds": "101",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4215,
+          "type": "Additional",
+          "name": "Sasuke Haori",
+          "effect": "HP +100%, ATK, DEF and SPD +70%",
+          "normal": "HP and SPD +40%",
+          "charaIds": "204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1012,7 +1252,7 @@ window.enggear=[
 {
           "id": 8425,
           "type": "Skill",
-          "name": "Natural Energy",
+          "name": "Lava Rasen-Shuriken",
           "effect": "Skill Damage and SPD +70%, Lava Skill Damage +100%",
           "normal": "Skill Damage +30%",
           "charaIds": "104,110,111",
