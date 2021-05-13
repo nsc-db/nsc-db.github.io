@@ -16495,5 +16495,57 @@ window.unique=[
           "effectIdx3": "0",
           "effectIdx4": "0",
           "effectIds": "4069"
+        },
+        {
+          "crystalOverwriteEffectId": "1287",
+          "targetCrystal": "40503",
+          "description": "スキル発動速度2段階アップ、被攻撃時確率でﾀﾞﾒｰｼﾞ1,000,000に軽減",
+          "charaIds": "60701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "4071",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1549,4071"
+        },
+        {
+          "crystalOverwriteEffectId": "1288",
+          "targetCrystal": "40504",
+          "description": "最大HP・攻・防・速120%アップ、チャクラ消費量半減、弱体・状態異常無効",
+          "charaIds": "60701",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "12111",
+          "effectIdx4": "1335",
+          "effectIds": "1221,736,12111,1335,895,880"
+        },
+        {
+          "crystalOverwriteEffectId": "1289",
+          "targetCrystal": "40505",
+          "description": "最大HP・スキルダメージ150％アップ。耐えたときに確率で即アクション",
+          "charaIds": "13901",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1212",
+          "effectIdx2": "794",
+          "effectIdx3": "3839",
+          "effectIdx4": "0",
+          "effectIds": "1212,794,3839"
+        },
+        {
+          "crystalOverwriteEffectId": "1290",
+          "targetCrystal": "40506",
+          "description": "スキル発動速度2段階アップ。行動後にチャクラ50％回復。被攻撃時にHP・チャクラ25％回復",
+          "charaIds": "13901",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "2644",
+          "effectIdx3": "4079",
+          "effectIdx4": "4078",
+          "effectIds": "1549,2644,4079,4078"
         }
         ]

@@ -435,6 +435,25 @@
 			$('#kizunadesc-five').text(window.engkizuna[1]['description']);
 			$('#kizunadesc-six').text(window.engkizuna[1]['description']);
 		}
+
+		else if(cid == 60070401 || cid == 60070402){
+			$('#kizuna').attr('style', 'display:block'); 
+			$('#kizuna-six').attr('style', 'display:block'); 
+		
+			$('#kizunaname-five').text(window.engkizuna[2]['name']);
+			$('#kizunaname-six').text(window.engkizuna[2]['name']);
+			//Replace Type
+			$('#kizunatype-five').text(window.engkizuna[2]['nature']);
+			$('#kizunatype-six').text(window.engkizuna[2]['nature']);
+			//Replace Wait
+			$('#kizunaspeed-five').text(window.engkizuna[2]['cs']);
+			$('#kizunaspeed-six').text(window.engkizuna[2]['cs']);
+
+			$('#kizunacost-five').text(window.engkizuna[2]['cost']);
+			$('#kizunacost-six').text(window.engkizuna[2]['cost']);
+			$('#kizunadesc-five').text(window.engkizuna[2]['description']);
+			$('#kizunadesc-six').text(window.engkizuna[2]['description']);
+		}
 		else{
 			$('#kizuna').attr('style', 'display:none');
 			$('#kizuna-six').attr('style', 'display:none'); 
@@ -448,6 +467,9 @@
 		}
 		else if(cid == 60060702 || cid == 60060701){
 			tempId = 60060700
+		}
+		else if(cid == 60070401 || cid == 60070402){
+			tempId = 60070400
 		}
 		else{
 			tempId = cid
@@ -933,10 +955,10 @@
 	}
 
 	function checkGearType(gear){
-		for(var i in window.engkey){
-			if(window.engkey[i][0] == "gear"){
-				if(gear['crystalType'] == window.engkey[i][1]){
-					type = window.engkey[i][2];
+		for(var i in window.key){
+			if(window.key[i][0] == "gear"){
+				if(gear['crystalType'] == window.key[i][1]){
+					type = window.key[i][2];
 					return type;
 				}
 			}
@@ -944,10 +966,10 @@
 	}
 
 	function checkType(unit){
-		for(var i in window.engkey){
-			if(window.engkey[i][0] == 'type'){
-				if(unit['attribute'] == window.engkey[i][1]){
-					type = window.engkey[i][2];
+		for(var i in window.key){
+			if(window.key[i][0] == 'type'){
+				if(unit['attribute'] == window.key[i][1]){
+					type = window.key[i][2];
 					return type;
 				}
 			}
@@ -955,10 +977,10 @@
 	}
 
 	function checkTarget(unit){
-		for(var i in window.engkey){
-			if(window.engkey[i][0] == 'target'){
-				if(unit['targetMode'] == window.engkey[i][1]){
-					type = window.engkey[i][2];
+		for(var i in window.key){
+			if(window.key[i][0] == 'target'){
+				if(unit['targetMode'] == window.key[i][1]){
+					type = window.key[i][2];
 					return type;
 				}
 			}
@@ -966,10 +988,10 @@
 	}
 
 	function checkDamage(unit){
-		for(var i in window.engkey){
-			if(window.engkey[i][0] == 'damage'){
-				if(unit['calcType'] == window.engkey[i][1]){
-					type = window.engkey[i][2];
+		for(var i in window.key){
+			if(window.key[i][0] == 'damage'){
+				if(unit['calcType'] == window.key[i][1]){
+					type = window.key[i][2];
 					return type;
 				}
 			}
@@ -977,10 +999,10 @@
 	}
 
 	function checkAffi(unit){
-		for(var i in window.engkey){
-			if(window.engkey[i][0] == 'affi'){
-				if(unit['charaType'] == window.engkey[i][1]){
-					affi = window.engkey[i][2];
+		for(var i in window.key){
+			if(window.key[i][0] == 'affi'){
+				if(unit['charaType'] == window.key[i][1]){
+					affi = window.key[i][2];
 					return affi;
 				}
 			}
@@ -990,10 +1012,10 @@
 	function checkWait(skill){
 		var y;
 		var wait;
-		for(var i in window.engkey){
-			if(window.engkey[i][0] == 'wait'){
-				if(skill['waitTime'] == window.engkey[i][1]){
-					wait = window.engkey[i][2];
+		for(var i in window.key){
+			if(window.key[i][0] == 'wait'){
+				if(skill['waitTime'] == window.key[i][1]){
+					wait = window.key[i][2];
 					return wait;
 				}
 			}
@@ -1003,10 +1025,10 @@
 	function checkSkill(skill){
 		var y;
 		var nature;
-		for(var i in window.engkey){
-			if(window.engkey[i][0] == 'skill'){
-				if(skill['battleSkillType'] == window.engkey[i][1]){
-					nature = window.engkey[i][2];
+		for(var i in window.key){
+			if(window.key[i][0] == 'skill'){
+				if(skill['battleSkillType'] == window.key[i][1]){
+					nature = window.key[i][2];
 					return nature;
 				}
 			}

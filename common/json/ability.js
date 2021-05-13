@@ -27920,6 +27920,66 @@ window.ability=[
           "effectIds": "4044,4045,"
         },
         {
+          "abilityId": "2850",
+          "abilityName": "永遠のライバル",
+          "abilityDescription": "バトル開始・行動時に【忍方陣：迅雷猛獣】を展開｡素早さ666%アップ",
+          "abilityEffectDescription": "バトル開始・行動時に【忍方陣：迅雷猛獣】を展開｡素早さ666%アップ",
+          "effectIdx1": "4033",
+          "effectIdx2": "4035",
+          "effectIdx3": "13107",
+          "effectIds": "4033,4035,13107,"
+        },
+        {
+          "abilityId": "2851",
+          "abilityName": "冷静と情熱の共闘",
+          "abilityDescription": "HP0以下で2回HP全回復、1回行動まで全スキル無効｡被攻撃時､確率で即アクション",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、1回行動まで全スキル無効｡被攻撃時､確率で即アクション",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "3620",
+          "effectIds": "1057,874,3620,1794,"
+        },
+        {
+          "abilityId": "2852",
+          "abilityName": "永遠のライバル",
+          "abilityDescription": "バトル開始・行動時に自身を【忍方陣：真・迅雷猛獣】を展開｡素早さ666%アップ",
+          "abilityEffectDescription": "バトル開始・行動時に自身を【忍方陣：真・迅雷猛獣】を展開｡素早さ666%アップ",
+          "effectIdx1": "4034",
+          "effectIdx2": "4036",
+          "effectIdx3": "13107",
+          "effectIds": "4034,4036,13107,"
+        },
+        {
+          "abilityId": "2853",
+          "abilityName": "冷静と情熱の共闘",
+          "abilityDescription": "HP0以下で3回HP全回復、2回行動まで全スキル無効｡被攻撃時､確率で即アクション",
+          "abilityEffectDescription": "HP0以下で3回HP全回復、2回行動まで全スキル無効｡被攻撃時､確率で即アクション",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "3620",
+          "effectIds": "1789,874,3620,2343,"
+        },
+        {
+          "abilityId": "2856",
+          "abilityName": "饒舌の白",
+          "abilityDescription": "バトル開始時、自身に短い間胞子・吸状態を付与＆味方に大筒木カグヤがいると味方全体に堅護状態を付与",
+          "abilityEffectDescription": "バトル開始時、自身に短い間胞子・吸状態を付与＆味方に大筒木カグヤがいると味方全体に堅護状態を付与",
+          "effectIdx1": "4083",
+          "effectIdx2": "4082",
+          "effectIdx3": "4081",
+          "effectIds": "4083,4082,4081,"
+        },
+        {
+          "abilityId": "2857",
+          "abilityName": "毒舌の黒",
+          "abilityDescription": "自身が胞子・吸状態の場合、チャクラ消費0＆高確率で再行動＆高確率で被攻撃時に即アクション",
+          "abilityEffectDescription": "自身が胞子・吸状態の場合、チャクラ消費0＆高確率で再行動＆高確率で被攻撃時に即アクション",
+          "effectIdx1": "4084",
+          "effectIdx2": "4085",
+          "effectIdx3": "4086",
+          "effectIds": "4084,4085,4086,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",

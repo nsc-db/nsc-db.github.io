@@ -4354,6 +4354,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "60701",
+          "charaId": "607",
+          "name": "カカシ&amp;ガイ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "60710",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "61301",
           "charaId": "613",
           "name": "ナルト＆ミナト",

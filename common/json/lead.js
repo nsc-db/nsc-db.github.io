@@ -16674,6 +16674,34 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1207",
+          "name": "迅雷の技師と碧き猛獣",
+          "description": "木ノ葉隠れ里所属の攻･防･素早さ100%アップ。スキル発動速度1段階アップ。1回行動まで全スキル無効",
+          "effectIdx1": "1840",
+          "effectIdx2": "13099",
+          "effectIdx3": "12099",
+          "effectIds": "1840,13099,12099,11099,1794,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1209",
+          "name": "千変万化の暗躍者",
+          "description": "被攻撃時、それぞれ低確率でHP・チャクラ30％回復",
+          "effectIdx1": "4087",
+          "effectIdx2": "4088",
+          "effectIdx3": "0",
+          "effectIds": "4087,4088,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

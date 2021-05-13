@@ -105,6 +105,18 @@ function engInfo(unitId, charaName, subtext, lead, s1n, s1, s1ntr, s1cs, s1c, s2
 			$('#kizunadesc-five').text(window.engkizuna[0]['description']);
 			$('#kizunadesc-six').text(window.engkizuna[0]['description']);
 		}
+		else if(unitId == 60070401 || unitId == 60070402){
+			$('#kizunaname-five').text(window.engkizuna[2]['name']);
+			$('#kizunaname-six').text(window.engkizuna[2]['name']);
+			$('#kizunatype-five').text(window.engkizuna[2]['nature']);
+			$('#kizunatype-six').text(window.engkizuna[2]['nature']);
+			$('#kizunaspeed-five').text(window.engkizuna[2]['cs']);
+			$('#kizunaspeed-six').text(window.engkizuna[2]['cs']);
+			$('#kizunacost-five').text(window.engkizuna[2]['cost']);
+			$('#kizunacost-six').text(window.engkizuna[2]['cost']);
+			$('#kizunadesc-five').text(window.engkizuna[2]['description']);
+			$('#kizunadesc-six').text(window.engkizuna[2]['description']);
+		}
 	}
 	else{
 		document.getElementById("eng-button").innerHTML = 'ENG'

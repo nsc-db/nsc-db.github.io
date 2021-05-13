@@ -8376,6 +8376,22 @@ window.skillname=[
           "name": "スーパーフラットだ、うん！"
         },
         {
+          "cardBattleSkillNameId": "3311",
+          "name": "連携・裂土熱翔拳"
+        },
+        {
+          "cardBattleSkillNameId": "3312",
+          "name": "青春連携・剛風雷伝"
+        },
+        {
+          "cardBattleSkillNameId": "3314",
+          "name": "木遁・樹絶葬"
+        },
+        {
+          "cardBattleSkillNameId": "3315",
+          "name": "オレ達ノ意志ハ…カグヤダ"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
