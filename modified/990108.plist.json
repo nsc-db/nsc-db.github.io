@@ -16674,8 +16674,8 @@
         },
         {
           "cardLeaderSkillId": "1207",
-          "name": "0",
-          "description": "0",
+          "name": "迅雷の技師と碧き猛獣",
+          "description": "木ノ葉隠れ里所属の攻･防･素早さ100%アップ。スキル発動速度1段階アップ。1回行動まで全スキル無効",
           "effectIdx1": "1840",
           "effectIdx2": "13099",
           "effectIdx3": "12099",
@@ -16683,6 +16683,20 @@
           "compType": "1",
           "target1Category": "2",
           "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1209",
+          "name": "千変万化の暗躍者",
+          "description": "被攻撃時、それぞれ低確率でHP・チャクラ30％回復",
+          "effectIdx1": "4087",
+          "effectIdx2": "4088",
+          "effectIdx3": "0",
+          "effectIds": "4087,4088,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
           "target2Category": "0",
           "target2Param": "0"
         },

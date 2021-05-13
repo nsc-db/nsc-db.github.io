@@ -3422,8 +3422,8 @@
           "cardUnusualId": "353",
           "category": "5",
           "iconId": "1437",
-          "name": "0",
-          "description": "0",
+          "name": "忍方陣：迅雷猛獣",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
           "subScore": "0",
           "color": "49151",
           "type": "2"
@@ -3432,8 +3432,8 @@
           "cardUnusualId": "354",
           "category": "5",
           "iconId": "1438",
-          "name": "0",
-          "description": "0",
+          "name": "忍方陣：真・迅雷猛獣",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
           "subScore": "0",
           "color": "49151",
           "type": "2"

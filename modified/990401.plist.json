@@ -11770,7 +11770,7 @@
         },
         {
           "gachaTicketId": "5012",
-          "gachaTicketName": "0",
+          "gachaTicketName": "★7期間限定確定ガチャチケット",
           "gachaTicketImgId": "5012"
         },
         {
@@ -11819,28 +11819,43 @@
           "gachaTicketImgId": "5022"
         },
         {
+          "gachaTicketId": "5023",
+          "gachaTicketName": "LvMAX！昇級選抜・特別ガチャチケット",
+          "gachaTicketImgId": "5023"
+        },
+        {
+          "gachaTicketId": "5024",
+          "gachaTicketName": "LvMAX！昇級選抜ガチャチケット",
+          "gachaTicketImgId": "5024"
+        },
+        {
+          "gachaTicketId": "5025",
+          "gachaTicketName": "昇級選抜・疾風",
+          "gachaTicketImgId": "5025"
+        },
+        {
           "gachaTicketId": "5026",
-          "gachaTicketName": "0",
+          "gachaTicketName": "迅雷の技師と碧き猛獣・極ガチャチケット",
           "gachaTicketImgId": "5026"
         },
         {
           "gachaTicketId": "5027",
-          "gachaTicketName": "0",
+          "gachaTicketName": "迅雷の技師・特別ガチャチケット",
           "gachaTicketImgId": "5027"
         },
         {
           "gachaTicketId": "5028",
-          "gachaTicketName": "0",
+          "gachaTicketName": "碧き猛獣・特別ガチャチケット",
           "gachaTicketImgId": "5028"
         },
         {
           "gachaTicketId": "5029",
-          "gachaTicketName": "0",
+          "gachaTicketName": "迅雷の技師と碧き猛獣ガチャチケット",
           "gachaTicketImgId": "5029"
         },
         {
           "gachaTicketId": "5030",
-          "gachaTicketName": "0",
+          "gachaTicketName": "迅雷の技師と碧き猛獣・疾風",
           "gachaTicketImgId": "5029"
         },
         {
@@ -11884,6 +11899,21 @@
           "gachaTicketImgId": "5038"
         },
         {
+          "gachaTicketId": "5039",
+          "gachaTicketName": "千変万化の暗躍者・特別ガチャチケット",
+          "gachaTicketImgId": "5039"
+        },
+        {
+          "gachaTicketId": "5040",
+          "gachaTicketName": "千変万化の暗躍者ガチャチケット",
+          "gachaTicketImgId": "5040"
+        },
+        {
+          "gachaTicketId": "5041",
+          "gachaTicketName": "千変万化の暗躍者・祭",
+          "gachaTicketImgId": "5040"
+        },
+        {
           "gachaTicketId": "5055",
           "gachaTicketName": "くノ一忍具ガチャチケット",
           "gachaTicketImgId": "5055"
@@ -11892,6 +11922,11 @@
           "gachaTicketId": "5056",
           "gachaTicketName": "6周年記念・確定ガチャチケット",
           "gachaTicketImgId": "5056"
+        },
+        {
+          "gachaTicketId": "5057",
+          "gachaTicketName": "6周年記念闘忍確定ガチャチケット",
+          "gachaTicketImgId": "5057"
         },
         {
           "gachaTicketId": "100084",

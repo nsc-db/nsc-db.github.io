@@ -98,60 +98,6 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "525",
-          "name": "6周年前夜祭ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.23 00:00:00",
-          "closeTime": "2021.04.23 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "526",
-          "name": "6周年前夜祭ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.24 00:00:00",
-          "closeTime": "2021.04.24 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "527",
-          "name": "6周年前夜祭ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.25 00:00:00",
-          "closeTime": "2021.04.25 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "528",
-          "name": "6周年前夜祭ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.26 00:00:00",
-          "closeTime": "2021.04.26 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "529",
-          "name": "6周年前夜祭ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.27 00:00:00",
-          "closeTime": "2021.04.27 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "530",
-          "name": "6周年前夜祭ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.28 00:00:00",
-          "closeTime": "2021.04.28 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "531",
           "name": "6周年前夜祭ログインボーナス",
           "type": "2",
@@ -202,6 +148,15 @@
           "type": "2",
           "openTime": "2021.05.01 00:00:00",
           "closeTime": "2021.05.10 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "552",
+          "name": "祝！ナルコレ６周年記念ログインボーナス第弐弾",
+          "type": "2",
+          "openTime": "2021.05.11 00:00:00",
+          "closeTime": "2021.05.21 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },
