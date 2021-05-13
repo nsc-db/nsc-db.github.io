@@ -1,5 +1,61 @@
 window.detail=[
 {
+          "id": 20040803,
+          "name": "Sasuke Uchiha",
+          "subtext": "Tempestous Wind Echoing Thru Thunder",
+
+          "lead": "Five Village Characters: ATK +100% and Skill Damage +150%",
+
+          "s1n": "Majestic Attire: Susano'o",
+          "s1": "Deal 3% + 761,000 to all enemies. While under 'Hope' God State: Deal 2x damage and Guarantee Inflict 'Skip'. If there's a Naruto ally: Deal 3x damage. (Always Hit)",
+		  "s1ntr": "Sharingan",
+          "s1cs": "Fastest",
+          "s1c": 180,
+
+          "s2n": "This Next One Will End It",
+          "s2": "Party ATK +150% and SPD +100%. Grant 'Hope' God State to Five Village allies. Grant 'Fate' State to self. [Hope: ATK, DEF and SPD +200%, Remove and Immune to Debuff and Status Effect. HP and Chakra Recovery +20%] [Fate: Skill Damage +150%, Cast Speed +2, Withstand +1 and Skill Immunity]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 150,
+
+          "a1n": "Shinobi Allied Forces' Hope",
+          "a1": "Chakra +100, Revive +5, Chance to Grant 'Instant Action' upon Reviving",
+
+          "a2n": "Resonating Chance",
+          "a2": "Chance to Insta Cast Skill 2, HP +120%, Status Effects and Cancel Immunity",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue."
+      },
+{
+          "id": 20070502,
+          "name": "Deidara",
+          "subtext": "Flying Explosion Art Sublimation",
+
+          "lead": "Akatsuki Characters: Cast Speed +1 and HP +100%",
+
+          "s1n": "C2 Dragon",
+          "s1": "Deal 1,000,000 Fixed Damage to all enemies. Guarantee Inflict 'Skip'. High Chance to Inflict 'Instant Detonation' State. If it's a Five Village enemy: Deal 5 Additional Attacks dealing 100,000 Fixed Damage. [Instant Detonation: Action is Disabled, Deal 777,777 Damage every turn] (Always Hit)",
+		  "s1ntr": "Secret",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "It's Super Flat, Yeah!",
+          "s2": "Party SPD +300% for 1 Turn and Cast Speed +5. Grant 'Art Explosion' God State to self. If there's a Five Village enemy: Inflict 'Cut Per Second' State to all enemies. [Art Explosion: When Attacked, Inflict 'Skip' to attacking enemy. Damage Cut +50% against Five Village enemies. Damage Cut +50% against enemies Inflicted with 'Cut Per Second' State. After 3 turns: Chance to Insta Kill a random enemy] [Cut Per Second: Deal 666,666 Damage every turn]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Rebellious Art",
+          "a1": "Withstand +3, If there's a Five Village enemy: Insta Cast Skill 2",
+
+          "a2n": "Obsession with Clay Modeling",
+          "a2": "If there's a Five Village enemy: Chance to Ignore Resistance and Inflict 'Instant Detonation' State to all enemies, Upon Death: Chance to Insta Kill Five VIllage enemies",
+
+          "a3n": "White Specialization and Sprint",
+          "a3": "Type Advantage and Damage Cut +50% against White, SPD +75% to self per Non-Black allies"
+      },
+{
           "id": 20040802,
           "name": "Naruto Uzumaki",
           "subtext": "Severing Lightning in Rough Winds",
@@ -7,7 +63,7 @@ window.detail=[
           "lead": "Five Village Characters: ATK +150% and Skill Damage +100%",
 
           "s1n": "Majestic Attire: Susano'o",
-          "s1": "Deal 3% + 761,000 to all enemies. While under 'Hope' God State: Deal 2x damage and Guarantee Skip. If there's a Sasuke ally: Deal 3x damage. (Always Hit)",
+          "s1": "Deal 3% + 761,000 to all enemies. While under 'Hope' God State: Deal 2x damage and Guarantee Inflict 'Skip'. If there's a Sasuke ally: Deal 3x damage. (Always Hit)",
 		  "s1ntr": "Tailed Beast",
           "s1cs": "Fastest",
           "s1c": 180,

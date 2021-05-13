@@ -11769,9 +11769,29 @@
           "gachaTicketImgId": "5011"
         },
         {
+          "gachaTicketId": "5012",
+          "gachaTicketName": "0",
+          "gachaTicketImgId": "5012"
+        },
+        {
           "gachaTicketId": "5013",
           "gachaTicketName": "総出陣ガチャチケット",
           "gachaTicketImgId": "5013"
+        },
+        {
+          "gachaTicketId": "5014",
+          "gachaTicketName": "LvMAX！頂上決戦選抜・特別ガチャチケット",
+          "gachaTicketImgId": "5014"
+        },
+        {
+          "gachaTicketId": "5015",
+          "gachaTicketName": "LvMAX！頂上決戦選抜ガチャチケット",
+          "gachaTicketImgId": "5015"
+        },
+        {
+          "gachaTicketId": "5016",
+          "gachaTicketName": "頂上決戦選抜・疾風",
+          "gachaTicketImgId": "5016"
         },
         {
           "gachaTicketId": "5017",
@@ -11799,28 +11819,53 @@
           "gachaTicketImgId": "5022"
         },
         {
-          "gachaTicketId": "5031",
+          "gachaTicketId": "5026",
           "gachaTicketName": "0",
+          "gachaTicketImgId": "5026"
+        },
+        {
+          "gachaTicketId": "5027",
+          "gachaTicketName": "0",
+          "gachaTicketImgId": "5027"
+        },
+        {
+          "gachaTicketId": "5028",
+          "gachaTicketName": "0",
+          "gachaTicketImgId": "5028"
+        },
+        {
+          "gachaTicketId": "5029",
+          "gachaTicketName": "0",
+          "gachaTicketImgId": "5029"
+        },
+        {
+          "gachaTicketId": "5030",
+          "gachaTicketName": "0",
+          "gachaTicketImgId": "5029"
+        },
+        {
+          "gachaTicketId": "5031",
+          "gachaTicketName": "デイダラ誕生記念・極ガチャチケット",
           "gachaTicketImgId": "5031"
         },
         {
           "gachaTicketId": "5032",
-          "gachaTicketName": "0",
+          "gachaTicketName": "伝説盤解放確定・極ガチャチケット",
           "gachaTicketImgId": "5032"
         },
         {
           "gachaTicketId": "5033",
-          "gachaTicketName": "0",
+          "gachaTicketName": "“暁”確定・特別ガチャチケット",
           "gachaTicketImgId": "5033"
         },
         {
           "gachaTicketId": "5034",
-          "gachaTicketName": "0",
+          "gachaTicketName": "デイダラ誕生記念ガチャチケット",
           "gachaTicketImgId": "5034"
         },
         {
           "gachaTicketId": "5035",
-          "gachaTicketName": "0",
+          "gachaTicketName": "神忍・破神確定 -デイダラ誕生記念-",
           "gachaTicketImgId": "5035"
         },
         {

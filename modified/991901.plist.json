@@ -1296,7 +1296,7 @@
           "cardId": "20060504",
           "normalPanelList": "9100019,9100020,9100021,9100033",
           "specialPanelList": "9100022,9100023,9100024,9100034",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50018",
@@ -1621,7 +1621,7 @@
           "cardId": "20061009",
           "normalPanelList": "9100013,9100014,9100015",
           "specialPanelList": "9100016,9100017,9100018",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50043",
@@ -1910,6 +1910,19 @@
           "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
+          "sphereBoardId": "50066",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_伝説",
+          "boardDescription": "ペイン【傲虐の墜星】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20051103",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
           "sphereBoardId": "50069",
           "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_伝説",
           "boardDescription": "うちはサスケ【烈しき風に鳴る雷】",
@@ -1934,6 +1947,19 @@
           "normalPanelList": "9100019,9100020,9100021,9100033",
           "specialPanelList": "9100022,9100023,9100024,9100034",
           "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
+        },
+        {
+          "sphereBoardId": "50071",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤",
+          "boardDescription": "カカシ＆ガイ【迅雷の技師と碧き猛獣】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070503",
+          "normalPanelList": "9100007,9100008,9100009",
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": "0"
         },
         {
           "sphereBoardId": "60001",

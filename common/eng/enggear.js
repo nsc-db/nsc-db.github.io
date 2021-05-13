@@ -5,6 +5,16 @@ window.enggear=[
           "name": "Detoxification Injection",
           "effect": "None",
           "normal": "ATK -10%, 5 Turns: 'Poison' Effect Immunity",
+          "charaIds": "201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1485,
+          "type": "Stats",
+          "name": "Sasuke's Demon Shiruken",
+          "effect": "ATK +60%, SPD +10%",
+          "normal": "ATK +100%, SPD +30%, Fire Skill Damage +50%",
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -30,6 +40,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 1655,
+          "type": "Resistance",
+          "name": "Sasuke's Belt",
+          "effect": "Sharingan Skill Immunity and HP and Chakra Recovery +10%",
+          "normal": "Incoming Sharingan Skill Damage -50%",
+          "charaIds": "0",
+          "cardIds": "20001642,20001722",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1665,
+          "type": "Stats",
+          "name": "Sasuke's Chidori Sword",
+          "effect": "Sharingan Skill Damage and ATK +100%",
+          "normal": "Sharingan Skill Damage and ATK +30%",
+          "charaIds": "0",
+          "cardIds": "20001642,20001722",
+          "charaGroupIds": "0"
+},
+{
           "id": 1805,
           "type": "Additional",
           "name": "Heaven Scroll",
@@ -40,12 +70,32 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
+          "id": 1855,
+          "type": "Skill",
+          "name": "Sasuke's Bow",
+          "effect": "ATK and Lightning Skill Damage +60%",
+          "normal": "ATK and Lightning Skill Damage +10%",
+          "charaIds": "201,202,204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
+{
           "id": 1945,
           "type": "Additional",
           "name": "Gamakichi Netsuke",
           "effect": "Incoming Fire, Lightning, and Sharingan Skill Damage -50%, Summoning Skill Damage +100%",
           "normal": "Incoming Fire, Lightning, and Sharingan Skill Damage Reduction",
           "charaIds": "101,102,103,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1955,
+          "type": "Additional",
+          "name": "Aoda Netsuke",
+          "effect": "Incoming Taijutsu Skill Damage -50%, SPD +40%, Summoning Skill Damage +80%",
+          "normal": "Incoming Taijutsu Skill Damage Reduction, SPD +20%",
+          "charaIds": "201,202,203,204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -78,16 +128,6 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },
-{
-          "id": 2815,
-          "type": "Chakra",
-          "name": "Yellow Flower Hair Ornament",
-          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
-          "normal": "Chakra Recovery +10%",
-          "charaIds": "601,602",
-          "cardIds": "0",
-          "charaGroupIds": "0"
 },
 {
           "id": 2335,
@@ -97,6 +137,46 @@ window.enggear=[
           "normal": "ATK, DEF and SPD +10%",
           "charaIds": "107",
           "cardIds": "20001631,20001719",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2375,
+          "type": "Stats",
+          "name": "Jugo's Cells",
+          "effect": "'Paralysis' State Immunity, ATK and SPD +50%",
+          "normal": "ATK and SPD +50%, HP -40% every turn",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2414,
+          "type": "Stats",
+          "name": "Sasuke's White Jacket",
+          "effect": "HP and ATK +70%, Chakra Recovery +5%",
+          "normal": "HP and ATK +60%",
+          "charaIds": "204,13401,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2415,
+          "type": "Stats",
+          "name": "Sasuke's White Jacket",
+          "effect": "HP and ATK +100%, Chakra Recovery +10%",
+          "normal": "HP and ATK +20%",
+          "charaIds": "204,13401,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2425,
+          "type": "Resistance",
+          "name": "Hebi Cloak",
+          "effect": "Incoming Skill Damage Reduction, DEF and HP +30%",
+          "normal": "Incoming Water, Fire, Lightning, Earth and Wind Skill Damage Reduction",
+          "charaIds": "210",
+          "cardIds": "20001723,20001724,20001725,20001726,20001807,20040507,20040701,20040711,20040712",
           "charaGroupIds": "0"
 }, 
 {
@@ -108,6 +188,16 @@ window.enggear=[
           "charaIds": "50701,101",
           "cardIds": "",
           "charaGroupIds": "0"
+},
+{
+          "id": 2535,
+          "type": "Stats",
+          "name": "Sasuke's Cloak",
+          "effect": "SPD, HP and Skill Damage +40%",
+          "normal": "HP and SPD +40%",
+          "charaIds": "203",
+          "cardIds": "0",
+          "charaGroupIds": "0"
 }, 
 {
           "id": 2545,
@@ -117,6 +207,26 @@ window.enggear=[
           "normal": "HP and DEF +30%",
           "charaIds": "103",
           "cardIds": "",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2565,
+          "type": "Additional",
+          "name": "Sasuke's Heaven Seal",
+          "effect": "High Chance to Dodge Skills, Chakra +100",
+          "normal": "Low Chance to Dodge Skills, HP -5% every turn",
+          "charaIds": "210",
+          "cardIds": "20000491,20001431,20001572,20001723,20001759,20001807,20030923",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2565,
+          "type": "Additional",
+          "name": "Sasuke's Curse Mark",
+          "effect": "HP Recovery +10%, Chakra +50",
+          "normal": "Chakra Recovery +7%, HP -5% every turn",
+          "charaIds": "201",
+          "cardIds": "0",
           "charaGroupIds": "0"
 }, 
 {
@@ -170,6 +280,46 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 2705,
+          "type": "Chakra",
+          "name": "Translplanted Cells",
+          "effect": "Chakra Recovery +20%, Chakra Cost -20%",
+          "normal": "Chakra Recovery +20%, HP -20%",
+          "charaIds": "10403",
+          "cardIds": "20001735,20001777",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2715,
+          "type": "Skill",
+          "name": "Curse",
+          "effect": "Skill Damage +100%, SPD +50%",
+          "normal": "Sharingan and Rinnegan Skill Damage +30%",
+          "charaIds": "207",
+          "cardIds": "20001735,20001777,20001766,20030715,20030920,20030921",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2725,
+          "type": "Additional",
+          "name": "Sasuke's Palm Sign",
+          "effect": "Revive +1",
+          "normal": "Chakra +5",
+          "charaIds": "207",
+          "cardIds": "20001735,20001777,20001766,20030715,20030920,20030921",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 2815,
+          "type": "Chakra",
+          "name": "Yellow Flower Hair Ornament",
+          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
+          "normal": "Chakra Recovery +10%",
+          "charaIds": "601,602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3025,
           "type": "Skill",
           "name": "Lee's Bandage",
@@ -193,8 +343,8 @@ window.enggear=[
           "id": 3045,
           "type": "Additional",
           "name": "Stone Statue of The Valley of The End (Left)",
-          "effect": "Recover 5% HP and 10% Chakra when attacked",
-          "normal": "Recover 3% HP and 5% Chakra when attacked",
+          "effect": "When Attacked: Chakra Recovery +10% and HP Recovery +5%",
+          "normal": "When Attacked: Chakra Recovery +5% and HP Recovery +3%",
           "charaIds": "201,204,207,210,13701,13702",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -203,8 +353,8 @@ window.enggear=[
           "id": 3055,
           "type": "Additional",
           "name": "Stone Statue of The Valley of The End (Right)",
-          "effect": "Recover 10% HP and 5% Chakra when attacked",
-          "normal": "Recover 5% HP and 3% Chakra when attacked",
+          "effect": "When Attacked: Chakra Recovery +3% and HP Recovery +5%",
+          "normal": "When Attacked: Chakra Recovery +5% and HP Recovery +10%",
           "charaIds": "102,104,106,107,109,110,111,1901,1902",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -255,7 +405,7 @@ window.enggear=[
           "name": "Sasuke's White Snake",
           "effect": "HP and Chakra Recovery +10%, Lightning Skill Damage +60%",
           "normal": "HP Recovery +10%, Lightning Skill Damage +10%",
-          "charaIds": "204,208,210",
+          "charaIds": "204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -265,7 +415,7 @@ window.enggear=[
           "name": "Sasuke's Waist Cloth",
           "effect": "Incoming Wind and Unique Skill Damage -50%, Skill Damage +30%",
           "normal": "Incoming Wind Skill Damage -50%",
-          "charaIds": "204,208,210",
+          "charaIds": "204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },	
@@ -290,6 +440,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
+          "id": 3205,
+          "type": "Additional",
+          "name": "Sasuke's Hawk",
+          "effect": "HP and Chakra Recovery +10%, Sharingan Skill Damage +60%",
+          "normal": "Chakra Recovery +10%, Sharingan Skill Damage +10%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3215,
+          "type": "Resistance",
+          "name": "Sasuke's Wristband",
+          "effect": "Incoming Wind and Sage Skill Damage -50%, ATK, DEF, and SPD +30%",
+          "normal": "Incoming Wind and Sage Skill Damage Reduction, SPD +10%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3225,
           "type": "Additional",
           "name": "Fukasaku Netsuke",
@@ -299,6 +469,26 @@ window.enggear=[
           "cardIds": "20001519,20001549,20001709,20001763,20001782",
           "charaGroupIds": "0"
 }, 
+{
+          "id": 3245,
+          "type": "Skill",
+          "name": "Sasuke's Summoning Mark",
+          "effect": "Weapons and Lightning Skill Damage +120%, SPD +40%",
+          "normal": "Weapons and Lightning Skill Damage +30%, SPD +10%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3255,
+          "type": "Resistance",
+          "name": "Tattered Jacket",
+          "effect": "Debuff and Status Effect Immunity, HP <40%: Incoming Skill Damage -50%",
+          "normal": "Debuff and Status Effect Duration Reduction",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 3265,
           "type": "Stats",
@@ -350,6 +540,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 3385,
+          "type": "Stats",
+          "name": "Sword of Kusanagi (Chidori)",
+          "effect": "ATK +150%, Cast Speed +1",
+          "normal": "ATK +100%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3395,
           "type": "Skill",
           "name": "Naruto's Large Scroll",
@@ -393,9 +593,19 @@ window.enggear=[
           "id": 3685,
           "type": "Skill",
           "name": "Naruto's Racket",
-          "effect": "Unique Skill Damage +30%",
-          "normal": "Unique Skill Damage and ATK +60%, 'Seal' State Immunity",
+          "effect": "Unique Skill Damage and ATK +60%, 'Seal' State Immunity",
+          "normal": "Unique Skill Damage +30%",
           "charaIds": "101,102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3695,
+          "type": "Skill",
+          "name": "Sasuke's Racket",
+          "effect": "Fire Skill Damage and ATK +60%, 'Paralysis' State Immunity",
+          "normal": "Fire Skill Damage +30%",
+          "charaIds": "201,202,204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -426,6 +636,26 @@ window.enggear=[
           "effect": "ATK +100%, SPD and Skill Damage +50%",
           "normal": "ATK and SPD +20%, Wind Skill Damage +30%",
           "charaIds": "101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3855,
+          "type": "Additional",
+          "name": "Thunderstorm",
+          "effect": "3 Turns: SPD and Lightning Skill Damage +40%, After 3 Turns: SPD and Lightning Skill Damage +100%",
+          "normal": "Lightning Skill Damage +20%, HP -20% every turn",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3865,
+          "type": "Stats",
+          "name": "Sasuke's Sleeveless Clothes",
+          "effect": "HP, ATK and SPD +70%, HP Recovery +10%",
+          "normal": "HP +40%",
+          "charaIds": "204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },	
@@ -465,7 +695,17 @@ window.enggear=[
           "name": "Naruto Haori",
           "effect": "HP and ATK +100%, DEF and SPD +50%",
           "normal": "HP and ATK +40%",
-          "charaIds": "101",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4215,
+          "type": "Additional",
+          "name": "Sasuke Haori",
+          "effect": "HP +100%, ATK, DEF and SPD +70%",
+          "normal": "HP and SPD +40%",
+          "charaIds": "204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -900,6 +1140,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 7625,
+          "type": "Additional",
+          "name": "Fragment of Stone Statue (Right)",
+          "effect": "Chakra +50, ATK +100%, SPD +50%",
+          "normal": "Chakra +10",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7945,
+          "type": "Skill",
+          "name": "Gamakichi's Haori",
+          "effect": "Wind and Summoning Skill Damage +100%, When Attacked: HP Recovery +10%",
+          "normal": "Wind and Summoning Skill Damage +40%",
+          "charaIds": "101,102,103,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 7995,
           "type": "Stats",
           "name": "Shino's Hood",
@@ -920,6 +1180,46 @@ window.enggear=[
           "charaGroupIds": "0"
 	},
 {
+          "id": 8035,
+          "type": "Chakra",
+          "name": "Crushed Necklace",
+          "effect": "Chakra Cost -50%, ATK and Skill Damage +50%",
+          "normal": "Chakra Cost -10%",
+          "charaIds": "0",
+          "cardIds": "20040109",
+          "charaGroupIds": "0"
+	},
+{
+          "id": 8045,
+          "type": "Additional",
+          "name": "Embodied Bones",
+          "effect": "HP, ATK and Tailed Beast Skill Damage +100%",
+          "normal": "HP and ATK +20%",
+          "charaIds": "0",
+          "cardIds": "20040109",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8175,
+          "type": "Additional",
+          "name": "Tales of a Gutsy Ninja",
+          "effect": "ATK +100%, HP and Skill Damage +50%",
+          "normal": "HP and ATK +20%, Sage Skill Damage +30%",
+          "charaIds": "103,104,105,106,107,109,110,111,2401,2101,2103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8285,
+          "type": "Chakra",
+          "name": "Nine Tails Chakra (Yin Yang)",
+          "effect": "9 Turns: Skill Damage +80%, 3 Turns: Set Chakra Cost to 0",
+          "normal": "3 Turns: Chakra Cost -20%",
+          "charaIds": "2103,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 8305,
           "type": "Stats",
           "name": "Kushina's Bracelet",
@@ -929,6 +1229,36 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 	},	 
+{
+          "id": 8405,
+          "type": "Additional",
+          "name": "Shima's Homemade Bento",
+          "effect": "Skill Damage +70%, 5 Turns: Skill Immunity",
+          "normal": "2 Turns: Skill Immunity",
+          "charaIds": "106,2401",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "0"
+},	
+{
+          "id": 8415,
+          "type": "Chakra",
+          "name": "Natural Energy",
+          "effect": "Chakra Cost -50%, Chakra +50, SPD and Skill Damage +50%",
+          "normal": "Chakra Cost -10%",
+          "charaIds": "1901,1902,2401,10403",
+          "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "100301"
+},	
+{
+          "id": 8425,
+          "type": "Skill",
+          "name": "Lava Rasen-Shuriken",
+          "effect": "Skill Damage and SPD +70%, Lava Skill Damage +100%",
+          "normal": "Skill Damage +30%",
+          "charaIds": "104,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 8845,
           "type": "Chakra",
@@ -960,6 +1290,36 @@ window.enggear=[
           "charaGroupIds": "0"
 	},
 {
+          "id": 106015,
+          "type": "Skill",
+          "name": "Nine Tails Chakra Hands",
+          "effect": "HP and Skill Damage +100%, Chakra +50",
+          "normal": "Wind Skill Damage +80%",
+          "charaIds": "104,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 106025,
+          "type": "Additional",
+          "name": "Friend-Saving Sunlight",
+          "effect": "HP Recovery +20%, HP >80%: Cast Speed +2",
+          "normal": "HP Recovery +20%",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 106195,
+          "type": "Skill",
+          "name": "EX Memorial Certificate",
+          "effect": "Skill Damage +100%, HP and Chakra Recovery +20%",
+          "normal": "Skill Damage +20%",
+          "charaIds": "0",
+          "cardIds": "20001818,20001704,20030601,20001776,20030602",
+          "charaGroupIds": "0"
+},
+{
           "id": 106305,
           "type": "Medal",
           "name": "Konoha Medal",
@@ -970,6 +1330,86 @@ window.enggear=[
           "charaGroupIds": "0"
 	},
 {
+          "id": 107025,
+          "type": "Chakra",
+          "name": "Naruto's Sage Chakra",
+          "effect": "2 Turns: Set Chakra Cost to 0, After 2 Turns: Chakra Cost -50%",
+          "normal": "2 Turns: Chakra Cost -20%",
+          "charaIds": "2103,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
+{
+          "id": 107095,
+          "type": "Stats",
+          "name": "Naruto's Forehead Protector (Nine Tails)",
+          "effect": "ATK, DEF and SPD +90%",
+          "normal": "ATK +50%",
+          "charaIds": "107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 107105,
+          "type": "Resistance",
+          "name": "Father and Mother's Love",
+          "effect": "Debuff Immunity, HP and Skill Damage +70%",
+          "normal": "Debuff Duration -50%",
+          "charaIds": "107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108025,
+          "type": "Food",
+          "name": "Oshiruko",
+          "effect": "HP Recovery +20%, ATK +70%, Skill Damage +50%",
+          "normal": "HP Recovery +10%",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108055,
+          "type": "Skill",
+          "name": "Majestic Attire: Susanoo Sword",
+          "effect": "Skill Damage +120%, Cast Speed +1",
+          "normal": "Skill Damage +20%",
+          "charaIds": "108,112,209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108065,
+          "type": "Resistance",
+          "name": "Majestic Attire: Susanoo",
+          "effect": "Incoming Skill Damage -50%, Chakra Cost -20%, SPD +50%",
+          "normal": "Incoming Skill Damage Reduction",
+          "charaIds": "108,112,209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108075,
+          "type": "Skill",
+          "name": "Large Fan",
+          "effect": "Skill Damage and ATK +100%, Unique Skill Damage +50%",
+          "normal": "Unique Skill Damage +30%",
+          "charaIds": "102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108085,
+          "type": "Resistance",
+          "name": "Naruto's Happi",
+          "effect": "Status Effect Duration -50%, ATK and SPD +40%",
+          "normal": "Status Effect Duration Reduction",
+          "charaIds": "102",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 108305,
           "type": "Stats",
           "name": "War God's Instruction",
@@ -978,6 +1418,26 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "700002"
+	},
+{
+          "id": 109195,
+          "type": "Stats",
+          "name": "Parent-Child Bond",
+          "effect": "HP +94,700, ATK +3,710, DEF +7,610",
+          "normal": "HP +9,470, ATK +3,710, DEF +7,610",
+          "charaIds": "2101,2102,2103,4301,4302,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 110015,
+          "type": "Chakra",
+          "name": "Nine Tails' Chakra (Yin)",
+          "effect": "Chakra Recovery +10%, HP +150%, Skill Damage +50%",
+          "normal": "Chakra Recovery +5%",
+          "charaIds": "2104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
 	},
 {
           "id": 110025,
@@ -990,15 +1450,75 @@ window.enggear=[
           "charaGroupIds": "0"
 	},
 {
-          "id": 110015,
-          "type": "Chakra",
-          "name": "Nine Tails' Chakra (Yin)",
-          "effect": "Chakra Recovery +10%, HP +150%, Skill Damage +50%",
-          "normal": "Chakra Recovery +5%",
-          "charaIds": "2104",
+          "id": 110075,
+          "type": "Food",
+          "name": "Naruto Rice Ball",
+          "effect": "6 Turns: ATK +90%, HP and Chakra Recovery +30%",
+          "normal": "3 Turns: HP and Chakra Recovery +15%",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
+{
+          "id": 110085,
+          "type": "Skill",
+          "name": "Miraculous Ultra-Big Ball Rasengan",
+          "effect": "Skill Damage, HP and ATK +150%",
+          "normal": "Skill Damage +40%",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201035,
+          "type": "Stats",
+          "name": "Naruto's Haori 2019",
+          "effect": "HP +120%, SPD +80%, Skill Damage +50%",
+          "normal": "HP +31%",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201065,
+          "type": "Chakra",
+          "name": "Kurama's Shadow Clone Chakra",
+          "effect": "1 Turn: Set Chakra Cost to 0, HP and Chakra Recovery +30%, Debuff Immunity",
+          "normal": "1 Turn: Chakra Cost -20%, HP and Chakra Recovery +10%, Debuff Duration -50%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201075,
+          "type": "Additional",
+          "name": "Will to Rescue a Friend",
+          "effect": "SPD +70% every turn (Max 210%), Cast Speed +1, Cancel Immunity",
+          "normal": "SPD +20% every turn (Max 60%)",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201115,
+          "type": "Chakra",
+          "name": "Master and Student Toad",
+          "effect": "If there's a Jiraiya ally: Chakra Cost -70% and SPD +60%, If there's a Naruto ally: SPD and Skill Damage +60%",
+          "normal": "If there's a Jiraiya or Naruto ally: SPD +20%",
+          "charaIds": "101,102,104,105,106,107,109,110,111,2401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201175,
+          "type": "Medal",
+          "name": "Narukore Grand Prize Certificate (2)",
+          "effect": "Skill Damage, HP and ATK +150%",
+          "normal": "HP +100%",
+          "charaIds": "0",
+          "cardIds": "20041006",
+          "charaGroupIds": "0"
+},
 {
           "id": 201305,
           "type": "Chakra",
@@ -1154,7 +1674,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Team 8's Bond",
           "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 8 Turns: Chance for Skill Immunity",
-          "normal": "Incoming Skill Damage, Debuff and Status Effect Reduction",
+          "normal": "Incoming Skill Damage, Debuff and Status Effect Duration Reduction",
           "charaIds": "701,702,703,704,801,802,901,902",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -1164,8 +1684,48 @@ window.enggear=[
           "type": "Resistance",
           "name": "Asuma's Gift",
           "effect": "10 Turns: Debuff and Status Effect Immunity, Cast Speed +1, Low Chance for Skill Immunity",
-          "normal": "Incoming Skill Damage, Debuff and Status Effect Duration -50%",
+          "normal": "Incoming Skill Damage, Debuff and Status Effect Duration Reduction",
           "charaIds": "401,402,403,501,502,503,601,602,603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 204195,
+          "type": "Additional",
+          "name": "Naruto's Jacket",
+          "effect": "SPD and Skill Damage +69%, 3 Turns: Chakra Cost -69%",
+          "normal": "SPD and Skill Damage +30%",
+          "charaIds": "102,104,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 205015,
+          "type": "Resistance",
+          "name": "Feelings Parents",
+          "effect": "2 Turns: Skill Immunity, HP Recovery +50%, SPD +30%",
+          "normal": "2 Turns: Incoming Skill Damage -50%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 205025,
+          "type": "Additional",
+          "name": "Naruto's Nine Tails Netsuke",
+          "effect": "2 Turns: SPD +90%, Cast Speed +1",
+          "normal": "SPD +40%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 207235,
+          "type": "Chakra",
+          "name": "Uzumaki Clan Crest",
+          "effect": "1 Turn: Set Chakra Cost to 0, Chakra Recovery +30%, Chance to Dodge Skills",
+          "normal": "Chakra Recovery +10%, Low Chance to Dodge Skills",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1190,6 +1750,26 @@ window.enggear=[
           "charaGroupIds": "0"
      },	 
 {
+          "id": 208155,
+          "type": "Chakra",
+          "name": "Naruto's Forehead Protector (Nine Tails)",
+          "effect": "Chakra Cost -50%, Tailed Beast Skill Damage +100%",
+          "normal": "Chakra Cost -25%",
+          "charaIds": "107",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 208165,
+          "type": "Stats",
+          "name": "Kurama's Haori",
+          "effect": "Chakra +50, ATK, DEF and SPD +70%, Cast Speed +1",
+          "normal": "Chakra +20, ATK, DEF and SPD +20%",
+          "charaIds": "107",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 208215,
           "type": "Additional",
           "name": "Kurotsuchi's Forehead Protector",
@@ -1209,6 +1789,26 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 	},
+{
+          "id": 208235,
+          "type": "Skill",
+          "name": "Naruto's Truth Seeking Orb (God)",
+          "effect": "ATK and Skill Damage +150%, Chakra Cost -50%",
+          "normal": "ATK and Skill Damage +50%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 208245,
+          "type": "Stats",
+          "name": "Naruto's Six Paths Haori",
+          "effect": "HP +150%, SPD +70%, High Chance to Dodge Skills",
+          "normal": "HP +100%, SPD +30%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 208305,
           "type": "Skill",
@@ -1238,7 +1838,47 @@ window.enggear=[
           "charaIds": "601,602,603",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
+{
+          "id": 210055,
+          "type": "Stats",
+          "name": "Seal Lock",
+          "effect": "HP +120%, ATK, DEF and SPD +80%",
+          "normal": "HP, ATK, DEF and SPD +20%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 210065,
+          "type": "Chakra",
+          "name": "Unleashed Chakra",
+          "effect": "1 Turn: Set Chakra Cost to 0, 2 Turns: Cast Speed +1, 3 Turns: Cancel Immunity",
+          "normal": "1 Turn: Chakra Cost -20%",
+          "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 212155,
+          "type": "Chakra",
+          "name": "Hashirama Cell Prosthetic Arm",
+          "effect": "Chakra +100, 2 Turns: Set Chakra Cost to 0, 3 Turns: Chakra Cost -50%",
+          "normal": "Chakra +30, 2 Turns: Chakra Cost -20%",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 212185,
+          "type": "Additional",
+          "name": "Naruto's Haori 2020",
+          "effect": "1 Turn: Set Chakra Cost to 0, 2 Turns: Cast Speed +1, 3 Turns: Skill Damage +100%",
+          "normal": "1 Turn: Set Chakra Cost to 0",
+          "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 212305,
           "type": "Resistance",
@@ -2203,7 +2843,7 @@ window.enggear=[
           "id": 307035,
           "type": "Resistance",
           "name": "Mount Myoboku's Vegetation",
-          "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 2 Turns: Fixed Damage Deals 0 Damage",
+          "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 2 Turns: Fixed Damage Immunity",
           "normal": "Debuffs and Status Effect Duration -50%",
           "charaIds": "106",
           "cardIds": "0",
@@ -2334,7 +2974,7 @@ window.enggear=[
           "type": "Stats",
           "name": "Yellow Wind",
           "effect": "HP and SPD +100%, Chakra Recovery +50%, Start the Battle with 100% Chakra",
-          "normal": "HP and SPD +40%.",
+          "normal": "HP and SPD +40%",
           "charaIds": "104",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -2354,7 +2994,7 @@ window.enggear=[
           "type": "Food 2",
           "name": "NSC 7 Star Election 2020 (Yellow)",
           "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 3 Turns: Cast Speed +1",
-          "normal": "Yellow Characters: Start the Battle with 50% Chakra and Rinne Sharingan, Sharingan and Illusion Skill Damage +80%",
+          "normal": "Yellow Characters: Start the Battle with 50% Chakra and Rinne Sharingan, Sharingan and Genjutsu Skill Damage +80%",
           "charaIds": "0",
           "cardIds": "20041110,20050514,20051006",
           "charaGroupIds": "0"
@@ -2374,7 +3014,7 @@ window.enggear=[
           "type": "Food 2",
           "name": "NSC 7 Star Election 2020 (Red)",
           "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 1 Turn: Chance for Fixed Damage deals 0 Damage",
-          "normal": "Red Characters: Start the Battle with 50% Chakra and Sage, Sharingan and Illusion Skill Damage +80%",
+          "normal": "Red Characters: Start the Battle with 50% Chakra and Sage, Sharingan and Genjutsu Skill Damage +80%",
           "charaIds": "0",
           "cardIds": "20050605,20030924,20040115",
           "charaGroupIds": "0"
@@ -2833,7 +3473,7 @@ window.enggear=[
           "id": 310055,
           "type": "Skill",
           "name": "Massive Tailed Beast Rasenshuriken",
-          "effect": "Cast Speed +1 (Additional +1 when HP >80%), Skill Damage +50%, Chakra Recovery +30%",
+          "effect": "Cast Speed +1, HP >80%: Cast Speed +1 (Max 2), Skill Damage +50%, Chakra Recovery +30%",
           "normal": "Cast Speed +1, Chakra Recovery +10%",
           "charaIds": "108",
           "cardIds": "0",
@@ -4114,7 +4754,7 @@ window.enggear=[
           "type": "Skill",
           "name": "Memories of the First Practice",
           "effect": "Cast Speed +2. ATK, DEF, SPD and Skill Damage +120%",
-          "normal": "Cast Speed +1. If Konoha: ATK, DEF and SPD +35%",
+          "normal": "Cast Speed +1. Konoha Characters: ATK, DEF and SPD +35%",
           "charaIds": "102,204,303,1704",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -4156,6 +4796,26 @@ window.enggear=[
           "effect": "88.8% Chance to Dodge Skills, HP +210,401, DEF and SPD +88.8%, Cast Speed +1",
           "normal": "40.1% Chance to Dodge Skills, SPD, HP and DEF +40.1%, 4 Turns: Cast Speed +1",
           "charaIds": "101,102,103,104,105,106,107,108,109,110,111,112,113,114,116,201,202,203,204,206,207,208,209,210,212,213,214,215,216",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 405015,
+          "type": "Additional",
+          "name": "Deidara's Maxim",
+          "effect": "Start the Battle with 50% Chakra, Cast Speed +2, 5 Turns: High Chance to Dodge Skills",
+          "normal": "Cast Speed +1, 3 Turns: Chance to Dodge Skills",
+          "charaIds": "12002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 405025,
+          "type": "Skill",
+          "name": "18th Genjutsu Art: C2 Dragon",
+          "effect": "Skill Damage +120%, Debuff and Status Effect Immunity, HP Recovery +30%",
+          "normal": "Skill Damage +60%, Debuff and Status Effect Duration -50%",
+          "charaIds": "12002",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
