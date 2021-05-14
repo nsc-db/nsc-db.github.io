@@ -2,7 +2,7 @@ window.detail=[
 {
           "id": 20070504,
           "name": "Zetsu",
-          "subtext": "Thunderclap Technician and Blue Beast",
+          "subtext": "Infinite Darkness",
 
           "lead": "All Characters: Low Chance to Recover 30% HP and Chakra when Attacked",
 
