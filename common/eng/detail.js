@@ -1,5 +1,61 @@
 window.detail=[
 {
+          "id": 20070504,
+          "name": "Zetsu",
+          "subtext": "Thunderclap Technician and Blue Beast",
+
+          "lead": "All Characters: Low Chance to Recover 30% HP and Chakra when Attacked",
+
+          "s1n": "Wood Style: Tree Burial",
+          "s1": "Deal 650,000 Fixed Damage to all enemies. High Chance to Inflict 'Spore: Deprivation' State (If it's an EX enemy: Guaranteed). If under 'Spore: Absorption' State: Deal 6x damage to enemies inflicted with 'Spore: Deprivation' State. [Spore: Deprivation: Positive Special State Immunity. Chakra Cost +50%, High Chance to Skip 1 turn] (Always Hit)",
+		  "s1ntr": "Wood",
+          "s1cs": "Fast",
+          "s1c": 60,
+
+          "s2n": "We Are Kaguya's... Will",
+          "s2": "Recover 700,000 HP and Grant 'Protection' State to Party. Grant 'Spore: Absorption' State to self. High Chance to Inflict 'Disable Positive Special State' Effect to all enemies (If it's an EX enemy: Guaranteed). [Spore Absorption: Grant Immortality] [Protection: Remove and Immune to Debuff, Status Effect and Negative Special State]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Talkative White",
+          "a1": "At the Start of Battle, Grant 'Spore: Absoption' State to self and If there's a Kaguya ally: Grant 'Protection' State to Party",
+
+          "a2n": "Black Tongue",
+          "a2": "While under 'Spore: Absoption' State: Set Chakra Cost to 0, High Chance for Extra Turn, High Chance to grant Instant Action when Attacked",
+
+          "a3n": "Yellow Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow."
+      },
+{
+          "id": 20070503,
+          "name": "Kakashi and Guy",
+          "subtext": "Thunderclap Technician and Blue Beast",
+
+          "lead": "Konoha Characters: ATK, DEF and SPD +100%, Cast Speed +1 and 1 Turn: Skill Immunity",
+
+          "s1n": "Youth Cooperation: Great Wind Lightning Cable",
+          "s1": "Deal 3% + 1,000,000 damage to all enemies. Ignore Resistance and Inflict 'Paralysis'. If there's an enemy under 'Paralysis': Deal 5 Additional Attacks dealing 3% + 500,000. (Always Hit)",
+		  "s1ntr": "Unique",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "Cooperation: Earth Render Flaming Fist",
+          "s2": "Deal 3,333,333 Fixed Damage to target enemy. Guarantee Inflict 'Skip'. Deal 10 Additional Attacks dealing 333,333 Fixed Damage. [True Thunder Beast: 2nd Stage: (Enemy): High chance to Disable First Strike, Insta Cast and Instant Action. (Allies): Enemy Terrain Immunity, Chance to grant Instant Action when Attacked, Remove Negative Special and God State. 3rd Stage: (Allies): Chance for an Extra Turn, Chance to Grant 1 Turn of Skill Immunity when Attacked (Always Hit)",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 100,
+
+          "a1n": "Eternal Rival",
+          "a1": "Start the Battle with 'True Thunder Beast' Shinobi Formation, SPD +666%",
+
+          "a2n": "Calm and Passion",
+          "a2": "Revive +3, 2 Turns: Skill Immunity, Chance for Instant Action when Attacked",
+
+          "a3n": "Red and Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red and Black."
+      },
+{
           "id": 20040803,
           "name": "Sasuke Uchiha",
           "subtext": "Tempestous Wind Echoing Thru Thunder",
@@ -175,7 +231,7 @@ window.detail=[
           "lead": "Yellow Characters: DEF and Skill Damage +50%",
 
           "s1n": "Expansion Jutsu",
-          "s1": "Deal 7% + 50,000 to target enemy.  Chance to Ignore Resistance and Skip 1 Turn.",
+          "s1": "Deal 7% + 50,000 to target enemy. Chance to Ignore Resistance and Skip 1 Turn.",
 		  "s1ntr": "Secret",
           "s1cs": "Fastest",
           "s1c": 80,
@@ -1659,7 +1715,7 @@ window.detail=[
           "lead": "Black Characters: HP +100%, HP and Chakra Recovery +20%",
 
           "s1n": "Fire Style: Crimson Crow Dance",
-          "s1": "Deal 3% + 700,000 to all enemies. Chance to Inflict 'Mania' God State. [Mania: DEF -300%, HP -15% every turn, before the next turn, a random effect occurs (SPD -110%\Skill Damage -200%\Cast Speed -3] (Always Hit)",
+          "s1": "Deal 3% + 700,000 to all enemies. Chance to Inflict 'Mania' God State. [Mania: DEF -300%, HP -15% every turn, before the next turn, a random effect occurs (SPD -110%, Skill Damage -200% or Cast Speed -3] (Always Hit)",
 		  "s1ntr": "Unique",
           "s1cs": "Fast",
           "s1c": 90,

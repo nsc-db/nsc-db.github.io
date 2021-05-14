@@ -4820,6 +4820,46 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 405035,
+          "type": "Additional",
+          "name": "Kakashi's Maxim",
+          "effect": "Cast Speed +2, Chance for Damage Limit 1,000,000 when Attacked",
+          "normal": "Cast Speed +1",
+          "charaIds": "60701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 405045,
+          "type": "Stats",
+          "name": "Guy's Maxim",
+          "effect": "HP, ATK, DEF and SPD +120%, Chakra Cost -50%, Debuff and Status Effect Immunity",
+          "normal": "HP, ATK, DEF and SPD +60%",
+          "charaIds": "60701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 405055,
+          "type": "Stats",
+          "name": "Zetsu's Outer Shell",
+          "effect": "HP and Skill Damage +150%, Chacne for Instant Action upon Withstanding",
+          "normal": "HP and Skill Damage +60%",
+          "charaIds": "13901",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 405065,
+          "type": "Skill",
+          "name": "Mass Production of White Zetsu",
+          "effect": "Cast Speed +2, Chakra Recovery +50%, Recover 25% HP and Chakra when Attacked",
+          "normal": "Cast Speed +1",
+          "charaIds": "13901",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 405115,
           "type": "Skill",
           "name": "Founder of Nishu",
