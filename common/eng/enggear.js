@@ -4074,7 +4074,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Haku's Sandal",
           "effect": "1 Turn: Negative Special State Immunity. Debuff and Status Effect Immunity, Cast Speed +1",
-          "normal": "Debuff and Status Effect Reduction",
+          "normal": "Debuff and Status Effect Duration Reduction",
           "charaIds": "10201",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -4093,8 +4093,8 @@ window.enggear=[
           "id": 401035,
           "type": "Chakra",
           "name": "Zabuza's Sandals (Camo)",
-          "effect": "1 Turn: Chakra Cost is set to 0, After 2 Turns: Chakra Cost -50%, Cast Speed +1",
-          "normal": "2 Turns: Chakra Cost -20%, Debuff Reduction",
+          "effect": "1 Turn: Set Chakra Cost to 0, After 2 Turns: Chakra Cost -50%, Cast Speed +1",
+          "normal": "2 Turns: Chakra Cost -20%, Debuff Duration Reduction",
           "charaIds": "10101",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -4113,7 +4113,7 @@ window.enggear=[
           "id": 401055,
           "type": "Chakra",
           "name": "Gaara's Forehead Protector",
-          "effect": "Chakra Cost -50%, If there's a God enemy: Chakra Cost is Set to 0, Skill Damage +120%",
+          "effect": "Chakra Cost -50%, If there's a God enemy: Set Chakra Cost to 0, Skill Damage +120%",
           "normal": "3 Turns: Chakra Cost -50%",
           "charaIds": "1306",
           "cardIds": "0",
@@ -4203,7 +4203,7 @@ window.enggear=[
           "id": 401145,
           "type": "Skill",
           "name": "Izuna's Sword",
-          "effect": "Skill Damage and SPD +150%, 1 Turn: Grant an Extra Turn, Chance to Cancel all Enemies when using a Skill",
+          "effect": "Skill Damage and SPD +150%, 1 Turn: Grant an Extra Turn, When using a Skill: Chance to Inflict 'Cancel' to all enemies",
           "normal": "Skill Damage +80%",
           "charaIds": "4702",
           "cardIds": "0",
@@ -4214,7 +4214,7 @@ window.enggear=[
           "type": "Stats",
           "name": "Fighting Ninja Instruction I",
           "effect": "None",
-          "normal": "If a Champion character: HP +150%, SPD +100% and HP and Chakra Recovery +20%",
+          "normal": "Champion Characters: HP +150%, SPD +100% and HP and Chakra Recovery +20%",
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -4224,7 +4224,7 @@ window.enggear=[
           "type": "Stats",
           "name": "Fighting Ninja Instruction II",
           "effect": "None",
-          "normal": "If a Champion character: HP +180%, SPD +120%, Cast Speed +1 and HP and Chakra Recovery +25%",
+          "normal": "Champion Characters: HP +180%, SPD +120%, Cast Speed +1 and HP and Chakra Recovery +25%",
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -4313,7 +4313,7 @@ window.enggear=[
           "id": 402135,
           "type": "Stats",
           "name": "My Favorite Grilled Fish",
-          "effect": "HP, DEF and SPD +100%, Recover 20% HP when attacked",
+          "effect": "HP, DEF and SPD +100%, Recover 20% HP when Attacked",
           "normal": "HP, DEF and SPD +50%",
           "charaIds": "10403",
           "cardIds": "0",
@@ -4329,7 +4329,7 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 },
-	 {
+{
           "id": 402155,
           "type": "Food 2",
           "name": "NSC General Election 2020 (Dark Illusion)",
@@ -4625,7 +4625,7 @@ window.enggear=[
           "name": "Sasuke's Susano'o (2nd Stage)",
           "effect": "Cast Speed +1, Chakra Cost -50%, Chance for Skill (except for Sharingan, Sage and Tailed Beast) Immunity",
           "normal": "Low Chance for Skill (except for Sharingan, Sage and Tailed Beast) Immunity",
-          "charaIds": "211,212",
+          "charaIds": "212",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -4635,7 +4635,7 @@ window.enggear=[
           "name": "Sasuke's Susano'o (2nd Stage) Bow",
           "effect": "Cast Speed +2, Start the Battle with 100% Chakra, Chakra Cost -50%",
           "normal": "Start the Battle with 100% Chakra",
-          "charaIds": "211,212",
+          "charaIds": "212",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -4800,6 +4800,36 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 404165,
+          "type": "Additional",
+          "name": "6th Anniversary Logo",
+          "effect": "None",
+          "normal": "6 Turns: 66% Chance to Dodge Skills & Chakra Cost -66% & HP Recovery +16%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
+{
+          "id": 404175,
+          "type": "Resistance",
+          "name": "Cheering Light",
+          "effect": "None",
+          "normal": "HP >= 60%: Low Chance for Skill Immunity",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
+{
+          "id": 404185,
+          "type": "Stats",
+          "name": "Cheering Fan",
+          "effect": "None",
+          "normal": "6 Turns: SPD +366 & Skill Damage +106% and Cast Speed +1",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
+{
           "id": 405015,
           "type": "Additional",
           "name": "Deidara's Maxim",
@@ -4843,7 +4873,7 @@ window.enggear=[
           "id": 405055,
           "type": "Stats",
           "name": "Zetsu's Outer Shell",
-          "effect": "HP and Skill Damage +150%, Chacne for Instant Action upon Withstanding",
+          "effect": "HP and Skill Damage +150%, Chance for Instant Action upon Withstanding",
           "normal": "HP and Skill Damage +60%",
           "charaIds": "13901",
           "cardIds": "0",
