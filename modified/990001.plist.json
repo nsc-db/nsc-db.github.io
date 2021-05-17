@@ -44,15 +44,6 @@
           "resetTime": null
         },
         {
-          "loginBonusId": "500",
-          "name": "ガマブン太の月間ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.01 00:00:00",
-          "closeTime": "2021.04.30 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "501",
           "name": "猫バアの毎日招き猫パック",
           "type": "8",
@@ -85,33 +76,6 @@
           "type": "8",
           "openTime": "2018.01.01 00:00:00",
           "closeTime": "2035.12.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "514",
-          "name": "伝説盤登場記念ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.02 00:00:00",
-          "closeTime": "2021.04.30 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "531",
-          "name": "6周年前夜祭ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.29 00:00:00",
-          "closeTime": "2021.04.29 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "533",
-          "name": "6周年前夜祭ログインボーナス",
-          "type": "2",
-          "openTime": "2021.04.30 00:00:00",
-          "closeTime": "2021.04.30 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },

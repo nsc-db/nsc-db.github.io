@@ -9177,5 +9177,15 @@
           "appUiId": "1849",
           "uiKey": "SphereUseSpecificConfirmFormat",
           "text": "本当に\r\n%s\r\nを消費して解放してもよろしいですか？"
+        },
+        {
+          "appUiId": "1856",
+          "uiKey": "SummonAbility3",
+          "text": "乱舞アビリティ3"
+        },
+        {
+          "appUiId": "1869",
+          "uiKey": "SphereAttribute_304",
+          "text": "四"
         }
       ]

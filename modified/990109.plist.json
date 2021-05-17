@@ -27959,6 +27959,26 @@
           "effectIds": "1789,874,3620,2343,"
         },
         {
+          "abilityId": "2854",
+          "abilityName": "吸力欲求",
+          "abilityDescription": "行動するたび素早さ50%UP(3回まで)",
+          "abilityEffectDescription": "行動するたび素早さ50%UP(3回まで)",
+          "effectIdx1": "2089",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2089,"
+        },
+        {
+          "abilityId": "2855",
+          "abilityName": "空間新生",
+          "abilityDescription": "行動後・被攻撃時に、HP&amp;チャクラ25％回復",
+          "abilityEffectDescription": "行動後・被攻撃時に、HP&amp;チャクラ25％回復",
+          "effectIdx1": "3207",
+          "effectIdx2": "1892",
+          "effectIdx3": "4078",
+          "effectIds": "3207,1892,4078,4079,"
+        },
+        {
           "abilityId": "2856",
           "abilityName": "饒舌の白",
           "abilityDescription": "バトル開始時、自身に短い間胞子・吸状態を付与＆味方に大筒木カグヤがいると味方全体に堅護状態を付与",
@@ -30257,6 +30277,16 @@
           "effectIdx2": "228450",
           "effectIdx3": "3762",
           "effectIds": "229404,228450,3762,3763,3764,3766,"
+        },
+        {
+          "abilityId": "200024",
+          "abilityName": "全属性特化",
+          "abilityDescription": "低確率で心･技･体･勇･知属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "低確率で心･技･体･勇･知属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "229405",
+          "effectIdx2": "229406",
+          "effectIdx3": "229407",
+          "effectIds": "229405,229406,229407,229408,229409,"
         },
         {
           "abilityId": "210001",

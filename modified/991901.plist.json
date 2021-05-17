@@ -2311,5 +2311,18 @@
           "normalPanelList": "5018001,5018002,5018003",
           "specialPanelList": "5018004,5018005,5018006",
           "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "5000020",
+          "boardName": "カグヤ",
+          "boardDescription": "大筒木カグヤ【威界の侵獣】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "50070501",
+          "normalPanelList": "5019001,5019002,5019003,5019007",
+          "specialPanelList": "5019004,5019005,5019006,5019008",
+          "legendPanelList": "0"
         }
       ]

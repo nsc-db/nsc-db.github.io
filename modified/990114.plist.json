@@ -3437,5 +3437,15 @@
           "subScore": "0",
           "color": "49151",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "355",
+          "category": "6",
+          "iconId": "1439",
+          "name": "虚滅",
+          "description": "ｱｸｼｮﾝ時、確率で即死。被攻撃時耐える・HP0以下で全回復・HP0で不死無効※一部ｱﾋﾞﾘﾃｨ・かばう時除く",
+          "subScore": "0",
+          "color": "0",
+          "type": "3"
         }
       ]
