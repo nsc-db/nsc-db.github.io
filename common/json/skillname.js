@@ -8376,6 +8376,26 @@ window.skillname=[
           "name": "スーパーフラットだ、うん！"
         },
         {
+          "cardBattleSkillNameId": "3306",
+          "name": "引斥瞳術・破天翔刃"
+        },
+        {
+          "cardBattleSkillNameId": "3307",
+          "name": "お前のおかげで届いたんだ"
+        },
+        {
+          "cardBattleSkillNameId": "3308",
+          "name": "豪壊・桜花衝"
+        },
+        {
+          "cardBattleSkillNameId": "3309",
+          "name": "やっと…届いたんだから！"
+        },
+        {
+          "cardBattleSkillNameId": "3310",
+          "name": "拳破瞬斬・桜花雷追衝"
+        },
+        {
           "cardBattleSkillNameId": "3311",
           "name": "連携・裂土熱翔拳"
         },
@@ -8384,12 +8404,20 @@ window.skillname=[
           "name": "青春連携・剛風雷伝"
         },
         {
+          "cardBattleSkillNameId": "3313",
+          "name": "十尾化・虚滅掌"
+        },
+        {
           "cardBattleSkillNameId": "3314",
           "name": "木遁・樹絶葬"
         },
         {
           "cardBattleSkillNameId": "3315",
           "name": "オレ達ノ意志ハ…カグヤダ"
+        },
+        {
+          "cardBattleSkillNameId": "3356",
+          "name": "暗黒の時代ではありません"
         },
         {
           "cardBattleSkillNameId": "10136",

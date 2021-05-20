@@ -3206,6 +3206,20 @@ window.charaname=[
           "gender": "2"
         },
         {
+          "charaProfileId": "14302",
+          "charaId": "143",
+          "name": "大筒木カグヤ",
+          "detail": null,
+          "charaLoveAffinityGroupId": "14310",
+          "birthday": "815",
+          "constellation": "5",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "2"
+        },
+        {
           "charaProfileId": "14401",
           "charaId": "144",
           "name": "大筒木アシュラ",
@@ -4373,6 +4387,20 @@ window.charaname=[
           "name": "ナルト＆ミナト",
           "detail": "忍絵巻-絆-",
           "charaLoveAffinityGroupId": "61301",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "61401",
+          "charaId": "614",
+          "name": "サスケ＆サクラ",
+          "detail": "忍絵巻-絆-",
+          "charaLoveAffinityGroupId": "61401",
           "birthday": "0",
           "constellation": "0",
           "height": "0",

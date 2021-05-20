@@ -27920,6 +27920,46 @@ window.ability=[
           "effectIds": "4044,4045,"
         },
         {
+          "abilityId": "2846",
+          "abilityName": "償いと愛情",
+          "abilityDescription": "サクラからローテーション時、自身にサスケへの想いを付与､HP0以下で3回HP全回復、耐えた時即アクション",
+          "abilityEffectDescription": "サクラからローテーション時、自身にサスケへの想いを付与､HP0以下で3回HP全回復、耐えた時即アクション",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "3241",
+          "effectIds": "1789,874,3241,4096,"
+        },
+        {
+          "abilityId": "2847",
+          "abilityName": "届きし者の瞳力",
+          "abilityDescription": "バトル開始時確率で先制（敵に神忍祭限定キャラ生存時確実に先制）、素早さ1000%アップ",
+          "abilityEffectDescription": "バトル開始時確率で先制（敵に神忍祭限定キャラ生存時確実に先制）、素早さ1000%アップ",
+          "effectIdx1": "3266",
+          "effectIdx2": "3733",
+          "effectIdx3": "13100",
+          "effectIds": "3266,3733,13100,"
+        },
+        {
+          "abilityId": "2848",
+          "abilityName": "実らせた想い",
+          "abilityDescription": "サスケからローテーション時、自身にサクラへの願いを付与､HP0以下で3回HP全回復、耐えた時即アクション",
+          "abilityEffectDescription": "サスケからローテーション時、自身にサクラへの願いを付与､HP0以下で3回HP全回復、耐えた時即アクション",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "3241",
+          "effectIds": "1789,874,3241,4097,"
+        },
+        {
+          "abilityId": "2849",
+          "abilityName": "練達の医拳",
+          "abilityDescription": "バトル開始時確率で先制（敵に破神生存時確実に先制）、全スキルダメージ半減",
+          "abilityEffectDescription": "バトル開始時確率で先制（敵に破神生存時確実に先制）、全スキルダメージ半減",
+          "effectIdx1": "3266",
+          "effectIdx2": "3017",
+          "effectIdx3": "351",
+          "effectIds": "3266,3017,351,"
+        },
+        {
           "abilityId": "2850",
           "abilityName": "永遠のライバル",
           "abilityDescription": "バトル開始・行動時に【忍方陣：迅雷猛獣】を展開｡素早さ666%アップ",
@@ -27960,6 +28000,26 @@ window.ability=[
           "effectIds": "1789,874,3620,2343,"
         },
         {
+          "abilityId": "2854",
+          "abilityName": "吸力欲求",
+          "abilityDescription": "行動するたび素早さ50%UP(3回まで)",
+          "abilityEffectDescription": "行動するたび素早さ50%UP(3回まで)",
+          "effectIdx1": "2089",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2089,"
+        },
+        {
+          "abilityId": "2855",
+          "abilityName": "空間新生",
+          "abilityDescription": "行動後・被攻撃時に、HP&amp;チャクラ25％回復",
+          "abilityEffectDescription": "行動後・被攻撃時に、HP&amp;チャクラ25％回復",
+          "effectIdx1": "3207",
+          "effectIdx2": "1892",
+          "effectIdx3": "4078",
+          "effectIds": "3207,1892,4078,4079,"
+        },
+        {
           "abilityId": "2856",
           "abilityName": "饒舌の白",
           "abilityDescription": "バトル開始時、自身に短い間胞子・吸状態を付与＆味方に大筒木カグヤがいると味方全体に堅護状態を付与",
@@ -27978,6 +28038,26 @@ window.ability=[
           "effectIdx2": "4085",
           "effectIdx3": "4086",
           "effectIds": "4084,4085,4086,"
+        },
+        {
+          "abilityId": "2858",
+          "abilityName": "二つの血継限界",
+          "abilityDescription": "HP90%以上の時に素早さ100%アップ、行動後にHPとチャクラを30%回復",
+          "abilityEffectDescription": "HP90%以上の時に素早さ100%アップ、行動後にHPとチャクラを30%回復",
+          "effectIdx1": "2219",
+          "effectIdx2": "300012",
+          "effectIdx3": "2524",
+          "effectIds": "2219,300012,2524,"
+        },
+        {
+          "abilityId": "2859",
+          "abilityName": "後進への慈愛",
+          "abilityDescription": "HP80%以上の時、スキルダメージが80%アップ＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80%以上の時、スキルダメージが80%アップ＆スキル発動速度1段階アップ",
+          "effectIdx1": "31707",
+          "effectIdx2": "1089",
+          "effectIdx3": "0",
+          "effectIds": "31707,1089,"
         },
         {
           "abilityId": "10000",
@@ -30258,6 +30338,16 @@ window.ability=[
           "effectIdx2": "228450",
           "effectIdx3": "3762",
           "effectIds": "229404,228450,3762,3763,3764,3766,"
+        },
+        {
+          "abilityId": "200024",
+          "abilityName": "全属性特化",
+          "abilityDescription": "低確率で心･技･体･勇･知属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "abilityEffectDescription": "低確率で心･技･体･勇･知属性へのスキル攻撃時に相手の耐性を弱点とする",
+          "effectIdx1": "229405",
+          "effectIdx2": "229406",
+          "effectIdx3": "229407",
+          "effectIds": "229405,229406,229407,229408,229409,"
         },
         {
           "abilityId": "210001",
@@ -32738,6 +32828,16 @@ window.ability=[
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "4070,"
+        },
+        {
+          "abilityId": "310222",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "1回行動まで幻惑解除＆無効化",
+          "abilityEffectDescription": "1回行動まで幻惑解除＆無効化",
+          "effectIdx1": "4098",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "4098,"
         },
         {
           "abilityId": "801187",
