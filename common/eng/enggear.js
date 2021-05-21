@@ -730,6 +730,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 4535,
+          "type": "Resistance",
+          "name": "Sasuke's Black Cloak",
+          "effect": "Incoming Skill Damage Reduced, HP +50%",
+          "normal": "Incoming Sharingan and Rinnesharingan Skill Damage Reduced",
+          "charaIds": "208",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4545,
+          "type": "Stats",
+          "name": "Sasuke's Katana",
+          "effect": "6 Turns: ATK and Skill Damage +50%, After 6 Turns: ATK and Skill Damage +150%",
+          "normal": "ATK +60%",
+          "charaIds": "208",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 4555,
           "type": "Additional",
           "name": "Naruto's Armband",
@@ -850,6 +870,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 5105,
+          "type": "Stats",
+          "name": "Sasuke's Rinnesharingan",
+          "effect": "ATK +100%",
+          "normal": "6 Turns: ATK +100%",
+          "charaIds": "209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5115,
+          "type": "Skill",
+          "name": "Indra's Arrow",
+          "effect": "Skill Damage +150%",
+          "normal": "6 Turns: Skill Damage +100%",
+          "charaIds": "209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 5125,
           "type": "Skill",
           "name": "Mini Rasen-Shuriken",
@@ -940,6 +980,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 5405,
+          "type": "Chakra",
+          "name": "Sasuke's Belt",
+          "effect": "Chakra Cost -20%, HP +40%",
+          "normal": "Chakra Cost -20%",
+          "charaIds": "208",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5615,
+          "type": "Skill",
+          "name": "Sage: Susanoo Arrow",
+          "effect": "Skill Damage +100%, ATK +50%",
+          "normal": "Sage Skill Damage +30%",
+          "charaIds": "0",
+          "cardIds": "20001735,20001777,20030614,20001766,20030715,20030920,20030921",
+          "charaGroupIds": "0"
+},
+{
           "id": 5745,
           "type": "Additional",
           "name": "YES / NO Pillow",
@@ -980,6 +1040,36 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 6075,
+          "type": "Chakra",
+          "name": "Jugo's Chakra",
+          "effect": "Chakra Recovery, SPD and Skill Damage +20%",
+          "normal": "Chakra Recovery +5%",
+          "charaIds": "204,207,13501,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6105,
+          "type": "Additional",
+          "name": "Dark Heart",
+          "effect": "ATK +100%, SPD and Skill Damage +50%",
+          "normal": "ATK and SPD +20%, Sharingan Skill Damage +30%",
+          "charaIds": "201,204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6115,
+          "type": "Food",
+          "name": "Sasuke's Rice Ball",
+          "effect": "6 Turns: Chakra Cost -50% and Skill Damage +20%",
+          "normal": "3 Turns: Chakra Cost -30%",
+          "charaIds": "201,203,204,206,207,208,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 6135,
           "type": "Chakra",
           "name": "Nine Tails' Chakra",
@@ -996,6 +1086,26 @@ window.enggear=[
           "effect": "HP, ATK and DEF +20,000",
           "normal": "HP, ATK and DEF +10,000",
           "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6155,
+          "type": "Additional",
+          "name": "Susanoo's Twin Swords",
+          "effect": "HP, ATK and DEF +20,000",
+          "normal": "HP, ATK and DEF +10,000",
+          "charaIds": "209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6165,
+          "type": "Chakra",
+          "name": "Tailed Beast Sealing Rocks",
+          "effect": "Chakra Recovery +20%, 9 Turns: Skill Damage +50%",
+          "normal": "9 Turns: Chakra Recovery +20%",
+          "charaIds": "209",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1060,6 +1170,36 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 6505,
+          "type": "Stats",
+          "name": "Sasuke's Ninja Tools",
+          "effect": "ATK +100%, SPD and Skill Damage +50%",
+          "normal": "ATK and SPD +20%, Fire Skill Damage +30%",
+          "charaIds": "201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6755,
+          "type": "Skill",
+          "name": "Sasuke's Sharingan (Illusion)",
+          "effect": "Skill Damage +100%, ATK and SPD +50%",
+          "normal": "Sharingan Skill Damage +50%",
+          "charaIds": "11601,204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6765,
+          "type": "Skill",
+          "name": "Kirin",
+          "effect": "Lightning Skill Damage +150%, Chakra Recovery +10%",
+          "normal": "Lightning Skill Damage +50%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 6855,
           "type": "Additional",
           "name": "Gerotora",
@@ -1110,12 +1250,32 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 6965,
+          "type": "Skill",
+          "name": "Indra's Soul",
+          "effect": "ATK and Skill Damage +100%",
+          "normal": "ATK and Skill Damage +50%",
+          "charaIds": "209,13703,14502,13706,212,216,60101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},			
+{
           "id": 7055,
           "type": "Food",
           "name": "Naru-ckers! ",
           "effect": "ATK +70%, After 3 Turns: HP Recovery +10%",
           "normal": "3 Turns: SPD +50%, After 3 Turns: ATK +70%",
           "charaIds": "501,502,503,101,102,103,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7075,
+          "type": "Food",
+          "name": "Itachi's Onigiri",
+          "effect": "Sharingan Skill Damage +50%, Incoming Sharingan, Rinnegan and Rinne Sharingan Skill Damage -50%",
+          "normal": "After 3 Turns: Sharingan Skill Damage +50%",
+          "charaIds": "11601,11602,11603,201,202,203,204,205,206,207,208,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1150,12 +1310,62 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 7635,
+          "type": "Resistance",
+          "name": "Opposition to Naruto (God) ",
+          "effect": "Incoming Skill Damage -50%, HP and Skill Damage +100%",
+          "normal": "Incoming Sage and Tailed Beast Skill Damage Reduction",
+          "charaIds": "209,212,216,215",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7635,
+          "type": "Resistance",
+          "name": "Opposition to Naruto (All) ",
+          "effect": "5 Turns: Sage and Tailed Beast Skill Immunity, HP +100%, Cast Speed +1",
+          "normal": "Incoming Sage and Tailed Beast Skill Damage Reduction",
+          "charaIds": "201,202,203,204,205,206,207,208,209,210,212,216,60101,215",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7645,
+          "type": "Additional",
+          "name": "Fragment of Stone Statue (Left)",
+          "effect": "Chakra +50, ATK +100%, SPD +50%",
+          "normal": "Chakra +10",
+          "charaIds": "209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7695,
+          "type": "Resistance",
+          "name": "Sasuke's Susanoo (Bone)",
+          "effect": "Sharingan Skill Damage +100%, 3 Turns: Skill Immunity",
+          "normal": "Skill Damage +20%, 2 Turns: Incoming Skill Damage -50%",
+          "charaIds": "204",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 7945,
           "type": "Skill",
           "name": "Gamakichi's Haori",
           "effect": "Wind and Summoning Skill Damage +100%, When Attacked: HP Recovery +10%",
           "normal": "Wind and Summoning Skill Damage +40%",
           "charaIds": "101,102,103,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7955,
+          "type": "Skill",
+          "name": "Aoda's Gavel",
+          "effect": "Fire and Summoning Skill Damage +100%, When Attacked: HP Recovery +10%",
+          "normal": "Fire and Summoning Skill Damage +40%",
+          "charaIds": "201,202,203,204,206,207,208,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1260,15 +1470,15 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
-          "id": 8845,
-          "type": "Chakra",
-          "name": "Amber Purification Jar",
-          "effect": "Chakra Recovery +30%, Skill Damage +70%, Tailed Beast and Six Paths Skill Immunity",
-          "normal": "Chakra -30% every turn, Skill Damage +50%, Tailed Beast and Six Paths Skill Immunity",
-          "charaIds": "0",
-          "cardIds": "20001736,20030512,20031209,20040810,20060506",
-          "charaGroupIds": "700000"
-     },
+          "id": 8435,
+          "type": "Skill",
+          "name": "Inferno Style: Honoikazuchi",
+          "effect": "Skill Damage and SPD +70%, Inferno Skill Damage +100%",
+          "normal": "Skill Damage +30%",
+          "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 8585,
           "type": "Stats",
@@ -1290,6 +1500,46 @@ window.enggear=[
           "charaGroupIds": "0"
 	},
 {
+          "id": 8845,
+          "type": "Chakra",
+          "name": "Amber Purification Jar",
+          "effect": "Chakra Recovery +30%, Skill Damage +70%, Tailed Beast and Six Paths Skill Immunity",
+          "normal": "Chakra -30% every turn, Skill Damage +50%, Tailed Beast and Six Paths Skill Immunity",
+          "charaIds": "0",
+          "cardIds": "20001736,20030512,20031209,20040810,20060506",
+          "charaGroupIds": "700000"
+},
+{
+          "id": 8985,
+          "type": "Skill",
+          "name": "Sasuke's Curse Mark (State 0.5)",
+          "effect": "Skill Damage +100%, SPD +50%",
+          "normal": "Lightning Skill Damage +50%",
+          "charaIds": "201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
+{
+          "id": 105095,
+          "type": "Stats",
+          "name": "Sasuke's Bandage",
+          "effect": "HP and ATK +120%, SPD +50%",
+          "normal": "HP and ATK +50%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 105105,
+          "type": "Additional",
+          "name": "Sasuke's 'Hebi' Cloak",
+          "effect": "High Chance to Dodge Skills, Skill Damage and Normal Attack Dodge Rate +80%",
+          "normal": "Chance to Dodge Skills",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 106015,
           "type": "Skill",
           "name": "Nine Tails Chakra Hands",
@@ -1310,6 +1560,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 106055,
+          "type": "Chakra",
+          "name": "Konoha in the Valley of the End",
+          "effect": "Chakra +50, Chakra Cost -20%",
+          "normal": "Chakra Cost -5%",
+          "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 106065,
+          "type": "Skill",
+          "name": "Revolutionary Lightning",
+          "effect": "Skill Damage +120%, High Chance to Dodge Skills",
+          "normal": "Skill Damage +20%",
+          "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 106195,
           "type": "Skill",
           "name": "EX Memorial Certificate",
@@ -1317,6 +1587,16 @@ window.enggear=[
           "normal": "Skill Damage +20%",
           "charaIds": "0",
           "cardIds": "20001818,20001704,20030601,20001776,20030602",
+          "charaGroupIds": "0"
+},
+{
+          "id": 106205,
+          "type": "Additional",
+          "name": "Proof of 'Running' Luck",
+          "effect": "Skill Damage +100%, HP and Chakra Recovery +20%",
+          "normal": "Skill Damage +20%",
+          "charaIds": "0",
+          "cardIds": "20001777,20001713",
           "charaGroupIds": "0"
 },
 {
@@ -1360,12 +1640,42 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 107115,
+          "type": "Chakra",
+          "name": "Hatred of My Brother",
+          "effect": "Chakra +100, HP >50%: High Chance to Dodge Skills",
+          "normal": "Chakra +50",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 107125,
+          "type": "Skill",
+          "name": "Sasuke's Hand Armor",
+          "effect": "Lightning Skill Damage +200%, When Attacked: Chance for HP Recovery +15%",
+          "normal": "Lightning Skill Damage +50%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 108025,
           "type": "Food",
           "name": "Oshiruko",
           "effect": "HP Recovery +20%, ATK +70%, Skill Damage +50%",
           "normal": "HP Recovery +10%",
           "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108035,
+          "type": "Food",
+          "name": "Tomato",
+          "effect": "HP Recovery +20%, ATK, DEF and SPD +40%",
+          "normal": "HP Recovery +10%",
+          "charaIds": "201,202,204,206,207,208,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1407,6 +1717,16 @@ window.enggear=[
           "normal": "Status Effect Duration Reduction",
           "charaIds": "102",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 108255,
+          "type": "Skill",
+          "name": "Ranbu Approval Certificate (4)",
+          "effect": "Skill Damage +100%, HP and Chakra Recovery +30%",
+          "normal": "Skill Damage +20%",
+          "charaIds": "0",
+          "cardIds": "20001830",
           "charaGroupIds": "0"
 },
 {
@@ -1470,12 +1790,82 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 110155,
+          "type": "Skill",
+          "name": "Sasuke's Bat Brooch",
+          "effect": "Sharingan Skill Damage +150%, HP and ATK +120%",
+          "normal": "Sharingan Skill Damage +50%",
+          "charaIds": "201,202,203,204,206,207,208,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 110165,
+          "type": "Chakra",
+          "name": "Sasuke's Vampire Cloak",
+          "effect": "Chakra +100, 3 Turns: SPD +70%",
+          "normal": "Chakra +50",
+          "charaIds": "201,202,203,204,206,207,208,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 110195,
+          "type": "Stats",
+          "name": "Bat",
+          "effect": "SPD and HP +50%, HP Recovery +15%",
+          "normal": "SPD +30%, HP Recovery +10%",
+          "charaIds": "0",
+          "cardIds": "20041010,20041011,20031019,20031020",
+          "charaGroupIds": "0"
+},
+{
+          "id": 110205,
+          "type": "Resistance",
+          "name": "Jack-o-lantern",
+          "effect": "High Chance to Dodge Skills, HP >90%: Cast Speed +1, 2 Turns: Set Chakra Cost to 0",
+          "normal": "Chance to Dodge Skills, HP -5% every turn",
+          "charaIds": "0",
+          "cardIds": "20041010,20041011,20031019,20031020",
+          "charaGroupIds": "0"
+},
+{
+          "id": 111155,
+          "type": "Chakra",
+          "name": "Combined Tail Beast Susanoo",
+          "effect": "Chakra Cost -50%, SPD +50%, HP +150%",
+          "normal": "Chakra Cost -10%, SPD +10%",
+          "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 111165,
+          "type": "Stats",
+          "name": "Sasuke's Belief",
+          "effect": "HP and ATK +120%, Skill Damage +50%",
+          "normal": "HP and ATK +50%",
+          "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 201035,
           "type": "Stats",
           "name": "Naruto's Haori 2019",
           "effect": "HP +120%, SPD +80%, Skill Damage +50%",
           "normal": "HP +31%",
           "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201045,
+          "type": "Stats",
+          "name": "Sasuke's Haori 2019",
+          "effect": "HP +120%, SPD +80%, Chance to Dodge Skills",
+          "normal": "HP +31%",
+          "charaIds": "201,202,204,206,207,208,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1510,6 +1900,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 201135,
+          "type": "Chakra",
+          "name": "Master and Student Snake",
+          "effect": "If there's a Orochimaru ally: Chakra Cost -70% and SPD +60%, If there's a Sasuke ally: SPD and Skill Damage +60%",
+          "normal": "If there's a Orochimaru or Sasuke ally: SPD +20%",
+          "charaIds": "201,202,204,206,207,208,210,10301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 201175,
           "type": "Medal",
           "name": "Narukore Grand Prize Certificate (2)",
@@ -1520,6 +1920,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 201185,
+          "type": "Medal",
+          "name": "Narukore Grand Prize Certificate (1)",
+          "effect": "Chakra Cost -50%, HP +150%",
+          "normal": "HP +100%",
+          "charaIds": "0",
+          "cardIds": "20041110",
+          "charaGroupIds": "0"
+},
+{
           "id": 201305,
           "type": "Chakra",
           "name": "A Puppet Ninja Who Manipulates The Real Thing",
@@ -1527,6 +1937,26 @@ window.enggear=[
           "normal": "Chakra Cost -30%, Chakra Recovery +20%",
           "charaIds": "1503",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 202075,
+          "type": "Stats",
+          "name": "Sasuke's Wings (State 2)",
+          "effect": "SPD +80%, High Chance to Dodge Skills, 4 Turns: Chakra Cost -50%",
+          "normal": "SPD +30%, 1 Turn: Chakra Cost -50%",
+          "charaIds": "210",
+          "cardIds": "20000491,20001431,20001572,20001723,20001759,20001807,20030923",
+          "charaGroupIds": "0"
+},
+{
+          "id": 202085,
+          "type": "Resistance",
+          "name": "Sasuke's Sharingan (State 2)",
+          "effect": "Cast Speed +1, 2 Turns: Fixed Damage Immunity",
+          "normal": "Low Chance for Fixed Damage Immunity",
+          "charaIds": "210",
+          "cardIds": "20000491,20001431,20001572,20001723,20001759,20001807,20030923",
           "charaGroupIds": "0"
 },
 {
@@ -1700,6 +2130,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 204205,
+          "type": "Additional",
+          "name": "Sasuke's Jacket",
+          "effect": "SPD and Skill Damage +69%, 3 Turns: Chakra Cost -69%",
+          "normal": "SPD and Skill Damage +30%",
+          "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 205015,
           "type": "Resistance",
           "name": "Feelings Parents",
@@ -1716,6 +2156,46 @@ window.enggear=[
           "effect": "2 Turns: SPD +90%, Cast Speed +1",
           "normal": "SPD +40%",
           "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 205065,
+          "type": "Chakra",
+          "name": "Hatred the Village",
+          "effect": "1 Turn: Set Chakra Cost to 0, 2 Turns: Chakra Cost -30%, HP and Chakra Recovery +30%",
+          "normal": "1 Turn: Set Chakra Cost to 0",
+          "charaIds": "212",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 205075,
+          "type": "Additional",
+          "name": "Bloody Eternal Mangekyou Sharingan",
+          "effect": "High Chance to Dodge Skills, SPD +80%, Cast Speed +1",
+          "normal": "Low Chance to Dodge Skills",
+          "charaIds": "212",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 207115,
+          "type": "Chakra",
+          "name": "Sasuke's Pouch",
+          "effect": "Starts the Battle with 50% Chakra, SPD +60%, 5 Turns: Chakra Cost -50%",
+          "normal": "Starts the Battle with 20% Chakra, SPD +20%",
+          "charaIds": "208",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 207125,
+          "type": "Resistance",
+          "name": "Sasuke's Sword (Shinden)",
+          "effect": "Status Effect Immunity, Chance to Dodge Skills, HP Recovery +20%",
+          "normal": "Status Effect Duration -50%",
+          "charaIds": "208",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1810,6 +2290,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 208255,
+          "type": "Chakra",
+          "name": "Sasuke's Blade (God)",
+          "effect": "1 Turn: Set Chakra Cost to 0, Chakra Recovery +30%, Incoming Skill Damage -50%",
+          "normal": "1 Turn: Chakra Cost -20%",
+          "charaIds": "209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 208265,
+          "type": "Additional",
+          "name": "Sasuke's Susanoo Helmet",
+          "effect": "SPD +70% every turn (Max 210%), HP +100%, High Chance to Dodge Skills",
+          "normal": "SPD +20% every turn (Max 60%)",
+          "charaIds": "209",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 208305,
           "type": "Skill",
           "name": "Hagoromo's Rinnegan",
@@ -1860,6 +2360,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 212045,
+          "type": "Resistance",
+          "name": "Sasuke's Gloves",
+          "effect": "Low Chance for Skill Immunity, Chance for Chakra Recovery +80%",
+          "normal": "Low Chance for Incoming Skill Damage -50%",
+          "charaIds": "201,202,204,206,207,208,210,213",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 212155,
           "type": "Chakra",
           "name": "Hashirama Cell Prosthetic Arm",
@@ -1876,6 +2386,16 @@ window.enggear=[
           "effect": "1 Turn: Set Chakra Cost to 0, 2 Turns: Cast Speed +1, 3 Turns: Skill Damage +100%",
           "normal": "1 Turn: Set Chakra Cost to 0",
           "charaIds": "101,102,104,105,106,107,109,110,111",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 212195,
+          "type": "Additional",
+          "name": "Sasuke's Haori 2020",
+          "effect": "1 Turn: Set Chakra Cost to 0, 2 Turns: Cast Speed +1, 3 Turns: SPD +100%",
+          "normal": "1 Turn: Set Chakra Cost to 0",
+          "charaIds": "201,202,204,206,207,208,210",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
