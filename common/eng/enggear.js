@@ -4905,7 +4905,7 @@ window.enggear=[
           "name": "Hidden Feelings In My Heart That Protects My Friends",
           "effect": "Skill Damage +120%, Cast Speed +2, Chance for Damage Cut +50%, Start the Battle with 50% Chakra",
           "normal": "Skill Damage +50%",
-          "charaIds": "205",
+          "charaIds": "305",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
