@@ -4890,6 +4890,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 405075,
+          "type": "Stats",
+          "name": "Will to Support the Village from the Shadows",
+          "effect": "HP, ATK, DEF and SPD +120%, HP Recovery +30%, Chakra Recovery +50%",
+          "normal": "HP, ATK, DEF and SPD +40%",
+          "charaIds": "208",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 405085,
+          "type": "Skill",
+          "name": "Hidden Feelings In My Heart That Protects My Friends",
+          "effect": "Skill Damage +120%, Cast Speed +2, Chance for Damage Cut +50%, Start the Battle with 50% Chakra",
+          "normal": "Skill Damage +50%",
+          "charaIds": "205",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 405115,
           "type": "Skill",
           "name": "Founder of Nishu",

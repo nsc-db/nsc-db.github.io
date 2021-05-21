@@ -18,15 +18,15 @@ window.engkizuna=[
         {
           "cardBattleSkillId": "710002",
           "name": "Sage Art: Giant Rasengan: Nine Resonance",
-          "description": "＜Kizuna Skill＞ Deal 3% + 2,750,000 Penetration Damage to All enemies High chance to Ignore Withstand, Revive and Immortality on Non-Konoha enemies Grant 'Nine Tailed ・ Union' Beast State [Nine Tailed ・ Union: Remove and Immune to Negative Special and God State High chance to Grant Immortality when Attacked High chance to Deal 9 Additional Attacks dealing 999,999]",
+          "description": "＜Kizuna Skill＞ Deal 3% + 2,750,000 Penetration Damage to All enemies High chance to Ignore Withstand, Revive and Immortality on Non-Konoha enemies Grant 'Nine Tails (Union)' Beast State [Nine Tails (Union): Remove and Immune to Negative Special and God State High chance to Grant Immortality when Attacked High chance to Deal 9 Additional Attacks dealing 999,999]",
           "nature": "Unique",
           "cs": "Fastest",
           "cost": 100
         }
 		{
-          "cardBattleSkillId": "710002",
-          "name": "Sage: Giant Rasengan :Nine Tails Resonance",
-          "description": "＜Kizuna Skill＞ Deal 3% + 2,750,000 Penetration Damage to all enemies. High Chance to Ignore Withstand, Revive and Immortality on Non-Konoha enemies. Grant 'Nine Tailed ・ Union' Beast State. [Nine Tailed ・ Union: Remove and Immune to Negative Special and God State. High Chance to Grant Immortality when Attacked. High chance to Deal 9 Additional Attacks dealing 999,999]※ Cast Speed Effect Disabled, Skip, Cancel and Instant Action Disabled while Casting. Penetration Damage: Unaffected by Skill Immunity, Resistance, Mitigation, Damage Cut and Skill Dodge. Skill Damage cannot go below 100%. (Damage is still Halved while Defending) ",
+          "cardBattleSkillId": "710003",
+          "name": "Fist Destruction Eye Decapitation: Cherry Blossom Thunder Pierce ",
+          "description": "＜Kizuna Skill＞ Deal 7% + 5,000,000 Penetration Damage to target enemy. Ignore Withstand, Revive and Immortality. While under 'Feelings for Sasuke' and 'Feelings for Sakura' Unique States: Grant 'Feelings for Eye Fist' Unique State. [Feelings for Eye Fist: Skill Immunity, Chance for Action State]",
           "nature": "Unique",
           "cs": "Fastest",
           "cost": 100

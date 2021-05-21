@@ -1,5 +1,117 @@
 window.detail=[
 {
+          "id": 20070507,
+          "name": "Mei Terumī",
+          "subtext": "Talent to End The Blood Mist",
+
+          "lead": "Five Village Characters: ATK, DEF and SPD +60%",
+
+          "s1n": "Lava Style: Dissolving Jutsu",
+          "s1": "Deal 7% + 70,000 to target enemy. Chance to Inflict 'Poison'. If the enemy is under 'Poison': Deal 7 Additional Attacks dealing 7% + 10,000.",
+		  "s1ntr": "Lava",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "It's Not The Dark Ages",
+          "s2": "Party ATK and SPD +80%.",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Two Kekkei Genkai",
+          "a1": "HP >90%: SPD +100%, HP and Chakra Recovery +30%",
+
+          "a2n": "Charity for The Younger Generation",
+          "a2": "HP >80%: Skill Damage +80% and Cast Speed +1",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 60070502,
+          "name": "Sakura Haruno",
+          "subtext": "True Feelings Dwelling in Fist",
+
+          "lead": "Konoha Characters: Cast Speed +1, SPD +100% and 3 Turns: Skill Immunity",
+
+          "s1n": "Grand Demolition: Cherry Blossom Pierce",
+          "s1": "Deal 1,390,000 Fixed Damage to all enemies. Inflict 1 Turn of 'Remove and Immune to Positive Special and God State' Effect. While under 'Feelings for Sakura' Unique State: Deal 4 Additional Attacks dealing 3% + 390,000. (Always Hit)",
+		  "s1ntr": "Unique",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "Finally... You Returned!",
+          "s2": "Recover 2,000,000 HP, SPD and DEF +200% to Party. Remove Negative Special and God State to Party. Grant 'Convalescence' State to Konoha allies. Grant 'Feelings for Sasuke' Unique State to self. [Convalescence: Incoming Skill Damage -150%. Recover 30% HP when Attacked] [Feelings for sasuke: Remove and Immune to Debuff, Status Effect, Genjutsu, Negative Special and God State. High chance for Insta Kill Immunity]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 90,
+
+          "a1n": "Reality of Emotion",
+          "a1": "Upon Switching from Sasuke: Grant 'Feelings for Sakura' Unique State, Revive +3, Grant Instant Action upon Withstanding",
+
+          "a2n": "Master's Medical Fist",
+          "a2": "Chance for First Strike (If there's a God enemy: Guaranteed), Incoming Skill Damage -50%",
+
+          "a3n": "Yellow and White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Yellow and White."
+      },
+{
+          "id": 60070501,
+          "name": "Sasuke Uchiha",
+          "subtext": "Love Reflected Eye",
+
+          "lead": "Konoha Characters: Cast Speed +1, SPD +100% and 3 Turns: Insta Kill Immunity",
+
+          "s1n": "Repulsion Eye Jutsu: Destruction Heavenly Blade",
+          "s1": "Deal 7% + 1,590,000 to target enemy. Chance to Inflict 'Paralyze'. Deal 3 Additional Attacks dealing 390,000 Fixed Damage. While under 'Feelings for Sasuke' Unique State: Deal 3 Additional Attacks dealing 7% + 390,000. (Always Hit)",
+		  "s1ntr": "Unique",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "I Returned Thanks to You",
+          "s2": "Own ATK and Skill Damage +200%. Own SPD +1,000% for 1 turn. Grant 'Feelings for Sakura' Unique State to self. [Feelings for Sakura: Chance to Grant Instant Action when Attacked. Ignore Resistance and Guarantee Inflict 'Illusion' to the Attacking enemy. Chance for Extra Turn. Chance for Enemy Terrain Immunity]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 90,
+
+          "a1n": "Atonement and Affection",
+          "a1": "Upon Switching from Sakura: Grant 'Feelings for Sasuke' Unique State, Revive +3, Grant Instant Action upon Withstanding",
+
+          "a2n": "Carrying Eye Power",
+          "a2": "Chance for First Strike (If there's a God enemy: Guaranteed), SPD +1,000%",
+
+          "a3n": "Red and Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red and Black."
+      },
+{
+          "id": 50070501,
+          "name": "Kaguya",
+          "subtext": "Invasion of the Menacing World",
+
+          "lead": "All Characters: When Attacked: Chance for -1 Ranbu CD, 6 Turns: Incoming Skill Damage -50%",
+
+          "s1n": "Ten Tails: Void Destruction Fist",
+          "s1": "Deal 1,260,000 Fixed Damage to all enemies. Remove Positive Special and God State. Inflict 'Void Destruction' Beast State to a random enemy. [Void Destruction: Chance to Insta Kill upon Action. Invalidate Withstand, Revive and Immortality] (Always Hit)",
+          "s1ntr": "Unique",
+          "s1cs": "",
+          "s1c": 0,
+
+          "s2n": "",
+          "s2": "",
+          "s2ntr": "",
+          "s2cs": "",
+          "s2c": 0,
+
+          "a1n": "Desire for Suction",
+          "a1": "SPD +50% every turn (Max 150%)",
+
+          "a2n": "Space Rebirth",
+          "a2": "Recover 25% of HP and Chakra every turn and when attacked",
+
+          "a3n": "All Type Specialization",
+          "a3": "Low Chance for Type Advantage against All Types"
+        },
+{
           "id": 20070504,
           "name": "Zetsu",
           "subtext": "Infinite Darkness",
