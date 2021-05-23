@@ -8,6 +8,10 @@
 
 	.modal-content {
 	    border: 0px;
+	    background-color: grey;
+	    box-shadow;
+	    box-shadow: 0 5px 15px rgba(0,0,0,0);
+
 	}
 
 	.modal-content h2,
@@ -21,11 +25,14 @@
 	.modal-header {
 		border: 0px;
 		display: block;
-		padding: 4px 12px;
-		background-color: #fffdfa;
-		border-bottom: 2px solid #cccccc;
+		background-color: black;
+		text-align: center;
 	}
 
+	.modal-header strong{
+		color: white;
+		text-align: center;
+	}
 	.modal-header .unit-icon {
 		width: 48px;
 		margin: 0; padding: 0;
@@ -77,7 +84,7 @@
 	}
 
 	.modal-body {
-		background-color: #ffffff;
+		background-color: grey;
 	    padding: 24px 12px 48px 12px;
 	}
 
@@ -105,7 +112,7 @@
 	}
 
 	.modal-body .base-unit-view {
-		position: relative;
+		background-color: grey;
 	}
 
 	.modal-body .base-unit-view .base-toggle {
@@ -114,6 +121,7 @@
 		top: 24px; left: -12px;
 		margin: 0; padding: 0;
 		z-index: 2;
+
 	}
 
 	.modal-body .base-unit-view .base-toggle a.toggle-rarity {
@@ -142,7 +150,7 @@
 		width: 100%;
 	}
 
-	.modal-body .base-unit-view .base-tables {
+	{
 		height: 363px;
 		outline: 1px solid #8f640e;
 		border: 2px solid #efdbac;
@@ -150,24 +158,24 @@
 		box-shadow: 0 0 0px 2px #c7a664;
 	}
 
-	.modal-body .base-unit-view .base-tables .tab-content {
+	.tab-content {
 		max-height: 308px;
 		overflow: scroll;
 	}
 
-	.modal-body .base-unit-view .base-tables ul.nav {
+	ul.nav {
 		display: flex;
 		justify-content: space-around;
 	}
 
-	.modal-body .base-unit-view .base-tables ul.nav li {
+	ul.nav li {
 		flex: 1;
 		text-align: center;
 		display: inline-block;
 	}
 
-	.modal-body .base-unit-view .base-tables ul.nav li a,
-	.modal-body .base-unit-view .base-tables ul.nav li a:focus {
+	ul.nav li a,
+	ul.nav li a:focus {
 		color: #ffffff;
 		display: block;
 		font-size: 14px;
@@ -176,8 +184,8 @@
 		background-image: linear-gradient(to bottom, #351d0a, #845935);
 	}
 
-	.modal-body .base-unit-view .base-tables ul.nav li.active a,
-	.modal-body .base-unit-view .base-tables ul.nav li.active a:focus {
+	ul.nav li.active a,
+	ul.nav li.active a:focus {
 		color: #432b1e;
 		font-weight: bold;
 		outline: none;
@@ -189,11 +197,11 @@
 
 
 
-	.modal-body .base-unit-view .base-tables .tab-content {
+	.tab-content {
 		padding: 12px;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill {
+	.base-skill {
 		margin: 0 0 12px 0;
 		border: 1px solid #847d58;
 		outline: 2px solid #c5b080;
@@ -201,7 +209,7 @@
 		background: linear-gradient(to bottom, #ffffff, #ffffe6);
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .header {
+	.base-skill .header {
 		display: flex;
 		align-items: center;
 		padding: 4px 12px;
@@ -209,7 +217,7 @@
 		background-image: linear-gradient(to bottom, #fffefb, #eee6e2);
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .header .type h4 {
+	.base-skill .header .type h4 {
 		color: #ffffff;
 		font-size: 12px;
 		font-weight: bold;
@@ -218,21 +226,21 @@
 		background-color: #323232;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .header .title {
+	.base-skill .header .title {
 		flex: 3;
 		margin: 0 0 0 12px;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .header .title h3 {
+	.base-skill .header .title h3 {
 		font-size: 14px;
 		font-weight: 700;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .header .title p {
+	.base-skill .header .title p {
 		font-size: 10px;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .header .speed {
+	.base-skill .header .speed {
 		flex: 1;
 		font-size: 12px;
 		font-weight: 400;
@@ -240,7 +248,7 @@
 		margin: 0 12px 0 0;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .header .chakra {
+	.base-skill .header .chakra {
 		color: #56cde7;
 		font-size: 12px;
 		font-weight: bold;
@@ -254,7 +262,7 @@
 		box-shadow: 0 0 0 1px 2px #826837;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .header .chakra:before {
+	.base-skill .header .chakra:before {
 		content: "";
 		position: absolute;
 		top: 3px; left: 11px;
@@ -264,15 +272,15 @@
 		box-shadow: 0 0 8px 2px rgba(0,204,255,0.8);
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .description {
+	.base-skill .description {
 		padding: 4px 12px;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-skill .description p {
+	.base-skill .description p {
 		font-size: 12px;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-ability {
+	.base-ability {
 		margin: 0 0 12px 0;
 		border: 1px solid #847d58;
 		outline: 2px solid #c5b080;
@@ -280,7 +288,7 @@
 		background: linear-gradient(to bottom, #ffffff, #ffffe6);
 	}
 
-	.modal-body .base-unit-view .base-tables .base-ability .header {
+	.base-ability .header {
 		display: flex;
 		align-items: center;
 		padding: 0;
@@ -288,11 +296,11 @@
 		background-image: linear-gradient(to bottom, #ffd804, #fff601);
 	}
 
-	.modal-body .base-unit-view .base-tables .base-ability .header.leader {
+	.base-ability .header.leader {
 		background-image: linear-gradient(to bottom, #ffc100, #e36700);
 	}
 
-	.modal-body .base-unit-view .base-tables .base-ability .header .type h4 {
+	.base-ability .header .type h4 {
 		position: relative;
 		color: #ffffff;
 		font-size: 12px;
@@ -301,7 +309,7 @@
 		background-color: #323232;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-ability .header .type h4:after {
+	.base-ability .header .type h4:after {
 		content: "";
 	    position: absolute;
 	    right: -12px; top: 0;
@@ -311,27 +319,27 @@
 	    border-bottom: 13px solid transparent;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-ability .header .title {
-		flex: 3;
+	.base-ability .header .title {
+		flex: 1;
 		margin: 0 0 0 18px;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-ability .header .title h3 {
+	.base-ability .header .title h3 {
 		font-size: 14px;
 		font-weight: 700;
 		color: #ffffff;
 		text-shadow: 0 0 4px #000000;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-ability .description {
+	.base-ability .description {
 		padding: 4px 12px;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-ability .description p {
+	.base-ability .description p {
 		font-size: 12px;
 	}
 
-	.modal-body .base-unit-view .base-tables table {
+	table {
 		font-size: 12px;
 		margin: 0;
 		border: 1px solid #847d58;
@@ -339,49 +347,49 @@
 		box-shadow: 0 0 0 1px #847d58;
 	}
 
-	.modal-body .base-unit-view .base-tables table tbody {
+	table tbody {
 		background-color: #ffffff
 	}
 
-	.modal-body .base-unit-view .base-tables table thead tr th,
-	.modal-body .base-unit-view .base-tables table tbody tr td {
+	table thead tr th,
+	table tbody tr td {
 		border: none;
 		padding: 8px;
 		border: 1px solid #cccccc;
 	}
 
-	.modal-body .base-unit-view .base-tables table thead tr th:first-child {
+	table thead tr th:first-child {
 		background-color: #dcd8d5
 	}
-	.modal-body .base-unit-view .base-tables table thead tr th:nth-child(odd) {
+	table thead tr th:nth-child(odd) {
 		background-color: #fdf9f5
 	}
-	.modal-body .base-unit-view .base-tables table thead tr th:nth-child(even) {
+	table thead tr th:nth-child(even) {
 		background-color: #f0e3ec
 	}
 
-	.modal-body .base-unit-view .base-tables table tbody tr td:first-child {
+	table tbody tr td:first-child {
 		font-weight: normal;
 	}
 
-	.modal-body .base-unit-view .base-tables table tbody tr:nth-child(odd) td:first-child {
+	table tbody tr:nth-child(odd) td:first-child {
 		background-color: #efe7ee
 	}
-	.modal-body .base-unit-view .base-tables table tbody tr:nth-child(odd) td:nth-child(odd) ~ td:nth-child(odd){
+	table tbody tr:nth-child(odd) td:nth-child(odd) ~ td:nth-child(odd){
 		background-color: #fef6ff
 	}
 
-	.modal-body .base-unit-view .base-tables table tbody tr:nth-child(even) td:first-child {
+	table tbody tr:nth-child(even) td:first-child {
 		background-color: #fdf9f5
 	}
-	.modal-body .base-unit-view .base-tables table tbody tr:nth-child(even) td:nth-child(odd) ~ td:nth-child(odd){
+	table tbody tr:nth-child(even) td:nth-child(odd) ~ td:nth-child(odd){
 		background-color: #f9eef6
 	}
-	.modal-body .base-unit-view .base-tables table tbody tr:nth-child(even) td:nth-child(even) {
+	table tbody tr:nth-child(even) td:nth-child(even) {
 		background-color: #faf4fb
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear {
+	.base-gear {
 		display: flex;
 		margin: 0 0 10px 0;
 		border: 1px solid #847d58;
@@ -390,11 +398,11 @@
 		background: linear-gradient(to bottom, #ffffff, #ffffe6);
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear:last-child {
+	.base-gear:last-child {
 		margin: 0;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .icon {
+	.base-gear .icon {
 		flex: 1;
 	    display: flex;
 	    align-items: center;
@@ -404,15 +412,15 @@
 		box-shadow: 0 0 0 1px #847d58;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .icon img {
+	.base-gear .icon img {
 		width: 90%;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info {
+	.base-gear .info {
 		flex: 8;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info .header {
+	.base-gear .info .header {
 		flex: 3;
 		display: flex;
 		align-items: center;
@@ -420,7 +428,7 @@
 		background-color: #3c2401;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="Skill" i] {
+	.base-gear .info .header .type h4[type="Skill" i] {
 		flex: 1;
 		color: #ffffff;
 		font-size: 12px;
@@ -430,7 +438,7 @@
 		text-shadow: 0 0 4px #000000;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="Stats" i] {
+	.base-gear .info .header .type h4[type="Stats" i] {
 		flex: 1;
 		color: #ffffff;
 		font-size: 12px;
@@ -440,7 +448,7 @@
 		text-shadow: 0 0 4px #000000;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="Resistance" i] {
+	.base-gear .info .header .type h4[type="Resistance" i] {
 		flex: 1;
 		color: #ffffff;
 		font-size: 12px;
@@ -450,7 +458,7 @@
 		text-shadow: 0 0 4px #000000;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="Food" i] {
+	.base-gear .info .header .type h4[type="Food" i] {
 		flex: 1;
 		color: #ffffff;
 		font-size: 12px;
@@ -460,7 +468,7 @@
 		text-shadow: 0 0 4px #000000;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="Chakra" i] {
+	.base-gear .info .header .type h4[type="Chakra" i] {
 		flex: 1;
 		color: #ffffff;
 		font-size: 12px;
@@ -470,7 +478,7 @@
 		text-shadow: 0 0 4px #000000;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info .header .type h4[type="Additional" i] {
+	.base-gear .info .header .type h4[type="Additional" i] {
 		flex: 1;
 		color: #ffffff;
 		font-size: 12px;
@@ -479,13 +487,13 @@
 		background-color: #FFC04C;
 		text-shadow: 0 0 4px #000000;
 	}
-	.modal-body .base-unit-view .base-tables .base-gear .info .header .title h3 {
+	.base-gear .info .header .title h3 {
 		font-size: 12px;
 		color: #ffffff;
 		margin: 0; padding: 6px 0;
 	}
 
-	.modal-body .base-unit-view .base-tables .base-gear .info .description p {
+	.base-gear .info .description p {
 		display: block;
 		font-size: 12px;
 		padding: 6px 12px 6px 6px;

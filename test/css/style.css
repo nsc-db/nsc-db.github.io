@@ -460,9 +460,12 @@ td.rarity[rarity="6" i] {
 
 .unit-char {
 	padding:5px;
-	margin-right: 5px;
 }
 
+.unit-thumb{
+
+	
+}
 .chara-name{
 	margin-left: 15px;
 	background-color: white;
@@ -539,4 +542,244 @@ td.rarity[rarity="6" i] {
 	background: linear-gradient(to bottom right,gold,white,gold) 
 	border-box;
 	box-shadow: 2px 2px 20px 2px purple, 3px 0px 16px 8px purple;
+}
+
+#legendaryR{
+	background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red)
+	border-box;
+	box-shadow: 2px 2px 20px 2px purple, 3px 0px 16px 8px purple;
+}
+
+
+#chara-name{
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+
+
+
+.team{
+	background-color: blue;
+	text-align: center;
+	border-radius: 25px;
+	padding: 7px;
+
+}
+
+.team h2{
+	color: white;
+}
+
+.enemy{
+	background-color: red;
+	text-align: center;
+	border-radius: 25px;
+	padding: 7px;
+}
+
+.enemy h2{
+	color: black;
+}
+
+.form-control{
+	padding: 5px;
+	margin-top: 5px;
+}
+
+.team-selection{
+	padding: 5px;
+}
+
+.progress {height: 25px;}
+.progress .sr-only { position: relative; }
+.progress-bar { line-height: 25px; }
+.progress-label {float: left;margin-right: em;}
+
+
+.skills-container{
+	padding: 1px;
+}
+#s1-button{
+	border-radius: 15px;
+	margin-top: 5px;
+
+}
+#s2-button{
+   	border-radius: 15px;
+   	margin-top: 5px;
+}
+#kizuna-button{
+   	border-radius: 15px;
+   	margin-top: 5px;
+}
+
+[data-ps]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+
+}
+
+[data-ps]:after {
+    content: attr(data-ps);
+	width: 500px;
+	word-break: normal;
+    background-color: skyblue;
+    color: #111;
+    position: absolute;
+    padding: 1px 5px 2px 5px;
+    bottom: -1.6em;
+    left: 100%;
+    box-shadow: 1px 1px 3px #222222;
+    opacity: 0;
+    border: 1px solid #111111;
+    z-index: 99999;
+    visibility: hidden;
+    border-radius: 10px;
+}
+
+[data-ps] {
+    position: relative;
+}
+
+[data-pg]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+
+}
+[data-pg]:after {
+    content: attr(data-pg);
+	width: 500px;
+	word-break: normal;
+    background-color: #B8EE89;
+    color: #111;
+    position: absolute;
+    padding: 1px 5px 2px 5px;
+    bottom: -1.6em;
+    left: 100%;
+    box-shadow: 1px 1px 3px #222222;
+    opacity: 0;
+    border: 1px solid #111111;
+    z-index: 99999;
+    visibility: hidden;
+    border-radius: 10px;
+}
+[data-pg] {
+    position: relative;
+}
+
+[data-ns]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+
+}
+[data-ns]:after {
+    content: attr(data-ns);
+	width: 500px;
+	word-break: normal;
+    background-color: #FFA3A3;
+    color: #111;
+    position: absolute;
+    padding: 1px 5px 2px 5px;
+    bottom: -1.6em;
+    left: 100%;
+    box-shadow: 1px 1px 3px #222222;
+    opacity: 0;
+    border: 1px solid #111111;
+    z-index: 99999;
+    visibility: hidden;
+    border-radius: 10px;
+}
+[data-ns] {
+    position: relative;
+}
+
+[data-ng]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+
+}
+[data-ng]:after {
+    content: attr(data-ng);
+	width: 500px;
+	word-break: normal;
+    background-color: #D0B9CF;
+    color: #111;
+    position: absolute;
+    padding: 1px 5px 2px 5px;
+    bottom: -1.6em;
+    left: 100%;
+    box-shadow: 1px 1px 3px #222222;
+    opacity: 0;
+    border: 1px solid #111111;
+    z-index: 99999;
+    visibility: hidden;
+    border-radius: 10px;
+}
+[data-ng] {
+    position: relative;
+}
+
+[data-unique]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+
+}
+[data-unique]:after {
+    content: attr(data-unique);
+	width: 500px;
+	word-break: normal;
+    background-color: white;
+    color: #111;
+    position: absolute;
+    padding: 1px 5px 2px 5px;
+    bottom: -1.6em;
+    left: 100%;
+    box-shadow: 1px 1px 3px #222222;
+    opacity: 0;
+    border: 1px solid #111111;
+    z-index: 99999;
+    visibility: hidden;
+    border-radius: 10px;
+}
+[data-unique] {
+    position: relative;
+}
+
+.img-unit{
+	padding: 3px;
+}
+
+.base-ability .header.potential {
+		background-image: linear-gradient(to bottom, #BAEA91, #E6F2D3);
+	}
+
+.base-ability .header.forbidden {
+		background-image: linear-gradient(to bottom, #DF574D, #85342E);
+	}
+
+.base-ability .header.legendary {
+		background-image: linear-gradient(to bottom, #4B0082, #BF5FFF);
+	}
+
+.base-gear .info .header .equip{
+	display: block;
+	font-size: 12px;
+	padding: 6px 12px 6px 6px;
+	text-align: right;
+	margin-left: 15px;
+}
+
+.base-gear .info .header .equip #equiptext{
+	color: white;
+}
+
+#equip-button{
+	margin-bottom: 15px;
+	padding: 5px;
 }
