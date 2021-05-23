@@ -12,7 +12,7 @@
     "image-match": "0.0.1",
     "request": "^2.88.0",
     "resemblejs": "^3.1.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "url-exists": "^1.0.3",
     "ytdl-core": "^0.29.0"
   },
