@@ -25,7 +25,7 @@ window.breakdown=[
   },
   {
     "id": 60070501,
-    "status": [0001, 0013, 0005],
+    "status": [0013, 0005],
     "posstate": [],
     "negstate": [],
     "posgod": [],
@@ -42,7 +42,7 @@ window.breakdown=[
     "negstate": [],
     "posgod": [],
     "neggod": [],
-    "unique": [1440, 1441, 1442],
+    "unique": [1441, 1441, 1442],
     "beast": [],
     "terrain": [],
     "formation": [],

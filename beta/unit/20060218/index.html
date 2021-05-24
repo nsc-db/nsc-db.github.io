@@ -1,0 +1,1142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Naruto Shinobi Collection Database - Units</title>
+
+    <!--BOOTSTRAP -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+
+    <!--FAVICON-->
+	<link rel="apple-touch-icon" sizes="57x57" href="../../favicon/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="../../favicon/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="../../favicon/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="../../favicon/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="../../favicon/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="../../favicon/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="../../favicon/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="../../favicon/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="../../favicon/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="../../favicon/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="../../favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="../../favicon/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="../../favicon/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+    <!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="../../css/datatables.min.css"/>
+	<link rel="stylesheet" type="text/css" href="../../css/style.css"/>
+	
+	<!-- DATABASE ENTRIES -->
+	<script type="text/javascript" src="../../../common/json/chara.js"></script>
+	<script type="text/javascript" src="../../../common/json/charainfo.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/charaname.js"></script>
+ 	<script type="text/javascript" src="../../../common/eng/detail.js"></script>
+ 	<script type="text/javascript" src="../../../common/eng/kizuna.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/skill.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/skillname.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/ability.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/lead.js"></script>
+ 	<script type="text/javascript" src="../../../common/eng/key.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/evo.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/gear.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/unique.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/vo.js"></script>
+ 	<script type="text/javascript" src="../../../common/json/potential.js"></script>
+ 	<script type="text/javascript" src="../../../common/eng/kizuna.js"></script>
+ 	<script type="text/javascript" src="../../../common/eng/breakdown.js"></script>
+ 	<script type="text/javascript" src="../../../common/eng/state.js"></script>
+
+
+	<link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
+
+	<style>
+		tr{cursor: pointer;}
+	</style>
+
+	<link rel="stylesheet" type="text/css" href="../../css/modal.css"/>
+	
+</head>
+
+<body>
+
+	<div class="container">
+		<div class="base-header">
+			<div class="row">
+				<div class="col-md-5 col-md-offset-7">
+					<h1>Naruto <span>Shinobi <br>Collection</span> Database</h1>
+					<p>Join  us in the Reddit: <a target="_blank" href="https://reddit.com/r/NarutoSc">/r/NarutoSc</a></p>
+					<p>Join  us on Discord: <a target="_blank" href="https://discord.gg/pYYHBwt">Here</a></p>
+				</div>
+				<div class="col-md-12">
+					<div class="base-menu">
+						<ul>
+							<!-- <li><a href="nsc-db.github.io/index.html" role="button">Front Page</a> -->
+							<li><a href="../" role="button">Home</a>																
+							<li><a href="../../units/index.html" role="button">Units</a>
+							<li class="active"><a href="../../" role="button">Beta Units</a>
+							<li><a href="../../gear/index.html" role="button">Ninja Gear</a>
+							<li><a href="../../jp/index.html" role="button">JP</a>
+							<li><a href="https://docs.google.com/document/d/1AXol-kO5zPbIj85SRX-sOUnV4el2NDHKHcleXeUCiyM/edit#heading=h.taus803ytjm2" role="button">Account Recovery</a>
+							<li><a href="../../simulate/index.html" role="button">Summoning Simulator</a></li>
+							<li><a href="../../story/index.html" role="button">Story</a></li>
+
+							<!-- <li><a href="/guides" role="button">Guides</a>
+							<li><a href="/faq" role="button">FAQ</a> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	<div class="container">
+		<div class="base-content">
+			<div class="row">
+				<div class="col-md-4">
+					<h2>Unit Database 2.0</h2>
+					<p></p>
+				</div>
+				<div class="col-md-8">
+					<div class="alert alert-warning" role="alert">
+						<strong>(＾▽＾)</strong> 
+					</div>
+				</div>
+				<div class="col-md-12">
+					<hr>
+				</div>
+			</div>
+			<div class="modal-header col-md-4">
+				<div id="unit-name">
+					<strong id="chara-name"></strong>
+				</div>
+			</div>
+			<div class="states col-md-8">
+				<a id="state-1" data-tag= "" data-ps=""><img id="state-1img" src="" width="6%"/></a>
+				<a id="state-2" data-tag= "" data-title=""><img id="state-2img" src="" width="6%"/></a>
+				<a id="state-3" data-tag= "" data-title=""><img id="state-3img" src="" width="6%"/></a>
+				<a id="state-4" data-tag= "" data-title=""><img id="state-4img" src="" width="6%"/></a>
+				<a id="state-5" data-tag= "" data-title=""><img id="state-5img" src="" width="6%"/></a>
+				<a id="state-6" data-tag= "" data-title=""><img id="state-6img" src="" width="6%"/></a>
+				<a id="state-7" data-tag= "" data-ps=""><img id="state-7img" src="" width="6%"/></a>
+				<a id="state-8" data-tag= "" data-title=""><img id="state-8img" src="" width="6%"/></a>
+				<a id="state-9" data-tag= "" data-title=""><img id="state-9img" src="" width="6%"/></a>
+				<a id="state-10" data-tag= "" data-title=""><img id="state-10img" src="" width="6%"/></a>
+				<a id="state-11" data-tag= "" data-title=""><img id="state-11img" src="" width="6%"/></a>
+				<a id="state-12" data-tag= "" data-title=""><img id="state-12img" src="" width="6%"/></a>
+			</div>
+			<div class="row">
+			</div>
+			<div class="row" >
+				<div class="col-md-4" >
+					<div class="unit-char" id="">
+						<img id="card-art" src="" width="100%">
+					</div>
+				</div>
+				<div class="col-md-8" >
+					<div class="base-skill" id="kizuna" style="display:none">
+						<div class="header">
+							<div class="type">
+								<h4 id="kizunatype"></h4>
+							</div>
+							<div class="title">
+								<h3 id="kizunaname"></h3>
+								<p id="kizunaogname"></p>
+							</div>
+							<div class="speed">
+								<p id="kizunaspeed"></p>
+							</div>
+							<div class="chakra">
+								<p id="kizunacost"></p>
+							</div>
+						</div>
+						<div class="description">
+							<p id="kizunadesc"></p>
+						</div>
+					</div>
+					<div class="base-skill">
+						<div class="header">
+							<div class="type">
+								<h4 id="skill1type"></h4>
+							</div>
+							<div class="title">
+								<h3 id="skill1name"></h3>
+								<p id="skill1ogname"></p>
+							</div>
+							<div class="speed">
+								<p id="skill1speed"></p>
+							</div>
+							<div class="chakra">
+								<p id="skill1cost"></p>
+							</div>
+						</div>
+						<div class="description">
+							<p id="skill1"></p>
+						</div>
+					</div>
+					<div class="base-skill">
+						<div class="header">
+							<div class="type">
+								<h4 id="skill2type"></h4>
+							</div>
+							<div class="title">
+								<h3 id="skill2name"></h3>
+								<p id="skill2ogname"></p>
+							</div>
+							<div class="speed">
+								<p id="skill2speed"></p>
+							</div>
+							<div class="chakra">
+								<p id="skill2cost"></p>
+							</div>
+						</div>
+						<div class="description">
+							<p id="skill2"></p>
+						</div>
+					</div>
+				</div>	
+			</div>	
+			<div class="row">
+				<h1></h1>
+			</div>	
+			<div class="row">
+				<div class="modal-content col-md-6" >
+					<div class="base-ability">
+						<div class="header leader">
+							<div class="type">
+								<h4>Lead</h4>
+							</div>
+							<div class="title">
+								<h3 id="leadname"></h3>
+							</div>
+						</div>
+						<div class="description">
+							<p id="lead"></p>
+						</div>
+					</div>
+					
+					<div class="base-ability">
+						<div class="header">
+							<div class="type">
+								<h4>Ability 1</h4>
+							</div>
+							<div class="title">
+								<h3 id="ability1name"></h3>
+							</div>
+						</div>
+						<div class="description">
+							<p id="ability1"></p>
+						</div>
+					</div>
+					<div class="base-ability">
+						<div class="header">
+							<div class="type">
+								<h4>Ability 2</h4>
+							</div>
+							<div class="title">
+								<h3 id="ability2name"></h3>
+							</div>
+						</div>
+						<div class="description">
+							<p id="ability2"></p>
+						</div>
+					</div>
+					<div class="base-ability">
+						<div class="header">
+							<div class="type">
+								<h4>Ability 3</h4>
+							</div>
+
+							<div class="title">
+								<h3 id="ability3name"></h3>
+							</div>
+						</div>
+						<div class="description">
+							<p id="ability3"></p>
+						</div>
+					</div>
+					<table class="table">
+					<thead>
+						<tr>
+							<th>Cost</th>
+							<th>Type</th>	
+							<th>Affi</th>	
+							<th>Tag</th>
+							
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td id="unit-cost"></td>
+							<td id="unit-type"></td>
+							<td id="unit-affi"></td>
+							<td id="unit-tag"></td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+				<div class="col-md-6" >
+						<table class="table">
+							<thead>
+								<tr>
+									<th></th>
+									<th>Base</th>
+									<th>Ability</th>
+									<th>Gear</th>
+									<th>Potential</th>
+									<th>Total</th>
+									<th>PvP Stats</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>HP</td>
+									<td id="base-hp"></td>
+									<td id="ability-hp"></td>
+									<td id="gear-hp"></td>
+									<td id="pot-hp"></td>
+									<td id="max-hp"></td>
+									<td id="pvp-hp"></td>
+								</tr>
+								<tr>
+									<td>Chakra</td>
+									<td id="base-chakra">0</td>
+									<td id="ability-chakra">0</td>
+									<td id="gear-chakra">0</td>
+									<td id="pot-chakra">0</td>
+									<td id="max-chakra">0</td>
+									<td id="pvp-chakra"></td>
+								</tr>
+								<tr>
+									<td>ATK</td>
+									<td id="base-atk"></td>
+									<td id="ability-atk"></td>
+									<td id="gear-atk"></td>
+									<td id="pot-atk"></td>
+									<td id="max-atk"></td>
+									<td id="pvp-atk"></td>
+								</tr>
+								<tr>
+									<td>DEF</td>
+									<td id="base-def"></td>
+									<td id="ability-def"></td>
+									<td id="gear-def"></td>
+									<td id="pot-def"></td>
+									<td id="max-def"></td>
+									<td id="pvp-def"></td>
+								</tr>
+								<tr>
+									<td>SPD</td>
+									<td id="base-spd"></td>
+									<td id="ability-spd"></td>
+									<td id="gear-spd"></td>
+									<td id="pot-spd"></td>
+									<td id="max-spd"></td>
+									<td id="pvp-spd"></td>
+								</tr>
+								<tr>
+									<td>Dodge</td>
+									<td id="base-dodge"></td>
+									<td id="ability-dodge"></td>
+									<td id="gear-dodge"></td>
+									<td id="pot-dodge"></td>
+									<td id="max-dodge"></td>
+									<td id="pvp-dodge"></td>
+								</tr>
+								<tr>
+									<td>Crit Chance</td>
+									<td id="base-cc"></td>
+									<td id="ability-cc"></td>
+									<td id="gear-cc"></td>
+									<td id="pot-cc"></td>
+									<td id="max-cc"></td>
+									<td id="pvp-cc"></td>
+								</tr>
+								<tr>
+									<td>Crit Damage</td>
+									<td id="base-cd"></td>
+									<td id="ability-cd"></td>
+									<td id="gear-cd"></td>
+									<td id="pot-cd"></td>
+									<td id="max-cd"></td>
+									<td id="pvp-cd"></td>
+								</tr>
+								<tr>
+									<td>Skill Damage</td>
+									<td id="base-sd">0%</td>
+									<td id="ability-sd">0%</td>
+									<td id="gear-sd">0%</td>
+									<td id="pot-sd">0%</td>
+									<td id="max-sd">0%</td>
+									<td id="pvp-sd"></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<button type="button" id="equip-button" class="btn btn-outline-primary" value="" onClick="equipGear()">Equip Gears</button>
+					<img id="equip1" src="" width="6%"/>
+					<img id="equip2" src="" width="6%"/>
+					<img id="equip3" src="" width="6%"/>
+					<img id="equip4" src="" width="6%"/>
+					<img id="equip5" src="" width="6%"/>
+
+
+				</div>
+
+				<div class="row">
+					<div class="modal-content col-md-6" id='lp' style="display:none">
+						<div class="base-ability">
+							<div class="header legendary">
+								<div class="type">
+									<h4>Traditional Ability</h4>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td style="width:230px" id="caltrop"></td>
+										<td style="width:230px" id="kunai"></td>
+									</tr>	
+									<tr>
+										<td style="width:230px" id="food"></td>
+										<td style="width:230px" id="subs"></td> 
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-6">
+						<div class="base-ability">
+							<div class="header gear">
+								<div class="type">
+									<h4>Gears</h4>
+								</div>
+
+							</div>
+							<div class="description" style="padding: 10px">
+								<div class="tab-content">
+									<div class="tab-pane active col-md-12" id="gear">
+										<!--
+										<div class="base-gear">
+											<div class="icon">
+												<img src="../../../common/assets/img/gear/ningu_404055.png">
+											</div>
+											<div class="info">
+												<div class="header">
+													<div class="type">
+														<h4 type="skill">Skill</h4>
+													</div>
+													<div class="title">
+														<h3>Hashirama's Buddah Statue</h3>
+													</div>
+													<div class="equip">
+														<input type="checkbox" id="gear1" value="">
+														<label id="equiptext" for="gear1">Equip</label>
+													</div>
+												</div>
+												<div class="description">
+													<p>Skill Damage and SPD +150%, Cast Speed +1</p>
+												</div>
+											</div>
+										</div>-->
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="modal-content col-md-3">
+						<div class="base-ability">
+							<div class="header potential">
+								<div class="type">
+									<h4>Potential Ability</h4>
+								</div>
+								
+								<div class="title">
+									<h3 id="potentialtitle3">None</h3>
+								</div>
+
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td style="width:230px" id="potential1">None</td>
+									</tr>	
+									<tr>
+										<td style="width:230px" id="potential2"></td>
+									</tr>
+									<tr>
+										<td style="width:230px" id="potential3">None</td>
+									</tr>
+									<tr>
+										<td style="width:230px" id="potential4">None</td> 
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-3" id="pt4" style="display:none">
+						<div class="base-ability">
+							<div class="header potential">
+								<div class="type">
+									<h4>Potential Ability</h4>
+								</div>
+								
+								<div class="title">
+									<h3 id="potentialtitle4">None</h3>
+								</div>
+
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td style="width:230px" id="potential5">None</td>
+									</tr>	
+									<tr>
+										<td style="width:230px" id="potential6">None</td>
+									</tr>
+									<tr>
+										<td style="width:230px" id="potential7">None</td>
+									</tr>
+									<tr>
+										<td style="width:230px" id="potential8">None</td> 
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-3">
+						<div class="base-ability">
+							<div class="header forbidden">
+								<div class="type">
+									<h4>Forbidden Ability</h4>
+								</div>
+								
+								<div class="title">
+									<h3 id="forbiddentitle3">None</h3>
+								</div>
+
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td style="width:230px" id="forbidden1">None</td>
+									</tr>	
+									<tr>
+										<td style="width:230px" id="forbidden2">None</td>
+									</tr>
+									<tr>
+										<td style="width:230px" id="forbidden3">None</td>
+									</tr>
+									<tr>
+										<td style="width:230px" id="forbidden4">None</td> 
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-3" id="for4" style="display:none">
+						<div class="base-ability">
+							<div class="header forbidden">
+								<div class="type">
+									<h4>Forbidden Ability</h4>
+								</div>
+								
+								<div class="title">
+									<h3 id="forbiddentitle4">None</h3>
+								</div>
+
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td style="width:230px" id="forbidden5">None</td>
+									</tr>	
+									<tr>
+										<td style="width:230px" id="forbidden6">None</td>
+									</tr>
+									<tr>
+										<td style="width:230px" id="forbidden7">None</td>
+									</tr>
+									<tr>
+										<td style="width:230px" id="forbidden8">None</td> 
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="modal-content col-md-3">
+						<div class="base-ability">
+							<div class="header potential">
+								<div class="type">
+									<h4>Potential Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id="potentialtitle1"></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="p1hp"></td>
+									</tr>
+									<tr>
+										<td>Chakra</td>
+										<td id="p1chakra">0</td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="p1atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="p1def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="p1spd"></td>
+									</tr>
+									<tr>
+										<td>Skill Damage</td>
+										<td id="p1sd">0%</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-3">
+						<div class="base-ability">
+							<div class="header potential">
+								<div class="type">
+									<h4>Potential Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id="potentialtitle2"></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="p2hp"></td>
+									</tr>
+									<tr>
+										<td>Chakra</td>
+										<td id="p2chakra">0</td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="p2atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="p2def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="p2spd"></td>
+									</tr>
+									<tr>
+										<td>Skill Damage</td>
+										<td id="p2sd">0%</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-3">
+						<div class="base-ability">
+							<div class="header potential">
+								<div class="type">
+									<h4>Potential Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id="potentialtitlen3"></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="p3hp"></td>
+									</tr>
+									<tr>
+										<td>Chakra</td>
+										<td id="p3chakra">0</td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="p3atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="p3def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="p3spd"></td>
+									</tr>
+									<tr>
+										<td>Skill Damage</td>
+										<td id="p3sd">0%</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-3" id="pot4" style='display:none'>
+						<div class="base-ability">
+							<div class="header potential">
+								<div class="type">
+									<h4>Potential Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id="potentialtitlen4"></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="p4hp"></td>
+									</tr>
+									<tr>
+										<td>Chakra</td>
+										<td id="p4chakra">0</td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="p4atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="p4def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="p4spd"></td>
+									</tr>
+									<tr>
+										<td>Skill Damage</td>
+										<td id="p4sd">0%</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="modal-content col-md-3">
+						<div class="base-ability">
+							<div class="header forbidden">
+								<div class="type">
+									<h4>Forbidden Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id="forbiddentitle1"></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="f1hp"></td>
+									</tr>
+									<tr>
+										<td>Chakra</td>
+										<td id="f1chakra">0</td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="f1atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="f1def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="f1spd"></td>
+									</tr>
+									<tr>
+										<td>Skill Damage</td>
+										<td id="f1sd">0%</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-3">
+						<div class="base-ability">
+							<div class="header forbidden">
+								<div class="type">
+									<h4>Forbidden Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id="forbiddentitle2"></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="f2hp"></td>
+									</tr>
+									<tr>
+										<td>Chakra</td>
+										<td id="f2chakra">0</td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="f2atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="f2def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="f2spd"></td>
+									</tr>
+									<tr>
+										<td>Skill Damage</td>
+										<td id="f2sd">0%</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-3">
+						<div class="base-ability">
+							<div class="header forbidden">
+								<div class="type">
+									<h4>Forbidden Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id="forbiddentitlen3"></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="f3hp"></td>
+									</tr>
+									<tr>
+										<td>Chakra</td>
+										<td id="f3chakra">0</td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="f3atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="f3def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="f3spd"></td>
+									</tr>
+									<tr>
+										<td>Skill Damage</td>
+										<td id="f3sd">0%</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-3" id="forb4" style='display:none'>
+						<div class="base-ability">
+							<div class="header forbidden">
+								<div class="type">
+									<h4>Forbidden Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id="forbiddentitlen4"></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="f4hp"></td>
+									</tr>
+									<tr>
+										<td>Chakra</td>
+										<td id="f4chakra">0</td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="f4atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="f4def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="f4spd"></td>
+									</tr>
+									<tr>
+										<td>Skill Damage</td>
+										<td id="f4sd">0%</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row" id="ls" style="display:none">
+					<div class="modal-content col-md-2">
+						<div class="base-ability">
+							<div class="header legendary">
+								<div class="type">
+									<h4>Legendary Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id=""></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="l1hp"></td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="l1atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="l1def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="l1spd"></td>
+									</tr>
+									<tr>
+										<td>Bonus Effect</td>
+										<td id="">Double Damage</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-2">
+						<div class="base-ability">
+							<div class="header legendary">
+								<div class="type">
+									<h4>Legendary Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id=""></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="l2hp"></td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="l2atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="l2def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="l2spd"></td>
+									</tr>
+									<tr>
+										<td>Bonus Effect</td>
+										<td id="">+1 Penetrating Additional</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-2">
+						<div class="base-ability">
+							<div class="header legendary">
+								<div class="type">
+									<h4>Legendary Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id=""></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="l3hp"></td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="l3atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="l3def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="l3spd"></td>
+									</tr>
+									<tr>
+										<td>Bonus Effect</td>
+										<td id="">+1 Penetrating Additional</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-2">
+						<div class="base-ability">
+							<div class="header legendary">
+								<div class="type">
+									<h4>Legendary Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id=""></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="l4hp"></td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="l4atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="l4def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="l4spd"></td>
+									</tr>
+									<tr>
+										<td>Bonus Effect</td>
+										<td id="">+1 Penetrating Additional</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-2">
+						<div class="base-ability">
+							<div class="header legendary">
+								<div class="type">
+									<h4>Legendary Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id=""></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="l5hp"></td>
+									</tr>
+									<tr>
+										<td>ATK</td>
+										<td id="l5atk"></td>
+									</tr>
+									<tr>
+										<td>DEF</td>
+										<td id="l5def"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="l5spd"></td>
+									</tr>
+									<tr>
+										<td>Bonus Effect</td>
+										<td id="">+1 Penetrating Additional</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+					<div class="modal-content col-md-2">
+						<div class="base-ability">
+							<div class="header legendary">
+								<div class="type">
+									<h4>Bonus Stats</h4>
+								</div>
+								<div class="title">
+									<h3 id=""></h3>
+								</div>
+							</div>
+							<div class="description" style="padding: 10px">
+								<table>
+									<tr>
+										<td>HP</td>
+										<td id="lbhp"></td>
+									</tr>
+									<tr>
+										<td>SPD</td>
+										<td id="lbspd"></td>
+									</tr>
+									<tr>
+										<td>HP Reg</td>
+										<td id="lbrec"></td>
+									</tr>
+									<tr>
+										<td>Chakra Regen</td>
+										<td id="lbch"></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+
+			</div>
+			</div>	
+			<div class="row">
+					<div class="col-md-12">
+						<div class="footer">
+							<hr>
+							<p class="note">Created by Yuyya, Noobiel, Book and Achromic</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	<!-- JQUERY -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<!--BOOTSTRAP-->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	<script type="text/javascript" src="../unit.js"></script>
+
+</body>
+</html>
