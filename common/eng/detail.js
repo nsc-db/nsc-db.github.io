@@ -6055,7 +6055,7 @@ window.detail=[
           "lead": "All Characters: Cast Speed +1, 5 Turns: Skip Immunity",
 
           "s1n": "Inferno Style: Kagutsuchi Wind Protector",
-          "s1": "Deal 1,000,000 Fixed Damage to all enemies. Deal 2 Additional Attacks dealing 3% + 350,000 to Blue and White Characters. Chance to inflict 3 Turns of 'Genjutsu' to God enemies. [Genjutsu: Skip 2 Turns per 'Genjutsu' Turn]",
+          "s1": "Deal 1,000,000 Fixed Damage to all enemies. Deal 2 Additional Attacks dealing 3% + 350,000 to Blue and White Characters. Chance to inflict 3 Turns of 'Illusion' to God enemies. [Illusion: Skip 2 Turns per 'Illusion' Turn]",
           "s1ntr": "Sharingan",
           "s1cs": "Fastest",
           "s1c": 90,

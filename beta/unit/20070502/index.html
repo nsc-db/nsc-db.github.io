@@ -25,7 +25,7 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="../../favicon/favicon-16x16.png">
 	<link rel="manifest" href="/manifest.json">
 	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+	<meta name="msapplication-TileImage" content="../../favicon/ms-icon-144x144.png">
 	<meta name="theme-color" content="#ffffff">
 
     <!-- CSS -->
@@ -38,6 +38,7 @@
  	<script type="text/javascript" src="../../../common/json/charaname.js"></script>
  	<script type="text/javascript" src="../../../common/eng/detail.js"></script>
  	<script type="text/javascript" src="../../../common/eng/kizuna.js"></script>
+ 	<script type="text/javascript" src="../../../common/eng/field.js"></script>
  	<script type="text/javascript" src="../../../common/json/skill.js"></script>
  	<script type="text/javascript" src="../../../common/json/skillname.js"></script>
  	<script type="text/javascript" src="../../../common/json/ability.js"></script>
@@ -77,8 +78,8 @@
 					<div class="base-menu">
 						<ul>
 							<!-- <li><a href="nsc-db.github.io/index.html" role="button">Front Page</a> -->
-							<li><a href="../" role="button">Home</a>																
-							<li><a href="../../units/index.html" role="button">Units</a>
+							<li><a href="../../../" role="button">Home</a>																
+							<li><a href="../../../units/index.html" role="button">Old Units</a>
 							<li class="active"><a href="../../" role="button">Beta Units</a>
 							<li><a href="../../gear/index.html" role="button">Ninja Gear</a>
 							<li><a href="../../jp/index.html" role="button">JP</a>
@@ -204,9 +205,72 @@
 			</div>	
 			<div class="row">
 				<h1></h1>
+			</div>
+			<div class="row">
+				<div class="modal-content col-md-12" >
+					<table class="table">
+						<thead>
+								<tr>
+									<th></th>
+									<th>Base Damage</th>
+									<th>Additional 1</th>
+									<th>Hits</th>
+									<th>Additional 2</th>
+									<th>Hits</th>
+									<th>Total Damage</th>
+									<th>Total Advantage</th>
+									<th>PvP Damage</th>
+									<th>PvP Advantage</th>
+									<th id="ladamage" style="display:none">LA Damage</th>
+								</tr>
+							</thead>
+						<tbody>
+							<tr>
+								<td>Skill 1 Damage</td>
+								<td id="s1d">0</td>
+								<td id="s1add1">0</td>
+								<td id="s1add1hit">0</td>
+								<td id="s1add2">0</td>
+								<td id="s1add2hit">0</td>
+								<td id="s1total">0</td>
+								<td id="s1totaladv">0</td>
+								<td id="s1pvp">0</td>
+								<td id="s1pvpadv">0</td>
+								<td id="s1la" style="display:none">0</td>
+
+							</tr>
+							<tr>
+								<td>Skill 2 Damage</td>
+								<td id="s2d">0</td>
+								<td id="s2add1">0</td>
+								<td id="s2add1hit">0</td>
+								<td id="s2add2">0</td>
+								<td id="s2add2hit">0</td>
+								<td id="s2total">0</td>
+								<td id="s2adv">0</td>
+								<td id="s2pvp">0</td>
+								<td id="s2pvpadv">0</td>
+								<td id="s2la" style="display:none">0</td>
+							</tr>
+							<tr>
+								<td id="kizunadamage" style="display:none">Kizuna Damage</td>
+								<td id="kizunad" style="display:none">0</td>
+								<td id="kizunaadd1" style="display:none">0</td>
+								<td id="kizunaadd1hit" style="display:none">0</td>
+								<td id="kizunaadd2" style="display:none">0</td>
+								<td id="kizunaadd2hit" style="display:none">0</td>
+								<td id="kizunatotal" style="display:none">0</td>
+								<td id="kizunaadv" style="display:none">0</td>
+								<td id="kizunapvp" style="display:none">0</td>
+								<td id="kizunapvpadv" style="display:none">0</td>
+								<td id="kizunala" style="display:none" style="display:none">0</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
 			</div>	
 			<div class="row">
-				<div class="modal-content col-md-6" >
+				<div class="modal-content col-md-5" >
 					<div class="base-ability">
 						<div class="header leader">
 							<div class="type">
@@ -281,100 +345,120 @@
 					</tbody>
 				</table>
 				</div>
-				<div class="col-md-6" >
+				<div class="col-md-7" >
 						<table class="table">
 							<thead>
 								<tr>
 									<th></th>
 									<th>Base</th>
 									<th>Ability</th>
+									<th>Skill/State</th>									
 									<th>Gear</th>
 									<th>Potential</th>
 									<th>Total</th>
 									<th>PvP Stats</th>
+									<th>Enemy PvP</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td>HP</td>
-									<td id="base-hp"></td>
-									<td id="ability-hp"></td>
-									<td id="gear-hp"></td>
-									<td id="pot-hp"></td>
-									<td id="max-hp"></td>
-									<td id="pvp-hp"></td>
+									<td id="base-hp">0</td>
+									<td id="ability-hp">0</td>
+									<td id="skill-hp">0</td>
+									<td id="gear-hp">0</td>
+									<td id="pot-hp">0</td>
+									<td id="max-hp">0</td>
+									<td id="pvp-hp">0</td>
+									<td id="enemy-hp">0</td>
 								</tr>
 								<tr>
 									<td>Chakra</td>
 									<td id="base-chakra">0</td>
 									<td id="ability-chakra">0</td>
+									<td id="skill-chakra">0</td>
 									<td id="gear-chakra">0</td>
 									<td id="pot-chakra">0</td>
 									<td id="max-chakra">0</td>
-									<td id="pvp-chakra"></td>
+									<td id="pvp-chakra">0</td>
+									<td id="enemy-chakra">0</td>
 								</tr>
 								<tr>
 									<td>ATK</td>
-									<td id="base-atk"></td>
-									<td id="ability-atk"></td>
-									<td id="gear-atk"></td>
-									<td id="pot-atk"></td>
-									<td id="max-atk"></td>
-									<td id="pvp-atk"></td>
+									<td id="base-atk">0</td>
+									<td id="ability-atk">0</td>
+									<td id="skill-atk">0</td>
+									<td id="gear-atk">0</td>
+									<td id="pot-atk">0</td>
+									<td id="max-atk">0</td>
+									<td id="pvp-atk">0</td>
+									<td id="enemy-atk">0</td>
 								</tr>
 								<tr>
 									<td>DEF</td>
-									<td id="base-def"></td>
-									<td id="ability-def"></td>
-									<td id="gear-def"></td>
-									<td id="pot-def"></td>
-									<td id="max-def"></td>
-									<td id="pvp-def"></td>
+									<td id="base-def">0</td>
+									<td id="ability-def">0</td>
+									<td id="skill-def">0</td>
+									<td id="gear-def">0</td>
+									<td id="pot-def">0</td>
+									<td id="max-def">0</td>
+									<td id="pvp-def">0</td>
+									<td id="enemy-def">0</td>
 								</tr>
 								<tr>
 									<td>SPD</td>
-									<td id="base-spd"></td>
-									<td id="ability-spd"></td>
-									<td id="gear-spd"></td>
-									<td id="pot-spd"></td>
-									<td id="max-spd"></td>
-									<td id="pvp-spd"></td>
+									<td id="base-spd">0</td>
+									<td id="ability-spd">0</td>
+									<td id="skill-spd">0</td>
+									<td id="gear-spd">0</td>
+									<td id="pot-spd">0</td>
+									<td id="max-spd">0</td>
+									<td id="pvp-spd">0</td>
+									<td id="enemy-spd">0</td>
 								</tr>
 								<tr>
 									<td>Dodge</td>
-									<td id="base-dodge"></td>
-									<td id="ability-dodge"></td>
-									<td id="gear-dodge"></td>
-									<td id="pot-dodge"></td>
-									<td id="max-dodge"></td>
-									<td id="pvp-dodge"></td>
+									<td id="base-dodge">0%</td>
+									<td id="ability-dodge">0%</td>
+									<td id="skill-dodge">0%</td>
+									<td id="gear-dodge">0%</td>
+									<td id="pot-dodge">0%</td>
+									<td id="max-dodge">0%</td>
+									<td id="pvp-dodge">0%</td>
+									<td id="enemy-dodge">0%</td>
 								</tr>
 								<tr>
 									<td>Crit Chance</td>
-									<td id="base-cc"></td>
-									<td id="ability-cc"></td>
-									<td id="gear-cc"></td>
-									<td id="pot-cc"></td>
-									<td id="max-cc"></td>
-									<td id="pvp-cc"></td>
+									<td id="base-cc">0%</td>
+									<td id="ability-cc">0%</td>
+									<td id="skill-cc">0%</td>
+									<td id="gear-cc">0%</td>
+									<td id="pot-cc">0%</td>
+									<td id="max-cc">0%</td>
+									<td id="pvp-cc">0%</td>
+									<td id="enemy-cc">0%</td>
 								</tr>
 								<tr>
 									<td>Crit Damage</td>
-									<td id="base-cd"></td>
-									<td id="ability-cd"></td>
-									<td id="gear-cd"></td>
-									<td id="pot-cd"></td>
-									<td id="max-cd"></td>
-									<td id="pvp-cd"></td>
+									<td id="base-cd">0%</td>
+									<td id="ability-cd">0%</td>
+									<td id="skill-cd">0%</td>
+									<td id="gear-cd">0%</td>
+									<td id="pot-cd">0%</td>
+									<td id="max-cd">0%</td>
+									<td id="pvp-cd">0%</td>
+									<td id="enemy-cd">0%</td>
 								</tr>
 								<tr>
 									<td>Skill Damage</td>
 									<td id="base-sd">0%</td>
 									<td id="ability-sd">0%</td>
+									<td id="skill-sd"></td>
 									<td id="gear-sd">0%</td>
 									<td id="pot-sd">0%</td>
 									<td id="max-sd">0%</td>
-									<td id="pvp-sd"></td>
+									<td id="pvp-sd">0%</td>
+									<td id="enemy-sd">0%</td>
 								</tr>
 							</tbody>
 						</table>
@@ -450,129 +534,128 @@
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="row">
 					<div class="modal-content col-md-3">
-						<div class="base-ability">
-							<div class="header potential">
-								<div class="type">
-									<h4>Potential Ability</h4>
-								</div>
-								
-								<div class="title">
-									<h3 id="potentialtitle3">None</h3>
-								</div>
+					<div class="base-ability">
+						<div class="header potential">
+							<div class="type">
+								<h4>Potential Ability</h4>
+							</div>
+							
+							<div class="title">
+								<h3 id="potentialtitle3">None</h3>
+							</div>
 
-							</div>
-							<div class="description" style="padding: 10px">
-								<table>
-									<tr>
-										<td style="width:230px" id="potential1">None</td>
-									</tr>	
-									<tr>
-										<td style="width:230px" id="potential2"></td>
-									</tr>
-									<tr>
-										<td style="width:230px" id="potential3">None</td>
-									</tr>
-									<tr>
-										<td style="width:230px" id="potential4">None</td> 
-									</tr>
-								</table>
-							</div>
 						</div>
-					</div>
-					<div class="modal-content col-md-3" id="pt4" style="display:none">
-						<div class="base-ability">
-							<div class="header potential">
-								<div class="type">
-									<h4>Potential Ability</h4>
-								</div>
-								
-								<div class="title">
-									<h3 id="potentialtitle4">None</h3>
-								</div>
-
-							</div>
-							<div class="description" style="padding: 10px">
-								<table>
-									<tr>
-										<td style="width:230px" id="potential5">None</td>
-									</tr>	
-									<tr>
-										<td style="width:230px" id="potential6">None</td>
-									</tr>
-									<tr>
-										<td style="width:230px" id="potential7">None</td>
-									</tr>
-									<tr>
-										<td style="width:230px" id="potential8">None</td> 
-									</tr>
-								</table>
-							</div>
-						</div>
-					</div>
-					<div class="modal-content col-md-3">
-						<div class="base-ability">
-							<div class="header forbidden">
-								<div class="type">
-									<h4>Forbidden Ability</h4>
-								</div>
-								
-								<div class="title">
-									<h3 id="forbiddentitle3">None</h3>
-								</div>
-
-							</div>
-							<div class="description" style="padding: 10px">
-								<table>
-									<tr>
-										<td style="width:230px" id="forbidden1">None</td>
-									</tr>	
-									<tr>
-										<td style="width:230px" id="forbidden2">None</td>
-									</tr>
-									<tr>
-										<td style="width:230px" id="forbidden3">None</td>
-									</tr>
-									<tr>
-										<td style="width:230px" id="forbidden4">None</td> 
-									</tr>
-								</table>
-							</div>
-						</div>
-					</div>
-					<div class="modal-content col-md-3" id="for4" style="display:none">
-						<div class="base-ability">
-							<div class="header forbidden">
-								<div class="type">
-									<h4>Forbidden Ability</h4>
-								</div>
-								
-								<div class="title">
-									<h3 id="forbiddentitle4">None</h3>
-								</div>
-
-							</div>
-							<div class="description" style="padding: 10px">
-								<table>
-									<tr>
-										<td style="width:230px" id="forbidden5">None</td>
-									</tr>	
-									<tr>
-										<td style="width:230px" id="forbidden6">None</td>
-									</tr>
-									<tr>
-										<td style="width:230px" id="forbidden7">None</td>
-									</tr>
-									<tr>
-										<td style="width:230px" id="forbidden8">None</td> 
-									</tr>
-								</table>
-							</div>
+						<div class="description" style="padding: 10px">
+							<table>
+								<tr>
+									<td style="width:230px" id="potential1">None</td>
+								</tr>	
+								<tr>
+									<td style="width:230px" id="potential2"></td>
+								</tr>
+								<tr>
+									<td style="width:230px" id="potential3">None</td>
+								</tr>
+								<tr>
+									<td style="width:230px" id="potential4">None</td> 
+								</tr>
+							</table>
 						</div>
 					</div>
 				</div>
+				<div class="modal-content col-md-3" id="pt4" style="display:none">
+					<div class="base-ability">
+						<div class="header potential">
+							<div class="type">
+								<h4>Potential Ability</h4>
+							</div>
+							
+							<div class="title">
+								<h3 id="potentialtitle4">None</h3>
+							</div>
+
+						</div>
+						<div class="description" style="padding: 10px">
+							<table>
+								<tr>
+									<td style="width:230px" id="potential5">None</td>
+								</tr>	
+								<tr>
+									<td style="width:230px" id="potential6">None</td>
+								</tr>
+								<tr>
+									<td style="width:230px" id="potential7">None</td>
+								</tr>
+								<tr>
+									<td style="width:230px" id="potential8">None</td> 
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+				<div class="modal-content col-md-3">
+					<div class="base-ability">
+						<div class="header forbidden">
+							<div class="type">
+								<h4>Forbidden Ability</h4>
+							</div>
+							
+							<div class="title">
+								<h3 id="forbiddentitle3">None</h3>
+							</div>
+
+						</div>
+						<div class="description" style="padding: 10px">
+							<table>
+								<tr>
+									<td style="width:230px" id="forbidden1">None</td>
+								</tr>	
+								<tr>
+									<td style="width:230px" id="forbidden2">None</td>
+								</tr>
+								<tr>
+									<td style="width:230px" id="forbidden3">None</td>
+								</tr>
+								<tr>
+									<td style="width:230px" id="forbidden4">None</td> 
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+				<div class="modal-content col-md-3" id="for4" style="display:none">
+					<div class="base-ability">
+						<div class="header forbidden">
+							<div class="type">
+								<h4>Forbidden Ability</h4>
+							</div>
+							
+							<div class="title">
+								<h3 id="forbiddentitle4">None</h3>
+							</div>
+
+						</div>
+						<div class="description" style="padding: 10px">
+							<table>
+								<tr>
+									<td style="width:230px" id="forbidden5">None</td>
+								</tr>	
+								<tr>
+									<td style="width:230px" id="forbidden6">None</td>
+								</tr>
+								<tr>
+									<td style="width:230px" id="forbidden7">None</td>
+								</tr>
+								<tr>
+									<td style="width:230px" id="forbidden8">None</td> 
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+				</div>
+				
 
 				<div class="row">
 					<div class="modal-content col-md-3">
@@ -586,7 +669,7 @@
 								</div>
 							</div>
 							<div class="description" style="padding: 10px">
-								<table>
+								<table class="table">
 									<tr>
 										<td>HP</td>
 										<td id="p1hp"></td>
@@ -626,7 +709,7 @@
 								</div>
 							</div>
 							<div class="description" style="padding: 10px">
-								<table>
+								<table class="table">
 									<tr>
 										<td>HP</td>
 										<td id="p2hp"></td>
@@ -666,7 +749,7 @@
 								</div>
 							</div>
 							<div class="description" style="padding: 10px">
-								<table>
+								<table class="table">
 									<tr>
 										<td>HP</td>
 										<td id="p3hp"></td>
@@ -706,7 +789,7 @@
 								</div>
 							</div>
 							<div class="description" style="padding: 10px">
-								<table>
+								<table class="table">
 									<tr>
 										<td>HP</td>
 										<td id="p4hp"></td>
@@ -749,7 +832,7 @@
 								</div>
 							</div>
 							<div class="description" style="padding: 10px">
-								<table>
+								<table class="table">
 									<tr>
 										<td>HP</td>
 										<td id="f1hp"></td>
@@ -789,7 +872,7 @@
 								</div>
 							</div>
 							<div class="description" style="padding: 10px">
-								<table>
+								<table class="table">
 									<tr>
 										<td>HP</td>
 										<td id="f2hp"></td>
@@ -829,7 +912,7 @@
 								</div>
 							</div>
 							<div class="description" style="padding: 10px">
-								<table>
+								<table class="table">
 									<tr>
 										<td>HP</td>
 										<td id="f3hp"></td>
@@ -869,7 +952,7 @@
 								</div>
 							</div>
 							<div class="description" style="padding: 10px">
-								<table>
+								<table class="table">
 									<tr>
 										<td>HP</td>
 										<td id="f4hp"></td>
@@ -1112,6 +1195,14 @@
 								</table>
 							</div>
 						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-5 col-md-offset-5">
+						<form action="../../grandBuilder/index.html">
+						    <input type="submit" value="Open Builder" />
+						</form>
 					</div>
 				</div>
 			</div>

@@ -23,37 +23,37 @@ for(var i in window.chara){
 		var cd = unit["criticalDamageLot"] / 100 + "%"
 		var sd 
 		var tag
-		var p1hp
-		var p1atk
-		var p1def
-		var p1spd
-		var p2hp
-		var p2atk
-		var p2def
-		var p2spd
-		var p3hp
-		var p3atk
-		var p3def
-		var p3spd
+		var p1hp=0
+		var p1atk=0
+		var p1def=0
+		var p1spd=0
+		var p2hp=0
+		var p2atk=0
+		var p2def=0
+		var p2spd=0
+		var p3hp=0
+		var p3atk=0
+		var p3def=0
+		var p3spd=0
 		var p4hp= 0
 		var p4atk= 0
 		var p4def= 0
 		var p4spd= 0
-		var p2sd
-		var f1hp
-		var f1atk
-		var f1def
-		var f1spd
-		var f2hp
-		var f2atk
-		var f2def
-		var f2spd
-		var f2chakra
-		var f3hp
-		var f3atk
-		var f3def
-		var f3spd
-		var f3sd
+		var p2sd=0
+		var f1hp=0
+		var f1atk=0
+		var f1def=0
+		var f1spd=0
+		var f2hp=0
+		var f2atk=0
+		var f2def=0
+		var f2spd=0
+		var f2chakra=0
+		var f3hp=0
+		var f3atk=0
+		var f3def=0
+		var f3spd=0
+		var f3sd=0
 		var f4hp= 0
 		var f4atk= 0
 		var f4def= 0
@@ -63,10 +63,46 @@ for(var i in window.chara){
 		var latk = 50000*3
 		var ldef = 50000*3
 		var lspd = 10*5 
+		var shp = 0
+		var satk = 0
+		var sdef = 0
+		var sspd = 0
+		var ssd = 0
+		var ahp = 0
+		var achakra = 0
+		var aatk = 0
+		var adef = 0
+		var aspd = 0
+		var asd = 0
+		var maxhp =0
+		var maxchakra =0
+		var maxatk =0
+		var maxdef =0
+		var maxspd =0
+		var maxsd =0
+		var pvphp = 0
+		var pvpdef = 0
+		var pvpsd = 0
+		var statehp = 0
+		var stateatk = 0
+		var statedef = 0
+		var statespd = 0
+		var statesd = 0
 
+		var abilityhp = 0
+		var abilitychakra = 0;
+		var abilityatk = 0
+		var abilitydef = 0
+		var abilityspd = 0
+		var abilitysd = 0
+
+
+		var head = 'Hey'
+
+		
 		var kizuna =document.getElementById("kizuna");;
-
-		var type = checkType(unit)
+		
+		var unitType = checkType(unit)
 		//Base Stats
 		for(var n in window.evo){
 			if(id == window.evo[n]['cardId']){
@@ -80,7 +116,7 @@ for(var i in window.chara){
 			}
 		}	
 
-		if(id == 60070401 || id == 60070501 || id == 60071201 || id == 60060701){
+		if(id == 60070401 || id == 60070501 || id == 60061201 || id == 60060701){
 			tempId = id-1
 		}
 		else if(id == 60070402 || id == 60070502 || id == 60061202 || id == 60060702){
@@ -237,8 +273,57 @@ for(var i in window.chara){
 					}
 				}
 			}
+
+			for(var x in charaBreakdown['beast']){
+				for(var y in window.state){
+					if(charaBreakdown['beast'][x] == window.state[y]['iconId']){
+						$('#state-' + stateCounter + 'img').attr('src', '../../../common/assets/img/states/' + window.state[y]['iconId'] + '.png');
+						$('#state-' + stateCounter).attr('data-unique', window.state[y]['name'] + ": " + window.state[y]['description']);
+						stateCounter++
+					}
+				}
+			}
+
+			for(var x in charaBreakdown['terrain']){
+				for(var y in window.field){
+					if(charaBreakdown['terrain'][x] == window.field[y]['id']){
+						$('#state-' + stateCounter + 'img').attr('src', '../../../common/assets/img/terrain/' + window.field[y]['id'] + '.png');
+						$('#state-' + stateCounter).attr('data-unique', window.field[y]['name'] + ": " + window.field[y]['description']);
+						stateCounter++
+					}
+				}
+			}
+
+			//State Stats
+			shp = charaBreakdown['buff'][0]
+			satk = charaBreakdown['buff'][1]
+			sdef = charaBreakdown['buff'][2]
+			sspd = charaBreakdown['buff'][3]
+			ssd  = charaBreakdown['buff'][4]
+
+			ahp = charaBreakdown['ability'][0]
+			achakra = charaBreakdown['ability'][1]
+			aatk = charaBreakdown['ability'][2]
+			adef = charaBreakdown['ability'][3]
+			aspd = charaBreakdown['ability'][4]
+			asd  = charaBreakdown['ability'][5]
+
+			var statehp = parseInt(hp * (shp / 100))
+			var stateatk = parseInt(atk * (satk / 100))
+			var statedef = parseInt(def * (sdef / 100))
+			var statespd = parseInt(spd * (sspd / 100))
+			var statesd = ssd
+
+			var abilityhp = parseInt(hp * (ahp / 100));
+			var abilitychakra = parseInt(achakra);
+			var abilityatk = parseInt(atk * (aatk / 100));
+			var abilitydef = parseInt(def * (adef / 100));
+			var abilityspd = parseInt(spd * (aspd / 100));
+			var abilitysd = parseInt(asd);
+
 		}
 
+		
 
 		//Potential
 		var abilityArr = []
@@ -297,6 +382,7 @@ for(var i in window.chara){
 			}
 		}
 
+		//Legendary Awakening
 		var lp = document.getElementById("lp");
 		var ls = document.getElementById("ls");
 		var forb4 = document.getElementById("forb4");
@@ -307,6 +393,8 @@ for(var i in window.chara){
 		var lbspd = 150*15
 		var lbrec = 300000*15
 		var lbch = 10*15
+
+
 		if(legendary == 1){
 			if(id >= 20051202){
 				lp.style.display = "block"
@@ -939,7 +1027,7 @@ for(var i in window.chara){
 		$('#ability3').text(a3);
 
 		$("#unit-cost").text(unit['cost'])
-		$("#unit-type").text(type)
+		$("#unit-type").text(unitType)
 		$("#unit-affi").text(affi)
 		$("#unit-tag").text(tag)
 
@@ -951,12 +1039,29 @@ for(var i in window.chara){
 		$("#base-dodge").text(dodge)
 		$("#base-cc").text(cc)
 		$("#base-cd").text(cd)
+
+		$("#skill-hp").text(statehp.toLocaleString())
+		$("#skill-atk").text(stateatk.toLocaleString())
+		$("#skill-def").text(statedef.toLocaleString())
+		$("#skill-spd").text(statespd.toLocaleString())
+		$("#skill-sd").text(statesd.toLocaleString() + "%")
+
+		$("#ability-hp").text(abilityhp.toLocaleString())
+		$("#ability-chakra").text(abilitychakra.toLocaleString())
+		$("#ability-atk").text(abilityatk.toLocaleString())
+		$("#ability-def").text(abilitydef.toLocaleString())
+		$("#ability-spd").text(abilityspd.toLocaleString())
+		$("#ability-sd").text(abilitysd.toLocaleString() + "%")
+
 		$("#max-dodge").text(dodge)
 		$("#max-cc").text(cc)
 		$("#max-cd").text(cd)
 		$("#pvp-dodge").text(dodge)
 		$("#pvp-cc").text(cc)
 		$("#pvp-cd").text(cd)
+		$("#enemy-dodge").text(dodge)
+		$("#enemy-cc").text(cc)
+		$("#enemy-cd").text(cd)
 		$("#base-sd").text(sd)
 
 		$("#pot-hp").text((p1hp + p2hp + p3hp + p4hp + f1hp + f2hp + f3hp + f4hp + (lhp*5) + lbhp).toLocaleString())
@@ -966,21 +1071,225 @@ for(var i in window.chara){
 		$("#pot-chakra").text(f2chakra)
 		$("#pot-sd").text(p2sd + f3sd + f4sd + "%")
 
+		maxhp = hp + statehp + abilityhp + p1hp + p2hp + p3hp + p4hp + f1hp + f2hp + f3hp + f4hp + (lhp*5) + lbhp
+		maxchakra = 100 + abilitychakra + f2chakra
+		maxatk = atk + stateatk + abilityatk + p1atk + p2atk + p3atk + p4atk + f1atk + f2atk + f3atk + f4atk + (latk*5)
+		maxdef = def + statedef + abilitydef + p1def + p2def + p3def + p4def + f1def + f2def + f3def + f4def + (ldef*5)
+		maxspd = spd + statespd + abilityspd + p1spd + p2spd + p3spd + p4spd + f1spd + f2spd + f3spd + f4spd + (lspd*5)
+		maxsd = statesd + abilitysd + p2sd + f3sd + f4sd
 
-		$("#max-hp").text((hp + p1hp + p2hp + p3hp + p4hp + f1hp + f2hp + f3hp + f4hp + (lhp*5) + lbhp).toLocaleString())
-		$("#max-chakra").text(100 + f2chakra)
-		$("#max-atk").text((atk + p1atk + p2atk + p3atk + p4atk + f1atk + f2atk + f3atk + f4atk + (latk*5)).toLocaleString())
-		$("#max-def").text((def + p1def + p2def + p3def + p4def + f1def + f2def + f3def + f4def + (ldef*5)).toLocaleString())
-		$("#max-spd").text((spd + p1spd + p2spd + p3spd + p4spd + f1spd + f2spd + f3spd + f4spd + (lspd*5)).toLocaleString())
-		$("#max-sd").text(p2sd + f3sd + f4sd + "%")
+		$("#max-hp").text(parseInt(maxhp).toLocaleString())
+		$("#max-chakra").text(maxchakra)
+		$("#max-atk").text(parseInt(maxatk).toLocaleString())
+		$("#max-def").text(parseInt(maxdef).toLocaleString())
+		$("#max-spd").text(parseInt(maxspd).toLocaleString())
+		$("#max-sd").text(statesd + abilitysd + p2sd + f3sd + f4sd + '%')
 
-		$("#pvp-hp").text((hp + p1hp + p2hp + p3hp + p4hp + f1hp + f2hp + f3hp + f4hp + (lhp*5) + lbhp + (hp*15)).toLocaleString())
-		$("#pvp-chakra").text(100 + f2chakra)
-		$("#pvp-atk").text((atk + p1atk + p2atk + p3atk + p4atk + f1atk + f2atk + f3atk + f4atk + (latk*5)).toLocaleString())
-		$("#pvp-def").text((def + p1def + p2def + p3def + p4def + f1def + f2def + f3def + f4def + (ldef*5) - (def * 1.5)).toLocaleString())
-		$("#pvp-spd").text((spd + p1spd + p2spd + p3spd + p4spd + f1spd + f2spd + f3spd + f4spd + (lspd*5)).toLocaleString())
-		$("#pvp-sd").text(p2sd + f3sd + f4sd - 95 + "%")
+		pvphp = maxhp + (hp*15)
+		pvpdef = maxdef - (def*1.5)
+		pvpsd = maxsd - 95
+		$("#pvp-hp").text(parseInt(pvphp).toLocaleString())
+		$("#pvp-chakra").text(maxchakra)
+		$("#pvp-atk").text(parseInt(maxatk).toLocaleString())
+		$("#pvp-def").text(parseInt(maxdef).toLocaleString())
+		$("#pvp-spd").text(parseInt(maxspd).toLocaleString())
+		$("#pvp-sd").text(pvpsd + "%")
 
+		enemyhp = maxhp + (hp*25)
+		enemyspd = maxspd + spd
+		enemysd = maxsd - 60
+		$("#enemy-hp").text(parseInt(enemyhp).toLocaleString())
+		$("#enemy-chakra").text(maxchakra)
+		$("#enemy-atk").text(parseInt(maxatk).toLocaleString())
+		$("#enemy-def").text(parseInt(maxdef).toLocaleString())
+		$("#enemy-spd").text(parseInt(enemyspd).toLocaleString())
+		$("#enemy-sd").text(enemysd + "%")
+
+
+		if(charaBreakdown != ""){
+			var s1d = charaBreakdown["s1d"]
+			var s1s = charaBreakdown["s1ds"] / 100
+			var s1m = charaBreakdown["s1m"]
+			var s1t = charaBreakdown["s1dt"]
+			var s1add1d = charaBreakdown["s1add1d"]
+			var s1add1s = charaBreakdown["s1add1s"] / 100
+			var s1addhit = charaBreakdown["s1add1h"]
+			var s1add2d = charaBreakdown["s1add2d"]
+			var s1add2s = charaBreakdown["s1add2s"] / 100
+			var s1add2hit = charaBreakdown["s1add2h"]
+
+			var s2d = charaBreakdown["s2d"]
+			var s2s = charaBreakdown["s2ds"] / 100
+			var s2m = charaBreakdown["s2m"]
+			var s2t = charaBreakdown["s2dt"]
+			var s2add1d = charaBreakdown["s2add1d"]
+			var s2add1s = charaBreakdown["s2add1s"] / 100
+			var s2addhit = charaBreakdown["s2add1h"]
+			var s2add2d = charaBreakdown["s2add2d"]
+			var s2add2s = charaBreakdown["s2add2s"] / 100
+			var s2add2hit = charaBreakdown["s2add2h"]
+
+			var s1dam = parseInt(s1d + (maxatk * s1s))
+			var s1add1dam = parseInt(s1add1d + (maxatk * s1add1s))
+			var s1add2dam = parseInt(s1add2d + (maxatk * s1add2s))
+			var s2dam = parseInt(s2d + (maxatk * s2s))
+			var s2add1dam = parseInt(s2add1d + (maxatk * s2add1s))
+			var s2add2dam = parseInt(s2add2d + (maxatk * s2add2s))
+
+			var basedamage = parseInt(s1dam * ((maxsd + 100) / 100) * s1m)
+			var add1damage = parseInt(s1add1dam * ((maxsd + 100) / 100) * s1m)
+			var add2damage = parseInt(s1add2dam * ((maxsd + 100) / 100) * s1m)
+			var basedamages2 = parseInt(s2dam * ((maxsd + 100) / 100) * s2m)
+			var add1damages2 = parseInt(s2add1dam * ((maxsd + 100) / 100) * s2m)
+			var add2damages2 = parseInt(s2add2dam * ((maxsd + 100) / 100) * s2m)
+
+
+			if(id > 60000000){
+				document.getElementById("kizunadamage").style.display = "";
+				document.getElementById("kizunad").style.display = "";
+				document.getElementById("kizunaadd1").style.display = "";
+				document.getElementById("kizunaadd1hit").style.display = "";
+				document.getElementById("kizunaadd2").style.display = "";
+				document.getElementById("kizunaadd2hit").style.display = "";
+				document.getElementById("kizunatotal").style.display = "";
+				document.getElementById("kizunaadv").style.display = "";
+				document.getElementById("kizunapvp").style.display = "";
+				document.getElementById("kizunapvpadv").style.display = "";
+
+				var kizunad = charaBreakdown["kizunad"]
+				var kizunas = charaBreakdown["kizunads"] / 100
+				var kizunam = charaBreakdown["kizunam"]
+				var kizunat = charaBreakdown["kizunadt"]
+				var kizunadam = parseInt(kizunad + (maxatk * kizunas))
+				var kizunadamage = parseInt(kizunad * ((maxsd + 100) / 100))
+				$("#kizunad").text(parseInt(kizunadamage).toLocaleString())
+				$("#kizunatotal").text(parseInt(kizunadamage).toLocaleString())
+				$("#kizunapvp").text(parseInt(kizunadamage).toLocaleString())
+				$("#kizunaadv").text(parseInt(kizunadamage*2).toLocaleString())
+				$("#kizunapvpadv").text(parseInt(kizunadamage*2).toLocaleString())
+
+			}
+
+			$("#s1d").text(parseInt(basedamage).toLocaleString())
+			$("#s1add1").text(parseInt(add1damage).toLocaleString())
+			$("#s1add1hit").text(s1addhit)
+			$("#s1add2").text(parseInt(add2damage).toLocaleString())
+			$("#s1add2hit").text(s1add2hit)
+			
+			$("#s2d").text(parseInt(basedamages2).toLocaleString())
+			$("#s2add1").text(parseInt(add1damages2).toLocaleString())
+			$("#s2add1hit").text(s2addhit)
+			$("#s2add2").text(parseInt(add2damages2).toLocaleString())
+			$("#s2add2hit").text(s2add2hit)
+
+			var baseadv = basedamage
+			var s1addadv = add1damage
+			var s2addadv = add2damage
+
+			var baseadvs2 = basedamages2
+			var s1addadvs2 = add1damages2
+			var s2addadvs2 = add2damages2
+			var totaldamage = basedamage + (add1damage * s1addhit) + (add2damage * s1add2hit)
+			var totaldamages2 = basedamages2 + (add1damages2 * s2addhit) + (add2damages2 * s2add2hit)
+			
+			if(s1s > 0){
+				baseadv*= 2
+			}
+			if(s1add1s > 0){
+				s1addadv*= 2
+			}
+			if(s1add2s > 0){
+				s2addadv*= 2
+			}
+
+			if(s2s > 0){
+				baseadvs2*= 2
+			}
+			if(s2add1s > 0){
+				s1addadvs2*= 2
+			}
+			if(s2add2s > 0){
+				s2addadvs2*= 2
+			}
+
+			var pvpbasedamage = parseInt(s1dam * ((maxsd - 95 + 100) / 100) * s1m)
+			var pvpadd1damage = parseInt(s1add1dam * ((maxsd - 95 + 100) / 100) * s1m)
+			var pvpadd2damage = parseInt(s1add2dam * ((maxsd - 95 + 100) / 100) * s1m)
+			var pvpbasedamages2 = parseInt(s2dam * ((maxsd - 95 + 100) / 100) * s2m)
+			var pvpadd1damages2 = parseInt(s2add1dam * ((maxsd - 95 + 100) / 100) * s2m)
+			var pvpadd2damages2 = parseInt(s2add2dam * ((maxsd - 95 + 100) / 100) * s2m)
+			if(s1t == 2){
+				pvpbasedamage /= 2
+				pvpadd1damage /= 2
+				pvpadd2damage /= 2
+			}
+			if(s2t == 2){
+				pvpbasedamages2 /= 2
+				pvpadd1damages2 /= 2
+				pvpadd2damages2 /= 2
+			}
+			var advdamage = baseadv + (s1addadv * s1addhit) + (s2addadv * s1add2hit)
+			var advdamages2 = baseadvs2 + (s1addadvs2 * s2addhit) + (s2addadvs2 * s2add2hit)
+			
+			$("#s1total").text(parseInt(totaldamage).toLocaleString())
+			$("#s1totaladv").text(parseInt(advdamage).toLocaleString())
+			$("#s2total").text(parseInt(totaldamages2).toLocaleString())
+			$("#s2adv").text(parseInt(advdamages2).toLocaleString())
+
+			var pvptotaldamage = pvpbasedamage + (pvpadd1damage * s1addhit) + (pvpadd2damage * s1add2hit)
+			var pvptotaldamages2 = pvpbasedamages2 + (pvpadd1damages2 * s2addhit) + (pvpadd2damages2* s2add2hit)
+
+			var pvpbaseadv = pvpbasedamage
+			var pvps1addadv = pvpadd1damage
+			var pvps2addadv = pvpadd2damage
+
+			var pvpbaseadvs2 = pvpbasedamages2
+			var pvps1addadvs2 = pvpadd1damages2
+			var pvps2addadvs2 = pvpadd2damages2
+			if(s1s > 0){
+				pvpbaseadv*= 2
+			}
+			if(s1add1s > 0){
+				pvps1addadv*= 2
+			}
+			if(s1add2s > 0){
+				pvps2addadv*= 2
+			}
+
+			if(s2s > 0){
+				pvpbaseadvs2*= 2
+			}
+			if(s2add1s > 0){
+				pvps1addadvs2*= 2
+			}
+			if(s2add2s > 0){
+				pvps2addadvs2*= 2
+			}
+			var pvpadvdamage = pvpbaseadv + (pvps1addadv * s1addhit) + (pvps2addadv * s1add2hit)
+			var pvpadvdamages2 = pvpbaseadvs2 + (pvps1addadvs2 * s2addhit) + (pvps2addadvs2 * s2add2hit)
+
+			$("#s1pvp").text(parseInt(pvptotaldamage).toLocaleString())
+			$("#s1pvpadv").text(parseInt(pvpadvdamage).toLocaleString())
+			$("#s2pvp").text(parseInt(pvptotaldamages2).toLocaleString())
+			$("#s2pvpadv").text(parseInt(pvpadvdamages2).toLocaleString())
+
+			if(legendary == 1){
+				document.getElementById("ladamage").style.display = "";
+				document.getElementById("s1la").style.display = "";
+				document.getElementById("s2la").style.display = "";
+
+				var doubledamage = totaldamage * 2
+				var penAdd = 1500000 * ((maxsd + 100) / 100) * 5
+				var doubledamages2 = totaldamages2 * 2
+				var penAdds2 = 1500000 * ((maxsd + 100) / 100) * 5
+
+				$("#s1la").text(parseInt(doubledamage + penAdd).toLocaleString())
+				$("#s2la").text(parseInt(doubledamages2 + penAdds2).toLocaleString())
+			}
+
+		}
+
+		
 	}	
 }
 
