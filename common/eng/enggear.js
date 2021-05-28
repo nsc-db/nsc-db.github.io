@@ -1482,7 +1482,7 @@ window.enggear=[
 {
           "id": 6465,
           "type": "Skill",
-          "name": "Kakashi's Scratched Vest",
+          "name": "Kakashi's Susanoo Sword",
           "effect": "Skill Damage +100%, When Attacked: Chakra Recovery +10%",
           "normal": "Sharingan and Space Time Skill Damage +20%",
           "charaIds": "1706",
