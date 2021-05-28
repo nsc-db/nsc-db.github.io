@@ -349,6 +349,8 @@
 	.modal-body .base-unit-view .base-tables .base-ability .header.forbidden {
 		background-image: linear-gradient(to bottom, #DF574D, #85342E);
 	}
+
+
 	.modal-body .base-unit-view .base-tables .base-ability .header .type h4 {
 		position: relative;
 		color: #ffffff;
@@ -358,6 +360,14 @@
 		background-color: #323232;
 	}
 
+	.base-ability .header .type h4 {
+		position: relative;
+		color: #ffffff;
+		font-size: 12px;
+		font-weight: bold;
+		margin: 0; padding: 6px 8px;
+		background-color: #323232;
+	}
 	.modal-body .base-unit-view .base-tables .base-ability .header .type h4:after {
 		content: "";
 	    position: absolute;
@@ -559,7 +569,7 @@
 		font-size: 12px;
 		padding: 6px 12px 6px 6px;
 	}
-
+	
 
 
 

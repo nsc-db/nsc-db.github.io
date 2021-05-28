@@ -22,11 +22,11 @@ window.engkizuna=[
           "nature": "Unique",
           "cs": "Fastest",
           "cost": 100
-        }
-		{
+        },
+        {
           "cardBattleSkillId": "710003",
-          "name": "Fist Destruction Eye Decapitation: Cherry Blossom Thunder Pierce ",
-          "description": "＜Kizuna Skill＞ Deal 7% + 5,000,000 Penetration Damage to target enemy. Ignore Withstand, Revive and Immortality. While under 'Feelings for Sasuke' and 'Feelings for Sakura' Unique States: Grant 'Feelings for Eye Fist' Unique State. [Feelings for Eye Fist: Skill Immunity, Chance for Action State]",
+          "name": "Fist Destruction Eye Decapitation: Cherry Blossom Thudner Pierce",
+          "description": "＜Kizuna Skill＞ Deal 3% + 5,000,000 Penetration Damage to a target enemy. Ignore Withstand, Revive and Immortality. Grant 'Feelings of Eye Fist' Unique State while under 'Feeling for Sakura' and Feeling for Sasuke' Unique State [Feelings of Eye Fist: Skill Immunity, Chance to Grant Action State]",
           "nature": "Unique",
           "cs": "Fastest",
           "cost": 100
