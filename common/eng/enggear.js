@@ -1,11 +1,21 @@
 window.enggear=[
 {
+          "id": 1205,
+          "type": "Additional",
+          "name": "Icha Icha Paradise",
+          "effect": "Low Chance to Dodge Skills, Cast Speed +1",
+          "normal": "Very Low Chance to Dodge Skills",
+          "charaIds": "1701,1702,1703,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 1304,
           "type": "Resistance",
           "name": "Detoxification Injection",
           "effect": "None",
           "normal": "ATK -10%, 5 Turns: 'Poison' Effect Immunity",
-          "charaIds": "201",
+          "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -15,7 +25,7 @@ window.enggear=[
           "name": "Sasuke's Demon Shiruken",
           "effect": "ATK +60%, SPD +10%",
           "normal": "ATK +100%, SPD +30%, Fire Skill Damage +50%",
-          "charaIds": "0",
+          "charaIds": "201",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -60,6 +70,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 1705,
+          "type": "Skill",
+          "name": "Icha Icha Tactics",
+          "effect": "Lightning and Sharingan Skill Damage +50%, HP +40%",
+          "normal": "Lightning and Sharingan Skill Damage +20%, HP +20%",
+          "charaIds": "1701,1702,1703,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 1715,
           "type": "Stats",
           "name": "Sakura's Gloves",
@@ -76,6 +96,26 @@ window.enggear=[
           "effect": "Poison and Fatal Poison Immunity, Chakra Cost -10%, HP Recovery Skill Amount +60%",
           "normal": "Poison and Fatal Poison Chance -50%",
           "charaIds": "301,302,303,304,306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1745,
+          "type": "Stats",
+          "name": "Keepsake Ninjato",
+          "effect": "ATK +80%, SPD +40%",
+          "normal": "ATK +40%, SPD +20%",
+          "charaIds": "1701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1755,
+          "type": "Resistance",
+          "name": "Team Minato Backpack",
+          "effect": "Incoming Fire, Wind and Lightning Skill Damage -50%",
+          "normal": "Incoming Fire, Wind and Lightning Skill Damage -30%",
+          "charaIds": "2102,1701,50901,51001",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -130,12 +170,32 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 1975,
+          "type": "Additional",
+          "name": "Pakkun Netsuki",
+          "effect": "HP and Chakra Recovery +5%",
+          "normal": "HP and Chakra Recovery +10%, Skill Damage +50%",
+          "charaIds": "1701,1702,1703,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 1985,
           "type": "Stats",
           "name": "Ino-Shika-Cho Earrings (Ino)",
           "effect": "HP, SPD and HP Recovery Skill Amount +50%",
           "normal": "HP and SPD +20%",
           "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2035,
+          "type": "Skill",
+          "name": "Summoning Scroll",
+          "effect": "Summoning Skill Damage +60%, HP and ATK +40%",
+          "normal": "Summoning Skill Damage, ATK and HP +20%",
+          "charaIds": "1702",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -370,6 +430,16 @@ window.enggear=[
           "charaGroupIds": "0"
 }, 
 {
+          "id": 2795,
+          "type": "Stats",
+          "name": "Surfboard",
+          "effect": "ATK and SPD +50%, Lightning Skill Damage +20%",
+          "normal": "ATK and SPD +30%",
+          "charaIds": "1702,1703,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+}, 
+{
           "id": 2815,
           "type": "Chakra",
           "name": "Yellow Flower Hair Ornament",
@@ -570,11 +640,31 @@ window.enggear=[
           "charaGroupIds": "0"
 }, 
 {
+          "id": 3285,
+          "type": "Chakra",
+          "name": "Kakashi's Forehead Protector",
+          "effect": "Chakra Cost -15%, HP Recovery +10%",
+          "normal": "Chakra Cost -10%",
+          "charaIds": "1702,1703,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3295,
+          "type": "Stats",
+          "name": "Icha Icha Violence",
+          "effect": "ATK +130%, Skill Damage +30%",
+          "normal": "ATK +90%",
+          "charaIds": "1701,1702,1703,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+}, 
+{
           "id": 3305,
           "type": "Resistance",
           "name": "Kakashi's Inner",
           "effect": "HP +40%, Medium Chance for Skill Immunity",
-          "normal": "Chakra Cost -5%, SPD +20%",
+          "normal": "Very Low Chance for Skill Immunity, HP -50%",
           "charaIds": "1702,1703,1704,1706",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -710,6 +800,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 3825,
+          "type": "Resistance",
+          "name": "Kakashi's Mantle",
+          "effect": "Incoming Lightning Skill Damage and Paralyze Duration -50%, HP and SPD +40%",
+          "normal": "Incoming Lightning Skill Damage Reduction, HP +20%",
+          "charaIds": "1702,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3855,
           "type": "Additional",
           "name": "Thunderstorm",
@@ -729,6 +829,16 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 },	
+{
+          "id": 3925,
+          "type": "Additional",
+          "name": "Anbu Vest",
+          "effect": "Skill Damage +30%, HP Recovery +10%",
+          "normal": "HP Recovery +7%",
+          "charaIds": "11602,4101,4501,4201,1703",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 3935,
           "type": "Skill",
@@ -776,6 +886,16 @@ window.enggear=[
           "effect": "HP and ATK +70%, Cast Speed +1",
           "normal": "HP and ATK +40%",
           "charaIds": "20401",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4125,
+          "type": "Resistance",
+          "name": "Obito's Eye",
+          "effect": "Debuff Immunity, Skill Damage +20%",
+          "normal": "Debuff Duration Reduction",
+          "charaIds": "1702,1703,1704,1706,14001,50901,50902,50903",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -876,6 +996,26 @@ window.enggear=[
           "effect": "HP, ATK, DEF and SPD +60%",
           "normal": "ATK, DEF and SPD +30%",
           "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4575,
+          "type": "Stats",
+          "name": "6th Hokage's Hat",
+          "effect": "HP and DEF +100%, HP Recovery Skill Amount +60%",
+          "normal": "HP +50%",
+          "charaIds": "1705",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4585,
+          "type": "Resistance",
+          "name": "6th Hokage's Cloak",
+          "effect": "Debufff and Status Effect Duration -50%, Chakra Recovery +5%",
+          "normal": "Status Effect Duration Reduction",
+          "charaIds": "1705",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1280,6 +1420,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 6295,
+          "type": "Skill",
+          "name": "Kakashi's Shonen Pouch",
+          "effect": "3 Turns: ATK and Lightning Skill Damage +30%, After 3 Turns: ATK and Lightning Skill Damage +100%",
+          "normal": "ATK and Lightning Skill Damage +30%",
+          "charaIds": "1701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 6305,
           "type": "Skill",
           "name": "Hashirama's Artificial Body",
@@ -1313,10 +1463,30 @@ window.enggear=[
           "id": 6355,
           "type": "Stats",
           "name": "Tobi Festival Mask",
-          "effect": "ATK and SPD +70%",
-          "normal": "HP, ATK and SPD +100%",
+          "effect": "HP, ATK and SPD +100%",
+          "normal": "ATK and SPD +70%",
           "charaIds": "105,704,4602",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6455,
+          "type": "Stats",
+          "name": "Kakashi's Scratched Vest",
+          "effect": "HP, ATK and DEF +80%, When Attacked: HP Recovery +10%",
+          "normal": "HP, ATK and DEF +30%",
+          "charaIds": "1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6465,
+          "type": "Skill",
+          "name": "Kakashi's Scratched Vest",
+          "effect": "Skill Damage +100%, When Attacked: Chakra Recovery +10%",
+          "normal": "Sharingan and Space Time Skill Damage +20%",
+          "charaIds": "1706",
+          "cardIds": "20001818,20030909",
           "charaGroupIds": "0"
 },
 {
@@ -1326,6 +1496,16 @@ window.enggear=[
           "effect": "Skill Damage +70%, HP +40%",
           "normal": "Skill Damage and HP +20%",
           "charaIds": "1702,101,201,302,301",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6485,
+          "type": "Stats",
+          "name": "Alarm Clock",
+          "effect": "ATK and Skill Damage +100%, SPD +50%",
+          "normal": "ATK and SPD +40%",
+          "charaIds": "1702",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1427,6 +1607,26 @@ window.enggear=[
           "normal": "Six Paths Skill Damage +30%",
           "charaIds": "110,104,207,111",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6925,
+          "type": "Additional",
+          "name": "Entrusted Mangekyo Sharingan",
+          "effect": "HP and SPD +80%, Chance to Dodge Skills",
+          "normal": "Low Chance to Dodge Skills",
+          "charaIds": "1706",
+          "cardIds": "20001818,20030909",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6935,
+          "type": "Skill",
+          "name": "Kamui Shuriken",
+          "effect": "Sharingan Skill Damage +150%, Debuff Immunity",
+          "normal": "Sharingan Skill Damage +30%",
+          "charaIds": "1706",
+          "cardIds": "20001818,20030909",
           "charaGroupIds": "0"
 },
 {
@@ -1570,6 +1770,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 7975,
+          "type": "Food",
+          "name": "Grilled Mackerel",
+          "effect": "HP and SPD +40%, 3 Turns: HP and Chakra Recovery +50%",
+          "normal": "3 Turns: HP Recovery +15%",
+          "charaIds": "1701,1702,1703,1704,1705,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 7995,
           "type": "Stats",
           "name": "Shino's Hood",
@@ -1680,6 +1890,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 8565,
+          "type": "Stats",
+          "name": "Obito's Soul",
+          "effect": "ATK and DEF +20,000, SPD +200",
+          "normal": "ATK and DEF +10,000, SPD +100",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8575,
+          "type": "Skill",
+          "name": "Kamui Raikiri",
+          "effect": "Skill Damage and ATK +100%",
+          "normal": "Skill Damage and ATK +50%",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 8585,
           "type": "Stats",
           "name": "Kurotsuchi's Vest",
@@ -1756,6 +1986,26 @@ window.enggear=[
           "effect": "HP and ATK +120%, SPD +50%",
           "normal": "HP and ATK +50%",
           "charaIds": "204,207,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 105265,
+          "type": "Stats",
+          "name": "Kakashi's Blue Armor",
+          "effect": "HP, ATK and DEF +100%, When Attacked: HP Recovery +10%",
+          "normal": "HP, ATK and DEF +30%",
+          "charaIds": "1701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 105275,
+          "type": "Skill",
+          "name": "Kakashi's Sword (Raikiri)",
+          "effect": "Skill Damage and ATK +100%, Weapon Skill Damage +50%",
+          "normal": "Weapon Skill Damage +50%",
+          "charaIds": "1701",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -2008,7 +2258,37 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "700002"
-	},
+},
+{
+          "id": 109075,
+          "type": "Chakra",
+          "name": "Kakashi's Gloves",
+          "effect": "Chakra Recovery +10%, Chakra Cost -20% per Five Village Ally (Max -80%)",
+          "normal": "Chakra Recovery +5%, Chakra Cost -5%",
+          "charaIds": "1702,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 109085,
+          "type": "Resistance",
+          "name": "Kakashi's Earth Style Earth Wall",
+          "effect": "HP +70%, Lightning and Sharingan Skill Immunity, SPD +50%",
+          "normal": "HP +50%, Incoming Lightning and Sharingan Skill Damage -50%",
+          "charaIds": "1701,1702,1703,1704,1705,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 109185,
+          "type": "Additional",
+          "name": "Rin's Special Medical Pack",
+          "effect": "HP Recovery +25%, 2 Turns: Skill Immunity",
+          "normal": "HP Recovery +25%, Skill Damage -20%",
+          "charaIds": "51001,50901,50902,50903,1701,1702,1703,1704,1705,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 109195,
           "type": "Stats",
@@ -2530,6 +2810,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 206175,
+          "type": "Chakra",
+          "name": "Kakashi's Pouch",
+          "effect": "Start the Battle with 50% Chakra, 5 Turns: Chakra Cost -50%, Chance to Dodge Skills",
+          "normal": "Start the Battle with 20% Chakra",
+          "charaIds": "1702,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 207115,
           "type": "Chakra",
           "name": "Sasuke's Pouch",
@@ -2730,6 +3020,46 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 209165,
+          "type": "Stats",
+          "name": "Father's Keepsake Sword",
+          "effect": "HP and SPD +100%",
+          "normal": "HP and SPD +20%",
+          "charaIds": "1701",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 209225,
+          "type": "Stats",
+          "name": "Golden Pakkkun Netsuke",
+          "effect": "3 Turns: Set Chakra Cost to 0 & Cast Speed +2 & SPD +150%",
+          "normal": "1 Turn: SPD +50%",
+          "charaIds": "1701,1702,1703,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 209235,
+          "type": "Resistance",
+          "name": "Kakashi's Susano'o Helmet",
+          "effect": "2 Turns: Damage Cut +90%, SPD +70%, Chakra Cost -50%",
+          "normal": "Incoming Skill Damage Reduction, SPD +40%",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 209245,
+          "type": "Skill",
+          "name": "Kamui Raikiri 2",
+          "effect": "Skill Damage +120%, Cast Speed +1",
+          "normal": "Sharingan Skill Damage +70%",
+          "charaIds": "1707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 210055,
           "type": "Stats",
           "name": "Seal Lock",
@@ -2838,7 +3168,17 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
+{
+          "id": 301085,
+          "type": "Resistance",
+          "name": "Kakashi's Anbu Boots",
+          "effect": "Debuff Immunity, HP and Skill Damage +120%",
+          "normal": "Debuff Duration Reduction, HP and Skill Damage +20%",
+          "charaIds": "1703",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
 {
           "id": 301155,
           "type": "Additional",
