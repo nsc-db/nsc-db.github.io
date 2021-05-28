@@ -3781,7 +3781,7 @@ window.detail=[
       },
 {
           "id": 20060611,
-          "name": "Minato Kakashi",
+          "name": "Minato Namikaze",
           "subtext": "Reflashing Light",
 
           "lead": "Konoha Characters: Cast Speed +1, SPD +30% per turn (Max 150%)",
