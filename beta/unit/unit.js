@@ -1,7 +1,8 @@
 var loc = window.location.toString()
 var temp = 'https://nsc-db.github.io/test/unit/20000001/index.htm'
 var id = loc.slice(35,43);
-//zvar id = loc.slice(38, 46);
+//var id = loc.slice(38, 46);
+//var id = loc.slice(69,77)
 console.log(id)
 
 //Info Insertion

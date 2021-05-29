@@ -3222,7 +3222,7 @@ window.state=[
         {
           "cardUnusualId": "295",
           "category": "5",
-          "iconId": "1",
+          "iconId": "0",
           "name": "弱体系特殊・神化状態無効",
           "description": "弱体系特殊・神化状態無効",
           "subScore": "0",
