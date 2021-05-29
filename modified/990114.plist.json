@@ -3447,5 +3447,35 @@
           "subScore": "0",
           "color": "0",
           "type": "3"
+        },
+        {
+          "cardUnusualId": "356",
+          "category": "5",
+          "iconId": "1440",
+          "name": "サスケへの想い",
+          "description": "弱体・状態異常・幻・弱体系特殊・弱体系神化状態を解除＆無効化､高確率で即死無効",
+          "subScore": "0",
+          "color": "16746666",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "357",
+          "category": "5",
+          "iconId": "1441",
+          "name": "サクラへの願い",
+          "description": "被攻撃､確率で即ｱｸｼｮﾝ&amp;攻撃者に耐性無視幻惑付与(行動消費回数2回) ､確率で再行動､確率で敵の地形効果無効",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "358",
+          "category": "5",
+          "iconId": "1442",
+          "name": "瞳拳の情",
+          "description": " 全スキル無効､敵アクション時、確率でアクション状態になる",
+          "subScore": "0",
+          "color": "49151",
+          "type": "2"
         }
       ]

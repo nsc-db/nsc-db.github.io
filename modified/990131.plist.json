@@ -21,5 +21,13 @@
           "cardSubName": "命光の忍絵巻-絆-",
           "modelId": "0",
           "connectSkillId": "710002"
+        },
+        {
+          "connectCardId": "60070500",
+          "ownerProfileId": "61401",
+          "cardName": "サスケ＆サクラ",
+          "cardSubName": "瞳拳の忍絵巻-絆-",
+          "modelId": "0",
+          "connectSkillId": "710003"
         }
       ]

@@ -1359,6 +1359,16 @@
           "enemyEffects": "3892,3890,3890,3890,3890,3890,3890,3891,"
         },
         {
+          "battleFieldEffectId": "10030",
+          "name": "邪ヲ封ズル神器",
+          "category": "3",
+          "scriptId": "10030",
+          "overWrite": "1",
+          "uiIdx": "10030",
+          "partyEffects": "220080,4105,",
+          "enemyEffects": "4106,4107,"
+        },
+        {
           "battleFieldEffectId": "20001",
           "name": "忍方陣：創世烈風・壱",
           "category": "5",

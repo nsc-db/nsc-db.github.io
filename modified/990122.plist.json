@@ -4367,6 +4367,42 @@
           "voiceDeath": "kakasi_death_02_07"
         },
         {
+          "cardVoiceId": "368",
+          "cardId": "60070501",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_03_04",
+          "voiceSkill1": "sasuke_win_03_01,sasuke_battle_03_02,sakura_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_03_04",
+          "voiceDeath": "sasuke_death_03_03"
+        },
+        {
+          "cardVoiceId": "369",
+          "cardId": "60070502",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_03_01",
+          "voiceSkill1": "sakura_skill_03_02,sasuke_battle_03_02,sakura_skill_02_08",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_win_03_01",
+          "voiceDeath": "sakura_death_03_01"
+        },
+        {
+          "cardVoiceId": "370",
+          "cardId": "20070506",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_battle_02_02",
+          "voiceSkill1": "itachi_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_win_02_01",
+          "voiceDeath": "itachi_pursuit_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

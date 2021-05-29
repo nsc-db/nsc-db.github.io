@@ -2144,6 +2144,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11169",
+          "name": "6月限定ラーメン(2021)",
+          "description": "スタミナを全回復するラーメン（6月30日23:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "11170",
           "name": "6周年ラーメン（5月10日15:59まで）",
           "description": "スタミナを全回復するラーメン（5月10日15:59まで期間限定）",
@@ -2178,6 +2191,19 @@
           "itemValue": "1000000",
           "itemNum": "0",
           "itemImageId": "11170",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
+          "itemId": "11174",
+          "name": "期間限定ラーメン(6月9日 15:59まで)",
+          "description": "スタミナを全回復するラーメン（6月9日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
           "needCount": "1",
           "priority": "1",
           "selectType": "1"
@@ -4825,6 +4851,19 @@
           "itemId": "52089",
           "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書（5月31日 10:29まで）",
           "description": "バトルでの獲得ドロップ数が２倍になります。（5月31日10:29まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "52090",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書（6月9日 15:59まで）",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（6月9日10:29まで期間限定）",
           "resultWord": "忍/素材ドロップ数２倍",
           "itemCategoryId": "10",
           "itemValue": "20000",

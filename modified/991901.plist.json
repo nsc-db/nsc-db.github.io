@@ -1144,7 +1144,7 @@
         },
         {
           "sphereBoardId": "50005",
-          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_伝説",
           "boardDescription": "うちはオビト【天元の統力者】",
           "rare": "0",
           "costMin": "0",
@@ -1153,7 +1153,7 @@
           "cardId": "20060111",
           "normalPanelList": "9100019,9100020,9100021",
           "specialPanelList": "9100022,9100023,9100024",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50006",
@@ -1261,7 +1261,7 @@
         },
         {
           "sphereBoardId": "50014",
-          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_伝説",
           "boardDescription": "大筒木インドラ【荒武ル修羅】",
           "rare": "0",
           "costMin": "0",
@@ -1270,7 +1270,7 @@
           "cardId": "20060407",
           "normalPanelList": "9100001,9100002,9100003",
           "specialPanelList": "9100004,9100005,9100006",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50015",
@@ -1690,7 +1690,7 @@
         },
         {
           "sphereBoardId": "50047",
-          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚あり",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚伝説",
           "boardDescription": "うちはマダラ【終わりなき夢の成就】",
           "rare": "0",
           "costMin": "0",
@@ -1699,7 +1699,7 @@
           "cardId": "20061206",
           "normalPanelList": "9100025,9100026,9100027,9100037",
           "specialPanelList": "9100028,9100029,9100030,9100038",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50048",
@@ -1936,6 +1936,32 @@
           "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
         },
         {
+          "sphereBoardId": "50067",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_伝説",
+          "boardDescription": "大筒木ハゴロモ【叡智の仁仙】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050823",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
+          "sphereBoardId": "50068",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_伝説",
+          "boardDescription": "筒木ハムラ【英武の仙弟】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050824",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
           "sphereBoardId": "50069",
           "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_伝説",
           "boardDescription": "うちはサスケ【烈しき風に鳴る雷】",
@@ -1975,6 +2001,19 @@
           "legendPanelList": "0"
         },
         {
+          "sphereBoardId": "50072",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_4枚あり_伝説",
+          "boardDescription": "うちはイタチ【比類なき業瞳の戦神】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070506",
+          "normalPanelList": "9100001,9100002,9100003,9100031",
+          "specialPanelList": "9100004,9100005,9100006,9100032",
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
@@ -2011,6 +2050,19 @@
           "cardId": "60070400",
           "normalPanelList": "9200007,9200008,9200009",
           "specialPanelList": "9200010,9200011,9200012",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "60004",
+          "boardName": "忍絵巻_勇属性_の潜在覚醒盤",
+          "boardDescription": "サスケ&amp;サクラ【瞳拳の忍絵巻-絆-】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "60070500",
+          "normalPanelList": "9200025,9200026,9200027",
+          "specialPanelList": "9200028,9200029,9200030",
           "legendPanelList": "0"
         },
         {

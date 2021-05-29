@@ -80,15 +80,6 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "534",
-          "name": "デイダラ_誕生日記念ログインボーナス",
-          "type": "2",
-          "openTime": "2021.05.05 00:00:00",
-          "closeTime": "2021.05.10 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "535",
           "name": "伝説盤登場記念第二弾ログインボーナス！",
           "type": "2",
@@ -107,11 +98,11 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "551",
-          "name": "祝！ナルコレ６周年記念ログインボーナス",
+          "loginBonusId": "538",
+          "name": "祝！ナルコレ2222日記念！ログインボーナス",
           "type": "2",
-          "openTime": "2021.05.01 00:00:00",
-          "closeTime": "2021.05.10 23:59:59",
+          "openTime": "2021.05.30 00:00:00",
+          "closeTime": "2021.06.02 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },
@@ -121,6 +112,15 @@
           "type": "2",
           "openTime": "2021.05.11 00:00:00",
           "closeTime": "2021.05.21 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "553",
+          "name": "祝！ナルコレ６周年記念ログインボーナス第参弾",
+          "type": "2",
+          "openTime": "2021.05.21 00:00:00",
+          "closeTime": "2021.05.31 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },
