@@ -38,45 +38,45 @@ var destroyer = ''
 for(var x in kizunaArr){
 	console.log(kizunaArr[x])
 	kizuna += '<div class="unit-char col-md-2">'
-		   + '<a href="unit/' + kizunaArr[x] + '/"><img src="../common/assets/img/units/' + kizunaArr[x] + '_6.png" alt="" width="100%"></a>'
+		   + '<a href="unit/' + kizunaArr[x] + '/index.html"><img src="../common/assets/img/units/' + kizunaArr[x] + '_6.png" alt="" width="100%"></a>'
 		   + '</div>'
 }
 for(var x in duoArr){
 	console.log(duoArr[x])
 	duo += '<div class="unit-char col-md-2">'
-		   + '<a href="unit/' + duoArr[x] + '/"><img src="../common/assets/img/units/' + duoArr[x] + '_6.png" alt="" width="100%"></a>'
+		   + '<a href="unit/' + duoArr[x] + '/index.html"><img src="../common/assets/img/units/' + duoArr[x] + '_6.png" alt="" width="100%"></a>'
 		   + '</div>'
 }
  
 for(var x in godArr){
 	console.log(godArr[x])
 	god += '<div class="unit-char col-md-2">'
-		   + '<a href="unit/' + godArr[x] + '/"><img src="../common/assets/img/units/' + godArr[x] + '_6.png" alt="" width="100%"></a>'
+		   + '<a href="unit/' + godArr[x] + '/index.html"><img src="../common/assets/img/units/' + godArr[x] + '_6.png" alt="" width="100%"></a>'
 		   + '</div>'
 }
  
 for(var x in gkArr){
 	console.log(gkArr[x])
 	gk += '<div class="unit-char col-md-2">'
-		   + '<a href="unit/' + gkArr[x] + '/"><img src="../common/assets/img/units/' + gkArr[x] + '_6.png" alt="" width="100%"></a>'
+		   + '<a href="unit/' + gkArr[x] + '/index.html"><img src="../common/assets/img/units/' + gkArr[x] + '_6.png" alt="" width="100%"></a>'
 		   + '</div>'
 }
 for(var x in exArr){
 	console.log(exArr[x])
 	ex += '<div class="unit-char col-md-2">'
-		   + '<a href="unit/' + exArr[x] + '/"><img src="../common/assets/img/units/' + exArr[x] + '_6.png" alt="" width="100%"></a>'
+		   + '<a href="unit/' + exArr[x] + '/index.html"><img src="../common/assets/img/units/' + exArr[x] + '_6.png" alt="" width="100%"></a>'
 		   + '</div>'
 }
 for(var x in originArr){
 	console.log(originArr[x])
 	origin += '<div class="unit-char col-md-2">'
-		   + '<a href="unit/' + originArr[x] + '/"><img src="../common/assets/img/units/' + originArr[x] + '_6.png" alt="" width="100%"></a>'
+		   + '<a href="unit/' + originArr[x] + '/index.html"><img src="../common/assets/img/units/' + originArr[x] + '_6.png" alt="" width="100%"></a>'
 		   + '</div>'
 }
 for(var x in destroyerArr){
 	console.log(destroyerArr[x])
 	destroyer += '<div class="unit-char col-md-2">'
-		   + '<a href="unit/' + destroyerArr[x] + '/"><img src="../common/assets/img/units/' + destroyerArr[x] + '_6.png" alt="" width="100%"></a>'
+		   + '<a href="unit/' + destroyerArr[x] + '/index.html"><img src="../common/assets/img/units/' + destroyerArr[x] + '_6.png" alt="" width="100%"></a>'
 		   + '</div>'
 }
  

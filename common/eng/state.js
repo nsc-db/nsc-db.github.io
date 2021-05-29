@@ -2,6 +2,276 @@ window.state=[
         {
           "cardUnusualId": "1",
           "category": "1",
+          "iconId": "cancel",
+          "name": "Cancel",
+          "description": "Set enemy at the beginning of the Standby Gauge",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "skip",
+          "name": "Skip",
+          "description": "Set enemy at the end of the Action Gauge",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "death",
+          "name": "On Death",
+          "description": "Trigger effect upon Death",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "fs",
+          "name": "First Strike",
+          "description": "Start the Battle at the end of the Action Gauge",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "ia",
+          "name": "Insant-Action",
+          "description": "Move to the end of the Action Gauge",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "ik",
+          "name": "Insta-Kill",
+          "description": "Instantly Defeat enemy",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "r1",
+          "name": "Revive +1",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "r2",
+          "name": "Revive +2",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "r3",
+          "name": "Revive +3",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "r4",
+          "name": "Revive +4",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "r5",
+          "name": "Revive +5",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "w1",
+          "name": "Withstand +1",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "w2",
+          "name": "Withstand +2",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "w3",
+          "name": "Withstand +2",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "w4",
+          "name": "Withstand +4",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "w5",
+          "name": "Withstand +5",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "w6",
+          "name": "Withstand +6",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "w9",
+          "name": "Withstand +9",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "w10",
+          "name": "Withstand +10",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "imm",
+          "name": "Immortality",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "ic",
+          "name": "Instant-Cast",
+          "description": "Use Skill at the Start of the Battle",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "cut",
+          "name": "Cut-In",
+          "description": "Move to the end of the Standby Gauge when the enemy reach the Standby Gauge",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "ps",
+          "name": "Remove Positive Special State",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "pg",
+          "name": "Remove Positive God State",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "ns",
+          "name": "Remove Negative Special State",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "ng",
+          "name": "Remove Negative God State",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
+          "iconId": "tr",
+          "name": "Remove Terrain",
+          "description": "",
+          "subScore": "0",
+          "color": "0",
+          "type": "0"
+        },
+        {
+          "cardUnusualId": "1",
+          "category": "1",
           "iconId": "1",
           "name": "攻撃力",
           "description": "攻撃力アップ",
@@ -2692,7 +2962,7 @@ window.state=[
         {
           "cardUnusualId": "269",
           "category": "5",
-          "iconId": "0",
+          "iconId": "ill",
           "name": "幻惑",
           "description": "行動選択時、指定された行動回数消費する",
           "subScore": "0",

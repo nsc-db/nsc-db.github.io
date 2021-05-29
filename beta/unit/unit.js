@@ -1,7 +1,7 @@
 var loc = window.location.toString()
 var temp = 'https://nsc-db.github.io/test/unit/20000001/index.htm'
 var id = loc.slice(35,43);
-//var id = loc.slice(38, 46);
+//zvar id = loc.slice(38, 46);
 console.log(id)
 
 //Info Insertion
@@ -96,6 +96,12 @@ for(var i in window.chara){
 		var abilityspd = 0
 		var abilitysd = 0
 
+		var gearhp = 0
+		var gearchakra = 0
+		var gearatk = 0
+		var geardef = 0
+		var gearspd = 0
+		var gearsd = 0
 
 		var head = 'Hey'
 
@@ -218,9 +224,16 @@ for(var i in window.chara){
 			for(var x in charaBreakdown['status']){
 				for(var y in window.state){
 					if(charaBreakdown['status'][x] == window.state[y]['iconId']){
-						$('#state-' + stateCounter + 'img').attr('src', '../../../common/assets/img/states/' + window.state[y]['iconId'] + '.png');
-						$('#state-' + stateCounter).attr('data-ps', window.state[y]['name'] + ": " + window.state[y]['description']);
-						stateCounter++
+						if(window.state[y]['iconId'] == "ik"){
+							$('#state-' + stateCounter + 'img').attr('src', '../../../common/assets/img/states/' + window.state[y]['iconId'] + '.gif');
+							$('#state-' + stateCounter).attr('data-ps', window.state[y]['name'] + ": " + window.state[y]['description']);
+							stateCounter++
+						}
+						else{
+							$('#state-' + stateCounter + 'img').attr('src', '../../../common/assets/img/states/' + window.state[y]['iconId'] + '.png');
+							$('#state-' + stateCounter).attr('data-ps', window.state[y]['name'] + ": " + window.state[y]['description']);
+							stateCounter++
+						}
 					}
 				}
 			}
@@ -971,7 +984,7 @@ for(var i in window.chara){
 				}
 			}
 		}
-
+		var gearCount = 1
 		for(var x in ownGear){
 			for(var y in window.gear){
 				if(ownGear[x]['targetCrystal'] == window.gear[y]['recipeId']){
@@ -981,7 +994,6 @@ for(var i in window.chara){
 				}
 			}
 			var gearType = checkGearType(ningu);
-
 			gearPage 	+='<div class="base-gear">' 
 						+		'<div class="icon">'
 						+			'<img src="../../../common/assets/img/gear/ningu_' + ningu['crystalImageId'] + '.png">'
@@ -994,14 +1006,20 @@ for(var i in window.chara){
 						+			'<div class="title">'
 						+				'<h3>' + ningu['crystalName'] + '</h3>'
 						+			'</div>'
+						+			'<div class="equip">'
+						+				'<input type="checkbox" id="gear' + gearCount + '" value="' + ownGear[x]['targetCrystal'] +'" title="' + ningu['crystalImageId'] + '">'
+						+				'<label id="equiptext" for="gear' + gearCount + '">Equip</label>'
+						+			'</div>'
 						+		'</div>'
 						+		'<div class="description">'
 						+			'<p>' + ownGear[x]['description'] + '</p>'
 						+		'</div>'
 						+	'</div>'
 						+'</div>';
+			gearCount++
+	
 		}
-
+		
 		document.getElementById("gear").innerHTML = gearPage;
 
 		$('#chara-name').text(fullName);
@@ -1053,6 +1071,8 @@ for(var i in window.chara){
 		$("#ability-spd").text(abilityspd.toLocaleString())
 		$("#ability-sd").text(abilitysd.toLocaleString() + "%")
 
+
+
 		$("#max-dodge").text(dodge)
 		$("#max-cc").text(cc)
 		$("#max-cd").text(cd)
@@ -1085,6 +1105,7 @@ for(var i in window.chara){
 		$("#max-spd").text(parseInt(maxspd).toLocaleString())
 		$("#max-sd").text(statesd + abilitysd + p2sd + f3sd + f4sd + '%')
 
+
 		pvphp = maxhp + (hp*15)
 		pvpdef = maxdef - (def*1.5)
 		pvpsd = maxsd - 95
@@ -1105,6 +1126,278 @@ for(var i in window.chara){
 		$("#enemy-spd").text(parseInt(enemyspd).toLocaleString())
 		$("#enemy-sd").text(enemysd + "%")
 
+		function equipGear(){
+			$('#equip1').attr('src', '');
+			$('#equip2').attr('src', '');
+			$('#equip3').attr('src', '');
+			$('#equip4').attr('src', '');
+			$('#equip5').attr('src', '');
+			var equipCount = 0
+			var equipArr = []
+			var equipUniqueArr = []
+			gearhp = 0
+			gearchakra = 0
+			gearatk = 0
+			geardef = 0
+			gearspd = 0
+			gearsd = 0
+			for(var x = 1; x < gearCount; x++){
+				var equipedGear = document.getElementById("gear" + x);
+
+				if(equipedGear.checked){
+					equipCount++
+					equipArr.push(equipedGear.title)
+					equipUniqueArr.push(equipedGear.value)
+				}
+			}
+			for(var x in equipArr){
+				console.log("Equipping")
+				var num = parseInt(x)+1
+				$('#equip' + num).attr('src', '../../../common/assets/img/gear/ningu_' + equipArr[x] + '.png');
+				console.log(equipArr[x])
+				for(var y in window.unique){
+					if(equipUniqueArr[x] == window.unique[y]['targetCrystal']){
+						var gearStats = [0,0,0,0,0,0]
+						
+
+						gearStats = checkEffect(window.unique[y])
+
+						gearhp += gearStats[0]
+						gearchakra += gearStats[1]
+						gearatk += gearStats[2]
+						geardef += gearStats[3]
+						gearspd += gearStats[4]
+						gearsd += gearStats[5]
+						
+					}
+				}	
+			}	
+
+			console.log("HP:" + gearhp)
+			console.log("Chakra:" + gearchakra)
+			console.log("Atk:" + gearatk)
+			console.log("Def:" + geardef)
+			console.log("Spd:" + gearspd)
+			console.log("Sd:" + gearsd)
+
+			$("#gear-hp").text(parseInt((hp*(gearhp/100))).toLocaleString())
+			$("#gear-chakra").text(gearchakra)
+			$("#gear-atk").text(parseInt((atk*(gearatk/100))).toLocaleString())
+			$("#gear-def").text(parseInt((def*(geardef/100))).toLocaleString())
+			$("#gear-spd").text(parseInt((spd*(gearspd/100))).toLocaleString())
+			$("#gear-sd").text(gearsd + '%')
+
+			$("#max-hp").text(parseInt(maxhp + (hp*(gearhp/100))).toLocaleString())
+			$("#max-chakra").text(maxchakra + gearchakra)
+			$("#max-atk").text(parseInt(maxatk + (atk*(gearatk/100))).toLocaleString())
+			$("#max-def").text(parseInt(maxdef + (def*(geardef/100))).toLocaleString())
+			$("#max-spd").text(parseInt(maxspd + (spd*(gearspd/100))).toLocaleString())
+			$("#max-sd").text(statesd + abilitysd + p2sd + f3sd + f4sd + gearsd +'%')
+
+
+			$("#pvp-hp").text(parseInt(pvphp + (hp*(gearhp/100))).toLocaleString())
+			$("#pvp-chakra").text(maxchakra + gearchakra)
+			$("#pvp-atk").text(parseInt(maxatk + (atk*(gearatk/100))).toLocaleString())
+			$("#pvp-def").text(parseInt(maxdef + (def*(geardef/100))).toLocaleString())
+			$("#pvp-spd").text(parseInt(maxspd + (spd*(gearspd/100))).toLocaleString())
+			$("#pvp-sd").text(pvpsd + gearsd + "%")
+
+			$("#enemy-hp").text(parseInt(enemyhp + (hp*(gearhp/100))).toLocaleString())
+			$("#enemy-chakra").text(maxchakra + gearchakra)
+			$("#enemy-atk").text(parseInt(maxatk  + (atk*(gearatk/100))).toLocaleString())
+			$("#enemy-def").text(parseInt(maxdef + (def*(geardef/100))).toLocaleString())
+			$("#enemy-spd").text(parseInt(enemyspd + (spd*(gearspd/100))).toLocaleString())
+			$("#enemy-sd").text(enemysd + gearsd + "%")
+
+			if(charaBreakdown != ""){
+				var s1d = charaBreakdown["s1d"]
+				var s1s = charaBreakdown["s1ds"] / 100
+				var s1m = charaBreakdown["s1m"]
+				var s1t = charaBreakdown["s1dt"]
+				var s1add1d = charaBreakdown["s1add1d"]
+				var s1add1s = charaBreakdown["s1add1s"] / 100
+				var s1addhit = charaBreakdown["s1add1h"]
+				var s1add2d = charaBreakdown["s1add2d"]
+				var s1add2s = charaBreakdown["s1add2s"] / 100
+				var s1add2hit = charaBreakdown["s1add2h"]
+				var s2d = charaBreakdown["s2d"]
+				var s2s = charaBreakdown["s2ds"] / 100
+				var s2m = charaBreakdown["s2m"]
+				var s2t = charaBreakdown["s2dt"]
+				var s2add1d = charaBreakdown["s2add1d"]
+				var s2add1s = charaBreakdown["s2add1s"] / 100
+				var s2addhit = charaBreakdown["s2add1h"]
+				var s2add2d = charaBreakdown["s2add2d"]
+				var s2add2s = charaBreakdown["s2add2s"] / 100
+				var s2add2hit = charaBreakdown["s2add2h"]
+
+				var s1dam = parseInt(s1d + ((maxatk + (atk*(gearatk/100))) * s1s))
+				var s1add1dam = parseInt(s1add1d + ((maxatk + (atk*(gearatk/100))) * s1add1s))
+				var s1add2dam = parseInt(s1add2d + ((maxatk + (atk*(gearatk/100))) * s1add2s))
+				var s2dam = parseInt(s2d + ((maxatk + (atk*(gearatk/100)) * s2s)))
+				var s2add1dam = parseInt(s2add1d + ((maxatk + (atk*(gearatk/100))) * s2add1s))
+				var s2add2dam = parseInt(s2add2d + ((maxatk + (atk*(gearatk/100))) * s2add2s))
+				var s2dam = parseInt(s2d + ((maxatk + (atk*(gearatk/100))) * s2s))		
+
+				var basedamage = parseInt(s1dam * ((maxsd + gearsd + 100) / 100) * s1m)
+				var add1damage = parseInt(s1add1dam * ((maxsd + gearsd + 100) / 100) * s1m)
+				var add2damage = parseInt(s1add2dam * ((maxsd + gearsd + 100) / 100) * s1m)
+				var basedamages2 = parseInt(s2dam * ((maxsd + gearsd + 100) / 100) * s2m)
+				var add1damages2 = parseInt(s2add1dam * ((maxsd + gearsd + 100) / 100) * s2m)
+				var add2damages2 = parseInt(s2add2dam * ((maxsd + gearsd + 100) / 100) * s2m)
+
+
+				if(s1s > 0){
+				baseadv*= 2
+				}
+				if(s1add1s > 0){
+					s1addadv*= 2
+				}
+				if(s1add2s > 0){
+					s2addadv*= 2
+				}
+
+				if(s2s > 0){
+				baseadvs2*= 2
+				}
+				if(s2add1s > 0){
+					s1addadvs2*= 2
+				}
+				if(s2add2s > 0){
+					s2addadvs2*= 2
+				}
+
+				$("#s1d").text(parseInt(basedamage).toLocaleString())
+				$("#s1add1").text(parseInt(add1damage).toLocaleString())
+				$("#s1add1hit").text(s1addhit)
+				$("#s1add2").text(parseInt(add2damage).toLocaleString())
+				$("#s1add2hit").text(s1add2hit)
+
+				$("#s2d").text(parseInt(basedamages2).toLocaleString())
+				$("#s2add1").text(parseInt(add1damages2).toLocaleString())
+				$("#s2add1hit").text(s2addhit)
+				$("#s2add2").text(parseInt(add2damages2).toLocaleString())
+				$("#s2add2hit").text(s2add2hit)
+
+				var baseadv = basedamage
+				var s1addadv = add1damage
+				var s2addadv = add2damage
+
+				var baseadvs2 = basedamages2
+				var s1addadvs2 = add1damages2
+				var s2addadvs2 = add2damages2
+				var totaldamage = basedamage + (add1damage * s1addhit) + (add2damage * s1add2hit)
+				var totaldamages2 = basedamages2 + (add1damages2 * s2addhit) + (add2damages2 * s2add2hit)
+				
+				if(s1s > 0){
+					baseadv*= 2
+				}
+				if(s1add1s > 0){
+					s1addadv*= 2
+				}
+				if(s1add2s > 0){
+					s2addadv*= 2
+				}
+
+				if(s2s > 0){
+					baseadvs2*= 2
+				}
+				if(s2add1s > 0){
+					s1addadvs2*= 2
+				}
+				if(s2add2s > 0){
+					s2addadvs2*= 2
+				}
+
+				var pvpbasedamage = parseInt(s1dam * ((maxsd + gearsd - 95 + 100) / 100) * s1m)
+				var pvpadd1damage = parseInt(s1add1dam * ((maxsd + gearsd - 95 + 100) / 100) * s1m)
+				var pvpadd2damage = parseInt(s1add2dam * ((maxsd + gearsd - 95 + 100) / 100) * s1m)
+				var pvpbasedamages2 = parseInt(s2dam * ((maxsd + gearsd - 95 + 100) / 100) * s2m)
+				var pvpadd1damages2 = parseInt(s2add1dam * ((maxsd + gearsd - 95 + 100) / 100) * s2m)
+				var pvpadd2damages2 = parseInt(s2add2dam * ((maxsd + gearsd - 95 + 100) / 100) * s2m)
+				if(s1t == 2){
+					pvpbasedamage /= 2
+					pvpadd1damage /= 2
+					pvpadd2damage /= 2
+				}
+				if(s2t == 2){
+					pvpbasedamages2 /= 2
+					pvpadd1damages2 /= 2
+					pvpadd2damages2 /= 2
+				}
+				var advdamage = baseadv + (s1addadv * s1addhit) + (s2addadv * s1add2hit)
+				var advdamages2 = baseadvs2 + (s1addadvs2 * s2addhit) + (s2addadvs2 * s2add2hit)
+				
+				$("#s1total").text(parseInt(totaldamage).toLocaleString())
+				$("#s1totaladv").text(parseInt(advdamage).toLocaleString())
+				$("#s2total").text(parseInt(totaldamages2).toLocaleString())
+				$("#s2adv").text(parseInt(advdamages2).toLocaleString())
+
+				var pvptotaldamage = pvpbasedamage + (pvpadd1damage * s1addhit) + (pvpadd2damage * s1add2hit)
+				var pvptotaldamages2 = pvpbasedamages2 + (pvpadd1damages2 * s2addhit) + (pvpadd2damages2* s2add2hit)
+
+				var pvpbaseadv = pvpbasedamage
+				var pvps1addadv = pvpadd1damage
+				var pvps2addadv = pvpadd2damage
+
+				var pvpbaseadvs2 = pvpbasedamages2
+				var pvps1addadvs2 = pvpadd1damages2
+				var pvps2addadvs2 = pvpadd2damages2
+				if(s1s > 0){
+					pvpbaseadv*= 2
+				}
+				if(s1add1s > 0){
+					pvps1addadv*= 2
+				}
+				if(s1add2s > 0){
+					pvps2addadv*= 2
+				}
+
+				if(s2s > 0){
+					pvpbaseadvs2*= 2
+				}
+				if(s2add1s > 0){
+					pvps1addadvs2*= 2
+				}
+				if(s2add2s > 0){
+					pvps2addadvs2*= 2
+				}
+				var pvpadvdamage = pvpbaseadv + (pvps1addadv * s1addhit) + (pvps2addadv * s1add2hit)
+				var pvpadvdamages2 = pvpbaseadvs2 + (pvps1addadvs2 * s2addhit) + (pvps2addadvs2 * s2add2hit)
+
+				$("#s1pvp").text(parseInt(pvptotaldamage).toLocaleString())
+				$("#s1pvpadv").text(parseInt(pvpadvdamage).toLocaleString())
+				$("#s2pvp").text(parseInt(pvptotaldamages2).toLocaleString())
+				$("#s2pvpadv").text(parseInt(pvpadvdamages2).toLocaleString())
+
+				if(id > 60000000){
+					document.getElementById("kizunadamage").style.display = "";
+					document.getElementById("kizunad").style.display = "";
+					document.getElementById("kizunaadd1").style.display = "";
+					document.getElementById("kizunaadd1hit").style.display = "";
+					document.getElementById("kizunaadd2").style.display = "";
+					document.getElementById("kizunaadd2hit").style.display = "";
+					document.getElementById("kizunatotal").style.display = "";
+					document.getElementById("kizunaadv").style.display = "";
+					document.getElementById("kizunapvp").style.display = "";
+					document.getElementById("kizunapvpadv").style.display = "";
+
+					var kizunad = charaBreakdown["kizunad"]
+					var kizunas = charaBreakdown["kizunads"] / 100
+					var kizunam = charaBreakdown["kizunam"]
+					var kizunat = charaBreakdown["kizunadt"]
+					var kizunadam = parseInt(kizunad + ((maxatk + (atk*(gearatk/100))) * kizunas))
+					var kizunadamage = parseInt(kizunad * ((maxsd + gearsd + 100) / 100))
+					$("#kizunad").text(parseInt(kizunadamage).toLocaleString())
+					$("#kizunatotal").text(parseInt(kizunadamage).toLocaleString())
+					$("#kizunapvp").text(parseInt(kizunadamage).toLocaleString())
+					$("#kizunaadv").text(parseInt(kizunadamage*2).toLocaleString())
+					$("#kizunapvpadv").text(parseInt(kizunadamage*2).toLocaleString())
+
+				}
+			}
+	
+		}
 
 		if(charaBreakdown != ""){
 			var s1d = charaBreakdown["s1d"]
@@ -1142,6 +1435,7 @@ for(var i in window.chara){
 			var basedamages2 = parseInt(s2dam * ((maxsd + 100) / 100) * s2m)
 			var add1damages2 = parseInt(s2add1dam * ((maxsd + 100) / 100) * s2m)
 			var add2damages2 = parseInt(s2add2dam * ((maxsd + 100) / 100) * s2m)
+
 
 
 			if(id > 60000000){
@@ -1288,7 +1582,6 @@ for(var i in window.chara){
 			}
 
 		}
-
 		
 	}	
 }
@@ -1327,6 +1620,73 @@ function checkTag(tag){
 			}
 		}
 	}
+}
+
+function checkEffect(gear){
+	var effect1 = gear['effectIdx1']
+	var effect2 = gear['effectIdx2']
+	var effect3 = gear['effectIdx3']
+	var effect4 = gear['effectIdx4']
+	if(gear['effectIds'] != null){
+		var effectArr = gear['effectIds'].split(",")
+	}
+	var hp = 0
+	var chakra = 0
+	var atk = 0
+	var def = 0
+	var spd = 0
+	var sd = 0
+	for(var i in window.key){
+		if(window.key[i][0] == 'effect'){
+			if(effect1 == window.key[i][1]){
+
+				hp += window.key[i][2]
+				chakra += window.key[i][3]
+				atk += window.key[i][4]
+				def += window.key[i][5]
+				spd += window.key[i][6]
+				sd += window.key[i][7]
+			}
+			if(effect2 == window.key[i][1]){
+				hp += window.key[i][2]
+				chakra += window.key[i][3]
+				atk += window.key[i][4]
+				def += window.key[i][5]
+				spd += window.key[i][6]
+				sd += window.key[i][7]
+			}
+			if(effect3 == window.key[i][1]){
+				hp += window.key[i][2]
+				chakra += window.key[i][3]
+				atk += window.key[i][4]
+				def += window.key[i][5]
+				spd += window.key[i][6]
+				sd += window.key[i][7]
+			}
+			if(effect4 == window.key[i][1]){
+				hp += window.key[i][2]
+				chakra += window.key[i][3]
+				atk += window.key[i][4]
+				def += window.key[i][5]
+				spd += window.key[i][6]
+				sd += window.key[i][7]
+			}
+			for(var x in effectArr){
+				if(effectArr[x] != effect1 && effectArr[x] != effect2 && effectArr[x] != effect3 && effectArr[x] != effect4){
+					if(effectArr[x] == window.key[i][1]){
+						hp += window.key[i][2]
+						chakra += window.key[i][3]
+						atk += window.key[i][4]
+						def += window.key[i][5]
+						spd += window.key[i][6]
+						sd += window.key[i][7]
+					}
+				}
+			}
+		}
+	}
+	var statsArr = [hp, chakra, atk, def, spd, sd]
+	return statsArr
 }
 
 function checkGearType(gear){

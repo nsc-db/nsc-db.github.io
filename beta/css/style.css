@@ -636,7 +636,7 @@ td.rarity[rarity="6" i] {
 
 [data-ps]:after {
     content: attr(data-ps);
-	width: 500px;
+	width: 250px;
 	word-break: normal;
     background-color: skyblue;
     color: #111;
@@ -664,7 +664,7 @@ td.rarity[rarity="6" i] {
 }
 [data-pg]:after {
     content: attr(data-pg);
-	width: 500px;
+	width: 250px;
 	word-break: normal;
     background-color: #B8EE89;
     color: #111;
@@ -691,7 +691,7 @@ td.rarity[rarity="6" i] {
 }
 [data-ns]:after {
     content: attr(data-ns);
-	width: 500px;
+	width: 250px;
 	word-break: normal;
     background-color: #FFA3A3;
     color: #111;
@@ -718,7 +718,7 @@ td.rarity[rarity="6" i] {
 }
 [data-ng]:after {
     content: attr(data-ng);
-	width: 500px;
+	width: 250px;
 	word-break: normal;
     background-color: #D0B9CF;
     color: #111;
@@ -745,7 +745,7 @@ td.rarity[rarity="6" i] {
 }
 [data-unique]:after {
     content: attr(data-unique);
-	width: 500px;
+	width: 250px;
 	word-break: normal;
     background-color: white;
     color: #111;
@@ -794,19 +794,36 @@ td.rarity[rarity="6" i] {
 	background-image: linear-gradient(to bottom, #6082B6, #ADD8E6);
 }
 
-.base-gear .info .header .equip{
+.base-gear .info .header-gear .equip{
 	display: block;
 	font-size: 12px;
 	padding: 6px 12px 6px 6px;
 	text-align: right;
-	margin-left: 15px;
+	margin-left: 30px;
 }
 
 .base-gear .info .header-gear .equip #equiptext{
 	color: white;
+	padding: 5px;
 }
 
 #equip-button{
 	margin-bottom: 15px;
 	padding: 5px;
+}
+
+#equip1{
+	padding: 5px;
+}
+#equip2{
+	padding: 5px;
+}
+#equip3{
+	padding: 5px;
+}
+#equip4{
+	padding: 5px;
+}
+#equip5{
+	padding: 2px;
 }

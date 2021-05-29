@@ -6,7 +6,7 @@ window.field=[
   },
   {
     "id": '20002',
-    "name": "Violent Creation of Reality",
+    "name": "True Violent Creation of Reality",
     "description": "1st Stage: (Enemy): High chance to Disable First Strike, Insta Cast and Instant Action. 2nd Stage: (Party): Chance to Remove Negative Special and God State per turn. SPD +250%. 3rd State: (Enemy): Invalidate Withstand, Revive and Immortality",
   },
   {
