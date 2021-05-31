@@ -98,6 +98,15 @@
           "resetTime": "0"
         },
         {
+          "loginBonusId": "537",
+          "name": "ガマブン太の月間ログインボーナス-2100万ダウンロード記念-",
+          "type": "2",
+          "openTime": "2021.06.01 00:00:00",
+          "closeTime": "2021.06.30 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
           "loginBonusId": "538",
           "name": "祝！ナルコレ2222日記念！ログインボーナス",
           "type": "2",
