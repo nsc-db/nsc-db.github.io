@@ -16758,6 +16758,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1213",
+          "name": "比類なき業瞳の戦神",
+          "description": "“暁”所属が耐えた時高確率でアクション状態になる",
+          "effectIdx1": "4104",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "4104,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

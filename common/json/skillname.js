@@ -8420,6 +8420,14 @@ window.skillname=[
           "name": "暗黒の時代ではありません"
         },
         {
+          "cardBattleSkillNameId": "3357",
+          "name": "荒神・須佐能乎"
+        },
+        {
+          "cardBattleSkillNameId": "3358",
+          "name": "仕上げだ…"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

@@ -16573,5 +16573,31 @@ window.unique=[
           "effectIdx3": "2554",
           "effectIdx4": "1115",
           "effectIds": "30011,1549,2554,1115"
+        },
+        {
+          "crystalOverwriteEffectId": "1293",
+          "targetCrystal": "40509",
+          "description": "最大HP250%アップ、味方に“暁”生存時チャクラ消費0＆全スキルダメージ130%アップ",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "10113",
+          "effectIdx2": "4108",
+          "effectIdx3": "4109",
+          "effectIdx4": "0",
+          "effectIds": "10113,4108,4109"
+        },
+        {
+          "crystalOverwriteEffectId": "1294",
+          "targetCrystal": "40510",
+          "description": "スキル発動速度2段階アップ、素早さ130%アップ、敵にうちは一族生存時さらに素早さ120%アップ",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "3058",
+          "effectIdx3": "4110",
+          "effectIdx4": "0",
+          "effectIds": "1549,3058,4110"
         }
         ]

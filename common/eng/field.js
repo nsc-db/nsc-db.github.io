@@ -24,4 +24,9 @@ window.field=[
     "name": "True Thunder Beast",
     "description": "2nd Stage: (Enemy): High chance to Disable First Strike, Insta Cast and Instant Action. (Allies): Enemy Terrain Immunity, Chance to grant Instant Action when Attacked, Remove Negative Special and God State. 3rd Stage: (Allies): Chance for an Extra Turn, Chance to Grant 1 Turn of Skill Immunity when Attacked",
   },
+  {
+    "id": '10030',
+    "name": "Sacred Treasure of the Wicked Seal",
+    "description": "(Party): Damage Cut +80%, SPD +10,000% for 1 turn when Attacked. (Enemy): Chance to Ignore Resistance and Skill Dodge and inflict 'Seal' upon Action. SPD Limit is set to 1,500]",
+  },
 ]

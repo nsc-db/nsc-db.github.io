@@ -27,6 +27,34 @@ window.detail=[
           "a3n": "None",
           "a3": "None"
       },
+      {
+          "id": 20070506,
+          "name": "Itachi Uchiha",
+          "subtext": "War God of Unparalleled Sharingan",
+
+          "lead": "High chance to grant Instant Action upon Withstand to Akatsuki allies",
+
+          "s1n": "Tempestuous God: Susano'o",
+          "s1": "Deal 1,500,000 Fixed Damage to All enemies. Deal 10 Additional Attacks dealing 3% + 150,000 to a random enemy. Invalidate Withstand, Revive and Immortality when attacking a Sealed enemy. (Always Hit)",
+          "s1ntr": "Sharingan",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "It's Finished...",
+          "s2": "Party SPD +1,000% for 1 turn. Change the Terrain to 'Sacred Treasure of the Wicked Seal'. Chance to Ignore Resistance and Skill Dodge and inflict 'Seal'. [Sacred Treasure of the Wicked Eye: (Party): Damage Cut +80%, SPD +10,000% for 1 turn when Attacked. (Enemy): Chance to Ignore Resistance and Skill Dodge and inflict 'Seal' upon Action. SPD Limit is set to 1,500]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "The Secret Eye Jutsu",
+          "a1": "When attacked (Including ally Skills), Chance to Change the Terrain to 'Sacred Treasure of the Wicked Seal' and High chance to Ignore Resistance and Inflict 'Illusion' to the Attacking enemy (3 Turns Skipped)",
+
+          "a2n": "Eye's That See's Through Logic",
+          "a2": "Revive +2, Chance for Instant Action when Attacked. Illusion Immunity",
+
+          "a3n": "Blue Type Specialization and Battle Formation",
+          "a3": "Damage Cut +50% against Blue, Grant Self and Non-Yellow allies Type Advantage against Blue"
+      },
 {
           "id": 60070502,
           "name": "Sakura Haruno",

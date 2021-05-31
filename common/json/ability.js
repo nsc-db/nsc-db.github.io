@@ -28060,6 +28060,26 @@ window.ability=[
           "effectIds": "31707,1089,"
         },
         {
+          "abilityId": "2860",
+          "abilityName": "瞳術の極意",
+          "abilityDescription": "被攻撃時(一部味方ｽｷﾙ含)確率で邪ヲ封ズル神器展開&amp;攻撃者を高確率で耐性・ｽｷﾙ回避無視で幻惑(行動消費:3回)",
+          "abilityEffectDescription": "被攻撃時(一部味方ｽｷﾙ含)確率で邪ヲ封ズル神器展開&amp;攻撃者を高確率で耐性・ｽｷﾙ回避無視で幻惑(行動消費:3回)",
+          "effectIdx1": "4111",
+          "effectIdx2": "4112",
+          "effectIdx3": "0",
+          "effectIds": "4111,4112,"
+        },
+        {
+          "abilityId": "2861",
+          "abilityName": "理を見抜く瞳",
+          "abilityDescription": "HP0以下で2回HP全回復、被攻撃時に確率で即アクション、幻惑無効",
+          "abilityEffectDescription": "HP0以下で2回HP全回復、被攻撃時に確率で即アクション、幻惑無効",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "4113",
+          "effectIds": "1057,874,4113,3620,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -30348,6 +30368,16 @@ window.ability=[
           "effectIdx2": "229406",
           "effectIdx3": "229407",
           "effectIds": "229405,229406,229407,229408,229409,"
+        },
+        {
+          "abilityId": "200025",
+          "abilityName": "技属性特化・戦陣",
+          "abilityDescription": "技属性からのダメージを50%カット&amp;自身と班の心属性以外の味方が技属性へのスキル攻撃時に相手の耐性を弱点化",
+          "abilityEffectDescription": "技属性からのダメージを50%カット&amp;自身と班の心属性以外の味方が技属性へのスキル攻撃時に相手の耐性を弱点化",
+          "effectIdx1": "229104",
+          "effectIdx2": "228150",
+          "effectIdx3": "4100",
+          "effectIds": "229104,228150,4100,4101,4102,4103,"
         },
         {
           "abilityId": "210001",
