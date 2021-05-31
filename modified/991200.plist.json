@@ -16576,7 +16576,7 @@
         {
           "crystalOverwriteEffectId": "1293",
           "targetCrystal": "40509",
-          "description": "0",
+          "description": "最大HP250%アップ、味方に“暁”生存時チャクラ消費0＆全スキルダメージ130%アップ",
           "charaIds": "11604,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16589,7 +16589,7 @@
         {
           "crystalOverwriteEffectId": "1294",
           "targetCrystal": "40510",
-          "description": "0",
+          "description": "スキル発動速度2段階アップ、素早さ130%アップ、敵にうちは一族生存時さらに素早さ120%アップ",
           "charaIds": "11604,",
           "cardIds": "0",
           "charaGroupIds": "0",

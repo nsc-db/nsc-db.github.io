@@ -28008,11 +28008,11 @@
           "effectIds": "684,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "イタチの抜け忍額当て",
+          "crystalDescription": "最大HP100%アップ",
           "crystalImageId": "405095",
           "recipeId": "40509",
-          "recipeName": "0"
+          "recipeName": "イタチの抜け忍額当て"
         },
         {
           "crystalId": "40510",
@@ -28025,11 +28025,11 @@
           "effectIds": "1840,183,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "同胞を滅ぼしたうちはの天才",
+          "crystalDescription": "スキル発動速度1段階アップ、素早さ30%アップ",
           "crystalImageId": "405105",
           "recipeId": "40510",
-          "recipeName": "0"
+          "recipeName": "同胞を滅ぼしたうちはの天才"
         },
         {
           "crystalId": "40511",

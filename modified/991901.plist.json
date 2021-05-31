@@ -1378,7 +1378,7 @@
         },
         {
           "sphereBoardId": "50023",
-          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤_伝説",
           "boardDescription": "うちはイタチ【顕現せし神力】",
           "rare": "0",
           "costMin": "0",
@@ -1387,7 +1387,7 @@
           "cardId": "20060603",
           "normalPanelList": "9100013,9100014,9100015",
           "specialPanelList": "9100016,9100017,9100018",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50024",
@@ -1612,7 +1612,7 @@
         },
         {
           "sphereBoardId": "50041",
-          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤_伝説",
           "boardDescription": "うちはシスイ【明鏡の心瞳】",
           "rare": "0",
           "costMin": "0",
@@ -1621,7 +1621,7 @@
           "cardId": "20061006",
           "normalPanelList": "9100007,9100008,9100009",
           "specialPanelList": "9100010,9100011,9100012",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50042",
@@ -2012,6 +2012,19 @@
           "normalPanelList": "9100001,9100002,9100003,9100031",
           "specialPanelList": "9100004,9100005,9100006,9100032",
           "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
+        },
+        {
+          "sphereBoardId": "50073",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤_伝説",
+          "boardDescription": "うちはイタチ【驚威ノ霊装】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050303",
+          "normalPanelList": "9100007,9100008,9100009",
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
         },
         {
           "sphereBoardId": "60001",
