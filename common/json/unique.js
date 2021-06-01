@@ -16599,5 +16599,44 @@ window.unique=[
           "effectIdx3": "4110",
           "effectIdx4": "0",
           "effectIds": "1549,3058,4110"
+        },
+        {
+          "crystalOverwriteEffectId": "1295",
+          "targetCrystal": "40601",
+          "description": "最大HP&amp;全ｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ､自陣ﾋﾅﾀ存在で開始時に自身堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効)",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "684",
+          "effectIdx2": "774",
+          "effectIdx3": "4122",
+          "effectIdx4": "0",
+          "effectIds": "684,774,4122"
+        },
+        {
+          "crystalOverwriteEffectId": "1296",
+          "targetCrystal": "40602",
+          "description": "素早さ&amp;全ｽｷﾙﾀﾞﾒｰｼﾞ100%ｱｯﾌﾟ､自陣ﾅﾙﾄ存在で開始時に自身堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効)",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "13099",
+          "effectIdx2": "774",
+          "effectIdx3": "4123",
+          "effectIdx4": "0",
+          "effectIds": "13099,774,4123"
+        },
+        {
+          "crystalOverwriteEffectId": "1297",
+          "targetCrystal": "40603",
+          "description": "3回行動まで高確率で全スキル無効、行動後にHP30%回復、被攻撃時に確率でアクション状態",
+          "charaIds": "105,704",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2106",
+          "effectIdx2": "894",
+          "effectIdx3": "3278",
+          "effectIdx4": "0",
+          "effectIds": "2106,894,3278"
         }
         ]

@@ -469,9 +469,22 @@ td.rarity[rarity="6" i] {
 .chara-name{
 	margin-left: 15px;
 	background-color: white;
-	border-style: inset;
 }
-
+.tier-header {
+	text-align: center;
+	border-radius: 15px;
+	padding: 8px;
+	border-style:  ridge;
+	font-size: 12px;
+}
+#rating{
+	color: black;
+	text-shadow: 1px 1px 1px grey
+}
+#tier{
+	color: black;
+	text-shadow: 1px 1px 1px grey
+}
 .alert{
 	margin-bottom: 15px;
 	padding: 15px;
@@ -540,7 +553,13 @@ td.rarity[rarity="6" i] {
 	background: linear-gradient(to bottom right,darkblue,black,darkblue)
 	border-box;
 }
-
+.alert-limited{
+	padding: 20px;
+	margin-top: 10px;
+	color: black;
+	background: linear-gradient(to bottom right,magenta,white,magenta)
+	border-box;
+}
 #rainbow{
 	background: linear-gradient(to bottom right,red,magenta,blue,aqua,lime,yellow,red)
 	border-box;

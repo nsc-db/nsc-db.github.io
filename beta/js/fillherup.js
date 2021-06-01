@@ -28,6 +28,9 @@ var destroyerArr = [20070504,20070305,20070302,20070202,20061202,
 					20061108,20061008,20061005,20060903,20060802,
 					20060609,20060507,20060506,20060405,20060404,
 					20060309,20060306,20060214,20060209]
+
+var limitedArr = [20070602,20070603]
+
 var kizuna = ''
 var duo = ''
 var god = ''
@@ -35,6 +38,7 @@ var gk = ''
 var ex = ''
 var origin = ''
 var destroyer = ''
+var limited = ''
 for(var x in kizunaArr){
 	console.log(kizunaArr[x])
 	kizuna += '<div class="unit-char col-md-2">'
@@ -79,7 +83,12 @@ for(var x in destroyerArr){
 		   + '<a href="unit/' + destroyerArr[x] + '/index.html"><img src="../common/assets/img/units/' + destroyerArr[x] + '_6.png" alt="" width="100%"></a>'
 		   + '</div>'
 }
- 
+for(var x in limitedArr){
+	console.log(limitedArr[x])
+	limited += '<div class="unit-char col-md-2">'
+		   + '<a href="unit/' + limitedArr[x] + '/index.html"><img src="../common/assets/img/units/' + limitedArr[x] + '_6.png" alt="" width="100%"></a>'
+		   + '</div>'
+} 
  
  
 document.getElementById("kizuna").innerHTML = kizuna;
@@ -89,3 +98,4 @@ document.getElementById("gk").innerHTML = gk;
 document.getElementById("ex").innerHTML = ex;
 document.getElementById("origin").innerHTML = origin;
 document.getElementById("destroyer").innerHTML = destroyer;
+document.getElementById("limited").innerHTML = limited;

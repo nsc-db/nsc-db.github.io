@@ -52,7 +52,7 @@
  	<script type="text/javascript" src="../../../common/eng/kizuna.js"></script>
  	<script type="text/javascript" src="../../../common/eng/breakdown.js"></script>
  	<script type="text/javascript" src="../../../common/eng/state.js"></script>
-
+ 	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
 
 	<link rel="stylesheet" href="https://i.icomoon.io/public/adb54f46d6/Linearicons/style.css">
 
@@ -81,11 +81,11 @@
 							<li><a href="../../../" role="button">Home</a>																
 							<li><a href="../../../units/index.html" role="button">Old Units</a>
 							<li class="active"><a href="../../" role="button">Beta Units</a>
-							<li><a href="../../gear/index.html" role="button">Ninja Gear</a>
-							<li><a href="../../jp/index.html" role="button">JP</a>
+							<li><a href="../../../gear/index.html" role="button">Ninja Gear</a>
+							<li><a href="../../../jp/index.html" role="button">JP</a>
 							<li><a href="https://docs.google.com/document/d/1AXol-kO5zPbIj85SRX-sOUnV4el2NDHKHcleXeUCiyM/edit#heading=h.taus803ytjm2" role="button">Account Recovery</a>
-							<li><a href="../../simulate/index.html" role="button">Summoning Simulator</a></li>
-							<li><a href="../../story/index.html" role="button">Story</a></li>
+							<li><a href="../../../simulate/index.html" role="button">Summoning Simulator</a></li>
+							<li><a href="../../../story/index.html" role="button">Story</a></li>
 
 							<!-- <li><a href="/guides" role="button">Guides</a>
 							<li><a href="/faq" role="button">FAQ</a> -->
@@ -100,24 +100,16 @@
 	<div class="container">
 		<div class="base-content">
 			<div class="row">
-				<div class="col-md-4">
-					<h2>Unit Database 2.0</h2>
-					<p></p>
-				</div>
-				<div class="col-md-8">
-					<div class="alert alert-warning" role="alert">
-						<strong>(＾▽＾)</strong> 
-					</div>
-				</div>
+
+				<div class="row">
+				
+				<h1></h1>
+			</div>
 				<div class="col-md-12">
 					<hr>
 				</div>
 			</div>
-			<div class="modal-header col-md-4">
-				<div id="unit-name">
-					<strong id="chara-name"></strong>
-				</div>
-			</div>
+			
 			<div class="states col-md-8">
 				<a id="state-1" data-tag= "" data-ps=""><img id="state-1img" src="" width="6%"/></a>
 				<a id="state-2" data-tag= "" data-title=""><img id="state-2img" src="" width="6%"/></a>
@@ -131,8 +123,39 @@
 				<a id="state-10" data-tag= "" data-title=""><img id="state-10img" src="" width="6%"/></a>
 				<a id="state-11" data-tag= "" data-title=""><img id="state-11img" src="" width="6%"/></a>
 				<a id="state-12" data-tag= "" data-title=""><img id="state-12img" src="" width="6%"/></a>
+				<a id="state-13" data-tag= "" data-title=""><img id="state-13img" src="" width="6%"/></a>
+				<a id="state-14" data-tag= "" data-title=""><img id="state-14img" src="" width="6%"/></a>
+				<a id="state-15" data-tag= "" data-title=""><img id="state-15img" src="" width="6%"/></a>
+				<a id="state-16" data-tag= "" data-title=""><img id="state-16img" src="" width="6%"/></a>
+				<a id="state-17" data-tag= "" data-ps=""><img id="state-17img" src="" width="6%"/></a>
+				<a id="state-18" data-tag= "" data-title=""><img id="state-18img" src="" width="6%"/></a>
+				<a id="state-19" data-tag= "" data-title=""><img id="state-19img" src="" width="6%"/></a>
+				<a id="state-20" data-tag= "" data-title=""><img id="state-20img" src="" width="6%"/></a>
+				<a id="state-21" data-tag= "" data-title=""><img id="state-21img" src="" width="6%"/></a>
+				<a id="state-22" data-tag= "" data-title=""><img id="state-22img" src="" width="6%"/></a>
+				<a id="state-23" data-tag= "" data-title=""><img id="state-23img" src="" width="6%"/></a>
+				<a id="state-24" data-tag= "" data-title=""><img id="state-24img" src="" width="6%"/></a>
 			</div>
-			<div class="row">
+			<div class='row'>
+				<div class="modal-header col-md-10">
+					<div id="unit-name">
+						<strong id="chara-name"></strong>
+					</div>
+				</div>
+				<div class="tier-header col-md-1">
+					<div id="unit-rating">
+						<strong id="rating">Rating: 98</strong>
+					</div>
+				</div>
+				<div class="tier-header col-md-1">
+					<div id="unit-tier">
+						<strong id="tier">Tier: SSS</strong>
+					</div>
+				</div>
+			</div>
+			
+			<div class='row'>
+				<h1></h1>
 			</div>
 			<div class="row" >
 				<div class="col-md-4" >
@@ -201,11 +224,17 @@
 							<p id="skill2"></p>
 						</div>
 					</div>
+					<div class='summon col-md-8 col-md-offset-7'>
+					<canvas id="statsRadar" style="width:25%;max-width:300px"></canvas>
+	
+					</div>
 				</div>	
 			</div>	
 			<div class="row">
+				
 				<h1></h1>
 			</div>
+
 			<div class="row">
 				<div class="modal-content col-md-12" >
 					<table class="table">

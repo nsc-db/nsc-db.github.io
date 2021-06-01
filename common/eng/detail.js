@@ -1,5 +1,61 @@
 window.detail=[
-{
+     {
+          "id": 20070603,
+          "name": "Hinata Hyuga",
+          "subtext": "Purely Blessed Bride",
+
+          "lead": "Konoha Chakra Cost -50% and Cast Speed +1",
+
+          "s1n": "Twin Lion and Fox Cooperation",
+          "s1": "Deal 7% + 761,000 to a target. High chance to Skip. Deal 5 Additional Attacks dealing 7% + 76,100 to Non-Konoha. Inflict 'Disable Positive Special and God State' Effect (Always Hit)",
+          "s1ntr": "Byakugan",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "I...Got Married",
+          "s2": "Recover 300,000 HP to Party. Grant 'Rotation of Love' State to self and ally Naruto. Grant 'Blessing' State to Konoha allies. [Rotation of Love: Incoming Skill Damage -1,000%. Low chance to Ignore Resistance and Skill Dodge and inflict 'Block' State when Attacked. Remove Status Effect per turn] [Blessing: ATK, DEF, SPD and Skill Damage +150%. HP and Chakra Regen +50%] [Block: Skill Disabled]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 70,
+
+          "a1n": "Celebration With Love Ones",
+          "a1": "Chance for First Strike (Guarantee if there's an ally Naruto). 1 Turn: Chakra Cost is set to 0",
+
+          "a2n": "Mutual Love",
+          "a2": "Cast Speed +1, Withstand +3 (Turns to Revive if there's a Naruto ally)",
+
+          "a3n": "White Type Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against White enemies"
+     },
+     {
+          "id": 20070602,
+          "name": "Naruto Uzumaki",
+          "subtext": "Groom of Radiant Blessing",
+
+          "lead": "Konoha SPD and Skill Damage +100%",
+
+          "s1n": "Rasenshuriken: Marriage",
+          "s1": "Deal 3% + 1,000,000 to all enemies. Deal 3 Additional Attacks dealing 300,000 Fixed Damage to Non-Konoha enemies. Remove Negative Special and God State to Party. Chance for SPD +300% for 1 turn (Always Hit)",
+          "s1ntr": "Wind",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "Alright... Lets Go",
+          "s2": "Party Skill Damage +150%. Grant 'Spiral of Love' State to self and ally 'Hinata Hyuga'. Grant 'Love' State to Konoha allies. [Spiral of Love: High chance for an Extra Turn. Cast Speed is Set to Flash. High chance to Ignore Resistance and Skill Dodge and Inflict 'Jutsu Sea' State when this State is removed] [Love: ATK, SPD and Skill Damage +150%, Skill Immunity] [Jutsu Seal: SKill Disabled]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 70,
+
+          "a1n": "Feast with Friends",
+          "a1": "Chance for First Strike (Guarantee if there's an ally Hinata). 1 Turn: Chakra Cost is set to 0",
+
+          "a2n": "Beginning of Married Ninjas",
+          "a2": "Cast Speed +1, Withstand +3 (Turns to Revive if there's a Hinata ally)",
+
+          "a3n": "Black Type Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black enemies"
+     },
+     {
           "id": 20070507,
           "name": "Mei Terumī",
           "subtext": "Talent to End The Blood Mist",

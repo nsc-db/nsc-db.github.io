@@ -23,10 +23,12 @@
 	}
 
 	.modal-header {
-		border: 0px;
 		display: block;
 		background-color: black;
 		text-align: center;
+		padding: 10px;
+		border-radius: 150px;
+		border-style: solid;
 	}
 
 	.modal-header strong{

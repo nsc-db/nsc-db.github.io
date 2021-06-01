@@ -16772,6 +16772,48 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1214",
+          "name": "一楽が繋ぐ師弟の絆",
+          "description": "木ノ葉隠れの里所属の最大HPと攻撃・防御・素早さが20％アップする",
+          "effectIdx1": "10019",
+          "effectIdx2": "105",
+          "effectIdx3": "106",
+          "effectIds": "10019,105,106,109,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1215",
+          "name": "晴れやかな祝福の新郎",
+          "description": "木ノ葉隠れの里所属の素早さと全スキルダメージ100%アップ",
+          "effectIdx1": "13099",
+          "effectIdx2": "774",
+          "effectIdx3": "0",
+          "effectIds": "13099,774,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1216",
+          "name": "清らかな祝福の花嫁",
+          "description": "木ノ葉隠れの里所属のチャクラ消費量半減、スキル発動速度1段階アップ",
+          "effectIdx1": "895",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIds": "895,1840,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "1",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

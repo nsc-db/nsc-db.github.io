@@ -8428,6 +8428,30 @@ window.skillname=[
           "name": "仕上げだ…"
         },
         {
+          "cardBattleSkillNameId": "3359",
+          "name": "木ノ葉流・クナイ指導"
+        },
+        {
+          "cardBattleSkillNameId": "3360",
+          "name": "さあ、一緒に食べよう！"
+        },
+        {
+          "cardBattleSkillNameId": "3361",
+          "name": "螺旋手裏剣・結魂"
+        },
+        {
+          "cardBattleSkillNameId": "3362",
+          "name": "よし…行くか"
+        },
+        {
+          "cardBattleSkillNameId": "3363",
+          "name": "柔歩双獅拳・比翼の連携"
+        },
+        {
+          "cardBattleSkillNameId": "3364",
+          "name": "私…結婚します"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

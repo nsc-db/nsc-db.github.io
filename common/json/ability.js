@@ -28080,6 +28080,86 @@ window.ability=[
           "effectIds": "1057,874,4113,3620,"
         },
         {
+          "abilityId": "2862",
+          "abilityName": "教え子たちとの日々",
+          "abilityDescription": "HP80%以上の時、状態異常を半減＆スキル発動速度1段階アップ",
+          "abilityEffectDescription": "HP80%以上の時、状態異常を半減＆スキル発動速度1段階アップ",
+          "effectIdx1": "1089",
+          "effectIdx2": "4114",
+          "effectIdx3": "0",
+          "effectIds": "1089,4114,"
+        },
+        {
+          "abilityId": "2863",
+          "abilityName": "ナルトとの絆",
+          "abilityDescription": "3回行動するまで確率でスキル回避",
+          "abilityEffectDescription": "3回行動するまで確率でスキル回避",
+          "effectIdx1": "2293",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "2293,"
+        },
+        {
+          "abilityId": "2864",
+          "abilityName": "歴代最速の瞬身",
+          "abilityDescription": "HP0以下で2回HP全回復｡行動後、確実に再度行動できる※再行動後にさらに行動はできない",
+          "abilityEffectDescription": "HP0以下で2回HP全回復｡行動後、確実に再度行動できる※再行動後にさらに行動はできない",
+          "effectIdx1": "874",
+          "effectIdx2": "1057",
+          "effectIdx3": "1893",
+          "effectIds": "874,1057,1893,"
+        },
+        {
+          "abilityId": "2865",
+          "abilityName": "連合を救う光",
+          "abilityDescription": "耐えた時に、素早さ300％アップ＆チャクラ消費量半減",
+          "abilityEffectDescription": "耐えた時に、素早さ300％アップ＆チャクラ消費量半減",
+          "effectIdx1": "4115",
+          "effectIdx2": "1813",
+          "effectIdx3": "0",
+          "effectIds": "4115,1813,"
+        },
+        {
+          "abilityId": "2866",
+          "abilityName": "仲間たちとの祝宴",
+          "abilityDescription": "バトル開始時に確率で先制攻撃（味方にヒナタがいると確実）、1回行動までチャクラ消費0",
+          "abilityEffectDescription": "バトル開始時に確率で先制攻撃（味方にヒナタがいると確実）、1回行動までチャクラ消費0",
+          "effectIdx1": "2637",
+          "effectIdx2": "4116",
+          "effectIdx3": "1378",
+          "effectIds": "2637,4116,1378,"
+        },
+        {
+          "abilityId": "2867",
+          "abilityName": "夫婦忍道の始まり",
+          "abilityDescription": "スキル発動速度1段階アップ、HP0以下で3回耐える（味方にヒナタ生存で耐えた時にHP全回復）",
+          "abilityEffectDescription": "スキル発動速度1段階アップ、HP0以下で3回耐える（味方にヒナタ生存で耐えた時にHP全回復）",
+          "effectIdx1": "1840",
+          "effectIdx2": "1789",
+          "effectIdx3": "4118",
+          "effectIds": "1840,1789,4118,"
+        },
+        {
+          "abilityId": "2868",
+          "abilityName": "愛する人との祝言",
+          "abilityDescription": "バトル開始時に確率で先制攻撃（味方にナルトがいると確実）、1回行動までチャクラ消費0",
+          "abilityEffectDescription": "バトル開始時に確率で先制攻撃（味方にナルトがいると確実）、1回行動までチャクラ消費0",
+          "effectIdx1": "2637",
+          "effectIdx2": "4117",
+          "effectIdx3": "1378",
+          "effectIds": "2637,4117,1378,"
+        },
+        {
+          "abilityId": "2869",
+          "abilityName": "同じ忍道の相愛",
+          "abilityDescription": "スキル発動速度1段階アップ、HP0以下で3回耐える（味方にナルト生存で耐えた時にHP全回復）",
+          "abilityEffectDescription": "スキル発動速度1段階アップ、HP0以下で3回耐える（味方にナルト生存で耐えた時にHP全回復）",
+          "effectIdx1": "1840",
+          "effectIdx2": "1789",
+          "effectIdx3": "2697",
+          "effectIds": "1840,1789,2697,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -30082,8 +30162,8 @@ window.ability=[
         {
           "abilityId": "100142",
           "abilityName": "決意の乾坤一擲",
-          "abilityDescription": "HP0以下で3回耐え、1回行動まで確率で幻惑解除＆無効化",
-          "abilityEffectDescription": "HP0以下で3回耐え、1回行動まで確率で幻惑解除＆無効化",
+          "abilityDescription": "HP0以下で3回耐え、2回行動まで確率で幻惑解除＆無効化",
+          "abilityEffectDescription": "HP0以下で3回耐え、2回行動まで確率で幻惑解除＆無効化",
           "effectIdx1": "1789",
           "effectIdx2": "3947",
           "effectIdx3": "0",
@@ -30102,8 +30182,8 @@ window.ability=[
         {
           "abilityId": "100144",
           "abilityName": "決意の乾坤一擲",
-          "abilityDescription": "HP0以下で5回耐え、3回行動まで幻惑解除＆無効化",
-          "abilityEffectDescription": "HP0以下で5回耐え、3回行動まで幻惑解除＆無効化",
+          "abilityDescription": "HP0以下で5回耐え、4回行動まで幻惑解除＆無効化",
+          "abilityEffectDescription": "HP0以下で5回耐え、4回行動まで幻惑解除＆無効化",
           "effectIdx1": "1512",
           "effectIdx2": "3948",
           "effectIdx3": "0",
@@ -32852,8 +32932,8 @@ window.ability=[
         {
           "abilityId": "310221",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "2回行動まで幻惑解除＆無効化",
-          "abilityEffectDescription": "2回行動まで幻惑解除＆無効化",
+          "abilityDescription": "3回行動まで幻惑解除＆無効化",
+          "abilityEffectDescription": "3回行動まで幻惑解除＆無効化",
           "effectIdx1": "4070",
           "effectIdx2": "0",
           "effectIdx3": "0",
@@ -32862,12 +32942,22 @@ window.ability=[
         {
           "abilityId": "310222",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "1回行動まで幻惑解除＆無効化",
-          "abilityEffectDescription": "1回行動まで幻惑解除＆無効化",
+          "abilityDescription": "2回行動まで幻惑解除＆無効化",
+          "abilityEffectDescription": "2回行動まで幻惑解除＆無効化",
           "effectIdx1": "4098",
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "4098,"
+        },
+        {
+          "abilityId": "310223",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "1回行動まで高確率で幻惑解除＆無効化",
+          "abilityEffectDescription": "1回行動まで高確率で幻惑解除＆無効化",
+          "effectIdx1": "4119",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "4119,"
         },
         {
           "abilityId": "801187",

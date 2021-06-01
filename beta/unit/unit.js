@@ -107,7 +107,7 @@ for(var i in window.chara){
 		var head = 'Hey'
 
 		
-		var kizuna =document.getElementById("kizuna");;
+		var kizuna = document.getElementById("kizuna");;
 		
 		var unitType = checkType(unit)
 		//Base Stats
@@ -220,6 +220,44 @@ for(var i in window.chara){
 		}
 
 		if(charaBreakdown != ""){
+			$('#rating').text('Rating: ' + charaBreakdown['rating'])
+			$('#rating').attr('data-ps', 'LP Rating: ' + charaBreakdown['larate'])
+
+			if(charaBreakdown['rating'] == 100){
+				$('#tier').text('Tier: \SSS')
+				$('#tier').attr('data-ps', 'LP Tier: SSS')
+				$('.tier-header').attr('style', 'background-color: #9A0000;')
+			}
+			else if(charaBreakdown['rating'] >= 95 && charaBreakdown['rating'] < 100){
+				$('#tier').text('Tier: SS')
+				$('#tier').attr('data-ps', 'LP Tier: SS')
+				$('.tier-header').attr('style', 'background-color: #CC0001;')
+			}
+			else if(charaBreakdown['rating'] >= 90 && charaBreakdown['rating'] < 95){
+				$('#tier').text('Tier: S')
+				$('#tier').attr('data-ps', 'LP Tier: S')
+				$('.tier-header').attr('style', 'background-color: #E06665;')
+			}
+			else if(charaBreakdown['rating'] >= 85 && charaBreakdown['rating'] < 90){
+				$('#tier').text('Tier: A+')
+				$('#tier').attr('data-ps', 'LP Tier: A+')
+				$('.tier-header').attr('style', 'background-color: #F4CCCC;')
+			}
+			else if(charaBreakdown['rating'] >= 80 && charaBreakdown['rating'] < 85){
+				$('#tier').text('Tier: A')
+				$('#tier').attr('data-ps', 'LP Tier: A')
+				$('.tier-header').attr('style', 'background-color: #F1C332;')
+			}
+			else if(charaBreakdown['rating'] >= 70 && charaBreakdown['rating'] < 80){
+				$('#tier').text('Tier: B')
+				$('#tier').attr('data-ps', 'LP Tier: B')
+				$('.tier-header').attr('style', 'background-color: #FED966;')
+			}
+			else{
+				$('#tier').text('Tier: C')
+				$('#tier').attr('data-ps', 'LP Tier: C')
+				$('.tier-header').attr('style', 'background-color: #ffffed;')				
+			}
 			var stateCounter = 1;
 
 			for(var x in charaBreakdown['status']){
@@ -1104,7 +1142,7 @@ for(var i in window.chara){
 		$("#max-atk").text(parseInt(maxatk).toLocaleString())
 		$("#max-def").text(parseInt(maxdef).toLocaleString())
 		$("#max-spd").text(parseInt(maxspd).toLocaleString())
-		$("#max-sd").text(statesd + abilitysd + p2sd + f3sd + f4sd + '%')
+		$("#max-sd").text(maxsd + '%')
 
 
 		pvphp = maxhp + (hp*15)
@@ -1126,6 +1164,52 @@ for(var i in window.chara){
 		$("#enemy-def").text(parseInt(maxdef).toLocaleString())
 		$("#enemy-spd").text(parseInt(enemyspd).toLocaleString())
 		$("#enemy-sd").text(enemysd + "%")
+
+		var ctx = document.getElementById('statsRadar').getContext('2d');
+		var myChart = new Chart(ctx, {
+		    type: 'radar',
+		    data: {
+		        labels: ['HP', 'Chakra', 'ATK', 'DEF', 'SPD', 'Skill Damage'],
+		        datasets: [{
+		        	label: 'Stats boi',
+		            data: [maxhp/4,maxchakra*15000,maxatk*4,maxdef*4,maxspd*1000,maxsd*5000],
+		            backgroundColor: [
+		                'rgba(255, 99, 132, 0.2)',
+		                'rgba(54, 162, 235, 0.2)',
+		                'rgba(255, 206, 86, 0.2)',
+		                'rgba(75, 192, 192, 0.2)',
+		                'rgba(153, 102, 255, 0.2)',
+		                'rgba(255, 159, 64, 0.2)'
+		            ],
+		            borderColor: [
+		                'rgba(255, 99, 132, 1)',
+		                'rgba(54, 162, 235, 1)',
+		                'rgba(255, 206, 86, 1)',
+		                'rgba(75, 192, 192, 1)',
+		                'rgba(153, 102, 255, 1)',
+		                'rgba(255, 159, 64, 1)'
+		            ],
+		            borderWidth: 1,
+		        }]
+		    },
+		    options: {
+		      legend:{
+		      	display: false
+		      },
+		      scale: {
+		         ticks: {
+		         	max: 6000000,
+		            display: false,
+		            maxTicksLimit: 4
+
+		         },
+		         gridLines: {
+				  color: "#FFFFFF"
+				 },
+		      },
+		   }
+		});
+		 Chart.defaults.global.defaultFontColor='black';
 
 		function equipGear(){
 			$('#equip1').attr('src', '');
