@@ -140,6 +140,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
+          "id": 1905,
+          "type": "Stats",
+          "name": "Detonating Tag Kunai",
+          "effect": "HP and ATK +80%, Secret Skill Damage +50%",
+          "normal": "HP and ATK +40%",
+          "charaIds": "401,402",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 1945,
           "type": "Additional",
           "name": "Gamakichi Netsuke",
@@ -186,6 +196,16 @@ window.enggear=[
           "effect": "HP, SPD and HP Recovery Skill Amount +50%",
           "normal": "HP and SPD +20%",
           "charaIds": "602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1995,
+          "type": "Stats",
+          "name": "Ino-Shika-Cho Earrings (Shika)",
+          "effect": "HP and DEF +50%, Debuff Immunity",
+          "normal": "HP and DEF +20%",
+          "charaIds": "402",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -680,6 +700,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 3355,
+          "type": "Skill",
+          "name": "Asuma's Chakra Blade",
+          "effect": "Skill Damage +70%, SPD +40%",
+          "normal": "Secret and Weapon Skill Damage +30%",
+          "charaIds": "402",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3375,
           "type": "Chakra",
           "name": "Sage Chakra",
@@ -1090,6 +1120,36 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 4855,
+          "type": "Stats",
+          "name": "Shikamaru's Mission Uniform",
+          "effect": "Skill Damage +30%, HP and SPD +80%",
+          "normal": "HP and SPD +40%",
+          "charaIds": "403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4865,
+          "type": "Skill",
+          "name": "Keepsake Lighter",
+          "effect": "Skill Damage +80%, Skill Crit Chance +30%",
+          "normal": "Secret Skill Damage +40%",
+          "charaIds": "403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4955,
+          "type": "Additional",
+          "name": "Barbe-Q Gum",
+          "effect": "Skill Damage +30%, Start the Battle with 30% Chakra",
+          "normal": "Skill Damage +10%",
+          "charaIds": "603,403,503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 5015,
           "type": "Additional",
           "name": "EX Selection Certificate (Silver)",
@@ -1417,6 +1477,26 @@ window.enggear=[
           "normal": "9 Turns: Chakra Recovery +20%",
           "charaIds": "209",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6205,
+          "type": "Additional",
+          "name": "Kurama's Haori (Connection)",
+          "effect": "Skill Damage +50%, 3 Turns: Chakra Cost -50%",
+          "normal": "Tailed Beast Skill Damage +20%",
+          "charaIds": "0",
+          "cardIds": "20030817,20030818,20030819",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6205,
+          "type": "Skill",
+          "name": "Entrusted Rasengan",
+          "effect": "Tailed Beast Skill Damage +80%, Cast Speed +1",
+          "normal": "Tailed Beast Skill Damage +20%",
+          "charaIds": "0",
+          "cardIds": "20030817,20030818,20030819",
           "charaGroupIds": "0"
 },
 {
@@ -1826,6 +1906,16 @@ window.enggear=[
           "effect": "ATK +100%, HP and Skill Damage +50%",
           "normal": "HP and ATK +20%, Sage Skill Damage +30%",
           "charaIds": "103,104,105,106,107,109,110,111,2401,2101,2103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8185,
+          "type": "Chakra",
+          "name": "Shikamaru's Hair Clip",
+          "effect": "Chakra Cost -20%, Chakra Recovery +20%",
+          "normal": "Chakra Recovery +7%",
+          "charaIds": "403",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -2700,6 +2790,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
+          "id": 204135,
+          "type": "Additional",
+          "name": "Memory Manual",
+          "effect": "ATK, DEF and SPD +100%",
+          "normal": "ATK, DEF and SPD +25%",
+          "charaIds": "401,402,403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 204145,
+          "type": "Chakra",
+          "name": "Memento Chakra Blade",
+          "effect": "ATK +150%, 5 Turns: Chakra Recovery +75%",
+          "normal": "ATK +50%, Chakra Recovery +10%",
+          "charaIds": "401,402,403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 204175,
           "type": "Resistance",
           "name": "Team 8's Bond",
@@ -2816,6 +2926,16 @@ window.enggear=[
           "effect": "Start the Battle with 50% Chakra, 5 Turns: Chakra Cost -50%, Chance to Dodge Skills",
           "normal": "Start the Battle with 20% Chakra",
           "charaIds": "1702,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 207055,
+          "type": "Resistance",
+          "name": "Starfish",
+          "effect": "Status Effect and Genjutsu Immunity, 1 Turn: Skill Immunity, SPD +30%",
+          "normal": "Status Effect Duration Reduction",
+          "charaIds": "11201,1401,1402,1403,1404,1405,401,402,403",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -2988,7 +3108,27 @@ window.enggear=[
           "charaIds": "14602",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
+{
+          "id": 209055,
+          "type": "Chakra",
+          "name": "Protect the King",
+          "effect": "1 Turn: Set Chakra Cost to 0, After 2 Turns: Chakra Cost -50%, Chakra Recovery +20%",
+          "normal": "1 Turn: Chakra Cost -20%, Chakra Recovery +5%",
+          "charaIds": "401,402,403,1801,1802,1803",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 209065,
+          "type": "Skill",
+          "name": "Secret Shadow Jutsu",
+          "effect": "HP and Skill Damage +100%, Chance to Dodge Skills",
+          "normal": "HP and Secret Skill Damage +50%",
+          "charaIds": "401,402,403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 209095,
           "type": "Stats",
@@ -6200,12 +6340,62 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 405095,
+          "type": "Stats",
+          "name": "Itachi's Forehead Protector",
+          "effect": "HP +250%, If there's an Akatsuki ally: Skill Damage +130% & Set Chakra Cost to 0",
+          "normal": "HP +100%",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 405105,
+          "type": "Skill",
+          "name": "A Genius Who has Destroyed his Compatriots",
+          "effect": "Cast Speed +2, SPD +130%, If there's an Uchiha ally or enemy: SPD +120% (Max 250%)",
+          "normal": "Cast Speed +1, SPD +30%",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 405115,
           "type": "Skill",
           "name": "Founder of Nishu",
           "effect": "Skill Damage +150%, Cast Speed +1, If there's a GK enemy: SPD +200%",
           "normal": "Skill Damage +80%",
           "charaIds": "14601",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406015,
+          "type": "Additional",
+          "name": "Naruto's Fan",
+          "effect": "HP and Skill Damage +100%, If there's a Hinata ally: At the Start of Battle, Grant 'Protection' State to Party",
+          "normal": "HP +50%, If there's a Hinata ally: At the Start of Battle, Chance to Grant 'Protection' State to self",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406025,
+          "type": "Additional",
+          "name": "Hinata's Hair Ornament",
+          "effect": "SPD and Skill Damage +100%, If there's a Naruto ally: At the Start of Battle, Grant 'Protection' State to Party",
+          "normal": "SPD +50%, If there's a Naruto ally: At the Start of Battle, Chance to Grant 'Protection' State to self",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406035,
+          "type": "Resistance",
+          "name": "Beginning of a New Blessing",
+          "effect": "3 Turns: High Chance for Skill Immunity, HP Recovery +30%, When Attacked: Chance for 'Instant Action'",
+          "normal": "1 Turn: Chance for Skill Immunity, HP Recovery +10%",
+          "charaIds": "105,704",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
