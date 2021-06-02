@@ -4,56 +4,56 @@ window.detail=[
           "name": "Hinata Hyuga",
           "subtext": "Purely Blessed Bride",
 
-          "lead": "Konoha Chakra Cost -50% and Cast Speed +1",
+          "lead": "Konoha Characters: Chakra Cost -50% and Cast Speed +1",
 
           "s1n": "Twin Lion and Fox Cooperation",
-          "s1": "Deal 7% + 761,000 to a target. High chance to Skip. Deal 5 Additional Attacks dealing 7% + 76,100 to Non-Konoha. Inflict 'Disable Positive Special and God State' Effect (Always Hit)",
+          "s1": "Deal 7% + 761,000 to target enemy. High Chance to Inflict 'Skip'. If it's a Non-Konoha enemy: Deal 5 Additional Attacks dealing 7% + 76,100. Inflict 'Disable Positive Special and God State' Effect. (Always Hit)",
           "s1ntr": "Byakugan",
           "s1cs": "Fast",
           "s1c": 70,
 
-          "s2n": "I...Got Married",
-          "s2": "Recover 300,000 HP to Party. Grant 'Rotation of Love' State to self and ally Naruto. Grant 'Blessing' State to Konoha allies. [Rotation of Love: Incoming Skill Damage -1,000%. Low chance to Ignore Resistance and Skill Dodge and inflict 'Block' State when Attacked. Remove Status Effect per turn] [Blessing: ATK, DEF, SPD and Skill Damage +150%. HP and Chakra Regen +50%] [Block: Skill Disabled]",
+          "s2n": "I... Got Married",
+          "s2": "Recover 300,000 HP to Party. Grant 'Rotation of Love' State to self and Naruto allies. Grant 'Blessing' State to Konoha allies. [Rotation of Love: Incoming Skill Damage -1,000%. Low chance to Ignore Resistance and Skill Dodge and Inflict 'Block' State when Attacked. Remove Status Effect per turn] [Blessing: ATK, DEF, SPD and Skill Damage +150%. HP and Chakra Regen +50%] [Block: Skill Disabled]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 70,
 
           "a1n": "Celebration With Love Ones",
-          "a1": "Chance for First Strike (Guarantee if there's an ally Naruto). 1 Turn: Chakra Cost is set to 0",
+          "a1": "Chance for First Strike (If there's a Naruto ally: Guaranteed). 1 Turn: Set Chakra Cost to 0",
 
           "a2n": "Mutual Love",
-          "a2": "Cast Speed +1, Withstand +3 (Turns to Revive if there's a Naruto ally)",
+          "a2": "Cast Speed +1, Withstand +3 (If there's a Naruto ally: Turns to Revive)",
 
-          "a3n": "White Type Specialization",
-          "a3": "Type Advantage and Damage Cut +50% against White enemies"
+          "a3n": "White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against White"
      },
      {
           "id": 20070602,
           "name": "Naruto Uzumaki",
           "subtext": "Groom of Radiant Blessing",
 
-          "lead": "Konoha SPD and Skill Damage +100%",
+          "lead": "Konoha Characters: SPD and Skill Damage +100%",
 
           "s1n": "Rasenshuriken: Marriage",
-          "s1": "Deal 3% + 1,000,000 to all enemies. Deal 3 Additional Attacks dealing 300,000 Fixed Damage to Non-Konoha enemies. Remove Negative Special and God State to Party. Chance for SPD +300% for 1 turn (Always Hit)",
+          "s1": "Deal 3% + 1,000,000 to all enemies. If it's a Non-Konoha enemy: Deal 3 Additional Attacks dealing 300,000 Fixed Damage. Remove Negative Special and God State to Party. Chance for SPD +300% for 1 Turn. (Always Hit)",
           "s1ntr": "Wind",
           "s1cs": "Fast",
           "s1c": 70,
 
-          "s2n": "Alright... Lets Go",
-          "s2": "Party Skill Damage +150%. Grant 'Spiral of Love' State to self and ally 'Hinata Hyuga'. Grant 'Love' State to Konoha allies. [Spiral of Love: High chance for an Extra Turn. Cast Speed is Set to Flash. High chance to Ignore Resistance and Skill Dodge and Inflict 'Jutsu Sea' State when this State is removed] [Love: ATK, SPD and Skill Damage +150%, Skill Immunity] [Jutsu Seal: SKill Disabled]",
+          "s2n": "Alright... Let's Go",
+          "s2": "Party Skill Damage +150%. Grant 'Spiral of Love' State to self and Hinata allies. Grant 'Love' State to Konoha allies. [Spiral of Love: High chance for an Extra Turn. Cast Speed is Set to Flash. High chance to Ignore Resistance and Skill Dodge and Inflict 'Jutsu Seal' State when this State is removed] [Love: ATK, SPD and Skill Damage +150%, Skill Immunity] [Jutsu Seal: SKill Disabled]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 70,
 
           "a1n": "Feast with Friends",
-          "a1": "Chance for First Strike (Guarantee if there's an ally Hinata). 1 Turn: Chakra Cost is set to 0",
+          "a1": "Chance for First Strike (If there's a Hinata ally: Guaranteed). 1 Turn: Set Chakra Cost to 0",
 
           "a2n": "Beginning of Married Ninjas",
-          "a2": "Cast Speed +1, Withstand +3 (Turns to Revive if there's a Hinata ally)",
+          "a2": "Cast Speed +1, Withstand +3 (If there's a Hinata ally: Turns to Revive)",
 
-          "a3n": "Black Type Specialization",
-          "a3": "Type Advantage and Damage Cut +50% against Black enemies"
+          "a3n": "Black Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Black"
      },
      {
           "id": 20070507,
@@ -88,27 +88,27 @@ window.detail=[
           "name": "Itachi Uchiha",
           "subtext": "War God of Unparalleled Sharingan",
 
-          "lead": "High chance to grant Instant Action upon Withstand to Akatsuki allies",
+          "lead": "Akatsuki Characters: High Chance to Grant 'Instant Action' upon Withstanding",
 
           "s1n": "Tempestuous God: Susano'o",
-          "s1": "Deal 1,500,000 Fixed Damage to All enemies. Deal 10 Additional Attacks dealing 3% + 150,000 to a random enemy. Invalidate Withstand, Revive and Immortality when attacking a Sealed enemy. (Always Hit)",
+          "s1": "Deal 1,500,000 Fixed Damage to all enemies. Deal 10 Additional Attacks dealing 3% + 150,000 to a random enemy. If the enemy is under 'Seal': Invalidate Withstand, Revive and Immortality. (Always Hit)",
           "s1ntr": "Sharingan",
           "s1cs": "Fast",
           "s1c": 100,
 
           "s2n": "It's Finished...",
-          "s2": "Party SPD +1,000% for 1 turn. Change the Terrain to 'Sacred Treasure of the Wicked Seal'. Chance to Ignore Resistance and Skill Dodge and inflict 'Seal'. [Sacred Treasure of the Wicked Eye: (Party): Damage Cut +80%, SPD +10,000% for 1 turn when Attacked. (Enemy): Chance to Ignore Resistance and Skill Dodge and inflict 'Seal' upon Action. SPD Limit is set to 1,500]",
+          "s2": "Party SPD +1,000% for 1 Turn. Change the Terrain to 'Sacred Treasure of the Wicked Seal'. Chance to Ignore Resistance and Skill Dodge and Inflict 'Seal'. [Sacred Treasure of the Wicked Eye: (Party): Damage Cut +80%, SPD +10,000% for 1 Turn when Attacked. (Enemy): Chance to Ignore Resistance and Skill Dodge and Inflict 'Seal' upon Action. SPD Limit is set to 1,500]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
 
           "a1n": "The Secret Eye Jutsu",
-          "a1": "When attacked (Including ally Skills), Chance to Change the Terrain to 'Sacred Treasure of the Wicked Seal' and High chance to Ignore Resistance and Inflict 'Illusion' to the Attacking enemy (3 Turns Skipped)",
+          "a1": "When Attacked (Including ally Skills): Chance to Change the Terrain to 'Sacred Treasure of the Wicked Seal' and High Chance to Ignore Resistance and Inflict 'Illusion' to the Attacking enemy (3 Turns Skipped)",
 
           "a2n": "Eye's That See's Through Logic",
-          "a2": "Revive +2, Chance for Instant Action when Attacked. Illusion Immunity",
+          "a2": "Revive +2, Chance for Instant Action when Attacked. 'Illusion' Immunity",
 
-          "a3n": "Blue Type Specialization and Battle Formation",
+          "a3n": "Blue Specialization and Battle Formation",
           "a3": "Damage Cut +50% against Blue, Grant Self and Non-Yellow allies Type Advantage against Blue"
       },
 {
