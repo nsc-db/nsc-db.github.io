@@ -16637,5 +16637,31 @@
           "effectIdx3": "3278",
           "effectIdx4": "0",
           "effectIds": "2106,894,3278,"
+        },
+        {
+          "crystalOverwriteEffectId": "1298",
+          "targetCrystal": "40604",
+          "description": "全スキルダメージ120%アップ､スキル発動速度1段階アップ､スキル攻撃時確率で敵全体をキャンセル",
+          "charaIds": "11802,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "30011",
+          "effectIdx2": "1840",
+          "effectIdx3": "3700",
+          "effectIdx4": "0",
+          "effectIds": "30011,1840,3700,"
+        },
+        {
+          "crystalOverwriteEffectId": "1299",
+          "targetCrystal": "40605",
+          "description": "被攻撃時次の行動まで素早さ200%ｱｯﾌﾟ､状態異常無効､確率で写輪眼・輪廻眼・輪廻写輪眼を除くｽｷﾙ無効",
+          "charaIds": "11802,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3157",
+          "effectIdx2": "82",
+          "effectIdx3": "4127",
+          "effectIdx4": "0",
+          "effectIds": "3157,82,4127,"
         }
       ]

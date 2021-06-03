@@ -4403,6 +4403,18 @@
           "voiceDeath": "itachi_pursuit_02_02"
         },
         {
+          "cardVoiceId": "371",
+          "cardId": "20070607",
+          "dirName": "pain",
+          "evolutionStep": "",
+          "voiceAppear": "pain_battle_02_03",
+          "voiceSkill1": "pain_menu_shinobi_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "pain_win_02_02",
+          "voiceDeath": "pain_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

@@ -28098,5 +28098,39 @@
           "crystalImageId": "406035",
           "recipeId": "40603",
           "recipeName": "新たなる門出への祝福"
+        },
+        {
+          "crystalId": "40604",
+          "crystalType": "11",
+          "crystalRare": "5",
+          "effectIdx1": "678",
+          "effectIdx2": "1840",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "678,1840,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "尾獣を封じる神の御業",
+          "crystalDescription": "全スキルダメージ60%アップ､スキル発動速度1段階アップ",
+          "crystalImageId": "406045",
+          "recipeId": "40604",
+          "recipeName": "尾獣を封じる神の御業"
+        },
+        {
+          "crystalId": "40605",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "82",
+          "effectIdx2": "4126",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "82,4126,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "痛みを知る者",
+          "crystalDescription": "被攻撃時次の行動まで素早さ50%ｱｯﾌﾟ､状態異常無効",
+          "crystalImageId": "406055",
+          "recipeId": "40605",
+          "recipeName": "痛みを知る者"
         }
       ]

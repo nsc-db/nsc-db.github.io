@@ -2066,6 +2066,19 @@
           "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
         },
         {
+          "sphereBoardId": "50076",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚あり_伝説",
+          "boardDescription": "ペイン【ふりかざす神意】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070607",
+          "normalPanelList": "9100025,9100026,9100027,9100051",
+          "specialPanelList": "9100028,9100029,9100030,9100052",
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
