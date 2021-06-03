@@ -1091,6 +1091,32 @@
           "legendPanelList": "0"
         },
         {
+          "sphereBoardId": "10095",
+          "boardName": "Temp_Ct40_勇属性_の潜在覚醒盤",
+          "boardDescription": "うずまきナルト【晴れやかな祝福の新郎】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070602",
+          "normalPanelList": "9000025,9000026,9000027",
+          "specialPanelList": "9000028,9000029,9000030",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "10096",
+          "boardName": "Temp_Ct40_知属性_の潜在覚醒盤",
+          "boardDescription": "日向ヒナタ【清らかな祝福の花嫁】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070603",
+          "normalPanelList": "9000019,9000020,9000021",
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -2022,6 +2048,19 @@
           "costMax": "0",
           "attribute": "0",
           "cardId": "20050303",
+          "normalPanelList": "9100007,9100008,9100009",
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
+          "sphereBoardId": "50074",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤_伝説",
+          "boardDescription": "波風ミナト【飛閃封災の伝説】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20041003",
           "normalPanelList": "9100007,9100008,9100009",
           "specialPanelList": "9100010,9100011,9100012",
           "legendPanelList": "9100046,9100047,9100048,9100049,9100050"

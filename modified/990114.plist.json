@@ -3477,5 +3477,25 @@
           "subScore": "0",
           "color": "49151",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "359",
+          "category": "3",
+          "iconId": "1443",
+          "name": "愛の螺旋",
+          "description": "一定確率で再行動、スキル発動速度閃光化、解除時に一定確率で敵全体を術封じ",
+          "subScore": "0",
+          "color": "14524637",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "360",
+          "category": "3",
+          "iconId": "1444",
+          "name": "愛の回天",
+          "description": "自身を狙うスキルダメージダウン、被攻撃時に一定確率で敵全体を塞、行動後に自身の状態異常解除",
+          "subScore": "0",
+          "color": "14524637",
+          "type": "2"
         }
       ]
