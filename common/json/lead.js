@@ -16814,6 +16814,20 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1217",
+          "name": "ふりかざす神意",
+          "description": "“暁”所属を1回行動まで弱体系特殊･弱体系神化状態解除&amp;無効化",
+          "effectIdx1": "3998",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "3998,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

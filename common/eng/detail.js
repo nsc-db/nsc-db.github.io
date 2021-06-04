@@ -1,5 +1,33 @@
 window.detail=[
      {
+          "id": 20070607,
+          "name": "Pain",
+          "subtext": "Wielding Divine's Will",
+
+          "lead": "1 Turn: Remove and Immune to Negative Special and God State to Akatsuki allies",
+
+          "s1n": "Seal Prison: Planetary Devastation",
+          "s1": "Deal 3% + 1,200,000 to all enemies. Remove and Immune Non-Akatsuki's Positive Special and God State. Deal +5 Additional Attacks dealing 3% + 200,000 per Akatsuki allies (Max 15 Additional Attacks) (Always Hit)",
+          "s1ntr": "Rinnegan",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "Because It's Been Forgiven",
+          "s2": "Recover 1,500,000 HP to Party. Remove 'Disable Positive Special and God State Effect' and grant 'Akatsuki's Will' God State to Akatsuki allies. [Akatsuki's Will: When removed, Ignore Resistance and Inflict 'Deficit' State to a random enemy. Grant Effects depending on the number of Akatsuki allies alive (1): Remove and Immune to Genjutsu, Status Effect Negative Special and God State. Insta Kill Immunity (2): SPD +300%. Damage Limit Set to 900,000 (3): High Chance to Deal 5 Additional Attack dealing 200,000 Fixed Damage when using an Attack Skill] ",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "God Shinobi's Eye Jutsu",
+          "a1": "Insta Cast Skill 2. Revive +3. Immune to 'Seal' and 'Jutsu Seal'",
+
+          "a2n": "Growing Pain",
+          "a2": "2 Turns: Skill, Fixed and Enemy Terrain Immunity. Chance to grant Instant Action when Attacked",
+
+          "a3n": "Black Specialization and Sprint",
+          "a3": "Type Advantage and Damage Cut +50% against White. SPD +75% to self per Non-White allies"
+     },
+     {
           "id": 20070603,
           "name": "Hinata Hyuga",
           "subtext": "Purely Blessed Bride",
@@ -6061,19 +6089,19 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "Always Look at the Situation",
-          "s2": "Recover a small amount of HP and Chakra to Party. Own ATK +50% and Chakra Cost -50%. Grant Skill Immunity and 'Flash Mode'. [Flash Mode: SPD +50%, Cast Speed is set to Flash]",
+          "s2": "Recover a small amount of HP and Chakra to Party. Own ATK +150% and Chakra Cost -50%. Grant Skill Immunity and 'Flash Mode'. [Flash Mode: SPD +150%, Cast Speed is set to Flash]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 100,
 
           "a1n": "Fastest Blink",
-          "a1": "Revive +1, Guarantee Extra Turn",
+          "a1": "Revive +2, Guarantee Extra Turn",
 
           "a2n": "Rescuing the Alliance in a Flash",
-          "a2": "SPD +100% and Chakra Cost -50% upon Withstanding",
+          "a2": "SPD +300% and Chakra Cost -50% upon Withstanding",
 
-          "a3n": "None",
-          "a3": "None"
+          "a3n": "Red Type Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red"
       },
 {
           "id": 20070102,

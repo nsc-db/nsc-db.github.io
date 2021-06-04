@@ -486,6 +486,51 @@ for(var i in window.chara){
 				$('#lbrec').text(lbrec.toLocaleString());
 				$('#lbch').text(lbch.toLocaleString());
 			}
+			else{
+				lp.style.display = "block"
+				ls.style.display = "block"
+				$('#caltrop').text("[Caltrop Lv3]: Chance to Deal 2,000,000 Damage after an Enemy Action");
+				$('#kunai').text("[Kunai Lv3]: Chance to Deal 2,000,000 Damage after using a Skill");
+				$('#food').text("[Food Pills Lv3]: HP and Chakra Recovery +45% on Movement Selection");
+				$('#subs').text("[Substitution Lv3]: Chance for Withstand +1-+3");
+
+				lhp = 400000*3
+
+				lbhp = 200000*15
+				lbspd = 100*15
+				lbrec = 200000*15
+				lbch = 10*15
+
+				$('#l1hp').text(lhp.toLocaleString());
+				$('#l1atk').text(latk.toLocaleString());
+				$('#l1def').text(ldef.toLocaleString());
+				$('#l1spd').text(lspd.toLocaleString());
+
+				$('#l2hp').text(lhp.toLocaleString());
+				$('#l2atk').text(latk.toLocaleString());
+				$('#l2def').text(ldef.toLocaleString());
+				$('#l2spd').text(lspd.toLocaleString());
+
+				$('#l3hp').text(lhp.toLocaleString());
+				$('#l3atk').text(latk.toLocaleString());
+				$('#l3def').text(ldef.toLocaleString());
+				$('#l3spd').text(lspd.toLocaleString());
+
+				$('#l4hp').text(lhp.toLocaleString());
+				$('#l4atk').text(latk.toLocaleString());
+				$('#l4def').text(ldef.toLocaleString());
+				$('#l4spd').text(lspd.toLocaleString());
+
+				$('#l5hp').text(lhp.toLocaleString());
+				$('#l5atk').text(latk.toLocaleString());
+				$('#l5def').text(ldef.toLocaleString());
+				$('#l5spd').text(lspd.toLocaleString());
+
+				$('#lbhp').text(lbhp.toLocaleString());
+				$('#lbspd').text(lbspd.toLocaleString());
+				$('#lbrec').text(lbrec.toLocaleString());
+				$('#lbch').text(lbch.toLocaleString());
+			}
 		}
 		else{
 			lhp = 0
@@ -1171,7 +1216,7 @@ for(var i in window.chara){
 		    data: {
 		        labels: ['HP', 'Chakra', 'ATK', 'DEF', 'SPD', 'Skill Damage'],
 		        datasets: [{
-		        	label: 'Stats boi',
+		        	label: 'Total Stats',
 		            data: [maxhp/4,maxchakra*15000,maxatk*4,maxdef*4,maxspd*1000,maxsd*5000],
 		            backgroundColor: [
 		                'rgba(255, 99, 132, 0.2)',
@@ -1190,7 +1235,8 @@ for(var i in window.chara){
 		                'rgba(255, 159, 64, 1)'
 		            ],
 		            borderWidth: 1,
-		        }]
+		        }
+		        ]
 		    },
 		    options: {
 		      legend:{

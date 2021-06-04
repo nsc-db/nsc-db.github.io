@@ -28160,6 +28160,26 @@ window.ability=[
           "effectIds": "1840,1789,2697,"
         },
         {
+          "abilityId": "2870",
+          "abilityName": "忍神の瞳術",
+          "abilityDescription": "バトル開始時､スキル2で急襲攻撃(チャクラ大回復)｡HP0で3回HP全回復｡封印&amp;術封じ無効",
+          "abilityEffectDescription": "バトル開始時､スキル2で急襲攻撃(チャクラ大回復)｡HP0で3回HP全回復｡封印&amp;術封じ無効",
+          "effectIdx1": "3303",
+          "effectIdx2": "1789",
+          "effectIdx3": "874",
+          "effectIds": "3303,1789,874,69,4124,"
+        },
+        {
+          "abilityId": "2871",
+          "abilityName": "痛みからの成長",
+          "abilityDescription": "2回行動まで全スキル・敵の地形効果無効&amp;耐性無視ダメージ0。被攻撃時に確率で即アクション",
+          "abilityEffectDescription": "2回行動まで全スキル・敵の地形効果無効&amp;耐性無視ダメージ0。被攻撃時に確率で即アクション",
+          "effectIdx1": "2343",
+          "effectIdx2": "3426",
+          "effectIdx3": "2807",
+          "effectIds": "2343,3426,2807,3620,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -30458,6 +30478,16 @@ window.ability=[
           "effectIdx2": "228150",
           "effectIdx3": "4100",
           "effectIds": "229104,228150,4100,4101,4102,4103,"
+        },
+        {
+          "abilityId": "200026",
+          "abilityName": "知属性特化・疾駆",
+          "abilityDescription": "知属性に対し、スキル攻撃時弱点化＆被ダメージ50％カット。勇属性以外の味方1体につき自身の素早さ75%アップ",
+          "abilityEffectDescription": "知属性に対し、スキル攻撃時弱点化＆被ダメージ50％カット。勇属性以外の味方1体につき自身の素早さ75%アップ",
+          "effectIdx1": "229304",
+          "effectIdx2": "228350",
+          "effectIdx3": "3763",
+          "effectIds": "229304,228350,3763,3764,3765,3762,"
         },
         {
           "abilityId": "210001",

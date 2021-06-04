@@ -8452,6 +8452,14 @@ window.skillname=[
           "name": "私…結婚します"
         },
         {
+          "cardBattleSkillNameId": "3365",
+          "name": "封獄・地爆天星"
+        },
+        {
+          "cardBattleSkillNameId": "3366",
+          "name": "許される訳ではないだろう？"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },
