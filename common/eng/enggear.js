@@ -6399,4 +6399,24 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 },
+{
+          "id": 406045,
+          "type": "Skill",
+          "name": "God's Work to Seal The Tailed Beasts",
+          "effect": "Skill Damage +120%, Cast Speed +1, When using a Skill: Chance to Inflict 'Cancel' to all enemies",
+          "normal": "Skill Damage +60%, Cast Speed +1",
+          "charaIds": "11802",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406055,
+          "type": "Resistance",
+          "name": "Those Who Know The Pain",
+          "effect": "When Attacked: SPD +200% for 1 Turn, Status Effect and Skill (except for Sharingan, Rinnegan and Rinnesharingan) Immunity",
+          "normal": "When Attacked: SPD +200% for 1 Turn, Status Effect Immunity",
+          "charaIds": "11802",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 ]
