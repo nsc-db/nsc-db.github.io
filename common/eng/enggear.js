@@ -210,6 +210,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 2005,
+          "type": "Stats",
+          "name": "Ino-Shika-Cho Earrings (Cho)",
+          "effect": "HP, ATK and Secret Skill Damage +50%",
+          "normal": "HP and ATK +20%",
+          "charaIds": "502",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 2035,
           "type": "Skill",
           "name": "Summoning Scroll",
@@ -217,6 +227,16 @@ window.enggear=[
           "normal": "Summoning Skill Damage, ATK and HP +20%",
           "charaIds": "1702",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2135,
+          "type": "Stats",
+          "name": "Commemorative Pouch",
+          "effect": "HP and ATK +30%, Incoming Skill Damage Reduction",
+          "normal": "HP +20%",
+          "charaIds": "701,702,",
+          "cardIds": "20001697,",
           "charaGroupIds": "0"
 },
 {
@@ -307,6 +327,16 @@ window.enggear=[
           "normal": "Incoming Water, Fire, Lightning, Earth and Wind Skill Damage Reduction",
           "charaIds": "210",
           "cardIds": "20001723,20001724,20001725,20001726,20001807,20040507,20040701,20040711,20040712",
+          "charaGroupIds": "0"
+}, 
+{
+          "id": 2485,
+          "type": "Additional",
+          "name": "White Bouquet",
+          "effect": "Skill Damage +30%, Chakra Recovery +20%",
+          "normal": "Chakra Recovery +5%",
+          "charaIds": "701,702,703,",
+          "cardIds": "0",
           "charaGroupIds": "0"
 }, 
 {
@@ -449,6 +479,16 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 }, 
+{
+          "id": 2785,
+          "type": "Resistance",
+          "name": "Pink Jacket",
+          "effect": "Status Effect Immunity, HP and DEF +50%",
+          "normal": "HP >80%: Status Effect Duaration -50%",
+          "charaIds": "701,702,703,",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 2795,
           "type": "Stats",
@@ -710,6 +750,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 3365,
+          "type": "Skill",
+          "name": "Choji's Breastplate",
+          "effect": "Skill Damage and DEF +70%, Debuff Duration -50%",
+          "normal": "Secret Skill Damage +50%, SPD -20%",
+          "charaIds": "502",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3375,
           "type": "Chakra",
           "name": "Sage Chakra",
@@ -796,6 +846,16 @@ window.enggear=[
           "effect": "Taijutsu and Unique Skill Damage +80%, HP Recovery Skill Amount +50%",
           "normal": "Taijutsu and Unique Skill Damage +30%",
           "charaIds": "301,302,303,304,306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3715,
+          "type": "Skill",
+          "name": "Hinata's Bathing Set",
+          "effect": "Byakugan Skill Damage +80%, ATK and DEF +30%",
+          "normal": "Byakugan Skill Damage +30%",
+          "charaIds": "701,702,703,",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -890,6 +950,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 3995,
+          "type": "Skill",
+          "name": "Oshibana",
+          "effect": "3 Turns: ATK and Byakugan Skill Damage +40%, After 3 Turns: ATK and Byakugan Skill Damage +100%",
+          "normal": "ATK and Byakugan Skill Damage +20%",
+          "charaIds": "701,702,703,",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4005,
+          "type": "Chakra",
+          "name": "Hinata's Forehead Protector",
+          "effect": "Chakra Cost -25%, ATK and Skill Damage +40%",
+          "normal": "Chakra Cost -5%, ATK +20%",
+          "charaIds": "701,702,703,",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 4015,
           "type": "Additional",
           "name": "Six Paths Platform",
@@ -927,6 +1007,26 @@ window.enggear=[
           "normal": "Debuff Duration Reduction",
           "charaIds": "1702,1703,1704,1706,14001,50901,50902,50903",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4185,
+          "type": "Additional",
+          "name": "Eight Triagrams Area",
+          "effect": "Dodge Chance +100%, Crit Damage +1,000%, Byakugan Skill Damage +50%",
+          "normal": "Dodge Chance +30%, Crit Damage +100%",
+          "charaIds": "702,703,1001,1002,3901,",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4195,
+          "type": "Additional",
+          "name": "Hyuga's Family Crest",
+          "effect": "HP and ATK +50%, Chakra Recovery +20%",
+          "normal": "Chakra Recovery +10%",
+          "charaIds": "1001,1002,701,702,703,704,3901,",
+          "cardIds": "20001820,20001580,20001822,",
           "charaGroupIds": "0"
 },
 {
@@ -990,6 +1090,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 4425,
+          "type": "Additional",
+          "name": "Hinata's Apron",
+          "effect": "HP and ATK +100%, When Attacked: Low Chance to Fully Recover Chakra ",
+          "normal": "HP and ATK +40%",
+          "charaIds": "702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 4535,
           "type": "Resistance",
           "name": "Sasuke's Black Cloak",
@@ -1043,7 +1153,7 @@ window.enggear=[
           "id": 4585,
           "type": "Resistance",
           "name": "6th Hokage's Cloak",
-          "effect": "Debufff and Status Effect Duration -50%, Chakra Recovery +5%",
+          "effect": "Debuff and Status Effect Duration -50%, Chakra Recovery +5%",
           "normal": "Status Effect Duration Reduction",
           "charaIds": "1705",
           "cardIds": "0",
@@ -1120,6 +1230,46 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 4815,
+          "type": "Stats",
+          "name": "Hinata's Mission Uniform",
+          "effect": "ATK and SPD +80%, Chakra Recovery +10%",
+          "normal": "ATK and SPD +40%",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4825,
+          "type": "Additional",
+          "name": "Hinata's Pouch",
+          "effect": "Normal Attack Damage +100%, Skill Damage +40%",
+          "normal": "Normal Attack Damage +40%",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4835,
+          "type": "Stats",
+          "name": "Choji's Mission Uniform",
+          "effect": "HP Recovery +10%, HP and ATK +80%",
+          "normal": "HP and ATK +40%",
+          "charaIds": "503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4845,
+          "type": "Resistance",
+          "name": "Choji's Arm Rest",
+          "effect": "Debuff Immunity, 2 Turns: Skill Immunity",
+          "normal": "Incoming Secret Skill Damage Reduction",
+          "charaIds": "503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 4855,
           "type": "Stats",
           "name": "Shikamaru's Mission Uniform",
@@ -1136,6 +1286,26 @@ window.enggear=[
           "effect": "Skill Damage +80%, Skill Crit Chance +30%",
           "normal": "Secret Skill Damage +40%",
           "charaIds": "403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4915,
+          "type": "Stats",
+          "name": "Ino's Skirt",
+          "effect": "Type Disadvantage Chance -50%, HP and DEF +80%",
+          "normal": "HP and DEF +40%",
+          "charaIds": "603",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4925,
+          "type": "Resistance",
+          "name": "Ino's Boots",
+          "effect": "Secret Skill Immunity, HP and DEF +40%",
+          "normal": "Incoming Secret Skill Damage Reduction",
+          "charaIds": "603",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1490,7 +1660,7 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
-          "id": 6205,
+          "id": 6215,
           "type": "Skill",
           "name": "Entrusted Rasengan",
           "effect": "Tailed Beast Skill Damage +80%, Cast Speed +1",
@@ -1526,6 +1696,16 @@ window.enggear=[
           "effect": "Skill Damage +70%, ATK +30%",
           "normal": "Unique Skill Damage +40%",
           "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6325,
+          "type": "Skill",
+          "name": "Hinata's Purse",
+          "effect": "Skill Damage +70%, ATK +30%",
+          "normal": "Byakugan Skill Damage +40%",
+          "charaIds": "704",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1816,6 +1996,26 @@ window.enggear=[
           "effect": "Sharingan Skill Damage +100%, 3 Turns: Skill Immunity",
           "normal": "Skill Damage +20%, 2 Turns: Incoming Skill Damage -50%",
           "charaIds": "204",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7785,
+          "type": "Skill",
+          "name": "Bouquet of White Lilies",
+          "effect": "Skill Damage +130%",
+          "normal": "Byakugan Skill Damage +50%",
+          "charaIds": "704,4602,",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7795,
+          "type": "Chakra",
+          "name": "Gift From My Sister",
+          "effect": "Chakra Cost -30%, Cast Speed +1",
+          "normal": "Chakra Cost -10%",
+          "charaIds": "704",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -2180,6 +2380,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 106235,
+          "type": "Stats",
+          "name": "Hinata's Wedding Dress",
+          "effect": "HP and SPD +100%, Skill Damage +50%",
+          "normal": "HP +50%",
+          "charaIds": "701,702,703,704,",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 106245,
           "type": "Additional",
           "name": "Cherry Blossom Bouquet",
@@ -2490,12 +2700,52 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 112095,
+          "type": "Chakra",
+          "name": "Hinata's Bell",
+          "effect": "3 Turns: Set Chakra Cost to 0, SPD +50% every turn (Max 200%)",
+          "normal": "3 Turns: Chakra Cost -20%",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 112115,
+          "type": "Resistance",
+          "name": "Christmas Wreath",
+          "effect": "HP +12,025, High Chance for Skill Immunity, Debuff and Status Effect Immunity",
+          "normal": "HP +1,225, Debuff and Status Effect Duration Reduction",
+          "charaIds": "0",
+          "cardIds": "20041207,20041208,20031217,20031218,",
+          "charaGroupIds": "0"
+},
+{
+          "id": 112125,
+          "type": "Additional",
+          "name": "Snowman",
+          "effect": "HP +122.5%, Cast Speed +1",
+          "normal": "HP +25%, 2 Turns: Cast Speed +1",
+          "charaIds": "0",
+          "cardIds": "20041207,20041208,20031217,20031218,",
+          "charaGroupIds": "0"
+},
+{
           "id": 112135,
           "type": "Resistance",
           "name": "Sakura's Holster",
           "effect": "High Chance for Skill Immunity, SPD +90%, Cast Speed +1, 1 Turn: Set Chakra Cost to 0",
           "normal": "Chance for Skill Immunity, SPD +30%, 1 Turn: Chakra Cost -50%",
           "charaIds": "301,302,303,304,305,306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 112145,
+          "type": "Additional",
+          "name": "Love for Naruto",
+          "effect": "SPD +70%, Cast Speed +1, When Attacked: Chakra Recovery +50%",
+          "normal": "SPD +30%, When Attacked: Chakra Recovery +15%",
+          "charaIds": "702",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -2730,6 +2980,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 203235,
+          "type": "Skill",
+          "name": "Naruto's Chakra",
+          "effect": "ATK and Skill Damage +100%, 6 Turns: Chakra Cost -70%",
+          "normal": "ATK and Skill Damage +40%, 6 Turns: Chakra Cost -20%",
+          "charaIds": "702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 203245,
+          "type": "Resistance",
+          "name": "Your Back",
+          "effect": "Status Effect Immunity, SPD +120, 6 Turns: HP Recovery +50%",
+          "normal": "SPD +40, HP Recovery +10%",
+          "charaIds": "702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 203255,
           "type": "Resistance",
           "name": "Sakura's Resolution",
@@ -2741,7 +3011,7 @@ window.enggear=[
 },
 {
           "id": 203265,
-          "type": "Resistance",
+          "type": "Chakra",
           "name": "Chakra Control",
           "effect": "Chakra Cost -50%, Chakra +50, Chakra Recovery +50%",
           "normal": "Chakra Cost -20%, Chakra +30",
@@ -3230,6 +3500,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 211195,
+          "type": "Stats",
+          "name": "Hinata's Hot Spring Bathrobe",
+          "effect": "HP +120%, 5 Turns: SPD +80%, Cast Speed +1",
+          "normal": "HP +50%, 5 Turns: SPD +30%",
+          "charaIds": "702",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 211205,
           "type": "Chakra",
           "name": "Bath Tub",
@@ -3256,6 +3536,46 @@ window.enggear=[
           "effect": "Low Chance for Skill Immunity, Chance for Chakra Recovery +80%",
           "normal": "Low Chance for Incoming Skill Damage -50%",
           "charaIds": "201,202,204,206,207,208,210,213",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 212065,
+          "type": "Additional",
+          "name": "Present Bag",
+          "effect": "Skill Damage +80%, Low Chance to Dodge Skills, Normal Attack Dodge Chance +15%",
+          "normal": "Low Chance to Dodge Skills",
+          "charaIds": "704,4602,4301,51001,",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 212075,
+          "type": "Resistance",
+          "name": "Present Box",
+          "effect": "HP Recovery +15%, 3 Turns: Byakugan and Taijutsu Skill Immunity, HP >70%: Cast Speed +1 ",
+          "normal": "3 Turns: Byakugan and Taijutsu Skill Immunity",
+          "charaIds": "704,4602,4301,51001,",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 212135,
+          "type": "Resistance",
+          "name": "Hinata's Boots",
+          "effect": "Status Effect Immunity, 2 Turns: Skill Immunity from Female enemies",
+          "normal": "Status Effect Duration -50%",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 212145,
+          "type": "Skill",
+          "name": "Hinata's Jacket",
+          "effect": "Cast Speed +1, Start the Battle with 100% Chakra, 2 Turns: Unique Skill Damage +150%",
+          "normal": "1 Turn: Cast Speed +1",
+          "charaIds": "704",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -6414,7 +6734,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Those Who Know The Pain",
           "effect": "When Attacked: SPD +200% for 1 Turn, Status Effect and Skill (except for Sharingan, Rinnegan and Rinnesharingan) Immunity",
-          "normal": "When Attacked: SPD +200% for 1 Turn, Status Effect Immunity",
+          "normal": "When Attacked: SPD +50% for 1 Turn, Status Effect Immunity",
           "charaIds": "11802",
           "cardIds": "0",
           "charaGroupIds": "0"
