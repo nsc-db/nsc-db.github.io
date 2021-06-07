@@ -302,7 +302,7 @@ window.engpotential=[
         {
           "abilityId": "307005",
           "abilityName": "スキダメアップ系アビ",
-          "abilityDescription": "If there's a God enemy: Skill Damage +150%",
+          "abilityDescription": "If there's a GK enemy: Skill Damage +150%",
           "abilityEffectDescription": "敵に破神が生存しているとスキルダメージ150%アップ",
           "effectIdx1": "2823",
           "effectIdx2": "0",
@@ -382,7 +382,7 @@ window.engpotential=[
         {
           "abilityId": "310004",
           "abilityName": "その他",
-          "abilityDescription": "1 Turn: Fixed Damage Deals 0 Damage",
+          "abilityDescription": "1 Turn: Fixed Damage Immunity",
           "abilityEffectDescription": "1回行動するまで耐性無視ダメージ0",
           "effectIdx1": "1961",
           "effectIdx2": "0",
@@ -402,7 +402,7 @@ window.engpotential=[
         {
           "abilityId": "310006",
           "abilityName": "その他",
-          "abilityDescription": "HP > 80%: Skill Damage +80%",
+          "abilityDescription": "HP >80%: Skill Damage +80%",
           "abilityEffectDescription": "HP80%以上の時、全スキルダメージ80%アップ",
           "effectIdx1": "1392",
           "effectIdx2": "0",
@@ -672,7 +672,7 @@ window.engpotential=[
         {
           "abilityId": "310033",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "1 Turn: Fixed Damage Deals 0 Damage",
+          "abilityDescription": "1 Turn: Fixed Damage Immunity",
           "abilityEffectDescription": "1回行動まで耐性無視ダメージ0",
           "effectIdx1": "1961",
           "effectIdx2": "0",
@@ -722,7 +722,7 @@ window.engpotential=[
         {
           "abilityId": "310038",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "Recover +50% HP upon Withstand",
+          "abilityDescription": "Recover 50% HP upon Withstand",
           "abilityEffectDescription": "耐えた時に現在の最大HPの50％回復",
           "effectIdx1": "3096",
           "effectIdx2": "0",
@@ -972,7 +972,7 @@ window.engpotential=[
         {
           "abilityId": "310063",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "HP >=90%: Fixed Damage Deals 0 Damage",
+          "abilityDescription": "HP >=90%: Fixed Damage Immunity",
           "abilityEffectDescription": "HP90%以上の時耐性無視ダメージ0",
           "effectIdx1": "1998",
           "effectIdx2": "0",
@@ -982,7 +982,7 @@ window.engpotential=[
         {
           "abilityId": "310064",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "Withstand +1, Recover 50% HP upon Withstand",
+          "abilityDescription": "Withstand +1, Recover 50% HP upon Withstanding",
           "abilityEffectDescription": "HP0以下で1回耐え、耐えた時に現在の最大HPの50％回復",
           "effectIdx1": "312",
           "effectIdx2": "3096",
@@ -992,7 +992,7 @@ window.engpotential=[
         {
           "abilityId": "310065",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "Grant 'Sage Mode' State to self upon Withstand",
+          "abilityDescription": "Grant 'Sage Mode' State to self upon Withstanding",
           "abilityEffectDescription": "耐えた時、自身を長い間仙人モード状態にする",
           "effectIdx1": "3066",
           "effectIdx2": "0",
@@ -1032,7 +1032,7 @@ window.engpotential=[
         {
           "abilityId": "310069",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "Recover 30% HP upon Withstand",
+          "abilityDescription": "Recover 30% HP upon Withstanding",
           "abilityEffectDescription": "耐えた時に現在の最大HPの30%回復",
           "effectIdx1": "3098",
           "effectIdx2": "0",
@@ -1232,7 +1232,7 @@ window.engpotential=[
         {
           "abilityId": "310089",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "Chance for Instant Action when Damaged",
+          "abilityDescription": "When Attacked: Chance for Instant Action",
           "abilityEffectDescription": "被ダメージ時、確率でアクション状態になる",
           "effectIdx1": "3278",
           "effectIdx2": "0",
@@ -1312,7 +1312,7 @@ window.engpotential=[
         {
           "abilityId": "310097",
           "abilityName": "Bマス用_通常",
-          "abilityDescription": "Grant Instant Action upon Withstand",
+          "abilityDescription": "Grant Instant Action upon Withstanding",
           "abilityEffectDescription": "HP0以下で耐えた時、アクション状態になる",
           "effectIdx1": "3241",
           "effectIdx2": "0",
@@ -1752,7 +1752,7 @@ window.engpotential=[
         {
           "abilityId": "310142",
           "abilityName": "Bマス用_禁忌",
-          "abilityDescription": "2 Turns: Fixed Damage Deals 0 Damage",
+          "abilityDescription": "2 Turns: Fixed Damage Immunity",
           "abilityEffectDescription": "2回行動まで耐性無視ダメージ0",
           "effectIdx1": "1838",
           "effectIdx2": "0",
