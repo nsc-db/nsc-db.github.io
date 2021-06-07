@@ -1,28 +1,56 @@
 window.detail=[
      {
+          "id": 20070601,
+          "name": "Iruka Umino",
+          "subtext": "The Bond Between Teacher and Pupil that Ichiraku Connects",
+
+          "lead": "Konoha Characters: HP, ATK, DEF and SPD +20%",
+
+          "s1n": "Leaf Style: Kunai Guidance",
+          "s1": "Deal 7% + 15,000 to target enemy. Inflicts 'Slash' State. Grant SPD +50% for 1 Turn to other Konoha allies. [Slash: Cast Speed -1 and Skill Damage -20%]",
+		  "s1ntr": "Weapon",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "Let's Eat Together!",
+          "s2": "Party ATK and DEF +60%. Grant 'Bond' State to self and Naruto allies. [Bond: Skill Damage +100%, Cast Speed +1 and Chakra Cost reduced based on the number of allies alive (Max 100%)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Days With Students",
+          "a1": "HP >80%: Status Effect Duration -50% & Cast Speed +1",
+
+          "a2n": "Bond with Naruto",
+          "a2": "3 Turns: Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
           "id": 20070607,
           "name": "Pain",
           "subtext": "Wielding Divine's Will",
 
-          "lead": "1 Turn: Remove and Immune to Negative Special and God State to Akatsuki allies",
+          "lead": "Akatsuki Characters: 1 Turn: Remove and Immune to Negative Special and God State",
 
           "s1n": "Seal Prison: Planetary Devastation",
-          "s1": "Deal 3% + 1,200,000 to all enemies. Remove and Immune Non-Akatsuki's Positive Special and God State. Deal +5 Additional Attacks dealing 3% + 200,000 per Akatsuki allies (Max 15 Additional Attacks) (Always Hit)",
+          "s1": "Deal 3% + 1,200,000 to all enemies. Remove and Immune Positive Special and God State of Non-Akatsuki enemies. Deal 5 Additional Attacks dealing 3% + 200,000 per Akatsuki allies (Max 15 Additional Attacks) (Always Hit)",
           "s1ntr": "Rinnegan",
           "s1cs": "Fast",
           "s1c": 80,
 
           "s2n": "Because It's Been Forgiven",
-          "s2": "Recover 1,500,000 HP to Party. Remove 'Disable Positive Special and God State Effect' and grant 'Akatsuki's Will' God State to Akatsuki allies. [Akatsuki's Will: When removed, Ignore Resistance and Inflict 'Deficit' State to a random enemy. Grant Effects depending on the number of Akatsuki allies alive (1): Remove and Immune to Genjutsu, Status Effect Negative Special and God State. Insta Kill Immunity (2): SPD +300%. Damage Limit Set to 900,000 (3): High Chance to Deal 5 Additional Attack dealing 200,000 Fixed Damage when using an Attack Skill] ",
+          "s2": "Recover 1,500,000 HP to Party. Remove 'Disable Positive Special and God State Effect' and Grant 'Akatsuki's Will' God State to Akatsuki allies. [Akatsuki's Will: When removed, Ignore Resistance and Inflict 'Deficit' State to a random enemy. Grant Effects depending on the number of Akatsuki allies alive (1): Remove and Immune to Genjutsu, Status Effect Negative Special and God State. Insta Kill Immunity (2): SPD +300%. Damage Limit Set to 900,000 (3): High Chance to Deal 5 Additional Attack dealing 200,000 Fixed Damage when using an Attack Skill] ",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
 
           "a1n": "God Shinobi's Eye Jutsu",
-          "a1": "Insta Cast Skill 2. Revive +3. Immune to 'Seal' and 'Jutsu Seal'",
+          "a1": "Insta Cast Skill 2. Revive +3. 'Seal' and 'Jutsu Seal' Immunity",
 
           "a2n": "Growing Pain",
-          "a2": "2 Turns: Skill, Fixed and Enemy Terrain Immunity. Chance to grant Instant Action when Attacked",
+          "a2": "2 Turns: Skill, Fixed Damage and Enemy Terrain Immunity. When Attacked: Chance to Grant Instant Action",
 
           "a3n": "Black Specialization and Sprint",
           "a3": "Type Advantage and Damage Cut +50% against White. SPD +75% to self per Non-White allies"
