@@ -8460,6 +8460,30 @@ window.skillname=[
           "name": "許される訳ではないだろう？"
         },
         {
+          "cardBattleSkillNameId": "3367",
+          "name": "紙蝶の舞"
+        },
+        {
+          "cardBattleSkillNameId": "3368",
+          "name": "こんな無茶を……"
+        },
+        {
+          "cardBattleSkillNameId": "3369",
+          "name": "輪幻・霞流刃"
+        },
+        {
+          "cardBattleSkillNameId": "3370",
+          "name": "オレは…"
+        },
+        {
+          "cardBattleSkillNameId": "3371",
+          "name": "連携・万象鳳仙花爪紅"
+        },
+        {
+          "cardBattleSkillNameId": "3372",
+          "name": "地爆天星・炎撃"
+        },
+        {
           "cardBattleSkillNameId": "10136",
           "name": "新術だってばよ！"
         },

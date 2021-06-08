@@ -16828,6 +16828,48 @@ window.lead=[
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1218",
+          "name": "神命の操紙者",
+          "description": "“暁”所属の場合、1回行動まで被攻撃時に確率で即アクション",
+          "effectIdx1": "4125",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "4125,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1219",
+          "name": "守り導く覚悟",
+          "description": "信頼度100%アップ、ユーザー経験値75%アップ",
+          "effectIdx1": "4131",
+          "effectIdx2": "1753",
+          "effectIdx3": "0",
+          "effectIds": "4131,1753,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1220",
+          "name": "志を託す者たち",
+          "description": "“暁”所属の攻防速100％アップ＆チャクラ消費量半減",
+          "effectIdx1": "895",
+          "effectIdx2": "13099",
+          "effectIdx3": "12099",
+          "effectIds": "895,13099,12099,11099,",
+          "compType": "1",
+          "target1Category": "2",
+          "target1Param": "8",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

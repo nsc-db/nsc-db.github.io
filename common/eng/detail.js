@@ -1,5 +1,33 @@
 window.detail=[
      {
+          "id": 20070605,
+          "name": "Itachi and Nagato",
+          "subtext": "People Who Can Entrust Their Ambition",
+
+          "lead": "Akatsuki ATK, DEF and SPD +100%. Chakra Cost -50%",
+
+          "s1n": "Cooperation: Universal Red Flower",
+          "s1": "Deal 7% + 2,000,000 to a target enemy. High chance to Inflict 'Kotoamatsukami' State. Deal 7 Additional Attacks dealing 350,000 Fixed Damage to Five VIllage enemies. (Always Hit) [Kotoamatsukami: Treated as an Enemy. Attack Allies. Chance to Grant Insant Action when the Grantor takes an Action. Remove 'Kotoamatsukami' State when the Grantor dies. Insta Kill when 'Kotoamatsukami' is removed]",
+            "s1ntr": "Fire",
+          "s1cs": "Fast",
+          "s1c": 100,
+
+          "s2n": "Planetary Devastation",
+          "s2": "Deal 1,200,000 Fixed Damage to a target enemy. Remove Positive Special and God State. Deal 3 Additional Attacks dealing 3% + 880,000. (Always Hit)  ▼True Universal Devastation: [2nd](Enemies): High chance to Disable First Strike, Insta Cast and Instant Action. (Allies): Enemy Terrain Immunity & Remove Negative Special State and God State on Action. Chance to Grant an Extra Turn for Akatsuki allies [3](Enemy): HP and Chakra -40%. (Allies): SPD and Skill Damage +100% per turn (Max 400%) for Akatsuki allies▼",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Leaving Hope to the Young Ones",
+          "a1": "Grant 'True Universal Devastation' Shinobi Formation at the Start of Battle and Every Turn. Chance for Instant Action when Attacked",
+
+          "a2n": "Trusting Friend's Eye",
+          "a2": "Revive +3. High chance for SPD +1,000% for 1 turn when Attacked",
+
+          "a3n": "Red and Yellow Type Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Red and Yellow"
+      },
+     {
           "id": 20070601,
           "name": "Iruka Umino",
           "subtext": "The Bond Between Teacher and Pupil that Ichiraku Connects",
@@ -1154,7 +1182,7 @@ window.detail=[
 
           "lead": "Akatsuki Characters: Chakra Cost -50%, SPD +100%, HP Recovery +20%",
 
-          "s1n": "Deva Realm: Planetary Devestation",
+          "s1n": "Deva Realm: Planetary Devastation",
           "s1": "Deal 7% + 880,000 to a target enemy. Guarantee Inflict 'Skip'. Deal 2 Additional Attacks dealing 210,000 Fixed Damage. If it's an EX enemy: Deal 10 Additional Attacks dealing 120,000 Fixed Damage. (Always Hit)",
 		  "s1ntr": "Rinnegan",
           "s1cs": "Fast",

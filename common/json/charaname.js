@@ -4382,6 +4382,20 @@ window.charaname=[
           "gender": "1"
         },
         {
+          "charaProfileId": "60801",
+          "charaId": "608",
+          "name": "イタチ＆長門",
+          "detail": null,
+          "charaLoveAffinityGroupId": "60810",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
           "charaProfileId": "61301",
           "charaId": "613",
           "name": "ナルト＆ミナト",
@@ -7521,6 +7535,20 @@ window.charaname=[
           "charaProfileId": "134401",
           "charaId": "1344",
           "name": "専属推薦状★5(頂)",
+          "detail": null,
+          "charaLoveAffinityGroupId": "0",
+          "birthday": "0",
+          "constellation": "0",
+          "height": "0",
+          "weight": "0",
+          "bloodType": "0",
+          "age": "0",
+          "gender": "1"
+        },
+        {
+          "charaProfileId": "134402",
+          "charaId": "1344",
+          "name": "イタチの魂",
           "detail": null,
           "charaLoveAffinityGroupId": "0",
           "birthday": "0",
