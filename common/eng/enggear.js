@@ -6786,7 +6786,7 @@ window.enggear=[
           "effect": "Skill Damage +150%, High Chance for Cast Speed +2, 5 Turns: SPD +300%, High Chance to Fully Recover HP and Chakra on Action & to Dodge Skills",
           "normal": "Skill Damage +120%, High Chance for Cast Speed +2, 3 Turns: SPD +300%, Chance to Fully Recover HP and Chakra on Action & to Dodge Skills",
           "charaIds": "0",
-          "cardIds": "600000",
-          "charaGroupIds": "0"
+          "cardIds": "0",
+          "charaGroupIds": "600000"
 },
 ]
