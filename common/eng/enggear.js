@@ -6693,7 +6693,7 @@ window.enggear=[
           "id": 406015,
           "type": "Additional",
           "name": "Naruto's Fan",
-          "effect": "HP and Skill Damage +100%, If there's a Hinata ally: At the Start of Battle, Grant 'Protection' State to Party",
+          "effect": "HP and Skill Damage +100%, If there's a Hinata ally: At the Start of Battle, Grant 'Protection' State to self",
           "normal": "HP +50%, If there's a Hinata ally: At the Start of Battle, Chance to Grant 'Protection' State to self",
           "charaIds": "105",
           "cardIds": "0",
@@ -6703,7 +6703,7 @@ window.enggear=[
           "id": 406025,
           "type": "Additional",
           "name": "Hinata's Hair Ornament",
-          "effect": "SPD and Skill Damage +100%, If there's a Naruto ally: At the Start of Battle, Grant 'Protection' State to Party",
+          "effect": "SPD and Skill Damage +100%, If there's a Naruto ally: At the Start of Battle, Grant 'Protection' State to self",
           "normal": "SPD +50%, If there's a Naruto ally: At the Start of Battle, Chance to Grant 'Protection' State to self",
           "charaIds": "704",
           "cardIds": "0",
@@ -6737,6 +6737,56 @@ window.enggear=[
           "normal": "When Attacked: SPD +50% for 1 Turn, Status Effect Immunity",
           "charaIds": "11802",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406065,
+          "type": "Additional",
+          "name": "Konan's Maxim",
+          "effect": "Skill Damage +100%, HP and Chakra Recovery +50%, HP +100%",
+          "normal": "HP Recovery +20%",
+          "charaIds": "12501",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406075,
+          "type": "Stats",
+          "name": "Paper Hair Ornament",
+          "effect": "DEF and SPD +150%, 1 Turn: Set Chakra Cost to 0 & Skill Immunity",
+          "normal": "DEF and SPD +50%",
+          "charaIds": "12501",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406085,
+          "type": "Additional",
+          "name": "Will to Entrust to My Brother's Friend",
+          "effect": "Cast Speed +2, Recover 30% HP every turn and when attacked",
+          "normal": "Cast Speed +1",
+          "charaIds": "60801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406095,
+          "type": "Stats",
+          "name": "Will to Entrust to Disciples",
+          "effect": "HP, ATK, DEF and SPD +120%, Chakra Cost -50%, Debuff and Status Effect Immunity",
+          "normal": "HP, ATK, DEF and SPD +60%",
+          "charaIds": "60801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406165,
+          "type": "Chakra",
+          "name": "Blue & Sphere Stamp",
+          "effect": "Skill Damage +150%, High Chance for Cast Speed +2, 5 Turns: SPD +300%, High Chance to Fully Recover HP and Chakra on Action & to Dodge Skills",
+          "normal": "Skill Damage +120%, High Chance for Cast Speed +2, 3 Turns: SPD +300%, Chance to Fully Recover HP and Chakra on Action & to Dodge Skills",
+          "charaIds": "0",
+          "cardIds": "600000",
           "charaGroupIds": "0"
 },
 ]

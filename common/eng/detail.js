@@ -1,30 +1,86 @@
 window.detail=[
      {
+          "id": 20070606,
+          "name": "Itachi Uchiha",
+          "subtext": "Prepared to Protect and Guide",
+
+          "lead": "Trust +100%, User EXP +75%",
+
+          "s1n": "Sharingan Genjutsu: Haze Style Blade",
+          "s1": "Deal 7% + 700,000 to target enemy. Chance to Ignore Resistance and Inflict 'Skip'.  If it's a Uchiha enemy: Deal an Additional Attack dealing 7% + 200,000. Grant 'Love' State to Konoha allies for 1 Turn. [Love: ATK, SPD and Skill Damage +200%, Skill Immunity]",
+          "s1ntr": "Sharingan",
+          "s1cs": "Fastest",
+          "s1c": 70,
+
+          "s2n": "I am…",
+          "s2": "Party DEF +150%. Grant 'Shadow' State to self. Chance to Inflict 'Disable Positive Special and God State' to all enemies. [Shadow: Fixed Damage & Skill Immunity, Incoming Skill Damage -10,000%. Remove this State, Ignore Resistance and Inflict 'Restraint' State to all enemies when first Attacked] [Restraint: SPD -80% aand Cast Speed -1]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 70,
+
+          "a1n": "Decision to Carry Stigma",
+          "a1": "Withstand +3. If there's a Uchiha enemy: Chance for Extra Turn",
+
+          "a2n": "Feelings for My Younger Brother",
+          "a2": "1 Turn: 'Illusion' Immunity. If there's a Uchiha enemy: Chance to Insta-Cast Skill 2",
+
+          "a3n": "Blue Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against Blue"
+      },
+     {
+          "id": 20070604,
+          "name": "Konan",
+          "subtext": "God's Paper Manipulator",
+
+          "lead": "Akatsuki Characters: Chance for Instant Action When Attacked for 1 Turn",
+
+          "s1n": "Paper Butterfly Dance",
+          "s1": "Deal 3% + 300,000 to all enemies. High Chance to Inflict 'Illusion'. Ignore Resistance and Inflict 'Skip'. Deal more damage the more enemy/allies alive (Max 5x with 5 people). If it's a Konoha enemy: Ignore Resistance and Inflict 'Jutsu Seal' State. [Jutsu Seal: Skill Disabled] (Always Hit)",
+          "s1ntr": "Unique",
+          "s1cs": "Fastest",
+          "s1c": 60,
+
+          "s2n": "Such an Unreasonable...",
+          "s2": "Recover 1,500,000 HP and Grant 'Harden' State to Party. Reduce enemies' Chakra -80 and Inflict 'Cancel'. [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -444%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Unchangeable Paper Technique",
+          "a1": "If there's a Konoha enemy: At the Start of Battle, High Chance to Ignore Resistance and Inflict 'Jutsu Seal' State to all enemies",
+
+          "a2n": "Prayer for Those Who Know Pain",
+          "a2": "Withstand +5, If there's a Konoha enemy: Damage Cut +90%",
+
+          "a3n": "White Specialization",
+          "a3": "Type Advantage and Damage Cut +50% against White"
+      },
+     {
           "id": 20070605,
           "name": "Itachi and Nagato",
           "subtext": "People Who Can Entrust Their Ambition",
 
-          "lead": "Akatsuki ATK, DEF and SPD +100%. Chakra Cost -50%",
+          "lead": "Akatsuki Characters: ATK, DEF and SPD +100%. Chakra Cost -50%",
 
           "s1n": "Cooperation: Universal Red Flower",
-          "s1": "Deal 7% + 2,000,000 to a target enemy. High chance to Inflict 'Kotoamatsukami' State. Deal 7 Additional Attacks dealing 350,000 Fixed Damage to Five VIllage enemies. (Always Hit) [Kotoamatsukami: Treated as an Enemy. Attack Allies. Chance to Grant Insant Action when the Grantor takes an Action. Remove 'Kotoamatsukami' State when the Grantor dies. Insta Kill when 'Kotoamatsukami' is removed]",
+          "s1": "Deal 7% + 2,000,000 to target enemy. High Chance to Inflict 'Kotoamatsukami' State. Deal 7 Additional Attacks dealing 350,000 Fixed Damage to Five VIllage enemies. [Kotoamatsukami: Treated as an Enemy. Attack Allies. Chance to Grant Insant Action when the Grantor takes an Action. Remove 'Kotoamatsukami' State when the Grantor dies. Insta Kill when 'Kotoamatsukami' is removed] (Always Hit)",
             "s1ntr": "Fire",
           "s1cs": "Fast",
           "s1c": 100,
 
           "s2n": "Planetary Devastation",
-          "s2": "Deal 1,200,000 Fixed Damage to a target enemy. Remove Positive Special and God State. Deal 3 Additional Attacks dealing 3% + 880,000. (Always Hit)  ▼True Universal Devastation: [2nd](Enemies): High chance to Disable First Strike, Insta Cast and Instant Action. (Allies): Enemy Terrain Immunity & Remove Negative Special State and God State on Action. Chance to Grant an Extra Turn for Akatsuki allies [3](Enemy): HP and Chakra -40%. (Allies): SPD and Skill Damage +100% per turn (Max 400%) for Akatsuki allies▼",
+          "s2": "Deal 1,200,000 Fixed Damage to target enemy. Remove Positive Special and God State. Deal 3 Additional Attacks dealing 3% + 880,000. (Always Hit)  ▼True Universal Devastation: [2nd](Enemies): High Chance to Disable First Strike, Insta Cast and Instant Action. (Allies): Enemy Terrain Immunity & Remove Negative Special State and God State on Action. Chance to Grant an Extra Turn for Akatsuki allies [3rd](Enemies): HP and Chakra -40%. (Allies): SPD and Skill Damage +100% per turn (Max 400%) for Akatsuki allies▼",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 80,
 
           "a1n": "Leaving Hope to the Young Ones",
-          "a1": "Grant 'True Universal Devastation' Shinobi Formation at the Start of Battle and Every Turn. Chance for Instant Action when Attacked",
+          "a1": "Grant 'True Universal Devastation' Shinobi Formation at the Start of Battle and Every Turn. When Attacked: Chance for Instant Action",
 
           "a2n": "Trusting Friend's Eye",
-          "a2": "Revive +3. High chance for SPD +1,000% for 1 turn when Attacked",
+          "a2": "Revive +3. When Attacked: High Chance for SPD +1,000% for 1 Turn",
 
-          "a3n": "Red and Yellow Type Specialization",
+          "a3n": "Red and Yellow Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Red and Yellow"
       },
      {
@@ -2813,7 +2869,7 @@ window.detail=[
           "s1c": 75,
 
           "s2n": "Your Heart is Mine",
-          "s2": "Party ATK, DEF and SPD +80% and Recover 400,000 HP. Grant 'Harden' State to other Akatsuki allies. Grant 'Territorial Grudge' State. [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -444% when Target by a Skill] [Territorial Grudge: Skill (Except Fire, Water, Wind, Lightning and Earth) Immunity. Revive +4. Replentish Revive when attacking (Max 4)]",
+          "s2": "Party ATK, DEF and SPD +80% and Recover 400,000 HP. Grant 'Harden' State to other Akatsuki allies. Grant 'Territorial Grudge' State. [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -444%] [Territorial Grudge: Skill (Except Fire, Water, Wind, Lightning and Earth) Immunity. Revive +4. Replentish Revive when attacking (Max 4)]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 65,
@@ -3311,7 +3367,7 @@ window.detail=[
           "lead": "All Characters: SPD +35% per Akatsuki ally (Max 175%)",
 
           "s1n": "Detonation Clay: Explosive Bug Flower",
-          "s1": "Deal 7% + 550,000 to target enemy. Grant 'Additional Bomb' State to self. If under 'Additional Bomb' State: Deal 2 Additional Attacks dealing 7% +55,000. Deal upto 3 Additional Attacks dealling 7% +55,000 based on how many Counters on 'Additional Bomb'. [Additional Bomb: ATK +500% and Skill Damage +100%, Increase Counter when Granted this State]",
+          "s1": "Deal 7% + 550,000 to target enemy. Grant 'Additional Bomb' State to self. If under 'Additional Bomb' State: Deal 2 Additional Attacks dealing 7% +55,000. Deal upto 3 Additional Attacks dealing 7% +55,000 based on how many Counters on 'Additional Bomb'. [Additional Bomb: ATK +500% and Skill Damage +100%, Increase Counter when Granted this State]",
           "s1ntr": "Secret",
           "s1cs": "Fast",
           "s1c": 65,
@@ -3345,7 +3401,7 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "As the Sunagakure's Kazekage",
-          "s2": "Deal 7% + 800,000 to target enemy. Grant 'Sand Shield' State to self. If there's a GK enemy: Grant 'Harden' State to Party. [Sand Shield: Skill (including Fixed Damage Except for Taijutsu, Tailed Beast and Lightning) Immunity. Deal 7% + 300,000 Counterattack Damage to all enemies] [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -200% when Targeted by a Skill]",
+          "s2": "Deal 7% + 800,000 to target enemy. Grant 'Sand Shield' State to self. If there's a GK enemy: Grant 'Harden' State to Party. [Sand Shield: Skill (including Fixed Damage Except for Taijutsu, Tailed Beast and Lightning) Immunity. Deal 7% + 300,000 Counterattack Damage to all enemies] [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -200%]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 100,
@@ -4866,7 +4922,7 @@ window.detail=[
           "a1": "Withstand +3, Chance to Inflict 'Block' State to all enemies upon Withstanding, [Block: Skills are Disabled]",
 
           "a2n": "Love for Siblings",
-          "a2": "If there's a Destroyer enemy: Ignore Resistance and Infilct 'Cast Speed -2' to all enemies",
+          "a2": "If there's a Destroyer enemy: Ignore Resistance and Inflict 'Cast Speed -2' to all enemies",
 
           "a3n": "Black Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Black"
@@ -5025,7 +5081,7 @@ window.detail=[
           "s1c": 90,
 
           "s2n": "I'm Being Used...!",
-          "s2": "Party SPD and DEF +100%. Grant 'Protection' and 'Harden' States to self. Grant 'Love' State to other Konoha allies. [Protection: Remove and Immune to Debuff, Status Effects and Negative Special State] [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -150% when Target by a Skill] [Love: ATK, SPD and Skill Damage +150%, Skill Immunity]",
+          "s2": "Party SPD and DEF +100%. Grant 'Protection' and 'Harden' States to self. Grant 'Love' State to other Konoha allies. [Protection: Remove and Immune to Debuff, Status Effects and Negative Special State] [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -150%] [Love: ATK, SPD and Skill Damage +150%, Skill Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 65,
