@@ -265,7 +265,7 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "Finally... You Returned!",
-          "s2": "Recover 2,000,000 HP, SPD and DEF +200% to Party. Remove Negative Special and God State to Party. Grant 'Convalescence' State to Konoha allies. Grant 'Feelings for Sasuke' Unique State to self. [Convalescence: Incoming Skill Damage -150%. Recover 30% HP when Attacked] [Feelings for sasuke: Remove and Immune to Debuff, Status Effect, Genjutsu, Negative Special and God State. High chance for Insta Kill Immunity]",
+          "s2": "Recover 2,000,000 HP, SPD and DEF +200% to Party. Remove Negative Special and God State to Party. Grant 'Convalescence' State to Konoha allies. Grant 'Feelings for Sasuke' Unique State to self. [Convalescence: Incoming Skill Damage -150%. When Attacked: HP Recovery +30%] [Feelings for Sasuke: Remove and Immune to Debuff, Status Effect, Genjutsu, Negative Special and God State. High chance for Insta Kill Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
@@ -293,7 +293,7 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "I Returned Thanks to You",
-          "s2": "Own ATK and Skill Damage +200%. Own SPD +1,000% for 1 turn. Grant 'Feelings for Sakura' Unique State to self. [Feelings for Sakura: Chance to Grant Instant Action when Attacked. Ignore Resistance and Guarantee Inflict 'Illusion' to the Attacking enemy. Chance for Extra Turn. Chance for Enemy Terrain Immunity]",
+          "s2": "Own ATK and Skill Damage +200%. Own SPD +1,000% for 1 Turn. Grant 'Feelings for Sakura' Unique State to self. [Feelings for Sakura: Chance to Grant Instant Action when Attacked. Ignore Resistance and Guarantee Inflict 'Illusion' to the Attacking enemy. Chance for Extra Turn. Chance for Enemy Terrain Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
