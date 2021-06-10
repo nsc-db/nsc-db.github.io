@@ -7,13 +7,13 @@ window.detail=[
           "lead": "Akatsuki ATK, DEF and SPD +100%. Chakra Cost -50%",
 
           "s1n": "Cooperation: Universal Red Flower",
-          "s1": "Deal 7% + 2,000,000 to a target enemy. High chance to Inflict 'Kotoamatsukami' State. Deal 7 Additional Attacks dealing 350,000 Fixed Damage to Five VIllage enemies. (Always Hit) [Kotoamatsukami: Treated as an Enemy. Attack Allies. Chance to Grant Insant Action when the Grantor takes an Action. Remove 'Kotoamatsukami' State when the Grantor dies. Insta Kill when 'Kotoamatsukami' is removed]",
+          "s1": "Deal 7% + 2,000,000 to a target enemy. High chance to Ignore Resistance and Inflict 'Kotoamatsukami' State. Deal 7 Additional Attacks dealing 350,000 Fixed Damage to Five VIllage enemies. (Always Hit) [Kotoamatsukami: Treated as an Enemy. Attack Allies. Chance to Grant Insant Action when the Grantor takes an Action. Remove 'Kotoamatsukami' State when the Grantor dies. Insta Kill when 'Kotoamatsukami' is removed]",
             "s1ntr": "Fire",
           "s1cs": "Fast",
           "s1c": 100,
 
           "s2n": "Planetary Devastation",
-          "s2": "Deal 1,200,000 Fixed Damage to a target enemy. Remove Positive Special and God State. Deal 3 Additional Attacks dealing 3% + 880,000. (Always Hit)  ▼True Universal Devastation: [2nd](Enemies): High chance to Disable First Strike, Insta Cast and Instant Action. (Allies): Enemy Terrain Immunity & Remove Negative Special State and God State on Action. Chance to Grant an Extra Turn for Akatsuki allies [3](Enemy): HP and Chakra -40%. (Allies): SPD and Skill Damage +100% per turn (Max 400%) for Akatsuki allies▼",
+          "s2": "Deal 1,200,000 Fixed Damage to all enemies. Remove Positive Special and God State. Deal 3 Additional Attacks dealing 3% + 880,000. (Always Hit)  ▼True Universal Devastation: [2nd](Enemies): High chance to Disable First Strike, Insta Cast and Instant Action. (Allies): Enemy Terrain Immunity & Remove Negative Special State and God State on Action. Chance to Grant an Extra Turn for Akatsuki allies [3](Enemy): HP and Chakra -40%. (Allies): SPD and Skill Damage +100% per turn (Max 400%) for Akatsuki allies▼",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 80,
