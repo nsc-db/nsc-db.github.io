@@ -18,7 +18,7 @@ window.engkizuna=[
         {
           "cardBattleSkillId": "710002",
           "name": "Sage Art: Giant Rasengan: Nine Resonance",
-          "description": "＜Kizuna Skill＞ Deal 3% + 2,750,000 Penetration Damage to All enemies High chance to Ignore Withstand, Revive and Immortality on Non-Konoha enemies Grant 'Nine Tails (Union)' Beast State [Nine Tails (Union): Remove and Immune to Negative Special and God State High chance to Grant Immortality when Attacked High chance to Deal 9 Additional Attacks dealing 999,999]",
+          "description": "＜Kizuna Skill＞ Deal 3% + 2,750,000 Penetration Damage to All enemies High chance to Ignore Withstand, Revive and Immortality on Non-Konoha enemies Grant 'Nine Tails (Union)' Beast State [Nine Tails (Union): Remove and Immune to Negative Special and God State. High Chance to Grant Immortality when Attacked. High Chance to Deal 9 Additional Attacks dealing 999,999]",
           "nature": "Unique",
           "cs": "Fastest",
           "cost": 100
