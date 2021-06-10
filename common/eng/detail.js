@@ -1,4 +1,60 @@
 window.detail=[
+    {
+        "id": 20070606,
+        "name": "Itachi Uchiha",
+        "subtext": "Prepared to Protect and Guide",
+
+        "lead": "Trust +100%, User EXP +75%",
+
+        "s1n": "Sharingan Genjutsu: Haze Style Blade",
+        "s1": "Deal 7% + 700,000 to target enemy. Chance to Ignore Resistance and Inflict 'Skip'.  If it's a Uchiha enemy: Deal an Additional Attack dealing 7% + 200,000. Grant 'Love' State to Konoha allies for 1 Turn. [Love: ATK, SPD and Skill Damage +200%, Skill Immunity]",
+        "s1ntr": "Sharingan",
+        "s1cs": "Fastest",
+        "s1c": 70,
+
+        "s2n": "I am…",
+        "s2": "Party DEF +150%. Grant 'Shadow' State to self. Chance to Inflict 'Disable Positive Special and God State' to all enemies. [Shadow: Fixed Damage & Skill Immunity, Incoming Skill Damage -10,000%. Remove this State, Ignore Resistance and Inflict 'Restraint' State to all enemies when first Attacked] [Restraint: SPD -80% aand Cast Speed -1]",
+        "s2ntr": "Unique",
+        "s2cs": "Fast",
+        "s2c": 70,
+
+        "a1n": "Decision to Carry Stigma",
+        "a1": "Withstand +3. If there's a Uchiha enemy: Chance for Extra Turn",
+
+        "a2n": "Feelings for My Younger Brother",
+        "a2": "1 Turn: 'Illusion' Immunity. If there's a Uchiha enemy: Chance to Insta-Cast Skill 2",
+
+        "a3n": "Blue Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Blue"
+    },
+   {
+        "id": 20070604,
+        "name": "Konan",
+        "subtext": "God's Paper Manipulator",
+
+        "lead": "Akatsuki Characters: Chance for Instant Action When Attacked for 1 Turn",
+
+        "s1n": "Paper Butterfly Dance",
+        "s1": "Deal 3% + 300,000 to all enemies. High Chance to Inflict 'Illusion'. Ignore Resistance and Inflict 'Skip'. Deal more damage the more enemy/allies alive (Max 5x with 5 people). If it's a Konoha enemy: Ignore Resistance and Inflict 'Jutsu Seal' State. [Jutsu Seal: Skill Disabled] (Always Hit)",
+        "s1ntr": "Unique",
+        "s1cs": "Fastest",
+        "s1c": 60,
+
+        "s2n": "Such an Unreasonable...",
+        "s2": "Recover 1,500,000 HP and Grant 'Harden' State to Party. Reduce enemies' Chakra -80 and Inflict 'Cancel'. [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -444%]",
+        "s2ntr": "Unique",
+        "s2cs": "Fast",
+        "s2c": 80,
+
+        "a1n": "Unchangeable Paper Technique",
+        "a1": "If there's a Konoha enemy: At the Start of Battle, High Chance to Ignore Resistance and Inflict 'Jutsu Seal' State to all enemies",
+
+        "a2n": "Prayer for Those Who Know Pain",
+        "a2": "Withstand +5, If there's a Konoha enemy: Damage Cut +90%",
+
+        "a3n": "White Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against White"
+    },
      {
           "id": 20070605,
           "name": "Itachi and Nagato",
@@ -4675,6 +4731,34 @@ window.detail=[
           "a3n": "Red Specialization and Protection",
           "a3": "Type Advantage and  Grant Non-Blue allies 'Damage Cut +50%' against Red"
       },
+      {
+        "id": 20060801,
+        "name": "Rasa",
+        "subtext": "Dignity to Wear Karma",
+
+        "lead": "Yellow Characters: DEF and Skill Damage +50%",
+
+        "s1n": "Magnet Style: Gold Sand Burial",
+        "s1": "Deal 7% + 30,000 to target enemy. Chance to Inflict 'Bind' State. If the enemy is under 'Bind' State:  Deal 3x more damage. [Bind: Skill Damage and SPD -50%]",
+        "s1ntr": "Magnet",
+        "s1cs": "Fast",
+        "s1c": 70,
+
+        "s2n": "…Now Go Beyond Me",
+        "s2": "Enemies' DEF -50% If it's a Suna enemy: High Chance to Inflict Skill Damage -90%",
+        "s2ntr": "Unique",
+        "s2cs": "Fast",
+        "s2c": 70,
+
+        "a1n": "Talent of Acquisition of Magnetism",
+        "a1": "Chakra +50, Withstand +1",
+
+        "a2n": "Belief in Keeping the Village",
+        "a2": "Debuff and Status Effect Duration -50%",
+
+        "a3n": "None",
+        "a3": "None"
+    },
 {
           "id": 20060802,
           "name": "Deidara",
