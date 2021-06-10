@@ -1497,7 +1497,7 @@ window.detail=[
           "s1c": 70,
 
           "s2n": "Do Your Best!",
-          "s2": "Recover Medium amount HP and Remove 'Genjutsu' and Status Effect to Party. Grant 'Rally' State to Five Village allies. [Rally: ATK, DEF and SPD +20%, HP and Chakra Recovery +5%]",
+          "s2": "Recover Medium amount HP and Remove 'Illusion' and Status Effects from Party. Grant 'Rally' State to Five Village allies. [Rally: ATK, DEF and SPD +20%, HP and Chakra Recovery +5%]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 70,
@@ -1519,7 +1519,7 @@ window.detail=[
           "lead": "None and Black Characters: SPD and Skill Damage +80%, Cancel Immunity",
 
           "s1n": "Fire Style: Flame Fan Dance",
-          "s1": "Deal 1,000,000 Fixed Damage to target enemy. Deal 2 Additional Attacks dealing 7% + 200,000. Grant 'Flame Dance' State and SPD +200% for 1 Turn. [Flame Dance: Skill (except for Sharingan) Immunity. Increase Counter when using 'Fire Style: Flame Fan Dance'. ATK and Skill Damage +50%, deal 2 Additional Attacks dealing 7% +200,000 per Counter (Max 10)] (Always Hit)",
+          "s1": "Deal 1,000,000 Fixed Damage to target enemy. Deal 2 Additional Attacks dealing 7% + 200,000. Grant 'Flame Dance' State and SPD +200% for 1 Turn. [Flame Dance: Skill (except for Sharingan) Immunity. Increase Counter when using 'Fire Style: Flame Fan Dance'. ATK and Skill Damage +50%, Deal 2 Additional Attacks dealing 7% +200,000 per Counter (Max 10)] (Always Hit)",
 		  "s1ntr": "Fire",
           "s1cs": "Fastest",
           "s1c": 120,
@@ -1553,13 +1553,13 @@ window.detail=[
           "s1c": 90,
 
           "s2n": "Let Me Show You the Essance of My Jutsu",
-          "s2": "Party SPD +100% and Cast Speed +1. Chance to Inflict 'Water Impact' God State to all enemies (If it's a None enemy: Ignore Resistance, Skill Dodge and High Chance) [Water Impact: High Chance to disable Action. Cast Speed -1, SPD -100% and HP -10% per turn (Max 5 turns)]",
+          "s2": "Party SPD +100% and Cast Speed +1. Chance to Inflict 'Water Impact' God State to all enemies (If it's a None enemy: Ignore Resistance, Skill Dodge and High Chance) [Water Impact: High Chance to Disable Action. Cast Speed -1, SPD -100% and HP -10% every turn (Max 5 turns)]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 100,
 
           "a1n": "Intellectual Ninja",
-          "a1": "If there's a None enemy: Negative Special State Immunity, Damage Cut +50% agaisnt EX, Origin and Destroyer, Withstand +3",
+          "a1": "If there's a None enemy: Negative Special State Immunity, Damage Cut +50% against EX, Origin and Destroyer, Withstand +3",
 
           "a2n": "Deceptive Speed",
           "a2": "HP <99%: Skill Damage +100%, HP <50%: Cast Speed +2, HP <30%: SPD +500%",
@@ -1581,7 +1581,7 @@ window.detail=[
           "s1c": 90,
 
           "s2n": "Becoming the Flower of Hope",
-          "s2": "Party DEF and SPD +80%. Grant 'Full Bulwark' State to self. If there's a Destroyer enemy: Grant 'Revive' State to Party. [Full Bulwark: Party is Immune to AoE Skills] [Revive: Reducing Incoming Skill Damage, Revive +1. Remove State after Revive]",
+          "s2": "Party DEF and SPD +80%. Grant 'Full Bulwark' State to self. If there's a Destroyer enemy: Grant 'Resurrection' State to Party. [Full Bulwark: Grant AoE Damage Immunity to Party] [Resurrection: Incoming Skill Damage Reduced. Revive +1. After Revive, Remove this State]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 60,
@@ -1609,7 +1609,7 @@ window.detail=[
           "s1c": 70,
 
           "s2n": "Playing the Melody of Death!",
-          "s2": "Own Skill Damage +100%. Grant 'Rally' State to Female allies. Chance to Inflict 'Abuse' State and/or Skill Damage -100% to all enemies. [Rally: ATK, DEF and SPD +150%, HP and Chakra Recovery +25%] [Abuse: Action is Disabled]",
+          "s2": "Own Skill Damage +100%. Grant 'Rally' State to Female allies. Chance to Inflict 'Abuse' State and/or Skill Damage -100% to all enemies. [Rally: ATK, DEF and SPD +150%, HP and Chakra Recovery +25%] [Abuse: Action Disabled]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 65,
@@ -1631,13 +1631,13 @@ window.detail=[
           "lead": "All Characters: Skill Damage +80%, HP and Chakra Recovery +20%",
 
           "s1n": "Summoning: Edo Tensei",
-          "s1": "Deal 7% + 450,000 to target enemy. High Chance to Inflict 'Skip'. If it's a Five Village enemy: Deal 2 Additional Attacks dealing 7% + 450,000. If it's an EX enemy: Chance to Inflict 'Sealed' State. [Sealed: Action is Disabled. Reduce HP per turn] (Always Hit)",
+          "s1": "Deal 7% + 450,000 to target enemy. High Chance to Inflict 'Skip'. If it's a Five Village enemy: Deal 2 Additional Attacks dealing 7% + 450,000. If it's an EX enemy: Chance to Inflict 'Sealed' State. [Sealed: Action Disabled. Reduce HP every turn] (Always Hit)",
 		  "s1ntr": "Summoning",
           "s1cs": "Fastest",
           "s1c": 80,
 
           "s2n": "I Just Want to be Me",
-          "s2": "Party DEF +100%. Grant 'Snake's Power' State to self. Revive a Random ally. [Snake's Power: Fully Recover HP when attacked (Even when HP reach 0). Set Chakra to 0 when this State is removed]",
+          "s2": "Party DEF +100%. Grant 'Snake's Power' State to self. Revive a Random ally. [Snake's Power: When Attacked: HP Recovery +100%. When State is Removed: Set Chakra to 0]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 100,
@@ -1687,13 +1687,13 @@ window.detail=[
           "lead": "Five Village Characters: Chance of Damage Cut +25%",
 
           "s1n": "Summoning: Reign of Slugs",
-          "s1": "Deal 1,200,000 Fixed Damage to all enemies. If it's a None enemy: Guarantee Inflict 'Skip'. Grant 'Katsuyu's Great Fission' State to the ally with the lowest HP. [Katsuyu's Great Fission: 1.) Damage Cut +2,000,000. 2.) When attacked by a Skill, Grant 'Katsuyu's Great Fission' State to a random ally. 3.) Recover 50% HP to Party when released]",
+          "s1": "Deal 1,200,000 Fixed Damage to all enemies. If it's a None enemy: Guarantee Inflict 'Skip'. Grant 'Slug Division' State to the ally with the lowest HP. [Slug Division: Damage Cut +2,000,000. When attacked by a Skill: Grant 'Slug Division' State to a random ally. Recover 50% HP to all allies when released]",
 		  "s1ntr": "Summoning",
           "s1cs": "Fast",
           "s1c": 100,
 
           "s2n": "I'll be the Diversion... Next",
-          "s2": "Party ATK, DEF and SPD +150% and Remove Negative Special State. Grant 'Byakugo' God State to self. [Byakugo: 1.) Basic Attack Always Hit and Crit. 2.) Damage Increase. 3.) Remove and Immune to Negative Special State. 4.) Remove Terrains when using a Basic Attack. 5.) Remove enemy Positive Special State and Positive God State when using a Basic Attack]",
+          "s2": "Party ATK, DEF and SPD +150% and Remove Negative Special State. Grant 'Byakugo' God State to self. [Byakugo: Basic Attack Always Hit and Crit. Damage Increase. Remove and Immune to Negative Special State. When using a Basic Attack: Remove Enemy Terrain, Positive Special State and God State]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 100,
@@ -2085,7 +2085,7 @@ window.detail=[
           "s1c": 80,
 
           "s2n": "We Are Always With You",
-          "s2": "Party SPD +70%. Grant 'Cooperation' State to other Five Village allies. [Cooperation: After an action, Chance to grant Instant Action to Inoichi allies]",
+          "s2": "Party SPD +70%. Grant 'Cooperation' State to other Five Village allies. [Cooperation: After an action, Chance to Grant 'Instant Action' to Inoichi allies]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 80,
@@ -2113,16 +2113,16 @@ window.detail=[
           "s1c": 70,
 
           "s2n": "Since Close Combat is Useless...!",
-          "s2": "Own ATK +1,010%. Grant 'Penetrate', 'Fist', and 'Resist' States. Remove Genjutsu, Status Effects, and 'Disable Positive Special State' from Party. [Penetrate: Ignore 50% DEF] [Fist: Basic Attacks Always Crit, Damage Up, Recover 20% of HP when attacked] [Resist: Immune and Remove Status Effects, Debuff and Genjutsu]",
+          "s2": "Own ATK +1,010%. Grant 'Penetrate', 'Fist', and 'Resist' States. Remove Genjutsu, Status Effects, and 'Disable Positive Special State' from Party. [Penetrate: Ignore 50% DEF] [Fist: Basic Attacks Always Crit, Damage Up, When Attacked: HP Recovery +20%] [Resist: Immune and Remove Status Effects, Debuff and Genjutsu]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 60,
 
           "a1n": "Polished Ninja Weapon Handling",
-          "a1": "Withstand +2, If there's an Akatsuki enemy: At the Start of Battle, Fixed Damage deals 0 Damage, Enemies' DEF -101% and Grant 'Penetrate' State to self. [Penetrate: Ignore 50% DEF] ",
+          "a1": "Withstand +2, If there's an Akatsuki enemy: At the Start of Battle, Ignore Resistance and Inflict DEF -101% to all enemies & Grant 'Penetrate' State to self.",
 
           "a2n": "Distant Attacks",
-          "a2": "If there is a Destroyer enemy: SPD +200% & Chance for Extra Turn, Grant 'Resist' State to self every turn. [Resist: Immune and Remove Status Effects, Debuff and Genjutsu]",
+          "a2": "If there is a Destroyer enemy: SPD +200% & Chance for Extra Turn, Grant 'Resist' State to self every turn.",
 
           "a3n": "Blue Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Blue."
@@ -2141,16 +2141,16 @@ window.detail=[
           "s1c": 70,
 
           "s2n": "Special Cake!",
-          "s2": "Recover 314,000 HP to Party. Grant 'Present' State to other allies. If there's an Iruka ally: Grant 'Cooperation' State to self. [Present: ATK, DEF, SPD and Skill Damage +140%. HP and Chakra Recovery +14%] [Cooperation: After an action, Chance to grant Instant Action to Iruka allies]",
+          "s2": "Recover 314,000 HP to Party. Grant 'Present' State to other allies. If there's an Iruka ally: Grant 'Cooperation' State to self. [Present: ATK, DEF, SPD and Skill Damage +140%. HP and Chakra Recovery +14%] [Cooperation: After an action, Chance to Grant 'Instant Action' to Iruka allies]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 60,
 
           "a1n": "Unpredictable Decoration",
-          "a1": "Withstand +2, If there's an Iruka ally: Fully Recover HP upon Withstanding, Chance for Skill Damage +100%",
+          "a1": "Withstand +2, If there's an Iruka ally: Change to Revive, Chance for Skill Damage +100%",
 
           "a2n": "Ally Gratitude",
-          "a2": "If there's a Naruto ally: Start the Battle with 100% Chakra & Skill Damage +100% & Cast Speed +1",
+          "a2": "If there's a Iruka ally: Start the Battle with 100% Chakra & Skill Damage +100% & Cast Speed +1",
 
           "a3n": "Black Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Black."
@@ -2169,13 +2169,13 @@ window.detail=[
           "s1c": 60,
 
           "s2n": "Prepared With Heart",
-          "s2": "Party ATK, DEF and SPD +100%. Grant 'Bonds' State to Konoha allies. If there's a Naruto ally: Grant 'Cooperation' State to self. [Bonds: Skill Damage +100%, Cast Speed +1 and Chakra Cost reduced depending on how many allies are under 'Bonds' State (Max -100%)] [Cooperation: After an action, Chance to grant Instant Action to Naruto allies]",
+          "s2": "Party ATK, DEF and SPD +100%. Grant 'Bonds' State to Konoha allies. If there's a Naruto ally: Grant 'Cooperation' State to self. [Bonds: Skill Damage +100%, Cast Speed +1 and Chakra Cost reduced depending on how many allies are under 'Bonds' State (Max -100%)] [Cooperation: After an action, Chance to Grant 'Instant Action' to Naruto allies]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 70,
 
           "a1n": "Cooking Spirit",
-          "a1": "Withstand +2, If there's a Naruto ally: Fully Recover HP upon Withstanding, Chance for SPD +100%",
+          "a1": "Withstand +2, If there's a Naruto ally: Change to Revive, Chance for SPD +100%",
 
           "a2n": "Work with Student",
           "a2": "If there's a Naruto ally: Chance for First Strike & Skill Damage +100% & Cast Speed +1",
@@ -2225,7 +2225,7 @@ window.detail=[
           "s1c": 0,
 
           "s2n": "Kuku... I'm the Person Who Can Cut",
-          "s2": "Own DEF and Skill Damage +1,000%. Grant 'Absorption' State. Enemy Chakra -100. High Chance to Inflict 'Deadlock' State (If it's an EX enemy: Guarantee Inflict, Ignore Resistance and Skill Dodge). [Absoption: Recover 70% Chakra when Attacked] [Deadlock: ATK and DEF -80%, Buff and Debuff Immunity]",
+          "s2": "Own DEF and Skill Damage +1,000%. Grant 'Absorption' State. Enemy Chakra -100. High Chance to Inflict 'Deadlock' State (If it's an EX enemy: Guarantee Inflict, Ignore Resistance and Skill Dodge). [Absoption: When Attacked: Chakra Recovery +70%] [Deadlock: ATK and DEF -80%, Buff and Debuff Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 100,
@@ -2247,13 +2247,13 @@ window.detail=[
           "lead": "Konoha Characters: Chakra +100, Cast Speed +1",
 
           "s1n": "Summoning: Slug Comet",
-          "s1": "Deal 3% + 1,000,000 to all enemies. Deal 3 Additional Attacks dealing 300,000 Fixed Damage to a random enemy. If it's a None enemy: Ignore Resistance and Very High Chance to Inflict 'Stun'. Grant 'Cooperation' State to Konoha allies for 1 Turn. [Cooperation: After an action, Chance to grant Instant Action to Tsunade allies]",
+          "s1": "Deal 3% + 1,000,000 to all enemies. Deal 3 Additional Attacks dealing 300,000 Fixed Damage to a random enemy. If it's a None enemy: Ignore Resistance and Very High Chance to Inflict 'Stun'. Grant 'Cooperation' State to Konoha allies for 1 Turn. [Cooperation: After an action, Chance to Grant 'Instant Action' to Tsunade allies]",
 		  "s1ntr": "Summoning",
           "s1cs": "Fast",
           "s1c": 100,
 
           "s2n": "Hundred Healing Mark, Release",
-          "s2": "Recover 500,000 HP and Remove Status Effects and Genjutsu to Party. Grant 'Cell Creation' and 'Will of Fire' States to Konoha allies. [Cell Creation: HP +1,000%, Recover 500,000 HP to all allies with Cell Creation] [Will of Fire: ATK, DEF, SPD and Skill Damage +150%, HP Recovery +30%]",
+          "s2": "Recover 500,000 HP and Remove Status Effects and Genjutsu to Party. Grant 'Cell Creation' and 'Will of Fire' States to Konoha allies. [Cell Creation: HP +1,000%, Recover 500,000 HP every turn allies with 'Cell Creation' State act] [Will of Fire: ATK, DEF, SPD and Skill Damage +150%, HP Recovery +30%]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 85,
@@ -2281,7 +2281,7 @@ window.detail=[
           "s1c": 150,
 
           "s2n": "Kuku..... Cold Hearted....",
-          "s2": "Party DEF +100%. Grant 'Immortal Snake' God State. [Immortal Snake: Withstand +666. Remove and Immune to Status Effects, Insta Kill, Negative Special State and Negative God State. SPD and Skill Damage +111% upon withstanding an attack (Max 666%)]",
+          "s2": "Party DEF +100%. Grant 'Immortal Snake' God State. [Immortal Snake: Withstand +666. Remove and Immune to Status Effects, Insta Kill, Negative Special State and Negative God State. SPD and Skill Damage +111% upon Withstanding (Max 666%)]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 210,
@@ -2303,13 +2303,13 @@ window.detail=[
           "lead": "Akatsuki Characters: SPD +100, Cast Speed +1",
 
           "s1n": "Tsukuyomi: Hell's Glare",
-          "s1": "Deal 350,000 Fixed Damage to all enemies. High Chance to Inflict 'Genjutsu' and/or Seal Skill Dodge. If it's a Non-Akatsuki enemy: High Chance to Inflict 'Black Flame' State. If under 'Tsukuyomi' State: Deal 5 Additional Attacks dealing 3% + 150,000 to a random enemy. [Black Flames: Chance to reduce SPD, inflict damage per turn] (Always Hit)",
+          "s1": "Deal 350,000 Fixed Damage to all enemies. High Chance to Inflict 'Illusion' and/or Seal Skill Dodge. If it's a Non-Akatsuki enemy: High Chance to Inflict 'Black Flames' State. If under 'Tsukuyomi' State: Deal 5 Additional Attacks dealing 3% + 150,000 to a random enemy. [Black Flames: Chance to reduce SPD, inflict damage per turn] (Always Hit)",
 		  "s1ntr": "Sharingan",
           "s1cs": "Fast",
           "s1c": 80,
 
           "s2n": "It Wouldn't Take Long",
-          "s2": "Party SPD and Skill Damage +80%. Grant 'Tsukuyomi' State to self. If there's a Konoha enemy: Remove Party's Negative Special State. [Tsukuyomi: Fixed Damage Deals 0 damage and Skill Immunity. Incoming Skill Damage -10,000%. Inflict 'Confusion' when Attacked by a Skill. Release this State when Attacked by a Skill 3 times]",
+          "s2": "Party SPD and Skill Damage +80%. Grant 'Tsukuyomi' State to self. If there's a Konoha enemy: Remove Party's Negative Special State. [Tsukuyomi: Fixed Damage and Skill Immunity. Incoming Skill Damage -10,000%. When Attacked by a Skill: Inflict 'Confusion'. Release this State when Attacked by a Skill 3 times]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 70,
@@ -2337,7 +2337,7 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "I Found It!",
-          "s2": "Deal 100x ATK Damage to target enemy. Grant 'Shannaro' State. If there's a GK enemy: Grant 'Covalescence' State for 1 Turn. [Shannaro: Skill Damage +100%, Ignore 70% DEF and grant Instant Action when attacked by a GK] [Convalescence: Incoming Skill Damage -300%, Recover 30% HP when attacked] (Always Hit)",
+          "s2": "Deal 100x ATK Damage to target enemy. Grant 'Shannaro' State to self. [Shannaro: Skill Damage +100%, Ignore 70% DEF. When Attacked by GK: Grant 'Instant Action'] (Always Hit)",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 100,
@@ -2387,7 +2387,7 @@ window.detail=[
           "lead": "Konoha Characters: Cast Speed +1, 1 Turn: Set Chakra Cost to 0",
 
           "s1n": "Lightning Blade: Penetrating Light",
-          "s1": "Deal 7% + 1,400,000 to target enemy. Deal An Additional Attack dealing 990,000 Fixed Damage. Grant 'Hope' God State to Five Village Allies. Remove Positive Special State of None enemies. [Hope: ATK, DEF and SPD +200%. Remove and Immune to Debuff and Status Effects. HP and Chakra Recovery +20%] (Always Hit)",
+          "s1": "Deal 7% + 1,400,000 to target enemy. Deal an Additional Attack dealing 990,000 Fixed Damage. Grant 'Hope' God State to Five Village Allies. Remove Positive Special State of None enemies. [Hope: ATK, DEF and SPD +200%. Remove and Immune to Debuff and Status Effects. HP and Chakra Recovery +20%] (Always Hit)",
 		  "s1ntr": "Lightning",
           "s1cs": "Fastest",
           "s1c": 100,
@@ -2399,10 +2399,10 @@ window.detail=[
           "s2c": 100,
 
           "a1n": "Roaring Fame",
-          "a1": "If there's a None or Uchiha enemy: Chance for First Strike (Increase chance if both). HP >90%: Grant an Extra Turn",
+          "a1": "If there's a None or Uchiha enemy: Chance for First Strike (If Both: Increased Chance). HP >90%: Grant an Extra Turn",
 
           "a2n": "Lightning Fist",
-          "a2": "At the Start of Battle, Ignore Resistance and Inflict Paralyze for 1 Turn to None enemies. Withstand +1, Damage Cut +50% againt EX, Destroyers and Origin",
+          "a2": "At the Start of Battle, Ignore Resistance and Inflict 'Paralyze' for 1 Turn to None enemies. Withstand +1, Damage Cut +50% againt EX, Destroyers and Origin",
 
           "a3n": "Black Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Black."
@@ -2751,7 +2751,7 @@ window.detail=[
           "lead": "Red Characters: Skill Damage +60%",
 
           "s1n": "Butterfly Heavy Hit",
-          "s1": "Deals 7% + 10,000 to target enemy. Inflict 'Collapse' State. If under 'Bonds' State: Deal 2x more damage. [Collapse: Takes more damage (Max 10x). Can be stacked upto 3]",
+          "s1": "Deals 7% + 10,000 to target enemy. Inflict 'Crush' State. If under 'Bonds' State: Deal 2x more damage. [Crush: Increase Damage Multiplier per stack (Max 10x). Can be stacked upto 3]",
           "s1ntr": "Secret",
           "s1cs": "Fast",
           "s1c": 70,
@@ -2779,7 +2779,7 @@ window.detail=[
           "lead": "Konoha Characters: ATK, DEF and SPD +70%",
 
           "s1n": "Shadow Stiching: Thousand Needle",
-          "s1": "Deal 7% + 500,000 to target enemy. Chance to Inflict 'Cut' state. If the enemy is under 'Cut' State: Ignore Resistance and Skill Dodge and deal 5 Additional Attacks dealing 7% + 150,000 and Guarantee Inflict 'Shadow Possession' State. [Cut: Skill Damage -100%] [Shadow Possession: ATK and Skill Damage -999% when targeting Shikamaru Nara. Chance to cancel Action when attacked by Shikamaru Nara. Remove and Immune to Positive Special State]",
+          "s1": "Deal 7% + 500,000 to target enemy. Chance to Inflict 'Cut' state. If the enemy is under 'Cut' State: Ignore Resistance and Skill Dodge and Deal 5 Additional Attacks dealing 7% + 150,000 and Guarantee Inflict 'Shadow Possession' State. [Cut: Skill Damage -100%] [Shadow Possession: ATK and Skill Damage -999% when targeting Shikamaru. When attacked by Shikamaru: Chance to Cancel. Remove and Immune to Positive Special State]",
 		  "s1ntr": "Secret",
           "s1cs": "Fastest",
           "s1c": 80,
@@ -2794,7 +2794,7 @@ window.detail=[
           "a1": "Withstand +1, If there's an Akatsuki or Destroyer enemy: SPD +150% (If Both: SPD +300%)",
 
           "a2n": "Transcendent Stragegist",
-          "a2": "If there's an Akatsuki or Destroyer enemy: Fixed Damage Deals 0 Damage, 5 Turns: Chakra Cost -50%",
+          "a2": "If there's an Akatsuki or Destroyer enemy: Fixed Damage Immunity, 5 Turns: Chakra Cost -50%",
 
           "a3n": "White Specialization",
           "a3": "Type Advantage and Damage Cut +50% against White."
@@ -2807,7 +2807,7 @@ window.detail=[
           "lead": "Konoha Characters: HP and Skill Damage +90%",
 
           "s1n": "Hokage Style Elder Jutsu: Tenth Edict on Enlightenment",
-          "s1": "Deals 7% + 450,000 to target enemy. High Chance of Inflicting 'Seal' and 'Skill Dodge Seal' States. If the enemy is Naruto, Kushina or Minato: Ignore Resistance and Guarantee Inflict 'Sealed' for 99 Turns. If it is a Destroyer enemy: 1 Turn: SPD +200% [Sealed: Action is Disabled, reduce HP per turn] (Always Hit)",
+          "s1": "Deals 7% + 450,000 to target enemy. High Chance to Inflicting 'Sealed' State and 'Skill Dodge Seal'. If it's a Naruto, Kushina or Minato enemy: Ignore Resistance and Guarantee Inflict 'Sealed' State for 99 Turns. If it's a Destroyer enemy: Grant SPD +200% for 1 Turn [Sealed: Action Disabled, reduce HP every turn] (Always Hit)",
 		  "s1ntr": "Wood",
           "s1cs": "Fast",
           "s1c": 70,
@@ -2819,7 +2819,7 @@ window.detail=[
           "s2c": 60,
 
           "a1n": "Mixture of Earth and Water",
-          "a1": "Withstand +2, If there's a Kakashi ally: Withstand +1 (Max 3), If there's a Naruto ally: Fully Recovers HP upon withstanding, If there's a Sai ally: Grant Instant Action upon withstanding",
+          "a1": "Withstand +2, If there's a Kakashi ally: Withstand +1 (Max 3), If there's a Naruto ally: Change Withstand to Revive, If there's a Sai ally: Grant Instant Action upon Withstanding",
 
           "a2n": "Secret Jutsu to Seal the Nine Tails",
           "a2": "Skip and Cancel Immunity, If there's Destroyer enemy: SPD +100%",
@@ -2841,7 +2841,7 @@ window.detail=[
           "s1c": 80,
 
           "s2n": "I'm Going Wild",
-          "s2": "Own SPD +200% and HP and DEF -999%. Grant 'Death Possession' State. [Death Possession: HP <10%: Very High Chance to Insta Kill Counterattack when attacked by a Skill by an enemy inflicted with 'Blood' State. Remove this State and recover 100% HP after Counterattacking]",
+          "s2": "Own SPD +200% and HP and DEF -999%. Grant 'Death Possession' State. [Death Possession: HP <10%: Very High Chance to Insta Kill Counterattack when attacked by a Skill by an enemy inflicted with 'Blood' State. Remove this State and Recover 100% HP after Counterattacking]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 80,
@@ -2919,19 +2919,19 @@ window.detail=[
           "lead": "Yellow, Blue and Red Characters: HP and Skill Damage +100%",
 
           "s1n": "Subjugate Eye: Susano'o",
-          "s1": "Deal 3% + 880,000 to all enemies. Chance to Inflict 'Despair' State. If the targeted enemy has an Affiliation (not None): Very High Chance to Inflict 'Emperor' State. If under 'Eternal Loneliness' State: Deal an Additional Attack Dealing 3% + 660,000. [Despair: Remove ATK, DEF and SPD Buffs. Chance to Cancel every turn] [Emperor: HP and Chakra -25%. Positive Special State Immunity] (Always Hit)",
+          "s1": "Deal 3% + 880,000 to all enemies. Chance to Inflict 'Despair' State. If the targeted enemy has an Affiliation (not None): Very High Chance to Inflict 'Emperor' State. If under 'Eternal Loneliness' State: Deal an Additional Attack Dealing 3% + 660,000. [Despair: Remove ATK, DEF and SPD Buffs. Chance to Cancel every turn] [Emperor: HP and Chakra -25% every turn. Positive Special State Immunity] (Always Hit)",
 		  "s1ntr": "Sharingan",
           "s1cs": "Fastest",
           "s1c": 90,
 
           "s2n": "My Turn to Strike...",
-          "s2": "Own ATK, DEF and SPD +150%. Grant 'Eternal Loneliness' State. Grant 'Battle' State and 'Protect Ally From Single Target Skill' Ability to the ally with the Highest HP (except self). [Eternal Loneliness: HP and Chakra Recovery +100%. Skill Damage Increase depending on Party Size. (Max 500% with 1 person alive)] [Battle: Skill Damage +150%]",
+          "s2": "Own ATK, DEF and SPD +150%. Grant 'Eternal Loneliness' State. Grant 'Battle' State and 'Protect Ally From Single Target Skill' Ability to the ally with the Highest HP (except self). [Eternal Loneliness: HP and Chakra Recovery +100%. Skill Damage Increase depending on Party Size. (Max 500% with 1 ally)] [Battle: Skill Damage +150%]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 80,
 
           "a1n": "Proud Conceit",
-          "a1": "Withstand +1, If there's 3 or less allies: When Attacked: High Chance for Instant Action, If there's 2 or less allies: Guarantee Extra Turn",
+          "a1": "Withstand +1, If there's <3 allies: When Attacked: High Chance for Instant Action, If there's <2 allies: Guarantee Extra Turn",
 
           "a2n": "Supreme Ruler's Vessel",
           "a2": "If there's a Black or White enemy: At the Start of Battle, Grant 'Battle' State, Damage Cut +50% against EX, Destroyer and Origin",
@@ -2947,19 +2947,19 @@ window.detail=[
           "lead": "Yellow, Blue and Red Characters: HP and Chakra Recovery +25%",
 
           "s1n": "Sage's Power: Lightning Formation",
-          "s1": "Deal 3% + 666,666 to all enemies. Deal 6 Additional Attacks dealing 3% +100,000 to a random enemy. If there's a Naruto or Sasuke ally: Ignore Resistance and Skill Dodge and High Chance to Inflict 'Seal' State to None enemies. [Seal: Action is Disabled. HP -20% per turn]",
+          "s1": "Deal 3% + 666,666 to all enemies. Deal 6 Additional Attacks dealing 3% +100,000 to a random enemy. If there's a Naruto or Sasuke ally: Ignore Resistance and Skill Dodge and High Chance to Inflict 'Sealed' State to None enemies. [Sealed: Action Disabled. HP -20% every turn]",
           "s1ntr": "Sage",
           "s1cs": "Fast",
           "s1c": 66,
 
           "s2n": "I'm the Establisher of Peace and Order...",
-          "s2": "Party ATK, DEF and SPD +80% and Recover 400,000 HP. Chance to Grant 'Full Moon' State. If there's an Origin enemy: Remove Enemies' Positive Special State. [Full Moon: Incoming Skill Damage -50%. Recover 30% HP and Chakra when attacked]",
+          "s2": "Party ATK, DEF and SPD +80% and Recover 400,000 HP. Chance to Grant 'Full Moon' State. If there's an Origin enemy: Remove Enemies' Positive Special State. [Full Moon: Incoming Skill Damage -50%. When Attacked: HP and Chakra Recovery +30%]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 66,
 
           "a1n": "Existing Legend",
-          "a1": "Withstand +6, If there's a Naruto or Sasuke ally: At the Start of Battle, Grant 'Entrust' State to Party. [Entrust: Skill Damage +150%. Fixed Damage Deals 0 Damage]",
+          "a1": "Withstand +6, If there's a Naruto or Sasuke ally: At the Start of Battle, Grant 'Entrust' State to Party. [Entrust: Skill Damage +150%. Fixed Damage Immunity]",
 
           "a2n": "Creator of the Tailed Beast",
           "a2": "6 Turns: Skill Damage +150%, If there's a Naruto or Sasuke ally: SPD +150% (If Both: SPD +300%)",
@@ -3009,7 +3009,7 @@ window.detail=[
           "s1c": 80,
 
           "s2n": "I Will Be Hokage Someday!!",
-          "s2": "Own ATK +100%. Grant 'Bonds' State to Party. If there's a Sasuke enemy: Grant 'Penetrate' State. [Bonds: Skill Damage +100%, Cast Speed +1 and Chakra Cost reduced depending on how many allies are under 'Bonds' State (Max -100%)] [Penetrate: Party Attacks Ignore 70% DEF]",
+          "s2": "Own ATK +100%. Grant 'Bonds' State to Party. If there's a Sasuke enemy: Grant 'Penetrate' State. [Bonds: Skill Damage +100%, Cast Speed +1 and Chakra Cost reduced depending on how many allies are under 'Bonds' State (Max -100%)] [Penetrate: Attacks Ignore 70% DEF]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
@@ -3046,7 +3046,7 @@ window.detail=[
           "a1": "If there's a Naruto enemy: SPD +100% and Guarantee Extra Turn",
 
           "a2n": "Revenge's Will",
-          "a2": "Withstand +2, Upon Death: Inflict 'Seal Skill Dodge'",
+          "a2": "Withstand +2, Upon Death: Inflict 'Skill Dodge Seal'",
 
           "a3n": "Blue Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Blue."
@@ -3143,13 +3143,13 @@ window.detail=[
           "lead": "All Characters: Imcoming Skill Damage, Debuff and Status Effect Duration -50%",
 
           "s1n": "Ultimate Beauty In OBC",
-          "s1": "Deal 7% + 400,000 to target enemy. Chance to Inflict 'Block' State. If it's a Female enemy: Chance to Inflict 'Despair' State. If under 'Crush' State: Deal an Additional Attack dealing 400,000 Fixed Damage. [Block: Skill Disabled] [Despair: Remove ATK, DEF and SPD Buffs. Chance to Cancel every turn]",
+          "s1": "Deal 7% + 400,000 to target enemy. Chance to Inflict 'Block' State. If it's a Female enemy: Chance to Inflict 'Despair' State. If under 'Throbbing' State: Deal an Additional Attack dealing 400,000 Fixed Damage. [Block: Skill Disabled] [Despair: Remove ATK, DEF and SPD Buffs. Chance to Cancel every turn]",
           "s1ntr": "Unique",
           "s1cs": "Fast",
           "s1c": 80,
 
           "s2n": "Would You Like To Give It A Try?",
-          "s2": "Restores 300,000 HP to Party. Grant 'Crush' State to self and Female allies. Grant 'Love' State to a random ally (not self). [Crush: ATK, DEF, SPD and Skill Damage +100%. Can be stacked to 3] [Love: ATK, SPD and Skill Damage +100%. Skill Immunity]",
+          "s2": "Restores 300,000 HP to Party. Grant 'Throbbing' State to self and Female allies. Grant 'Love' State to a random ally (not self). [Throbbing: ATK, DEF, SPD and Skill Damage +100%. Can be stacked to 3] [Love: ATK, SPD and Skill Damage +100%. Skill Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
@@ -3339,7 +3339,7 @@ window.detail=[
           "lead": "Heart Characters: Skill Damage and SPD +50%",
 
           "s1n": "Bug Grip",
-          "s1": "Deal 7% + 10,000 to target enemy. Chance to Inflict 'Poison' and 'Paralyze'. If under 'Protection' State: Deal 10 Additional Attacks Dealing 7% + 1,000.",
+          "s1": "Deal 7% + 10,000 to target enemy. Chance to Inflict 'Poison' and 'Paralyze'. If under 'Resist' State: Deal 10 Additional Attacks Dealing 7% + 1,000.",
           "s1ntr": "Secret",
           "s1cs": "Fast",
           "s1c": 70,
@@ -3372,14 +3372,14 @@ window.detail=[
           "s1cs": "Fast",
           "s1c": 65,
 
-          "s2n": "Art is an...Explosion!",
+          "s2n": "Art is an... Explosion!",
           "s2": "Party SPD +250% for 1 Turn. Grant 'Additional Bomb' State to self. Grant 'Fate' State to Akatsuki allies. [Fate: Skill Damage +100%, Cast Speed +1, Withstand +1, Skill Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
 
           "a1n": "Seeking the Art of Explosion",
-          "a1": "Withstand +3, Recover 50% HP upon Withstanding (If there's an Origin enemy: Recover Full HP)",
+          "a1": "Withstand +3, Recover 50% HP upon Withstanding (If there's an Origin enemy: Change to Revive)",
 
           "a2n": "Encicled Detotating Clay",
           "a2": "If there's an Origin or Konoha enemy: Chance to Insta-Cast Skill 2",
@@ -3395,13 +3395,13 @@ window.detail=[
           "lead": "Five Village Characters: 1 Turn: Negative Special State Immunity",
 
           "s1n": "Sand Prison: Prison Seal",
-          "s1": "Deal 800,000 Fixed Damage to all enemies. If there's a GK enemy: High Chance to Inflict 'Quicksand' State. Remove Party 'Disable Positive Special and Positive God State' Effect. [Quicksand: Chance to Inflict 'Cancel'. SPD -150%, HP -10% every turn] (Always Hit)",
+          "s1": "Deal 800,000 Fixed Damage to all enemies. If there's a GK enemy: High Chance to Inflict 'Quicksand' State. Remove Party 'Disable Positive Special and Positive God State' Effect. [Quicksand: Chance to Cancel. SPD -150%, HP -10% every turn] (Always Hit)",
           "s1ntr": "Sealing",
           "s1cs": "Fastest",
           "s1c": 100,
 
           "s2n": "As the Sunagakure's Kazekage",
-          "s2": "Deal 7% + 800,000 to target enemy. Grant 'Sand Shield' State to self. If there's a GK enemy: Grant 'Harden' State to Party. [Sand Shield: Skill (including Fixed Damage Except for Taijutsu, Tailed Beast and Lightning) Immunity. Deal 7% + 300,000 Counterattack Damage to all enemies] [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -200%]",
+          "s2": "Deal 7% + 800,000 to target enemy. Grant 'Sand Shield' State to self. If there's a GK enemy: Grant 'Harden' State to Party. [Sand Shield: Skill (except for Taijutsu, Tailed Beast, and Lightning) and Fixed Damage Immunity. Deal 7% + 300,000 Counterattack Damage to all enemies] [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -200%]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 100,
@@ -3423,22 +3423,22 @@ window.detail=[
           "lead": "Akatsuki Characters: If there's a God enemy: Chance for First Strike",
 
           "s1n": "Amaterasu: Eternal Black Flames",
-          "s1": "Deals 770,000 Fixed Damage to all enemies. Chance to Inflict 'Black Flames', 'Jet Black' and 'Great Flame' States. Chance to Inflict 1 Turn of 'Genjutsu' to all enemies. If it's a God enemy: Ignore Resistance and Skill Dodge, High Chance to Inflict 1-3 Turns of 'Genjutsu' Effect. High Chance to Deal 5 Additional Attacks dealing 3% + 77,000 to a random Non-Akatsuki enemy. [Black Flames: Reduce HP per turn and Chance for SPD -20%] [Jet Black: Reduce HP per turn and Chance for ATK -20%] [Great Flame: HP -20% per turn]",
+          "s1": "Deals 770,000 Fixed Damage to all enemies. Chance to Inflict 'Black Flames', 'Jet Black' and 'Large Flame' States. Chance to Inflict 'Illusion' to all enemies for 1 Turn. If it's a God enemy: Ignore Resistance and Skill Dodge, High Chance to Inflict 1-3 Turns of 'Illusion'. High Chance to Deal 5 Additional Attacks dealing 3% + 77,000 to a random Non-Akatsuki enemy. [Black Flames: Reduce HP every turn and Chance for SPD -20%] [Jet Black: Reduce HP every turn and Chance for ATK -20%] [Large Flame: HP -20% every turn]",
           "s1ntr": "Sharingan",
           "s1cs": "Fastest",
           "s1c": 180,
 
           "s2n": "Making It A Reality",
-          "s2": "Party ATK, DEF and SPD +100%. Change the Terrain to 'Dominating World'. [Dominating World: Enemy: Chance for one of these Effect every turn: 1.) Inflict 1-5 Turns of 'Genjutsu' to self. 2.) Inflict 1 Turn of Befuddle to other allies. 3.) DEF -150% to other allies] [Befuddle: ATK, Crit Chance and Crit Damage +1,000%. Remove Buffs, Debuffs, Status Effects and Special State other than Befuddle. Randomly Basic Attack an Ally] [Genjutsu: Action is Disabled. Skip Action depending of Turns of 'Genjutsu']",
+          "s2": "Party ATK, DEF and SPD +100%. Change the Terrain to 'Dominating World'. [Dominating World: Enemy: Chance for one of these Effect every turn: 1.) Inflict 1-5 Turns of 'Illusion' to self. 2.) Inflict 1 Turn of Befuddle to other allies. 3.) DEF -150% to other allies] [Befuddle: ATK, Crit Chance and Crit Damage +1,000%. Remove Buffs, Debuffs, Status Effects and Special State other than Befuddle. Randomly Basic Attack an Ally]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 210,
 
           "a1n": "Desire for the Eternal Summit",
-          "a1": "If there's a God enemy: At the Start of Battle, High Chance to change the Terrain to 'Dominating World', Chakra +120",
+          "a1": "If there's a God enemy: At the Start of Battle, High Chance to Change the Terrain to 'Dominating World', Chakra +120",
 
           "a2n": "The Right Eye that Contains the Strongest Flame",
-          "a2": "Withstand +2, Chance for an Extra Turn (If there's a God enemy: Guarantee)",
+          "a2": "Withstand +2, Chance for an Extra Turn (If there's a God enemy: Guaranteed)",
 
           "a3n": "White Specialization",
           "a3": "Type Advantage and Damage Cut +50% against White"
@@ -3457,7 +3457,7 @@ window.detail=[
           "s1c": 160,
 
           "s2n": "Enterntain Me More",
-          "s2": "Own DEF and Skill Damage +200%. Grant 'Limbo' State to self. Protect Party From Single Target Skills. Remove Positive Special State of EX and Five Village Enemies. [Limbo: Skill (including Fixed Damage, except for Taijutsu, Sage and Six Paths) Immunity]",
+          "s2": "Own DEF and Skill Damage +200%. Grant 'Limbo' State to self. Protect Party From Single Target Skills. Remove Positive Special State of EX and Five Village Enemies. [Limbo: Skill (except for Taijutsu, Sage and Six Paths) and Fixed Damage Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 130,
@@ -3466,7 +3466,7 @@ window.detail=[
           "a1": "If there's an EX enemy: High Chance to Grant 'Instant Action' when Attacked, Revive +1",
 
           "a2n": "Blood Rushing Dance",
-          "a2": "At the Start of Battle, High Chance to Grant 'Limbo' State (If there's an EX enemy: Guarantee Grant), Chakra +100",
+          "a2": "At the Start of Battle, High Chance to Grant 'Limbo' State (If there's an EX enemy: Guaranteed), Chakra +100",
 
           "a3n": "Red Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Red"
@@ -3485,13 +3485,13 @@ window.detail=[
           "s1c": 80,
 
           "s2n": "The Hand Has Already Turned",
-          "s2": "Own SPD and Skill Damage +200% for 1 Turn. Grant 'Reverse Tetragram' State. Grant 'Love' State to Konoha allies. If it's an EX enemy: Inflict 'Skip'. [Love: ATK, SPD and Skill Damage +100%. Skill Immunity] [Reverse Tetragram: Upon Death: Inflict 'Exhaust' State to 2 random enemies] [Exhaust: Action is Disabled]",
+          "s2": "Own SPD and Skill Damage +200% for 1 Turn. Grant 'Reverse Tetragram' State. Grant 'Love' State to Konoha allies. If it's an EX enemy: Inflict 'Skip'. [Love: ATK, SPD and Skill Damage +100%. Skill Immunity] [Reverse Tetragram: Upon Death: Inflict 'Exhaust' State to 2 random enemies] [Exhaust: Action Disabled]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 75,
 
           "a1n": "Mastermind in the Shadows",
-          "a1": "Upon Death: Chance to Inflict 'Exhaust' to all enemies upon Death (If there's an EX enemy: Guarantee Inflict 'Exhaust' and Cast Speed -1)",
+          "a1": "Upon Death: Chance to Inflict 'Exhaust' to all enemies (If there's an EX enemy: Guarantee Inflict 'Exhaust' and Cast Speed -1)",
 
           "a2n": "Discerment from the Dark",
           "a2": "Revive +1, SPD +150%",
@@ -3507,13 +3507,13 @@ window.detail=[
           "lead": "Konoha Characters: 5 Turns: Cancel Immunity, HP Recovery +30%",
 
           "s1n": "Super Beast Scroll: Swift Reblion Lion",
-          "s1": "Deal 7% + 631,000 to a target enemy. Inflict 'Ink' State. If the enemy is under 'Ink' State: Remove Enemy's Positive Special State. [Ink: SPD and Skill Damage -62% per Counter (Max 5)]",
+          "s1": "Deal 7% + 631,000 to a target enemy. Inflict 'Ink' State. If the enemy is under 'Ink' State: Remove Enemy's Positive Special State. [Ink: SPD and Skill Damage -62% per stack (Max 5)]",
           "s1ntr": "Unique",
           "s1cs": "Fast",
           "s1c": 75,
 
           "s2n": "Strength...Weak....You...",
-          "s2": "Enemies ATK and DEF -90%. High Chance to Inflict 'Ink' State to all enemies. High Chance to Inflict 'Ink' State to a Random enemy. If it's an Origin enemy: Guarantee Inflict 'Ink' State. (Always Hit)",
+          "s2": "Enemies ATK and DEF -90%. High Chance to Inflict 'Ink' State to all enemies. High Chance to Inflict 'Ink' State to a Random enemy. (If it's an Origin enemy: Guarantee Inflict) (Always Hit)",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 70,
@@ -3541,7 +3541,7 @@ window.detail=[
           "s1c": 80,
 
           "s2n": "I'll Kill You So Much!",
-          "s2": "Party SPD +70%. Grant 'Connected' State to Oto allies. [Connected: Status Effect -50%, Skill Damage increase depending on how many Oto allies are alive (Max 200%)]",
+          "s2": "Party SPD +70%. Grant 'Connected' State to Oto allies. [Connected: Status Effect Duration -50%, Skill Damage increase depending on how many Oto allies are alive (Max 200%)]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 80,
@@ -3563,13 +3563,13 @@ window.detail=[
           "lead": "All Characters: ATK, DEF and SPD +100%, Cast Speed +1",
 
           "s1n": "Light: Lava Rasenshuriken",
-          "s1": "Deal 3% + 1,500,000 to all enemies. If it's a GK enemy: Deal 500,000 Fixed Damage. Remove Party's Negative Special State. Grant 'Light Symbol' State to self. [Light Symbol: Skill Damage +150%, HP Recovery +30%. If under 'Shadow Symbol' State: Ignore Resistance and Skill Dodge and Inflict 'Seal' to None enemies when using a Skill] [Seal: Action is Disabled: HP -20% per turn]",
+          "s1": "Deal 3% + 1,500,000 to all enemies. If it's a GK enemy: Deal 500,000 Fixed Damage. Remove Party's Negative Special State. Grant 'Light Symbol' State to self. [Light Symbol: Skill Damage +150%, HP Recovery +30%. If under 'Shadow Symbol' State: Ignore Resistance and Skill Dodge and Inflict 'Sealed' State to None enemies when using a Skill] [Sealed: Action Disabled: HP -20% every turn]",
           "s1ntr": "Lava",
           "s1cs": "Fastest",
           "s1c": 100,
 
           "s2n": "Shadow: Burning Lightning Flicker",
-          "s2": "Deal 1,000,000 Fixed Damage to target enemy. If it's a God enemy: Deal 2 Additional Attacks Dealing 7% + 500,000. Remove Enemies Positive Special State. Grant 'Shadow Symbol' State to self. [Shadow Symbol: SPD +150%, Chakra Cost is set to 0, If under 'Light Symbol' State: Ignore Resistance and Skill Dodge and  Inflict 'Seal' to None enemies when using a Skill] [Seal: Action is Disabled: HP -20% per turn]",
+          "s2": "Deal 1,000,000 Fixed Damage to target enemy. If it's a God enemy: Deal 2 Additional Attacks Dealing 7% + 500,000. Remove Enemies Positive Special State. Grant 'Shadow Symbol' State to self. [Shadow Symbol: SPD +150%, Set Chakra Cost to 0, If under 'Light Symbol' State: Ignore Resistance and Skill Dodge and Inflict 'Sealed' State to None enemies when using a Skill] [Sealed: Action Disabled: HP -20% every turn]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 100,
@@ -3787,7 +3787,7 @@ window.detail=[
           "lead": "Konoha Characters: 1 Turn: Set Chakra Cost to 0",
 
           "s1n": "Summoning: Enma Adamantine Performance",
-          "s1": "Deal 7% + 300,000 to target enemy. Deal an Additional Attack dealing 300,000 Fixed Damage. If the targeted enemy has an Affiliation (not Konoha): Deal 2 Additional Attacks dealing 300,000. (Always Hit)",
+          "s1": "Deal 7% + 300,000 to target enemy. Deal an Additional Attack dealing 300,000 Fixed Damage. If it's a Non-Konoha enemy: Deal 2 Additional Attacks dealing 300,000. (Always Hit)",
           "s1ntr": "Summoning",
           "s1cs": "Fast",
           "s1c": 80,
@@ -3802,7 +3802,7 @@ window.detail=[
           "a1": "If there's a Destroyer enemy: At the Start of Battle, Inflict 'Disable Positive Special State' for 1 Turn",
 
           "a2n": "Inherited 'Will of Fire'",
-          "a2": "Withstand +3, Inflict 'Seal' and 'Jutsu Seal' to all enemies upon Death",
+          "a2": "Withstand +3, Upon Death: Inflict 'Seal' and 'Jutsu Seal' to all enemies ",
 
           "a3n": "Red Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Red"
@@ -3843,19 +3843,19 @@ window.detail=[
           "lead": "Konoha Characters: SPD +80%, Debuff Immunity",
 
           "s1n": "Cooperation: Winged Flame",
-          "s1": "Deal 7% + 380,000 to target enemy. High Chance to Inflict DEF and/or SPD -99%, and/or Charm. Grant 'Cooperation' State to Konoha allies except for self. If an ally is under 'Cooperation' State: Deal an Additional Attack dealing 30x ATK Damage. [Cooperation: After an action, Grant Instant Action to Kurenai ally]",
+          "s1": "Deal 7% + 380,000 to target enemy. High Chance to Inflict DEF and/or SPD -99%, and/or 'Charm'. Grant 'Cooperation' State to other Konoha allies. If an ally is under 'Cooperation' State: Deal an Additional Attack dealing 30x ATK Damage. [Cooperation: After an action, Grant Instant Action to Kurenai ally]",
           "s1ntr": "Unique",
           "s1cs": "Fast",
           "s1c": 85,
 
           "s2n": "Asuma!",
-          "s2": "Party ATK and DEF +100%. Grant 'Love' State to Konoha allies. High chance to Inflict Cast Speed -1 to Destroyer or Akatsuki enemies. [Love: ATK, SPD and Skill Damage +100%. Skill Immunity]",
+          "s2": "Party ATK and DEF +100%. Grant 'Love' State to Konoha allies. If it's a Destroyer or Akatsuki enemy: High Chance to Inflict Cast Speed -1. [Love: ATK, SPD and Skill Damage +100%. Skill Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
 
           "a1n": "Lure into the Genjutsu",
-          "a1": "If there's an Akatsuki or Destroyer enemy: When attacked, Chance to inflict Cast Speed -1 to the attacking enemy. (Increase Chance when both exist)",
+          "a1": "If there's an Akatsuki or Destroyer enemy: When attacked, Chance to Inflict Cast Speed -1 to the attacking enemy. (If Both: Increased Chance)",
 
           "a2n": "Eyes That Can See the Truth",
           "a2": "Withstand +1, If there's a Destroyer enemy: SPD +200%",
@@ -3871,13 +3871,13 @@ window.detail=[
           "lead": "Akatsuki Characters: 3 Turns: Skip Immunity, Sharingan, Byakugan, Rinnegan and Sharinnegan Skill Immunity",
 
           "s1n": "Revived Piece: Shinra Tensei",
-          "s1": "Deal 7% + 360,000 to target enemy. High Chance to Inflict 'Skip'. If the targeted enemy has an Affiliation (not Akatsuki): Deal 2 Additional Attacks Dealing 7% + 300,000. If it's an Origin enemy: Deal 2x damage",
+          "s1": "Deal 7% + 360,000 to target enemy. High Chance to Inflict 'Skip'. If it's a Non-Akatsuki enemy: Deal 2 Additional Attacks Dealing 7% + 300,000. If it's an Origin enemy: Deal 2x damage",
           "s1ntr": "Rinnegan",
           "s1cs": "Fast",
           "s1c": 80,
 
           "s2n": "Becoming a Masterpiece...",
-          "s2": "Party ATK +200% and Chakra Cost -50%. Grant 'Repulse' State to self. If there's an Origin enemy: Remove Enemies Positive Special State. [Repulse: When targeted by a Skill, deal 7% + 100,000 Counterattack Damage. ATK, DEF and SPD +30% to Party except Self]",
+          "s2": "Party ATK +200% and Chakra Cost -50%. Grant 'Repulse' State to self. If there's an Origin enemy: Remove Enemies Positive Special State. [Repulse: When targeted by a Skill: Deal 7% + 100,000 Counterattack Damage. ATK, DEF and SPD +30% to other allies]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 75,
@@ -3899,13 +3899,13 @@ window.detail=[
           "lead": "All Characters: 2 Turns: Cast Speed +2 and Set Chakra Cost to 0",
 
           "s1n": "Sage Art: White Rage of the White Snake",
-          "s1": "Deal 3% + 990,000 to all enemies. Remove enemies' Positive Special State and Positive God State. Grant 'Sage Mode (Kabuto)' to self. [Sage Mode (Kabuto): Immortality, Chakra Cost is Set to 0. ATK, DEF, SPD and Skill Damage +100% and Grant Instant Action per own Withstand, Revive or Ally Death (Max 500%)]",
+          "s1": "Deal 3% + 990,000 to all enemies. Remove enemies' Positive Special State and Positive God State. Grant 'Sage Mode (Kabuto)' to self. [Sage Mode (Kabuto): Grant 'Immortality', Set Chakra Cost to 0. ATK, DEF, SPD and Skill Damage +100% and Grant Instant Action upon Withstand, Revive or Ally Death (Max 500%)]",
           "s1ntr": "Sage",
           "s1cs": "Fast",
           "s1c": 150,
 
           "s2n": "Nature is on My Side",
-          "s2": "Recover 500,000 HP, SPD and Skill Damage +100% to Party. Chance the Terrain to 'Serpent's Nest'. Remove 'Disable Positive Special or God State' and 'Disable Postive Special State' to Self. [Serpent's Nest: Party: Revive All Allies upon Kabuto's Action. Enemies: SPD -50%, Skill Dodge -200% and Five Village Chakra Cost +50%]",
+          "s2": "Recover 500,000 HP, SPD and Skill Damage +100% to Party. Change the Terrain to 'Serpent's Nest'. Remove 'Disable Positive Special or God State' and 'Disable Postive Special State' to Self. [Serpent's Nest: Party: Revive All Allies upon Kabuto's Action. Enemies: SPD -50%, Skill Dodge -200% and Five Village Chakra Cost +50%]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 200,
@@ -3933,7 +3933,7 @@ window.detail=[
           "s1c": 70,
 
           "s2n": "Soon It Will Be My Turn!",
-          "s2": "Own ATK and DEF +250%. Grant 'Needle' State to self. Very High Chance to Skip a random enemy. [Needle: Deal 7% + 350,000 Counterattack when Attacked by a Skill. Party ATK, DEF and SPD +100% and recover 50% HP and Chakra except to self]",
+          "s2": "Own ATK and DEF +250%. Grant 'Needle' State to self. Very High Chance to Skip a random enemy. [Needle: Deal 7% + 350,000 Counterattack when Attacked by a Skill. Party ATK, DEF and SPD +100% and Recover 50% HP and Chakra except to self]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
@@ -3961,7 +3961,7 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "Don't Be Prideful",
-          "s2": "Deal 200,000 Fixed Damage to all enemies. High chance to Inflict 'Deficit' and 'Usurp' States. If there's an EX enemy: Remove Enemies Positive Special State. [Deficit: Chakra Recovery is set to 0] [Usurp: HP and Chakra -20% per turn]",
+          "s2": "Deal 200,000 Fixed Damage to all enemies. High Chance to Inflict 'Deficit' and 'Usurp' States. If there's an EX enemy: Remove Enemies Positive Special State. [Deficit: Set Chakra Recovery to 0] [Usurp: HP and Chakra -20% every turn]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
@@ -4017,7 +4017,7 @@ window.detail=[
           "s1c": 95,
 
           "s2n": "Was I Late?",
-          "s2": "Party ATK, DEF and SPD +120%. Grant 'God's Contract' God State to self. If there's a Naruto ally: Grant 'Cooperation' State to self. [God's Contract: Remove and Immune to Negative Special State. Chance to Reduce Ranbu Counter by 1 when attacked, Chance for Instant Action when Attacked. Destroy Enemy Terrain when using a Skill] [Cooperation: High chance to Grant Instant Action to 'Naruto Uzumaki' allies upon action]",
+          "s2": "Party ATK, DEF and SPD +120%. Grant 'God's Contract' God State to self. If there's a Naruto ally: Grant 'Cooperation' State to self. [God's Contract: Remove and Immune to Negative Special State. When Attacked: Chance for Ranbu CD -1 and Instant Action. When using a Skill: Destroy Enemy Terrain] [Cooperation: After Action, High Chance to Grant Instant Action to Naruto allies]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
@@ -4123,7 +4123,7 @@ window.detail=[
           "lead": "If there's a Konoha ally: At the Start of Battle, High Chance to -1 Ranbu CD per ally and Chakra Recovery +10%",
 
           "s1n": "Gedo Statue: Hollow Dragon Dance",
-          "s1": "Deals 3% + 444,444 to all enemies. Inflicts 'Usurp' State. Deal 2 Additional Attacks dealing 222,222 Fixed Damage to a random enemy. Konoha enemies' Chakra -222. Ignore Resistance and Guarantee Inflict 'Usurp' State. [Deficit: Chakra Recovery = 0] [Usurp: HP and Chakra -50% every turn] (Always Hit)",
+          "s1": "Deals 3% + 444,444 to all enemies. Inflicts 'Usurp' State. Deal 2 Additional Attacks dealing 222,222 Fixed Damage to a random enemy. Konoha enemies' Chakra -222. Ignore Resistance and Guarantee Inflict 'Usurp' State. [Deficit: Set Chakra Recovery to 0] [Usurp: HP and Chakra -50% every turn] (Always Hit)",
           "s1ntr": "Tailed Beast",
           "s1cs": "",
           "s1c": 0,
@@ -4319,19 +4319,19 @@ window.detail=[
           "lead": "All Characters: If there's an Akatsuki enemy: Cast Speed +1 and Dodge Chance +100%",
 
           "s1n": "Water Wall: Concealed Blade",
-          "s1": "Deal 770,000 Fixed Dmaage to target enemy. Remove enemy's Positive Special State and Inflict 'Blunt' State. If it's an Akatsuki enemy: Deal an Additional Attack dealing 770,000. [Blunt: Cast Speed -1, SPD -80% and Skill Damage -200%]",
+          "s1": "Deal 770,000 Fixed Dmaage to target enemy. Remove enemy's Positive Special State and Inflict 'Dull' State. If it's an Akatsuki enemy: Deal an Additional Attack dealing 770,000. [Dull: Cast Speed -1, SPD -80% and Skill Damage -200%]",
           "s1ntr": "Water",
           "s1cs": "Fastest",
           "s1c": 100,
 
           "s2n": "Your Opponent is Me",
-          "s2": "Party ATK, DEF and SPD +80%. Remove 'Disable Positive Special State' Effect. Grant 'Cooperation' State to other Konoha allies. [Cooperation: Grant Instant Action to Kakashi allies after an action]",
+          "s2": "Party ATK, DEF and SPD +80%. Remove 'Disable Positive Special State' Effect. Grant 'Cooperation' State to other Konoha allies. [Cooperation: After Action, Grant Instant Action to Kakashi allies]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
 
           "a1n": "The Eye that Watches the Next Era",
-          "a1": "At the Start of Battle, Chance to Infict 'Blunt' State to all enemies, Grant Instant Action when attacked once",
+          "a1": "At the Start of Battle, Chance to Infict 'Dull' State to all enemies, Grant Instant Action when attacked once",
 
           "a2n": "Eye's that See Throught Threat",
           "a2": "If there's a Destroyer enemy: Skill Damage +200%, Revive +1",
@@ -4375,22 +4375,22 @@ window.detail=[
           "lead": "Konoha Characters: 3 Turns: High Chance for Damage Cut +35%",
 
           "s1n": "Eight Triagrams Air Palm: Phoenix Dance",
-          "s1": "Deal 400,000 Fixed Damage to target enemy. High Chance to Inflict Seal and 'Break' State. If under 'Rotation Protection: All'  State: Deal 3 Additional Attacks dealing 150,000 Fixed Damage [Break: Skill Damage and DEF -90%. Weak to Byakugan and Taijutsu] (Always Hit)",
+          "s1": "Deal 400,000 Fixed Damage to target enemy. High Chance to Inflict Seal and 'Break' State. If under 'Rotation Protection (All)' State: Deal 3 Additional Attacks dealing 150,000 Fixed Damage [Break: Skill Damage and DEF -90%. Weak to Byakugan and Taijutsu] (Always Hit)",
           "s1ntr": "Byakugan",
           "s1cs": "Fastest",
           "s1c": 75,
 
           "s2n": "Behind!",
-          "s2": "Own DEF and Skill Damage +250%. Grant 'Rotation Protection: All' to self. Protect Party from Single Target Skills. High Chance to Remove Enemies' Positive Special State.[Rotation Protection: All: Party is Immune to AoE attacks]",
+          "s2": "Own DEF and Skill Damage +250%. Grant 'Rotation Protection (All)' to self. Protect Party from Single Target Skills. High Chance to Remove Enemies' Positive Special State.[Rotation Protection (All): Grant AoE Damage Immunity to Party]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 65,
 
           "a1n": "Trained Gentle Fist",
-          "a1": "3 Turns: Damage Cut +75% and High Chance for Fixed Damage to Deal 0 Damage, HP Recovery +35%",
+          "a1": "3 Turns: Damage Cut +75% and High Chance for Fixed Damage Immunity, HP Recovery +35%",
 
           "a2n": "Determined White Eyes",
-          "a2": "If there's a None or Destroyer enemy: Chance to Insta-Cast Skill 2 (Increase chance if both exist), DEF +150%",
+          "a2": "If there's a None or Destroyer enemy: Chance to Insta-Cast Skill 2 (If Both: Increased Chance), DEF +150%",
 
           "a3n": "Blue Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Blue"
@@ -4431,13 +4431,13 @@ window.detail=[
           "lead": "Konoha Characters: 3 Turns: Chakra Cost -72%",
 
           "s1n": "Eight Trigrams Sixty-Four Palms",
-          "s1": "Deal 7% + 200,000 to target enemy. Chance to Inflict 'Crush' State. Deal 2 or 7 Additional Attacks Dealing 7% + 70,000. Deal more damage the more allies and enemies are under the 'Crush' State (Max 7x).",
+          "s1": "Deal 7% + 200,000 to target enemy. Chance to Inflict 'Throbbing' State. Deal 2 or 7 Additional Attacks Dealing 7% + 70,000. Deal more damage the more allies and enemies are under the 'Throbbing' State (Max 7x).",
           "s1ntr": "Byakugan",
           "s1cs": "Fast",
           "s1c": 72,
 
           "s2n": "It's A Beautiful Sea ...",
-          "s2": "Recover 720,000 HP to Party and Remove Status Effects and Genjutsu. Grant 'Crush' State to Five Village allies and all enemies. [Crush: Allies: ATK, DEF, SPD and Skill Damage +72%. Can be stacked. Enemies: ATK, DEF, SPD and Skill Damage +2%. Can be stacked.]",
+          "s2": "Recover 720,000 HP to Party and Remove Status Effects and Genjutsu. Grant 'Throbbing' State to Five Village allies and all enemies. [Throbbing: Allies: ATK, DEF, SPD and Skill Damage +72%. Can be stacked. Enemies: ATK, DEF, SPD and Skill Damage +2%. Can be stacked.]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 72,
@@ -4465,7 +4465,7 @@ window.detail=[
           "s1c": 150,
 
           "s2n": "I Can Still... Go...",
-          "s2": "Party DEF +300% and SPD +100%. Grant 'God's Shield' God State to self. Grant 'Cooperation' State to Naruto allies. [God's Shield: Remove and Immune to Negative Special and God State. Damage Cut +90%. Protect All Allies From Single Target Attacks. Chance to grant Instant Action when Attacked] [Cooperation: After an action, High chance to grant Instant Action to Naruto allies] ",
+          "s2": "Party DEF +300% and SPD +100%. Grant 'God's Shield' God State to self. Grant 'Cooperation' State to Naruto allies. [God's Shield: Remove and Immune to Negative Special and God State. Damage Cut +90%. Protect All Allies From Single Target Attacks. When Attacked: Chance to Grant Instant Action] [Cooperation: After an action, High Chance to grant Instant Action to Naruto allies] ",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 170,
@@ -4487,7 +4487,7 @@ window.detail=[
           "lead": "All Characters: 1 Turn: Enemy Terrain Immunity",
 
           "s1n": "Sage Art: Wood Style: True Thousand Hands Summit Enlightenment",
-          "s1": "Deal 7% + 400,000 to target enemy. Deal 10 Additional Attacks Dealing 7% + 10,000. If it's a None enemy: Deal 10 Additional Attacks dealing 10,000 Fixed Damage. High chance to inflict 'Seal' State. [Seal: Action is Disabled, HP -20% per turn]",
+          "s1": "Deal 7% + 400,000 to target enemy. Deal 10 Additional Attacks Dealing 7% + 10,000. If it's a None enemy: Deal 10 Additional Attacks dealing 10,000 Fixed Damage. High Chance to inflict 'Sealed' State. [Sealed: Action Disabled, HP -20% every turn]",
           "s1ntr": "Sage",
           "s1cs": "Fast",
           "s1c": 80,
@@ -4499,7 +4499,7 @@ window.detail=[
           "s2c": 75,
 
           "a1n": "Benevolent Shinobi",
-          "a1": "Withstand +10, If there's a None enemy: At the Start of Battle, Inflict Skill Dodge Seal  at the start of Battle",
+          "a1": "Withstand +10, If there's a None enemy: At the Start of Battle, Inflict Skill Dodge Seal",
 
           "a2n": "Heroes' Rally",
           "a2": "If there's a None or EX / Origin enemy: SPD +100% (If Both: +200%)",
@@ -4515,13 +4515,13 @@ window.detail=[
           "lead": "Konoha Characters: Cast Speed +1 and Chance for Skip and Cancel Immunity",
 
           "s1n": "Sky God: Susano'o",
-          "s1": "Deal 7% + 1,250,000 to target enemy. If it's a Non-Konoha enemy: Deal 3 Additional Attacks dealing 7% + 330,000. Low chance to Insta Kill (Chance to Insta Kill if Additional Attack Occurs). (Always Hit)",
+          "s1": "Deal 7% + 1,250,000 to target enemy. If it's a Non-Konoha enemy: Deal 3 Additional Attacks dealing 7% + 330,000. Low Chance to Insta Kill (If Additional Attack Occurs: Chance to Insta Kill). (Always Hit)",
           "s1ntr": "Sharingan",
           "s1cs": "Fast",
           "s1c": 95,
 
           "s2n": "Taking Up the Pain",
-          "s2": "Party SPD +200% and Cast Speed +2. Change the Terrain to 'True World's Eyes'. [True World's Eyes: Party: Remove and Immune to Negative Special and God State. Enemy: Remove and Immune to Positive Special and God State. Skill Dodge is Disabled]",
+          "s2": "Party SPD +200% and Cast Speed +2. Change the Terrain to 'True World's Eyes'. [True World's Eyes: Party: Remove and Immune to Negative Special and God State. Enemy: Remove and Immune to Positive Special and God State. Skill Dodge Disabled]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 75,
@@ -4549,7 +4549,7 @@ window.detail=[
           "s1c": 100,
 
           "s2n": "Isn't It Such A Thing?",
-          "s2": "Deal 1 to 5 Attacks dealing 7% + 50,000 to target enemy. Inflict 'Chaos' State to GK and Champion enemies and 'Hell' State to Konoha enemies. [Chaos: Increase stack when inflicted. SPD -50% and Cast Speed -1 per Stack] [Hell: Chakra Cost +40%. HP and Chakra -40% per turn] (Always Hit)",
+          "s2": "Deal 1 to 5 Attacks dealing 7% + 50,000 to target enemy. Inflict 'Chaos' State to GK and Champion enemies and 'Hell' State to Konoha enemies. [Chaos: Cast Speed -1 and SPD -50% per stack (Max 3)] [Hell: Chakra Cost +40%. HP and Chakra -40% every turn] (Always Hit)",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 100,
@@ -4571,7 +4571,7 @@ window.detail=[
           "lead": "None Characters: HP +100% and Cast Speed +1",
 
           "s1n": "Fire Style: Great Bomb Blast Dance",
-          "s1": "Deal 7% + 666,666 to target enemy. Chance to Inflict 'Chaos' State (If it's a Konoha enemy: Guarantee Inflict). If the enemy is under 'Chaos' State: Deal 2 Additional Attacks dealing 100,000 Fixed Damage. [Chaos: Increase stack when inflicted. SPD -50% and Cast Speed -1 per Stack]",
+          "s1": "Deal 7% + 666,666 to target enemy. Chance to Inflict 'Chaos' State (If it's a Konoha enemy: Guarantee Inflict). If the enemy is under 'Chaos' State: Deal 2 Additional Attacks dealing 100,000 Fixed Damage. [Chaos: Cast Speed -1 and SPD -50% per stack (Max 3)]",
           "s1ntr": "Fire",
           "s1cs": "Fastest",
           "s1c": 80,
@@ -4599,7 +4599,7 @@ window.detail=[
           "lead": "Konoha Characters: 3 Turns: Incoming Skill Damage -50%",
 
           "s1n": "Physical Training!",
-          "s1": "Deal 7% + 30,000 to target enemy. Grant 'Gale' State to self. Deal more damage the more  Konoha allies (Max 5x with 5 allies). [Gale: SPD and Skill Damage +100%]",
+          "s1": "Deal 7% + 30,000 to target enemy. Grant 'Gust' State to self. Deal more damage the more  Konoha allies (Max 5x with 5 allies). [Gust: SPD and Skill Damage +100%]",
           "s1ntr": "Taijutsu",
           "s1cs": "Fast",
           "s1c": 80,
@@ -4627,13 +4627,13 @@ window.detail=[
           "lead": "Konoha and Red Characters: HP and Chakra +100%",
 
           "s1n": "Cherry Blade Daance",
-          "s1": "Deal 7% + 300,000 to target enemy. Chance to inflict 'Charm'. Chance to Crit dealing 5x damage. If under 'All Barrier' State: Grant 'Protection' State to Party. [Protection: Remove and Immune to Debuff, Status Effect and Negative Special State]",
+          "s1": "Deal 7% + 300,000 to target enemy. Chance to inflict 'Charm'. Chance to Crit dealing 5x damage. If under 'Full Bulwark' State: Grant 'Protection' State to Party. [Protection: Remove and Immune to Debuff, Status Effect and Negative Special State]",
           "s1ntr": "Taijutsu",		  
           "s1cs": "Fast",
           "s1c": 80,
 
           "s2n": "Don't Leave Me Behind",
-          "s2": "Recover 300,000 HP to Party. Grant 'All Barrier' State to Self. [All Barrier: Allies are Immune to AoE attacks]",
+          "s2": "Recover 300,000 HP to Party. Grant 'Full Bulwark' State to Self. [Full Bulwark: Grant AoE Damage Immunity to Party]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
@@ -4642,7 +4642,7 @@ window.detail=[
           "a1": "If there's a Naruto or Sasuke ally: SPD +100% (If Both: +200%)",
 
           "a2n": "Maiden's Courage",
-          "a2": "Withstand +3, Chance to Start the Battle with 'All Barrier' State, Grant 'Protection' State to Party upon Death",
+          "a2": "Withstand +3, Chance to Start the Battle with 'Full Bulwark' State, Grant 'Protection' State to Party upon Death",
 
           "a3n": "Yellow Specialization",
           "a3": "Type Advantage and Damage Cut +50% against Yellow"
@@ -4655,7 +4655,7 @@ window.detail=[
           "lead": "Konoha and Black Characters: Cast Speed +1",
 
           "s1n": "Summoning: Trusted Fang",
-          "s1": "Deal 7% + 500,000 to target enemy. If under 'Instant Guidance' State: Deal 3 Additional Attacks dealing 7% + 100,000. Grant 'Entrust' State to Konoha allies. [Entrust: Skill Damage +150%, Fixed Damage Deals 0 Damage]",
+          "s1": "Deal 7% + 500,000 to target enemy. If under 'Instant Guidance' State: Deal 3 Additional Attacks dealing 7% + 100,000. Grant 'Entrust' State to Konoha allies. [Entrust: Skill Damage +150%, Fixed Damage Immunity]",
           "s1ntr": "Summoning",		  
           "s1cs": "Fastest",
           "s1c": 80,
@@ -6083,7 +6083,7 @@ window.detail=[
           "lead": "Konoha Characters: ATK and SPD +80%",
 
           "s1n": "Seal Destruction: 8 Triagrams 64 Palms",
-          "s1": "Deal 3% + 555,555 to all enemies. Deal 6 Additional Attacks dealing 3% + 55,555 to all enemies. High chance to Inflict 'Deficit' and 'Block' States. If the enemy is under 'Deficit' State: Deal 4 Additional Attacks dealing 3% + 55,555 to enemies. [Deficit: Chakra Recovery is set to 0] [Block: Skill Disabled]",
+          "s1": "Deal 3% + 555,555 to all enemies. Deal 6 Additional Attacks dealing 3% + 55,555 to all enemies. High chance to Inflict 'Deficit' and 'Block' States. If the enemy is under 'Deficit' State: Deal 4 Additional Attacks dealing 3% + 55,555 to enemies. [Deficit: Set Chakra Recovery to 0] [Block: Skill Disabled]",
           "s1ntr": "Byakugan",
           "s1cs": "Fast",
           "s1c": 80,
@@ -6173,7 +6173,7 @@ window.detail=[
           "s1c": 90,
 
           "s2n": "I Decide",
-          "s2": "Own Skill Damage +100%. Grant 'All Barrier' State to self. If there's an enemy under the 'Usurp' State: Fully Recover Chakra of Party. [All Barrier: Immune to AOE Skills]",
+          "s2": "Own Skill Damage +100%. Grant 'Full Bulwark' State to self. If there's an enemy under the 'Usurp' State: Fully Recover Chakra of Party. [Full Bulwark: Grant AoE Damage Immunity to Party]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 80,
@@ -6195,19 +6195,19 @@ window.detail=[
           "lead": "Konoha Characters: SPD +100%, Chance to Dodge",
 
           "s1n": "Kotoamatsukami: Eye of the Imperial",
-          "s1": "Deal 3% + 1,000,000 to all enemies. Chance to Ignore Resistance and Skill Dodge and Inflict 'God Frenzy' to a random enemy. Consume all Chakra. Deal more damage the more Chakra Consumed (2x per 100 Chakra). [God Frenzy: ATK, Crit Chance and Crit Damage +1,000%, SPD +300%. Remove Buffs, Debuffs, Status Effects, Genjutsu, Special State and God State except for God Frenzy. Remove and Immune to Cover. Randomly Attack an ally. High chance to Inflict 'God Frenzy' to a random ally per turn]",
+          "s1": "Deal 3% + 1,000,000 to all enemies. Chance to Ignore Resistance and Skill Dodge and Inflict 'God Frenzy' to a random enemy. Consume all Chakra. Deal more damage the more Chakra Consumed (2x per 100 Chakra). [God Frenzy: ATK, Crit Chance and Crit Damage +1,000%, SPD +300%. Remove Buffs, Debuffs, Status Effects, Genjutsu, Special State and God State except for God Frenzy. Remove and Immune to Cover. Randomly Attack an ally. High Chance to Inflict 'God Frenzy' to a random ally per turn]",
           "s1ntr": "Sharingan",
           "s1cs": "Fastest",
           "s1c": 50,
 
-          "s2n": "Pondering about Existence",
-          "s2": "Party ATK and SPD +100%, Cast Speed +1. Grant Konoha allies except self 'Entrust' State. [Entrust: Skill Damage +150%. Fixed Damage deals 0 Damage]",
+          "s2n": "Pondering About Existence",
+          "s2": "Party ATK and SPD +100%, Cast Speed +1. Grant Konoha allies except self 'Entrust' State. [Entrust: Skill Damage +150%. Fixed Damage Immunity]",
           "s2ntr": "Unique",
           "s2cs": "Fastest",
           "s2c": 90,
 
           "a1n": "Mutual Brilliance",
-          "a1": "1 Turn: Chance to Inflict 'God Frenzy' God State when attacked, Grant 'Entrust' State to Party upon Death, Skill Dodge +200%",
+          "a1": "1 Turn: Chance to Inflict 'God Frenzy' God State when attacked, Upon Death: Grant 'Entrust' State to Party, Skill Dodge +200%",
 
           "a2n": "The Ultimate Genjutsu to Protect Against Conflict",
           "a2": "Withstand +3, SPD +100% per turn (Max 500%), Damage Cut +50% against EX, Origin and Destroyer",
@@ -6397,7 +6397,7 @@ window.detail=[
           "s1c": 80,
 
           "s2n": "Why Because.... Its Unnecessary!",
-          "s2": "All enemies' DEF and SPD -80%, Skill Damage -100%. If the enemy is under 'Usurp' State: Inflict 'Deficit' state and Remove Positive Special State. [Deficit: Chakra Recovery is set to 0]",
+          "s2": "All enemies' DEF and SPD -80%, Skill Damage -100%. If the enemy is under 'Usurp' State: Inflict 'Deficit' state and Remove Positive Special State. [Deficit: Set Chakra Recovery to 0]",
           "s2ntr": "Unique",
           "s2cs": "Fast",
           "s2c": 70,
