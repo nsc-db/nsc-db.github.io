@@ -1,4 +1,116 @@
 window.detail=[
+     {
+          "id": 20001706,
+          "name": "Killer Bee",
+          "subtext": "Words in My Heart",
+
+          "lead": "Kumo Characters: SPD and ATK +20%",
+
+          "s1n": "Super Vibrato Lightning Blades",
+          "s1": "Deal 12x ATK to target enemy. Grant 'Cow' State. [Cow: 5x ATK and Ignore 50% DEF, Increase Counter when Granted this State. When Counter is 3: Remove this state]",
+		  "s1ntr": "Taijutsu",
+          "s1cs": "Fastest",
+          "s1c": 70,
+
+          "s2n": "OK... Brother!",
+          "s2": "Party ATK +100%. If there's an Ay ally: Own Taijutsu Skill Damage +120%",
+          "s2ntr": "None",
+          "s2cs": "Fastest",
+          "s2c": 60,
+
+          "a1n": "Eight Tail Jinchūriki",
+          "a1": "Taijutsu Skill Damage +80%, Chakra +80",
+
+          "a2n": "Strong Will",
+          "a2": "ATK +30% per Kumo ally (Max 150%)",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20040706,
+          "name": "Naruto Uzumaki",
+          "subtext": "Golden Nine Tails Flame",
+
+          "lead": "Konoha Characters: SPD and Skill Damage +70%",
+
+          "s1n": "Planetary Rasengan",
+          "s1": "Deal 3% + 100,000 to all enemies. If under 'Love' State: Deal 2x Damage. If under 'Flash Mode' State: Deal an Additional Attack dealing 3% + 100,000.",
+		  "s1ntr": "Unique",
+          "s1cs": "Fast",
+          "s1c": 60,
+
+          "s2n": "After all... You are...",
+          "s2": "Own ATK +100%. If there's a Kushina ally: Grant 'Love' State to self. If there's a Minato ally: Grant 'Flash Mode' State to self. [Love: ATK, SPD and Skill Damage +100%, Incoming Skill Damage -50%] [Flash Mode: SPD +100%. Set Cast Speed to Flash]",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 90,
+
+          "a1n": "Flame of Life",
+          "a1": "HP +100%, Chakra +50",
+
+          "a2n": "Settlement with Hatred",
+          "a2": "ATK +100%, Chakra Recovery +20%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20041104,
+          "name": "Sasori",
+          "subtext": "Everlasting Puppet",
+
+          "lead": "Yellow Characters: HP and ATK +100%, Status Effect Immunity",
+
+          "s1n": "Performance: 3rd Kazekage",
+          "s1": "Deal 7% + 450,000 to target enemy. Deal an Additional Attack dealing 450,000 Fixed Damage. Deal an Additional Attack dealing 450,000 Fixed Damage depending on the total Special States on self and target enemy. (Always Hit)",
+		  "s1ntr": "Unique",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "I'll Show You The Best",
+          "s2": "Own SPD +80% and Cast Speed +1. Grant 'Wicked' State to Akatsuki allies. [Wicked: Skill Damage +20%, ATK, DEF and SPD +30% per stack (Max 3)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 70,
+
+          "a1n": "Puppet Operation Technology",
+          "a1": "ATK and SPD +30% per Akatsuki ally (Max 150%)",
+
+          "a2n": "The Secret to making Human Puppets",
+          "a2": "Skill Damage +100%, Withstand +2",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20050706,
+          "name": "Shikamaru Nara",
+          "subtext": "Genius Ninja Summer Nightmare",
+
+          "lead": "Red Characters: After 3 Turns: SPD +60%",
+
+          "s1n": "Ninja Art: Shadow Strangle Jutsu",
+          "s1": "Deal 7% + 200,000 to target enemy. Very High Chance to Inflict 'Bind' State. If it's a Female enemy: Inflict 'Skill Damage -50%'. [Bind: Skill Damage -100% and SPD -150%]",
+		  "s1ntr": "Secret",
+          "s1cs": "Fast",
+          "s1c": 90,
+
+          "s2n": "Let Me Slow Down...",
+          "s2": "Recover 100,000 HP to self. Chakra Recovery when Defending +50%. If there's a Female enemy: Consume 50 Chakra",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Strategic Thinking Ability",
+          "a1": "5 Turns: Skill Damage +50%, After 3 Turns: SPD +120%",
+
+          "a2n": "Shadow-Making Fantasy",
+          "a2": "After 3 Turns: ATK, DEF and SPD +80% for 1 Turn, After 5 Turns: Chakra Recovery +100%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
     {
         "id": 20070606,
         "name": "Itachi Uchiha",
@@ -91,7 +203,7 @@ window.detail=[
           "lead": "Konoha Characters: HP, ATK, DEF and SPD +20%",
 
           "s1n": "Leaf Style: Kunai Guidance",
-          "s1": "Deal 7% + 15,000 to target enemy. Inflicts 'Cut' State. Grant SPD +50% for 1 Turn to other Konoha allies. [Cut: Cast Speed -1 and Skill Damage -20%]",
+          "s1": "Deal 7% + 15,000 to target enemy. Inflict 'Cut' State. Grant SPD +50% for 1 Turn to other Konoha allies. [Cut: Cast Speed -1 and Skill Damage -20%]",
 		  "s1ntr": "Weapon",
           "s1cs": "Fastest",
           "s1c": 80,
@@ -2555,12 +2667,12 @@ window.detail=[
           "lead": "White Characters: ATK and Byakugan Skill Damage +40%",
 
           "s1n": "Gentle Fist Art: Eight Trigrams Sixty-Four Palms",
-          "s1": "Deals 7% + 2,500 to target enemy. Chance to Inflict 'Skip'. High Chance to Crit and Deal 4x more damage. (Always Hit)",
+          "s1": "Deals 7% + 2,500 to target enemy. Chance to Inflict 'Skip'. High Chance to Crit and Deal 4x Damage. (Always Hit)",
           "s1ntr": "Byakugan",
           "s1cs": "Fastest",
           "s1c": 50,
 
-          "s2n": "Don't Underestimate The Power of Hinata!",
+          "s2n": "Don't Underestimate The Power of The Hyuga!",
           "s2": "Own ATK +100%. Hinata, Neji, Hanabi and Hiashi allies' Skill Damage +250%",
           "s2ntr": "Byakugan",
           "s2cs": "Fastest",
@@ -4470,7 +4582,7 @@ window.detail=[
           "s2cs": "Fastest",
           "s2c": 170,
 
-          "a1n": "Finding Love as a Jinchuriki",
+          "a1n": "Finding Love as a Jinchūriki",
           "a1": "Damage Cut +50% against EX, Origin and Destroyer, Withstand +3, DEF +300% upon Withstanding",
 
           "a2n": "Indomitable Love",
