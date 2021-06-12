@@ -1,13 +1,209 @@
 window.detail=[
      {
+          "id": 20001705,
+          "name": "Ay",
+          "subtext": "Brotherhood",
+
+          "lead": "All Characters: Lightning and Taijutsu Skill Damage +20%",
+
+          "s1n": "Double Lariat",
+          "s1": "Deal 12x ATK to target enemy. Grant 'Cow' State. [Cow: 5x ATK and Ignore 50% DEF, Increase Counter when Granted this State. When Counter is 3: Remove this state]",
+		  "s1ntr": "Taijutsu",
+          "s1cs": "Fastest",
+          "s1c": 70,
+
+          "s2n": "Do…",
+          "s2": "Party SPD +100%. If there's a Killer Bee ally: Own Taijutsu Skill Damage +120%",
+          "s2ntr": "None",
+          "s2cs": "Fastest",
+          "s2c": 60,
+
+          "a1n": "Taijutsu Master",
+          "a1": "Taijutsu Skill Damage +80%",
+
+          "a2n": "Kumo's Chief",
+          "a2": "SPD and ATK +20% per Kumo ally (Max 100%)",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20001822,
+          "name": "Hiashi Hyuga",
+          "subtext": "The Solemn Head",
+
+          "lead": "White Characters: HP, SPD and Byakugan Skill Damage +20%",
+
+          "s1n": "Eight Trigrams Air Wall Palm",
+          "s1": "Deal 7% + 2,000 to target enemy. Inflict 'Cancel'. If SPD Up: Deal 3x Damage.",
+		  "s1ntr": "Byakugan",
+          "s1cs": "Fastest",
+          "s1c": 70,
+
+          "s2n": "Remember The Power of The Hyuga",
+          "s2": "Party SPD +100%, Konoha allies' Skill Damage +100%. White allies' ATK +100%.",
+          "s2ntr": "Byakugan",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Konoha's Strongest Pedigree",
+          "a1": "SPD and ATK +25% per Konoha ally (Max 125%)",
+
+          "a2n": "The Pride of The Hyuga Clan",
+          "a2": "HP and Byakugan Skill Damage +100%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20030705,
+          "name": "Kiba Inuzuka",
+          "subtext": "Gust of Wind",
+
+          "lead": "Yellow Characters: ATK +80%",
+
+          "s1n": "Wolf Fang Over Fang",
+          "s1": "Deal 7% + 1,000 to target enemy. Chance to Inflict 'Bleed' State. Low Chance to Inflict 'Confusion' to self. If the enemy is under 'Bleed' State: Deal 4x Damage. [Bleed: Reduce HP every turn and Chance for DEF Down]",
+		  "s1ntr": "Secret",
+          "s1cs": "Fastest",
+          "s1c": 50,
+
+          "s2n": "I won't Let You Escape!",
+          "s2": "Own SPD and ATK +100% and Cast Speed +1",
+          "s2ntr": "Unique",
+          "s2cs": "Normal",
+          "s2c": 90,
+
+          "a1n": "Smell More than A Ninja Dog",
+          "a1": "SPD +80%, 4 Turns: High Chance to Dodge Skills",
+
+          "a2n": "Wild Intuition",
+          "a2": "ATK and Skill Damage +100%, Chakra >80%: Skill Damage +80% (Max 180%)",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20040203,
+          "name": "Masked Man",
+          "subtext": "Those Who Bring Disaster",
+
+          "lead": "None Characters: HP and Skill Damage +30%",
+
+          "s1n": "All-Transparency",
+          "s1": "Deal 20,000 Fixed Damage to target enemy. High Chance to Inflict 'Misery' State. If it's a Five Village enemy: Deal 6x Damage [Misery: Skill Damage and ATK -20% per stack (Max 3)]",
+		  "s1ntr": "Space-Time",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "I'm The Most Calm",
+          "s2": "Own SPD and Skill Damage +120%. Grant 'Skill Dodge (High Chance).",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 65,
+
+          "a1n": "The Power to Bring Disaster",
+          "a1": "HP and SPD +120%",
+
+          "a2n": "Dangerous Thought",
+          "a2": "HP >70%: Skill Damage +170%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20040705,
+          "name": "Kushina Uzumaki",
+          "subtext": "Love and Desire",
+
+          "lead": "Konoha Characters: HP and ATK +70%",
+
+          "s1n": "Sealing Jutsu: Adamantine Sealing Chains",
+          "s1": "Deal 7% + 20,000 to target enemy. High Chance to Inflict 'Seal' and 'Cancel'. Deal more damage the more Konoha allies alive (Max 5x with 5 people).",
+		  "s1ntr": "Sealing",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "I Love You",
+          "s2": "Recover 50,000 HP and an Oversized amount of Chakra to Party. If there's a Minato or Naruto ally: Remove Party's Status Effects.",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Feelings Filled with Vessels",
+          "a1": "HP +100%, Revive +2",
+
+          "a2n": "Pour into The Child",
+          "a2": "SPD +100%, Protect Konoha allies from Single Target Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20050302,
+          "name": "Genma Shiranui",
+          "subtext": "Easy-Going Pride",
+
+          "lead": "Konoha Characters: SPD +60%",
+
+          "s1n": "Three Blades",
+          "s1": "Deal 7% + 10,000 to target enemy. Low Chance to Deal an Additional Attack dealing 7% + 10,000. If under 'Determined' State: Deal 7x Damage.",
+		  "s1ntr": "Weapon",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "Don't Underestimate Konohagakure's Shinobi",
+          "s2": "Party ATK +80%. Grant 'Determined' State to Konoha allies. [Determined: ATK, DEF and SPD +30%, When Attacked: HP and Chakra Recovery +20%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Look Over Chūnin Candidates",
+          "a1": "SPD +20% per Konoha ally (Max 100%)",
+
+          "a2n": "Accurate Blow",
+          "a2": "3 Turns: Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+    {
+        "id": 20050705,
+        "name": "Tayuya",
+        "subtext": "Foul Mouth Beauty",
+
+        "lead": "Oto Characters: HP, ATK, DEF, and SPD +50%, Cast Speed +2",
+
+        "s1n": "It's Summer! It's a Swimsuit! It's a Curse of Love!",
+        "s1": "Deal 3% + 300,000 to all enemies. High Chance to Inflict 'Abuse' State. If the enemy is under 'Abuse' State: Deal 2x Damage. [Abuse: Action Disabled]",
+        "s1ntr": "Taijutsu",
+        "s1cs": "Fast",
+        "s1c": 70,
+
+        "s2n": "…This Bastard",
+        "s2": "High Chance for enemies' ATK, DEF and SPD -70%. Inflict 'Bleed' State. High Chance to Inflict 'Charm'. [Bleed: Reduce HP every turn and Chance for DEF Down]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 70,
+
+        "a1n": "Poisonous Tongue in The Waves",
+        "a1": "HP and SPD +100%",
+
+        "a2n": "Summer Magic",
+        "a2": "Status Effect and Debuff Immunity, Chakra Recovery +20%",
+
+        "a3n": "Red Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Red"
+    },
+     {
           "id": 20001706,
           "name": "Killer Bee",
           "subtext": "Words in My Heart",
 
           "lead": "Kumo Characters: SPD and ATK +20%",
 
-          "s1n": "Super Vibrato Lightning Blades",
-          "s1": "Deal 12x ATK to target enemy. Grant 'Cow' State. [Cow: 5x ATK and Ignore 50% DEF, Increase Counter when Granted this State. When Counter is 3: Remove this state]",
+          "s1n": "Double Lariat",
+          "s1": "Deal 12x ATK to target enemy. Grant 'Lariat' State. [Lariat: 5x ATK and Ignore 50% DEF, Increase Counter when Granted this State. When Counter is 3: Remove this state]",
 		  "s1ntr": "Taijutsu",
           "s1cs": "Fastest",
           "s1c": 70,
