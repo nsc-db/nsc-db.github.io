@@ -28179,6 +28179,126 @@
           "effectIds": "2343,3426,2807,3620,"
         },
         {
+          "abilityId": "2872",
+          "abilityName": "変幻自在の紙技",
+          "abilityDescription": "敵に木ノ葉隠れの里所属がいると先制攻撃&amp;バトル開始時に高確率で敵全体を耐性を無視して封印状態にする。",
+          "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると先制攻撃&amp;バトル開始時に高確率で敵全体を耐性を無視して封印状態にする。",
+          "effectIdx1": "3149",
+          "effectIdx2": "4128",
+          "effectIdx3": "0",
+          "effectIds": "3149,4128,"
+        },
+        {
+          "abilityId": "2873",
+          "abilityName": "痛み知る者の祈り",
+          "abilityDescription": "HP0以下で5回耐え、敵に木ノ葉隠れの里所属が生存していると確率で受けるダメージを90%カット。",
+          "abilityEffectDescription": "HP0以下で5回耐え、敵に木ノ葉隠れの里所属が生存していると確率で受けるダメージを90%カット。",
+          "effectIdx1": "1512",
+          "effectIdx2": "4129",
+          "effectIdx3": "0",
+          "effectIds": "1512,4129,"
+        },
+        {
+          "abilityId": "2874",
+          "abilityName": "汚名を背負う決断",
+          "abilityDescription": "HP0以下で3回耐える。敵にうちは一族が生存していると確率で再行動※再行動後さらに行動不可",
+          "abilityEffectDescription": "HP0以下で3回耐える。敵にうちは一族が生存していると確率で再行動※再行動後さらに行動不可",
+          "effectIdx1": "4049",
+          "effectIdx2": "3410",
+          "effectIdx3": "0",
+          "effectIds": "4049,3410,"
+        },
+        {
+          "abilityId": "2875",
+          "abilityName": "弟への想い",
+          "abilityDescription": "敵にうちは一族がいると確率でスキル2で急襲攻撃(チャクラ大回復)。1回行動まで幻惑無効",
+          "abilityEffectDescription": "敵にうちは一族がいると確率でスキル2で急襲攻撃(チャクラ大回復)。1回行動まで幻惑無効",
+          "effectIdx1": "3050",
+          "effectIdx2": "4133",
+          "effectIdx3": "0",
+          "effectIds": "3050,4133,"
+        },
+        {
+          "abilityId": "2876",
+          "abilityName": "弟弟子へ託す希望",
+          "abilityDescription": "バトル開始・行動後に【忍方陣：万象天星】を展開｡被攻撃時､確率で即アクション",
+          "abilityEffectDescription": "バトル開始・行動後に【忍方陣：万象天星】を展開｡被攻撃時､確率で即アクション",
+          "effectIdx1": "4142",
+          "effectIdx2": "4144",
+          "effectIdx3": "3620",
+          "effectIds": "4142,4144,3620,"
+        },
+        {
+          "abilityId": "2877",
+          "abilityName": "託された友の瞳",
+          "abilityDescription": "HP0以下で2回HP全回復｡被攻撃時に確率で自身の素早さを次の行動まで1,000%アップ",
+          "abilityEffectDescription": "HP0以下で2回HP全回復｡被攻撃時に確率で自身の素早さを次の行動まで1,000%アップ",
+          "effectIdx1": "1057",
+          "effectIdx2": "874",
+          "effectIdx3": "4146",
+          "effectIds": "1057,874,4146,"
+        },
+        {
+          "abilityId": "2878",
+          "abilityName": "弟弟子へ託す希望",
+          "abilityDescription": "バトル開始・行動後に【忍方陣：真・万象天星】を展開｡被攻撃時､確率で即アクション",
+          "abilityEffectDescription": "バトル開始・行動後に【忍方陣：真・万象天星】を展開｡被攻撃時､確率で即アクション",
+          "effectIdx1": "4143",
+          "effectIdx2": "4145",
+          "effectIdx3": "3620",
+          "effectIds": "4143,4145,3620,"
+        },
+        {
+          "abilityId": "2879",
+          "abilityName": "託された友の瞳",
+          "abilityDescription": "HP0以下で3回HP全回復｡被攻撃時に高確率で自身の素早さを次の行動まで1,000%アップ",
+          "abilityEffectDescription": "HP0以下で3回HP全回復｡被攻撃時に高確率で自身の素早さを次の行動まで1,000%アップ",
+          "effectIdx1": "1789",
+          "effectIdx2": "874",
+          "effectIdx3": "4147",
+          "effectIds": "1789,874,4147,"
+        },
+        {
+          "abilityId": "2880",
+          "abilityName": "木ノ葉の医術の師匠",
+          "abilityDescription": "バトル開始・行動後に【忍方陣：豪花豪岩】を展開｡被攻撃時､確率で即アクション",
+          "abilityEffectDescription": "バトル開始・行動後に【忍方陣：豪花豪岩】を展開｡被攻撃時､確率で即アクション",
+          "effectIdx1": "4164",
+          "effectIdx2": "4166",
+          "effectIdx3": "3620",
+          "effectIds": "4164,4166,3620,"
+        },
+        {
+          "abilityId": "2881",
+          "abilityName": "三竦みを継ぐ弟子",
+          "abilityDescription": "HP0以下で2回HP全回復｡死亡時､「サクラ＆綱手」以外の味方を蘇生※最後死亡時発動無し",
+          "abilityEffectDescription": "HP0以下で2回HP全回復｡死亡時､「サクラ＆綱手」以外の味方を蘇生※最後死亡時発動無し",
+          "effectIdx1": "874",
+          "effectIdx2": "1057",
+          "effectIdx3": "4168",
+          "effectIds": "874,1057,4168,"
+        },
+        {
+          "abilityId": "2882",
+          "abilityName": "木ノ葉の医術の師匠",
+          "abilityDescription": "バトル開始・行動後に【忍方陣：真・豪花豪岩】を展開｡被攻撃時､確率で即アクション",
+          "abilityEffectDescription": "バトル開始・行動後に【忍方陣：真・豪花豪岩】を展開｡被攻撃時､確率で即アクション",
+          "effectIdx1": "4165",
+          "effectIdx2": "4167",
+          "effectIdx3": "3620",
+          "effectIds": "4165,4167,3620,"
+        },
+        {
+          "abilityId": "2883",
+          "abilityName": "三竦みを継ぐ弟子",
+          "abilityDescription": "HP0以下で3回HP全回復｡死亡時､「サクラ＆綱手」以外の味方を蘇生※最後死亡時発動無し",
+          "abilityEffectDescription": "HP0以下で3回HP全回復｡死亡時､「サクラ＆綱手」以外の味方を蘇生※最後死亡時発動無し",
+          "effectIdx1": "874",
+          "effectIdx2": "1789",
+          "effectIdx3": "4168",
+          "effectIds": "874,1789,4168,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -30249,6 +30369,36 @@
           "effectIds": "3942,4049,3867,"
         },
         {
+          "abilityId": "100149",
+          "abilityName": "拘束の引力",
+          "abilityDescription": "3回行動まで素早さ150%アップ、ダメージを受けた時にHPとチャクラが30%回復する",
+          "abilityEffectDescription": "3回行動まで素早さ150%アップ、ダメージを受けた時にHPとチャクラが30%回復する",
+          "effectIdx1": "4130",
+          "effectIdx2": "1649",
+          "effectIdx3": "2082",
+          "effectIds": "4130,1649,2082,"
+        },
+        {
+          "abilityId": "100150",
+          "abilityName": "汚名を背負う決断",
+          "abilityDescription": "HP0以下で5回耐える。敵にうちは一族が生存していると高確率で再行動※再行動後さらに行動不可",
+          "abilityEffectDescription": "HP0以下で5回耐える。敵にうちは一族が生存していると高確率で再行動※再行動後さらに行動不可",
+          "effectIdx1": "1512",
+          "effectIdx2": "4136",
+          "effectIdx3": "0",
+          "effectIds": "1512,4136,"
+        },
+        {
+          "abilityId": "100151",
+          "abilityName": "弟への想い",
+          "abilityDescription": "敵にうちは一族がいると高確率でスキル2で急襲攻撃(チャクラ大回復)。3回行動まで幻惑無効",
+          "abilityEffectDescription": "敵にうちは一族がいると高確率でスキル2で急襲攻撃(チャクラ大回復)。3回行動まで幻惑無効",
+          "effectIdx1": "4134",
+          "effectIdx2": "4135",
+          "effectIdx3": "0",
+          "effectIds": "4134,4135,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -30487,6 +30637,16 @@
           "effectIdx2": "228350",
           "effectIdx3": "3763",
           "effectIds": "229304,228350,3763,3764,3765,3762,"
+        },
+        {
+          "abilityId": "200027",
+          "abilityName": "体・心属性特化",
+          "abilityDescription": "体・心属性へのスキル攻撃時に相手の耐性を弱点とする。体・心属性からのダメージを50%カット",
+          "abilityEffectDescription": "体・心属性へのスキル攻撃時に相手の耐性を弱点とする。体・心属性からのダメージを50%カット",
+          "effectIdx1": "229204",
+          "effectIdx2": "228250",
+          "effectIdx3": "229004",
+          "effectIds": "229204,228250,229004,228050,"
         },
         {
           "abilityId": "210001",
@@ -32987,6 +33147,16 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "4119,"
+        },
+        {
+          "abilityId": "310224",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "2回行動まで幻惑解除し無効化",
+          "abilityEffectDescription": "2回行動まで幻惑解除し無効化",
+          "effectIdx1": "4159",
+          "effectIdx2": "4160",
+          "effectIdx3": "0",
+          "effectIds": "4159,4160,"
         },
         {
           "abilityId": "801187",

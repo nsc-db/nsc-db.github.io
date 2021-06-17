@@ -1117,6 +1117,32 @@
           "legendPanelList": "0"
         },
         {
+          "sphereBoardId": "10097",
+          "boardName": "Temp_Ct40_心属性_の潜在覚醒盤",
+          "boardDescription": "うちはイタチ【守り導く覚悟】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070606",
+          "normalPanelList": "9000001,9000002,9000003",
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "10098",
+          "boardName": "Temp_Ct40_知属性_の潜在覚醒盤",
+          "boardDescription": "小南【神命の操紙者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070604",
+          "normalPanelList": "9000019,9000020,9000021",
+          "specialPanelList": "9000022,9000023,9000024",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -1690,7 +1716,7 @@
         },
         {
           "sphereBoardId": "50045",
-          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_4枚あり",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_4枚あり伝説",
           "boardDescription": "ペイン【壊滅の啓示】",
           "rare": "0",
           "costMin": "0",
@@ -1699,7 +1725,7 @@
           "cardId": "20061106",
           "normalPanelList": "9100019,9100020,9100021,9100033",
           "specialPanelList": "9100022,9100023,9100024,9100034",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50046",
@@ -1794,7 +1820,7 @@
         },
         {
           "sphereBoardId": "50053",
-          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚あり",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚あり伝説",
           "boardDescription": "小南【闇伐の紙天使】",
           "rare": "0",
           "costMin": "0",
@@ -1803,7 +1829,7 @@
           "cardId": "20070205",
           "normalPanelList": "9100025,9100026,9100027,9100037",
           "specialPanelList": "9100028,9100029,9100030,9100038",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50054",
@@ -2066,6 +2092,19 @@
           "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
         },
         {
+          "sphereBoardId": "50075",
+          "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_伝説",
+          "boardDescription": "ペイン【引斥の憎恨】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050211",
+          "normalPanelList": "9100025,9100026,9100027",
+          "specialPanelList": "9100028,9100029,9100030",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
           "sphereBoardId": "50076",
           "boardName": "Temp_Ct=&gt;90_勇属性_の潜在覚醒盤_4枚あり_伝説",
           "boardDescription": "ペイン【ふりかざす神意】",
@@ -2077,6 +2116,32 @@
           "normalPanelList": "9100025,9100026,9100027,9100051",
           "specialPanelList": "9100028,9100029,9100030,9100052",
           "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
+        },
+        {
+          "sphereBoardId": "50077",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤",
+          "boardDescription": "イタチ＆長門【志を託す者たち】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070605",
+          "normalPanelList": "9100007,9100008,9100009",
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "50078",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤",
+          "boardDescription": "サクラ＆綱手【医拳の師と継志の桜花】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070608",
+          "normalPanelList": "9100001,9100002,9100003",
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": "0"
         },
         {
           "sphereBoardId": "60001",

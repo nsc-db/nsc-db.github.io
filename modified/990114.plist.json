@@ -3507,5 +3507,55 @@
           "subScore": "0",
           "color": "14614842",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "362",
+          "category": "3",
+          "iconId": "1446",
+          "name": "別天神",
+          "description": "効果対象変化。自身の班に攻撃。付与者ｱｸｼｮﾝ時に確率で自身ｱｸｼｮﾝ。付与者死亡時解除。解除時死亡",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "363",
+          "category": "5",
+          "iconId": "1447",
+          "name": "忍方陣：万象天星",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "364",
+          "category": "5",
+          "iconId": "1448",
+          "name": "忍方陣：真・万象天星",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
+          "subScore": "0",
+          "color": "14614842",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "365",
+          "category": "5",
+          "iconId": "1449",
+          "name": "忍方陣：豪花豪岩",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
+          "subScore": "0",
+          "color": "14524637",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "366",
+          "category": "5",
+          "iconId": "1450",
+          "name": "忍方陣：真・豪花豪岩",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
+          "subScore": "0",
+          "color": "14524637",
+          "type": "2"
         }
       ]

@@ -6257,6 +6257,12 @@
           "speechCharactorName": "綱手"
         },
         {
+          "speechCharactorId": "1077",
+          "cardId": "5",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "うちはイタチ"
+        },
+        {
           "speechCharactorId": "5001",
           "cardId": "50000001",
           "speechCharactorImgId": "0",

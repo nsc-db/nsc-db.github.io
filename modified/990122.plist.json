@@ -4415,6 +4415,30 @@
           "voiceDeath": "pain_death_02_02"
         },
         {
+          "cardVoiceId": "372",
+          "cardId": "20070605",
+          "dirName": "itachi",
+          "evolutionStep": "",
+          "voiceAppear": "itachi_battle_02_04",
+          "voiceSkill1": "itachi_attack_02_02,itachi_skill_02_10",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "itachi_win_02_04",
+          "voiceDeath": "itachi_death_02_04"
+        },
+        {
+          "cardVoiceId": "373",
+          "cardId": "20070608",
+          "dirName": "sakura",
+          "evolutionStep": "",
+          "voiceAppear": "sakura_battle_02_04",
+          "voiceSkill1": "sakura_skill_02_11,tsunade_win_02_02",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sakura_win_02_04",
+          "voiceDeath": "sakura_death_02_02"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

@@ -7494,5 +7494,50 @@
           "category": "99",
           "charaId": "0",
           "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2106004",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2106005",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2106007",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2106008",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2106009",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
         }
       ]

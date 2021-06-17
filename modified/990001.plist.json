@@ -80,38 +80,11 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "535",
-          "name": "伝説盤登場記念第二弾ログインボーナス！",
-          "type": "2",
-          "openTime": "2021.05.02 00:00:00",
-          "closeTime": "2021.05.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "536",
-          "name": "ガマブン太の月間ログインボーナス-6周年特別篇-",
-          "type": "2",
-          "openTime": "2021.05.01 00:00:00",
-          "closeTime": "2021.05.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "537",
           "name": "ガマブン太の月間ログインボーナス-2100万ダウンロード記念-",
           "type": "2",
           "openTime": "2021.06.01 00:00:00",
           "closeTime": "2021.06.30 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "538",
-          "name": "祝！ナルコレ2222日記念！ログインボーナス",
-          "type": "2",
-          "openTime": "2021.05.30 00:00:00",
-          "closeTime": "2021.06.02 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },
@@ -125,29 +98,20 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "552",
-          "name": "祝！ナルコレ６周年記念ログインボーナス第弐弾",
+          "loginBonusId": "540",
+          "name": "うちはイタチ誕生記念ログインボーナス",
           "type": "2",
-          "openTime": "2021.05.11 00:00:00",
-          "closeTime": "2021.05.21 23:59:59",
+          "openTime": "2021.06.09 00:00:00",
+          "closeTime": "2021.06.18 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },
         {
-          "loginBonusId": "553",
-          "name": "祝！ナルコレ６周年記念ログインボーナス第参弾",
+          "loginBonusId": "542",
+          "name": "2100万ダウンロード記念ログインボーナス",
           "type": "2",
-          "openTime": "2021.05.21 00:00:00",
-          "closeTime": "2021.05.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "554",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.02 00:00:00",
-          "closeTime": "2021.06.02 23:59:59",
+          "openTime": "2021.06.18 00:00:00",
+          "closeTime": "2021.06.30 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },

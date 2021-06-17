@@ -1487,5 +1487,65 @@
           "uiIdx": "20012",
           "partyEffects": "3952,3620,3728,3729,4072,3829,",
           "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20013",
+          "name": "忍方陣：万象天星・壱",
+          "category": "5",
+          "scriptId": "20013",
+          "overWrite": "1",
+          "uiIdx": "20013",
+          "partyEffects": null,
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20014",
+          "name": "忍方陣：万象天星・弐",
+          "category": "5",
+          "scriptId": "20014",
+          "overWrite": "1",
+          "uiIdx": "20014",
+          "partyEffects": "3952,3827,4154,4155,4156,",
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20015",
+          "name": "忍方陣：万象天星・参",
+          "category": "5",
+          "scriptId": "20015",
+          "overWrite": "1",
+          "uiIdx": "20015",
+          "partyEffects": "3952,3827,4154,4155,4156,4157,4158,",
+          "enemyEffects": "3796,3797,1889,1890,"
+        },
+        {
+          "battleFieldEffectId": "20016",
+          "name": "忍方陣：豪花豪岩・壱",
+          "category": "5",
+          "scriptId": "20016",
+          "overWrite": "1",
+          "uiIdx": "20016",
+          "partyEffects": null,
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20017",
+          "name": "忍方陣：豪花豪岩・弐",
+          "category": "5",
+          "scriptId": "20017",
+          "overWrite": "1",
+          "uiIdx": "20017",
+          "partyEffects": "4174,4154,4155,4175,4176,4177,",
+          "enemyEffects": "3796,3797,4172,"
+        },
+        {
+          "battleFieldEffectId": "20018",
+          "name": "忍方陣：豪花豪岩・参",
+          "category": "5",
+          "scriptId": "20018",
+          "overWrite": "1",
+          "uiIdx": "20018",
+          "partyEffects": "4174,4154,4155,4175,4176,4177,4178,",
+          "enemyEffects": "3796,3797,4173,"
         }
       ]
