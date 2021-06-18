@@ -1,4 +1,32 @@
 window.detail=[
+    {
+        "id": 20070608,
+        "name": "Sakura and Tsunade",
+        "subtext": "Medical Fist Teacher and Cherry Blossom Pupil",
+
+        "lead": "Konoha ATK +300% and SPD +100%",
+
+        "s1n": "Master-Pupil Cooperation: Great Flower Raid",
+        "s1": "Deal 120x ATK Damage ignoring 80% DEF. High chance to Ignore Resistance and Inflict 'Charm'. Deal 4 Additional Attacks dealing 120x ATK Damage to enemies inflicted with 'Charm' or 'Stunned'. (Always Hit)",
+        "s1ntr": "Taijutsu",
+        "s1cs": "Fastest",
+        "s1c": 100,
+
+        "s2n": "Master-Pupil Cooperation: Great Bullet Boulder",
+        "s2": "Deal 2,000,000 Fixed Damage to a target enemy. High chance to Ignore Resistance and inflict 'Stun' and Inflict 1 turn of 'Disable Positive Special and God State' Effect. Revive a random dead ally (Always hit) [True Great Flower and Rock: [2nd](Enemy): High Chance to Disable First Strike, Insta Cast and Instant Action. DEF Limit is set to 20,000. (Allies): Recover 500,000 HP per turn, Remove Debuff, Status Effect, Negative Special and God State per turn and Destroy enemy Terrain. [3rd](Enemy): DEF Limit is set to 1,000 (Konoha allies): Damage Cut +50%] ",
+        "s2ntr": "Taijutsu",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Konoha's Medical Master",
+        "a1": "Start the Battle with/grant 'True Great Flower and Rock' Shinobi Formation every turn. Chance for Instant Action when Attacked",
+
+        "a2n": "Disciple of the Three",
+        "a2": "Revive +3. Revive all allies upon Death except for 'Sakura and Tsunade' (Does not work if last allies alive)",
+
+        "a3n": "Red and White Type Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Red and White"
+    },
      {
           "id": 20001705,
           "name": "Ay",
