@@ -470,6 +470,16 @@ window.enggear=[
           "charaGroupIds": "0"
 }, 
 {
+          "id": 2765,
+          "type": "Stats",
+          "name": "Float",
+          "effect": "ATK and DEF +80%, Skill Damage +20%",
+          "normal": "ATK and DEF +30%",
+          "charaIds": "1201,1202",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+}, 
+{
           "id": 2775,
           "type": "Chakra",
           "name": "Strawhat",
@@ -1020,6 +1030,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 4065,
+          "type": "Skill",
+          "name": "Iron Ball",
+          "effect": "Weapon Skill Damage +100%, SPD +30%",
+          "normal": "Weapon Skill Damage +30%, SPD +10%",
+          "charaIds": "1201,1202",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 4125,
           "type": "Resistance",
           "name": "Obito's Eye",
@@ -1186,6 +1206,26 @@ window.enggear=[
           "effect": "Debuff and Status Effect Duration -50%, Chakra Recovery +5%",
           "normal": "Status Effect Duration Reduction",
           "charaIds": "1705",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4625,
+          "type": "Stats",
+          "name": "Bashōsen",
+          "effect": "HP and ATK +100%, SPD +50%",
+          "normal": "ATK +100%, Chakra -20% every turn",
+          "charaIds": "1202,52101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4635,
+          "type": "Additional",
+          "name": "Tenten's Scroll",
+          "effect": "Skill Damage +60%, Chakra Recovery +10%",
+          "normal": "Weapon Skill Damage +20%, Chakra Recovery +5%",
+          "charaIds": "1202,52101",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1430,6 +1470,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 5135,
+          "type": "Chakra",
+          "name": "Tenten's Club",
+          "effect": "Chakra Recovery +20%, ATK and Skill Damage +30%",
+          "normal": "Chakra Recovery +10%, ATK +20%",
+          "charaIds": "1201,1202",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 5185,
           "type": "Skill",
           "name": "Water Balloon",
@@ -1646,6 +1696,16 @@ window.enggear=[
           "effect": "ATK and SPD +100%, HP Recovery +10%",
           "normal": "ATK and SPD +50%",
           "charaIds": "1001,1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6015,
+          "type": "Skill",
+          "name": "Beach Ball",
+          "effect": "Skill Damage +70%, ATK +30%",
+          "normal": "Weapon Skill Damage +40%",
+          "charaIds": "1203",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -2360,6 +2420,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 8645,
+          "type": "Chakra",
+          "name": "Tenten's Forehead Protector",
+          "effect": "Chakra Cost -50%, Chakra Recovery +20%",
+          "normal": "Chakra Cost -20%",
+          "charaIds": "1201,1202,1203",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8655,
+          "type": "Skill",
+          "name": "Tenten's Gloves",
+          "effect": "Skill Damage +100%, HP >70%: Cast Speed +1",
+          "normal": "Weapon Skill Damage +50%",
+          "charaIds": "1201,1202,1203",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 8815,
           "type": "Additional",
           "name": "Prepared to Believe",
@@ -2378,6 +2458,16 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "20001736,20030512,20031209,20040810,20060506",
           "charaGroupIds": "700000"
+},
+{
+          "id": 8845,
+          "type": "Additional",
+          "name": "Benihisago",
+          "effect": "Skill Damage +90%, High , 2 Turns: Skill Immunity",
+          "normal": "Chakra -30% every turn, Skill Damage +60%, Chance to Dodge Skills",
+          "charaIds": "52201",
+		  "cardIds": "20001736,20030512,20031209,20040810,20060506",
+		  "charaGroupIds": "700001"
 },
 {
           "id": 8985,
@@ -2860,6 +2950,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 111195,
+          "type": "Stats",
+          "name": "Tenten's Kunai",
+          "effect": "SPD +70%, Start the Battle with 20% Chakra, Chakra Recovery +30%",
+          "normal": "SPD +30%",
+          "charaIds": "1201,1202,1203",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 112095,
           "type": "Chakra",
           "name": "Hinata's Bell",
@@ -3110,6 +3210,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 203095,
+          "type": "Resistance",
+          "name": "Tenten's Backpack",
+          "effect": "Status Effect Immunity, Start the Battle with 50% Chakra",
+          "normal": "Status Effect Duration -50%",
+          "charaIds": "1202",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 203105,
           "type": "Skill",
           "name": "Tenten's Jacket",
@@ -3326,6 +3436,26 @@ window.enggear=[
           "effect": "HP +100%, 2 Turns: Skill Immunity, After 2 Turns: Incoming Skill Damage -50%",
           "normal": "Incoming Skill Damage Reduction",
           "charaIds": "303,304,305,306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 206065,
+          "type": "Skill",
+          "name": "Lee's Backpack",
+          "effect": "Cast Speed +1, HP >60%: Skill Damage +90%",
+          "normal": "HP >90%: Skill Damage +60%",
+          "charaIds": "1103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 206075,
+          "type": "Skill",
+          "name": "Lee's Vest",
+          "effect": "HP and ATK +100%, When Attacked: Chance for HP and Chakra Recovery +100%",
+          "normal": "When Attacked: Low Chance for HP and Chakra Recovery +15%",
+          "charaIds": "1103",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -3666,6 +3796,36 @@ window.enggear=[
           "effect": "1 Turn: Set Chakra Cost to 0, 2 Turns: Cast Speed +1, 3 Turns: Cancel Immunity",
           "normal": "1 Turn: Chakra Cost -20%",
           "charaIds": "108,112",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 211155,
+          "type": "Skill",
+          "name": "Youth Leg Warmers",
+          "effect": "Cast Speed +1, ATK +150%, High Chance to Dodge Skills",
+          "normal": "1 Turn: Cast Speed +1",
+          "charaIds": "1103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 211165,
+          "type": "Chakra",
+          "name": "Lee's Zentai",
+          "effect": "Start the Battle with 100% Chakra, 1 Turn: Chakra Cost -50%, 2 Turns: Skill Immunity",
+          "normal": "Start the Battle with 30% Chakra",
+          "charaIds": "1103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 211175,
+          "type": "Stats",
+          "name": "Tenten's Hot Spring Bathrobe",
+          "effect": "HP +120%, 5 Turns: SPD +80%, Cast Speed +1",
+          "normal": "HP +50%, 5 Turns: SPD +30%",
+          "charaIds": "1202",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
