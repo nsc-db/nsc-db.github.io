@@ -1070,6 +1070,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 4325,
+          "type": "Skill",
+          "name": "Neji's Pouch",
+          "effect": "Skill Damage +70%, SPD +40%, Chakra Recovery +10%",
+          "normal": "Byakugan Skill Damage +30%, SPD +20%",
+          "charaIds": "1001,1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 4415,
           "type": "Additional",
           "name": "Sakura's Apron",
@@ -1577,6 +1587,36 @@ window.enggear=[
           "normal": "ATK and Sage Skill Damage +10%",
           "charaIds": "106",
           "cardIds": "20001519,20001549,20001709,20001763,20001782",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5905,
+          "type": "Stats",
+          "name": "Kiba's Jacket",
+          "effect": "ATK and SPD +100%, Chakra Recovery +10%",
+          "normal": "ATK and SPD +50%",
+          "charaIds": "802",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5915,
+          "type": "Chakra",
+          "name": "Kiba's Forehead Protector",
+          "effect": "Chakra Cost -20%, Skill Damage +30%",
+          "normal": "Chakra Cost -10%",
+          "charaIds": "802",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 5925,
+          "type": "Stats",
+          "name": "Neji's Curse Seal",
+          "effect": "ATK and SPD +100%, HP Recovery +10%",
+          "normal": "ATK and SPD +50%",
+          "charaIds": "1001,1002",
+          "cardIds": "0",
           "charaGroupIds": "0"
 },
 {
@@ -2418,7 +2458,7 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
 {
           "id": 107025,
           "type": "Chakra",
@@ -2428,7 +2468,27 @@ window.enggear=[
           "charaIds": "2103,106,107,109,110,111",
           "cardIds": "0",
           "charaGroupIds": "0"
-	},
+},
+{
+          "id": 107035,
+          "type": "Chakra",
+          "name": "Neji's Hairtie",
+          "effect": "Chakra +50, Chakra Cost -40%, Chakra Recovery +40%",
+          "normal": "Chakra Recovery +5%",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 107045,
+          "type": "Resistance",
+          "name": "Neji's Shinobi Alliance Vest",
+          "effect": "Status Effect Immunity, Skill Damage and SPD +70%",
+          "normal": "Status Effect Duartion -50%",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 107095,
           "type": "Stats",
@@ -3240,6 +3300,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 207155,
+          "type": "Skill",
+          "name": "Neji's Sandals",
+          "effect": "Skill Damage +120%, Cast Speed +1, Chakra Cost -30%",
+          "normal": "Skill Damage +30%",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 207165,
+          "type": "Additional",
+          "name": "Neji's Inner",
+          "effect": "HP and Chakra Recovery +20%, Start the Battle with 50% Chakra, SPD +90%",
+          "normal": "HP Recovery +20%",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 207235,
           "type": "Chakra",
           "name": "Uzumaki Clan Crest",
@@ -3640,11 +3720,31 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
+          "id": 301135,
+          "type": "Skill",
+          "name": "Kiba's Kunai",
+          "effect": "Secret Skill Damage +100%, If there is a None enemy: Damage Cut +20% ",
+          "normal": "Secret Skill Damage +50%",
+          "charaIds": "801,802",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 301145,
+          "type": "Chakra",
+          "name": "Kiba's Face Paint",
+          "effect": "2 Turns: Set Chakra Cost to 0, After 3 Turns: Chakra Cost -50%, Chakra +30",
+          "normal": "3 Turns: Chakra Cost -50%",
+          "charaIds": "801,802",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 301155,
           "type": "Additional",
           "name": "Aburame Clan's Secret Ninjutsu",
           "effect": "Chance to Fully Recover Chakra and enemy's Skill Damage -80% when Attacked and Low Chance for Instant Action",
-          "normal": "Chance to Recover 50% of Chakra when Attacked",
+          "normal": "When Attacked: Chance for Chakra Recovery +50%",
           "charaIds": "901,902",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -6776,6 +6876,36 @@ window.enggear=[
           "effect": "HP, ATK, DEF and SPD +120%, Chakra Cost -50%, Debuff and Status Effect Immunity",
           "normal": "HP, ATK, DEF and SPD +60%",
           "charaIds": "60801",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406105,
+          "type": "Additional",
+          "name": "Tsunade's Maxim",
+          "effect": "Chance for First Strike and Extra Turn, 1 Turn: Skill Immunity",
+          "normal": "Low Chance for First Strike",
+          "charaIds": "60901",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406115,
+          "type": "Stats",
+          "name": "Sakura's Maxim",
+          "effect": "HP, ATK, DEF and SPD +120%, Chakra Cost -50%, Cast Speed +2",
+          "normal": "HP, ATK, DEF and SPD +60%",
+          "charaIds": "60901",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406155,
+          "type": "Stats",
+          "name": "21 Million DL Logo",
+          "effect": "None",
+          "normal": "21 Turns: SPD +210 & HP and Chakra Recovery +21%",
+          "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
