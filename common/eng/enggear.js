@@ -503,9 +503,29 @@ window.enggear=[
           "id": 2815,
           "type": "Chakra",
           "name": "Yellow Flower Hair Ornament",
-          "effect": "Chakra Recovery +20%, Chance to Recover 10% of HP when attacked",
+          "effect": "Chakra Recovery +20%, When Attacked: Chance for HP Recovery +10%",
           "normal": "Chakra Recovery +10%",
           "charaIds": "601,602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3005,
+          "type": "Resistance",
+          "name": "Dedicated Track Suit",
+          "effect": "Incoming Taijutsu and Weapons Skill Damage -50%, Chance to Dodge Skills, HP +40%",
+          "normal": "Incoming Taijutsu and Weapons Skill Damage Reduction, HP +20%",
+          "charaIds": "1101,1103,1601,1602,1603",
+		  "cardIds": "20001626,20001770",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3015,
+          "type": "Stats",
+          "name": "Lee's Weight",
+          "effect": "HP and ATK +100%, Skill Damage +30%",
+          "normal": "HP and ATK +60%, DEF -30%",
+          "charaIds": "1101,1102,1103",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1420,6 +1440,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 5225,
+          "type": "Chakra",
+          "name": "1st Gate: Gate of Opening",
+          "effect": "Chakra Cost -50%, ATK +50%",
+          "normal": "3 Turns: Chakra Cost -50%",
+          "charaIds": "1601,1602,1603,1101,1102,1103",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 5275,
           "type": "Additional",
           "name": "Gamakichi Netsuke (Bronze)",
@@ -1616,6 +1646,36 @@ window.enggear=[
           "effect": "ATK and SPD +100%, HP Recovery +10%",
           "normal": "ATK and SPD +50%",
           "charaIds": "1001,1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6025,
+          "type": "Skill",
+          "name": "Lee's Swimming Trucks",
+          "effect": "Skill Damage +70%, HP +30%",
+          "normal": "Taijutsu Skill Damage +40%",
+          "charaIds": "1104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6045,
+          "type": "Food",
+          "name": "Shaved Ice",
+          "effect": "6 Turns: Chakra Cost -50% & Skill Damage +20%",
+          "normal": "3 Turns: Chakra Cost -30%",
+          "charaIds": "1203,1104,20402",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 6055,
+          "type": "Stats",
+          "name": "Flip Flops",
+          "effect": "HP, ATK and SPD +100%",
+          "normal": "HP and ATK +70%",
+          "charaIds": "1203,1104,20402",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1966,6 +2026,26 @@ window.enggear=[
           "effect": "Sharingan Skill Damage +50%, Incoming Sharingan, Rinnegan and Rinne Sharingan Skill Damage -50%",
           "normal": "After 3 Turns: Sharingan Skill Damage +50%",
           "charaIds": "11601,11602,11603,201,202,203,204,205,206,207,208,210",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7515,
+          "type": "Food",
+          "name": "Lee's Rice Ball",
+          "effect": "5 Turns: ATK +80%, HP Recovery +20%",
+          "normal": "2 Turns: ATK +60%",
+          "charaIds": "1101,1102,1103,1104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 7525,
+          "type": "Stats",
+          "name": "Lee's Leg Warmers",
+          "effect": "ATK and DEF +120%, SPD +60%",
+          "normal": "ATK and DEF +30%",
+          "charaIds": "1101,1102,1103,1104",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -2737,6 +2817,26 @@ window.enggear=[
           "normal": "Chance to Dodge Skills, HP -5% every turn",
           "charaIds": "0",
           "cardIds": "20041010,20041011,20031019,20031020",
+          "charaGroupIds": "0"
+},
+{
+          "id": 111135,
+          "type": "Chakra",
+          "name": "Lee's Chakra",
+          "effect": "Chakra +50, Chakra Cost -50%, 5 Turns: Taijutsu Skill Damage +200% & SPD +100%",
+          "normal": "Chakra +20, 3 Turns: Taijutsu Skill Damage +50% & SPD +20%",
+          "charaIds": "1101,1102,1103,1104",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 111145,
+          "type": "Resistance",
+          "name": "Effort",
+          "effect": "Debuff Immunity, SPD +80%, High Chance to Dodge Skills, 1 Turn: Skill Immunity",
+          "normal": "Chance for Debuff Immunity and to Dodge Skills, SPD +20%",
+          "charaIds": "1101,1102,1103,1104",
+          "cardIds": "0",
           "charaGroupIds": "0"
 },
 {
