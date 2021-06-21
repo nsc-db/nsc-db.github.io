@@ -377,7 +377,7 @@ window.detail=[
         "s1c": 60,
 
         "s2n": "Such an Unreasonable...",
-        "s2": "Recover 1,500,000 HP and Grant 'Harden' State to Party. Reduce enemies' Chakra -80 and Inflict 'Cancel'. [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -444%]",
+        "s2": "Recover 1,500,000 HP and Grant 'Harden' State to self. Reduce enemies' Chakra -80 and Inflict 'Cancel'. [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -444%]",
         "s2ntr": "Unique",
         "s2cs": "Fast",
         "s2c": 80,
