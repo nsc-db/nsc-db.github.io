@@ -7140,7 +7140,7 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
-          "id": 406105,
+          "id": 406115,
           "type": "Additional",
           "name": "Tsunade's Maxim",
           "effect": "Chance for First Strike and Extra Turn, 1 Turn: Skill Immunity",
@@ -7150,7 +7150,7 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
-          "id": 406115,
+          "id": 406125,
           "type": "Stats",
           "name": "Sakura's Maxim",
           "effect": "HP, ATK, DEF and SPD +120%, Chakra Cost -50%, Cast Speed +2",
