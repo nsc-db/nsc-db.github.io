@@ -1,4 +1,200 @@
 window.detail=[
+{
+          "id": 20000281,
+          "name": "Izumo Kamizuki",
+          "subtext": "A Pioneer to Test Talent",
+
+          "lead": "Konoha Characters: HP and ATK +50%",
+
+          "s1n": "Double Kunai Throw",
+          "s1": "Deal 7% + 10,000 to target enemy. Chance to Inflict 'Type Disadvantage'.",
+		  "s1ntr": "Unique",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "Did You Notice...",
+          "s2": "Party SPD +100%. Konoha allies' Skill Damage +100%.",
+          "s2ntr": "Unique",
+          "s2cs": "Fastest",
+          "s2c": 80,
+
+          "a1n": "Relentless Sanctions",
+          "a1": "SPD +10% per Konoha ally (Max 100%)",
+
+          "a2n": "Preparation to Question Qualities",
+          "a2": "3 Turns: Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20000281,
+          "name": "Kotetsu Hagane",
+          "subtext": "Examiner",
+
+          "lead": "All Characters: Slight Incoming 'Confusion' Chance Reduction",
+
+          "s1n": "Kunai Throw",
+          "s1": "Deal 2.5x ATK to target enemy.",
+		  "s1ntr": "Weapon",
+          "s1cs": "Fast",
+          "s1c": 50,
+
+          "s2n": "Magical Illusion",
+          "s2": "Chance to Inflict 'Confusion' to all enemies.",
+          "s2ntr": "Genjutsu",
+          "s2cs": "Fastest",
+          "s2c": 65,
+
+          "a1n": "3 Consecutive Hits",
+          "a1": "Normal Attack becomes 3 consecutive attacks",
+
+          "a2n": "Weapon Damage Halved",
+          "a2": "Incoming 'Weapon' Skill Damage -50%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20001686,
+          "name": "Shikamaru Nara",
+          "subtext": "Feelings for The Teacher",
+
+          "lead": "Konoha Characters: HP, ATK, SPD and DEF +15%",
+
+          "s1n": "Shadow Possession Shuriken Jutsu",
+          "s1": "Deal 7% + 2,000 to target enemy. Chance to Inflict 'DEF and SPD -40%'. If the enemy is under 'Manipulation' State: Type Advantage doubled.",
+		  "s1ntr": "Secret",
+          "s1cs": "Fastest",
+          "s1c": 75,
+
+          "s2n": "Reconstruction of Strategy",
+          "s2": "Party SPD +100%. Konoha allies' Secret Skill Damage +100%.",
+          "s2ntr": "None",
+          "s2cs": "Fastest",
+          "s2c": 60,
+
+          "a1n": "Entrusted Feelings",
+          "a1": "HP <40%: Fully Recover HP and Chakra once",
+
+          "a2n": "Flexible Thinking",
+          "a2": "HP and SPD +60%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20050418,
+          "name": "Asuma Sarutobi",
+          "subtext": "Executioner Wind Blade",
+
+          "lead": "Konoha Characters: HP and DEF +100%",
+
+          "s1n": "Shadow Bird Flying Swallow",
+          "s1": "Deal 3% + 130,000 to all enemies. Chance to Inflict 'Cut' State. If Party is under 'King' State: Deal 5x damage. [Cut: Cast Speed -1 and Skill Damage -40%] (Always Hit)",
+		  "s1ntr": "Secret",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "It's a 'Vanguard That Can Break Through The Enemy'",
+          "s2": "Party DEF +150%. Grant 'King' State to Konoha allies. [King: 5 Turns: Fixed and Skill Immunity. After 6 Turns: Fixed and Skill Immunity from Akatsuki enemies]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 70,
+
+          "a1n": "Carrying Wind Blade",
+          "a1": "Protect Konoha allies From Single Target Skills",
+
+          "a2n": "Will of Fire to Pay The Threat",
+          "a2": "Upon Death: Grant 'King' State to Party",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20001645,
+          "name": "Kankuro",
+          "subtext": "Puppet Feat",
+
+          "lead": "All Characters: Incoming 'Poison' Chance -50%",
+
+          "s1n": "Puppet Art: Crow",
+          "s1": "Deal 3% + 200 to all enemies. Chance to Inflict 'Poison'.",
+		  "s1ntr": "Weapon",
+          "s1cs": "Fast",
+          "s1c": 85,
+
+          "s2n": "Performer's Pride",
+          "s2": "Own DEF and SPD +40%.",
+          "s2ntr": "None",
+          "s2cs": "Fastest",
+          "s2c": 55,
+
+          "a1n": "Kazekage Escort",
+          "a1": "DEF +40%",
+
+          "a2n": "Trained Puppet Art",
+          "a2": "HP >80%: Status Effect Immunity",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20000501,
+          "name": "Sakura Haruno",
+          "subtext": "From The Teacher",
+
+          "lead": "White Characters: HP +10%",
+
+          "s1n": "Cell Extraction Jutsu",
+          "s1": "Greatly Recover Party HP",
+		  "s1ntr": "Medical",
+          "s1cs": "Fast",
+          "s1c": 85,
+
+          "s2n": "Cherry Blossom Impact",
+          "s2": "Deal 3x ATK to target enemy.",
+          "s2ntr": "Taijutsu",
+          "s2cs": "Fast",
+          "s2c": 55,
+
+          "a1n": "Chakra Automatic Recovery (Small)",
+          "a1": "Chakra Recovery +5%",
+
+          "a2n": "Chakra Control (Small)",
+          "a2": "Chakra Cost -12%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+     {
+          "id": 20001651,
+          "name": "Naruto Uzumaki",
+          "subtext": "Homecoming",
+
+          "lead": "Yellow Characters: ATK +15%",
+
+          "s1n": "Giant Rasengan",
+          "s1": "Deal 7% + 770 to target enemy. Chance to Inflict 'SPD -30%'.",
+		  "s1ntr": "Wind",
+          "s1cs": "Fast",
+          "s1c": 70,
+
+          "s2n": "Read The Back of The Book",
+          "s2": "Own ATK, SPD and Wind Skill Damage +40%",
+          "s2ntr": "None",
+          "s2cs": "Fast",
+          "s2c": 45,
+
+          "a1n": "Growing Heart",
+          "a1": "HP and ATK +20%",
+
+          "a2n": "Jiraiya's Influence",
+          "a2": "Wind Skill Damage +20%, Chance to Inflict 'Charm' to self",
+
+          "a3n": "None",
+          "a3": "None"
+      },
     {
         "id": 20070608,
         "name": "Sakura and Tsunade",
@@ -35,7 +231,7 @@ window.detail=[
           "lead": "All Characters: Lightning and Taijutsu Skill Damage +20%",
 
           "s1n": "Double Lariat",
-          "s1": "Deal 12x ATK to target enemy. Grant 'Cow' State. [Cow: 5x ATK and Ignore 50% DEF, Increase Counter when Granted this State. When Counter is 3: Remove this state]",
+          "s1": "Deal 12x ATK to target enemy. Grant 'Lariat' State. [Lariat: 5x ATK and Ignore 50% DEF, Increase Counter when Granted this State. When Counter is 3: Remove this state]",
 		  "s1ntr": "Taijutsu",
           "s1cs": "Fastest",
           "s1c": 70,
@@ -1462,7 +1658,7 @@ window.detail=[
 
           "lead": "Konoha Characters: Cast Speed +1, Start the Battle with 100% Chakra",
 
-          "s1n": "Cherry Blosom Jutsu: Demolition Fist",
+          "s1n": "Cherry Blossom Jutsu: Demolition Fist",
           "s1": "Deal 3% + 1,000,000 to all enemies. Chance to Inflict 'Charm'. Remove Enemies' Positive Special and God State. If it's a Non-Konoha enemy: Deal 3 Additional Attacks dealing 300,000 Fixed Damage. (Always Hit)",
 		  "s1ntr": "Taijutsu",
           "s1cs": "Fastest",
