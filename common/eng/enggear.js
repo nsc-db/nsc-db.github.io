@@ -1,11 +1,31 @@
 window.enggear=[
 {
+          "id": 1095,
+          "type": "Additional",
+          "name": "Sunagakure's Boots",
+          "effect": "SPD +80, When Attacked: HP Recovery +10%",
+          "normal": "SPD +50, When Attacked: HP Recovery +2%",
+          "charaIds": "1403,1404,1302,1503",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 1205,
           "type": "Additional",
           "name": "Icha Icha Paradise",
           "effect": "Low Chance to Dodge Skills, Cast Speed +1",
           "normal": "Very Low Chance to Dodge Skills",
           "charaIds": "1701,1702,1703,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1265,
+          "type": "Skill",
+          "name": "Dedicated Beach Umbrella",
+          "effect": "Skill Damage +70%, ATK and DEF +40%",
+          "normal": "Wind Skill Damage +40%",
+          "charaIds": "1401,1402,1403,1404",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -23,9 +43,19 @@ window.enggear=[
           "id": 1485,
           "type": "Stats",
           "name": "Sasuke's Demon Shiruken",
-          "effect": "ATK +60%, SPD +10%",
-          "normal": "ATK +100%, SPD +30%, Fire Skill Damage +50%",
+          "effect": "ATK +100%, SPD +30%, Fire Skill Damage +50%",
+          "normal": "ATK +100%, SPD +10%",
           "charaIds": "201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1515,
+          "type": "Skill",
+          "name": "5th Kazekage's Hat",
+          "effect": "Skill Damage +80%, HP +60%",
+          "normal": "Unique and Sealing Skill Damage +40%",
+          "charaIds": "1302",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -67,6 +97,16 @@ window.enggear=[
           "normal": "Sharingan Skill Damage and ATK +30%",
           "charaIds": "0",
           "cardIds": "20001642,20001722",
+          "charaGroupIds": "0"
+},
+{
+          "id": 1675,
+          "type": "Skill",
+          "name": "Temari's Fan",
+          "effect": "Skill Damage +70%, SPD +20%, Incoming Lightning Skill Damage -50%",
+          "normal": "Wind Skill Damage +30%, SPD +10%",
+          "charaIds": "1401,1402,1403",
+          "cardIds": "2000169820001698",
           "charaGroupIds": "0"
 },
 {
@@ -138,7 +178,17 @@ window.enggear=[
           "charaIds": "201,202,204,207,210",
           "cardIds": "0",
           "charaGroupIds": "0"
-},	
+},
+{
+          "id": 1895,
+          "type": "Additional",
+          "name": "Kamatari Lanterns",
+          "effect": "Chakra Recovery +15%, Skill Damage +30%",
+          "normal": "Chakra Recovery +5%, Wind Skill Damage +10%",
+          "charaIds": "1401,1402,1403",
+          "cardIds": "2000169820001698",
+          "charaGroupIds": "0"
+},
 {
           "id": 1905,
           "type": "Stats",
@@ -230,6 +280,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 2065,
+          "type": "Stats",
+          "name": "Gaara's Gourd",
+          "effect": "ATK, DEF and Skill Damage +50%",
+          "normal": "Unique Skill Damage and DEF +20%",
+          "charaIds": "1302",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 2135,
           "type": "Stats",
           "name": "Commemorative Pouch",
@@ -247,6 +307,16 @@ window.enggear=[
           "normal": "Chakra Cost -5%",
           "charaIds": "301,302,303,306",
           "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2155,
+          "type": "Stats",
+          "name": "Commemorative Fan",
+          "effect": "ATK, DEF and SPD +30%",
+          "normal": "SPD +30%",
+          "charaIds": "1401,1402,1403",
+		  "cardIds": "20001698",
           "charaGroupIds": "0"
 },
 {
@@ -494,7 +564,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Pink Jacket",
           "effect": "Status Effect Immunity, HP and DEF +50%",
-          "normal": "HP >80%: Status Effect Duaration -50%",
+          "normal": "HP >80%: Status Effect Duration -50%",
           "charaIds": "701,702,703,",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -516,6 +586,16 @@ window.enggear=[
           "effect": "Chakra Recovery +20%, When Attacked: Chance for HP Recovery +10%",
           "normal": "Chakra Recovery +10%",
           "charaIds": "601,602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 2885,
+          "type": "Stats",
+          "name": "Temari's Sickle",
+          "effect": "HP and ATK +70%, SPD +40%",
+          "normal": "ATK and SPD +30%",
+          "charaIds": "1401,1402,1403,1404",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -850,6 +930,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 3525,
+          "type": "Additional",
+          "name": "Gaara's Tattoo",
+          "effect": "Debuff and Status Effect Duration -50%, When Attacked: HP Recovery +10%",
+          "normal": "Status Effect Duration Reduction, When Attacked: HP Recovery +5%",
+          "charaIds": "1301,1302,1303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 3535,
+          "type": "Resistance",
+          "name": "Temari's Vest",
+          "effect": "Incoming Fire, Water, and Wind Skill Damage -50%, Medium Chance to Dodge Skills",
+          "normal": "Incoming Fire, Water, and Wind Skill Damage Reduced",
+          "charaIds": "1403,1404",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 3685,
           "type": "Skill",
           "name": "Naruto's Racket",
@@ -1096,6 +1196,16 @@ window.enggear=[
           "effect": "HP and DEF +100%, ATK and SPD +50%",
           "normal": "HP and DEF +40%",
           "charaIds": "303,306",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4235,
+          "type": "Resistance",
+          "name": "Gaara's Vest",
+          "effect": "Skill Damage +50%, Incoming Skill (expect for Sharingan, Rinnegan and Rinne Sharingan) Damage -50%",
+          "normal": "Skill Damage +10%, Incoming Taijutsu and Weapon Skill Damage Reduced",
+          "charaIds": "1302",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1356,6 +1466,26 @@ window.enggear=[
           "effect": "Skill Damage +80%, Skill Crit Chance +30%",
           "normal": "Secret Skill Damage +40%",
           "charaIds": "403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4895,
+          "type": "Stats",
+          "name": "Temari's Mission Uniform",
+          "effect": "Skill Damage +30%, HP and SPD +80%",
+          "normal": "HP and SPD +40%",
+          "charaIds": "1405",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 4905,
+          "type": "Skill",
+          "name": "Giant Fan Latch",
+          "effect": "Skill Damage +80%, ATK and SPD +40%",
+          "normal": "Wind Skill Damage +30%",
+          "charaIds": "1405",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -1960,6 +2090,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 6685,
+          "type": "Chakra",
+          "name": "Karura",
+          "effect": "HP and Chakra Recovery +15%, Chakra +50",
+          "normal": "HP and Chakra Recovery +5%",
+          "charaIds": "1302",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 6755,
           "type": "Skill",
           "name": "Sasuke's Sharingan (Illusion)",
@@ -2280,6 +2420,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 8075,
+          "type": "Additional",
+          "name": "Tailed Beast Half",
+          "effect": "ATK +100%, SPD and Skill Damage +50%",
+          "normal": "SPD and ATK +20%, Tailed Beast Skill Damage +30%",
+          "charaIds": "1303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8085,
+          "type": "Stats",
+          "name": "Gaara's Mission Clothes",
+          "effect": "HP, ATK and DEF +100%",
+          "normal": "HP, ATK and DEF +30%",
+          "charaIds": "1301,1303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 8175,
           "type": "Additional",
           "name": "Tales of a Gutsy Ninja",
@@ -2296,6 +2456,16 @@ window.enggear=[
           "effect": "Chakra Cost -20%, Chakra Recovery +20%",
           "normal": "Chakra Recovery +7%",
           "charaIds": "403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8195,
+          "type": "Chakra",
+          "name": "Temari's Hair Clip",
+          "effect": "Skill Damage +30%, Chakra Recovery +20%",
+          "normal": "Chakra Recovery +7%",
+          "charaIds": "1405",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -2356,6 +2526,16 @@ window.enggear=[
           "effect": "Skill Damage and SPD +70%, Inferno Skill Damage +100%",
           "normal": "Skill Damage +30%",
           "charaIds": "207",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 8525,
+          "type": "Skill",
+          "name": "Temari's Fan Chocolate",
+          "effect": "None",
+          "normal": "WInd and Secret Skill Damage +90%, SPD +50%",
+          "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -2654,7 +2834,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Neji's Shinobi Alliance Vest",
           "effect": "Status Effect Immunity, Skill Damage and SPD +70%",
-          "normal": "Status Effect Duartion -50%",
+          "normal": "Status Effect Duration -50%",
           "charaIds": "1002",
           "cardIds": "0",
           "charaGroupIds": "0"
@@ -2788,6 +2968,26 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "700002"
+},
+{
+          "id": 109035,
+          "type": "Stats",
+          "name": "Gaara's Cork",
+          "effect": "ATK and DEF +100%, SPD +50%, HP Recovery +200,000",
+          "normal": "ATK and DEF +30%, SPD +15%",
+          "charaIds": "1301,1302,1303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 109045,
+          "type": "Skill",
+          "name": "Shukaku's Netsuke",
+          "effect": "Skill Damage +80%, Cast Speed +1",
+          "normal": "Skill Damage +40%",
+          "charaIds": "1301,1302,1303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
 },
 {
           "id": 109075,
@@ -3090,6 +3290,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 201145,
+          "type": "Resistance",
+          "name": "Bloody Umbrella",
+          "effect": "HP +200%, 3 Turns: Skill Dodge +150% and Chakra Cost -60%",
+          "normal": "HP +50%, 3 Turns: Skill Dodge and Chakra Recovery +15%",
+          "charaIds": "1301,1302,1303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 201175,
           "type": "Medal",
           "name": "Narukore Grand Prize Certificate (2)",
@@ -3107,6 +3317,36 @@ window.enggear=[
           "normal": "HP +100%",
           "charaIds": "0",
           "cardIds": "20041110",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201275,
+          "type": "Chakra",
+          "name": "Temari's Forehead Protector",
+          "effect": "Start the Battle with 50% Chakra, Chakra Cost -50%, ATK, DEF and SPD +120%",
+          "normal": "Chakra Cost -20%, ATK, DEF and SPD +20%",
+          "charaIds": "1401,1402,1403,1404",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201285,
+          "type": "Resistance",
+          "name": "Temari's Gloves",
+          "effect": "HP +150%, Debuff and Status Effect Immunity",
+          "normal": "HP +50%, Debuff and Status Effect Duration Reduction",
+          "charaIds": "1401,1402,1403,1404",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 201295,
+          "type": "Skill",
+          "name": "Human Puppet (Sasori)",
+          "effect": "Skill Damage +100%, Cast Speed +1, HP Recovery +10%",
+          "normal": "Weapon Skill Damage +30%",
+          "charaIds": "1503",
+          "cardIds": "0",
           "charaGroupIds": "0"
 },
 {
@@ -3474,7 +3714,7 @@ window.enggear=[
           "type": "Resistance",
           "name": "Sailor's Hat",
           "effect": "2 Turns: Skill Immunity, After 3 Turns: Incoming Skill Damage -50%, HP Recovery +20%",
-          "normal": "Incoming Skill Damage Reduction",
+          "normal": "Incoming Skill Damage Reduced",
           "charaIds": "0",
           "cardIds": "20050608,20050609,20050610",
           "charaGroupIds": "0"
@@ -3486,6 +3726,16 @@ window.enggear=[
           "effect": "Start the Battle with 50% Chakra, 5 Turns: Chakra Cost -50%, Chance to Dodge Skills",
           "normal": "Start the Battle with 20% Chakra",
           "charaIds": "1702,1704,1706",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 207035,
+          "type": "Skill",
+          "name": "Kamatari Beach Ball",
+          "effect": "Skill Damage +100%",
+          "normal": "Unique Skill Damage +30%",
+          "charaIds": "1401,1402,1403,1404,1405",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
@@ -3568,7 +3818,47 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	
+},
+{
+          "id": 208015,
+          "type": "Stats",
+          "name": "Temari's Vest 2",
+          "effect": "HP and ATK +100%, SPD +50%",
+          "normal": "HP and ATK +30%",
+          "charaIds": "1403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 208025,
+          "type": "Skill",
+          "name": "Temari's Fan 2",
+          "effect": "Wind Skill Damage +120%, Chakra Recovery +30%",
+          "normal": "Wind Skill Damage +50%",
+          "charaIds": "1403",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
+{
+          "id": 208035,
+          "type": "Chakra",
+          "name": "Gaara's Sand",
+          "effect": "1 Turn: Set Chakra Cost to 0, After 2 Turns: Chakra Cost -50%, Chakra Recovery +20%",
+          "normal": "1 Turn: Chakra Cost -20%, Chakra Recovery +5%",
+          "charaIds": "1301,1302,1303",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 208045,
+          "type": "Additional",
+          "name": "Gaara's Shoulder Pad",
+          "effect": "Debuff and Status Effect Immunity, SPD +70%, When Attacked: HP Recovery +20%",
+          "normal": "Debuff and Status Effect Duration Reduction, SPD +30%",
+          "charaIds": "1302",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 {
           "id": 208105,
           "type": "Chakra",
@@ -3578,7 +3868,7 @@ window.enggear=[
           "charaIds": "3101",
           "cardIds": "0",
           "charaGroupIds": "0"
-     },	 
+},	 
 {
           "id": 208155,
           "type": "Chakra",
