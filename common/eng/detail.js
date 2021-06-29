@@ -1,4 +1,32 @@
 window.detail=[
+    {
+        "id": 20070609,
+        "name": "Madara Uchiha",
+        "subtext": "Power to Govern the Shinobi World",
+
+        "lead": "Chakra Cost is Set to 0 and Cast Speed +5 to All units when HP is below 99%",
+
+        "s1n": "Sage Art: Lightning Death Penalty",
+        "s1": "Deal 3% + 1,100,000 to All enemies. Chance to Ignore Resistance and Inflict 'Paralysis'. Deal 4 Additional Attacks dealing 3% + 210,000 to Non-None enemies (Always Hit)",
+        "s1ntr": "Sage",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "...Again, Entertain Me...",
+        "s2": "Own SPD and Skill Damage +600% for 1 turn. Grant 'Limbo: Hengoku' God State. Ignore Resistance and Set Non-None HP to 1 and Inflict 1 Turn of Cast Speed -5 (Always Hit) [Limbo: Hengoku: Remove and Immune to Status Effect, Genjutsu, Negative Special and God State. High chance to grant Instant Action when attacking an enemy with Type Advantage].",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Joy of Aquiring the Six Paths Power",
+        "a1": "Withstand +4, High Chance for 'Illusion', Insta Kill and Enemy Terrain Immunity. Remove Status Effect, Genjutsu and Negative Special State before Action",
+
+        "a2n": "Confidence in Completing the Plan",
+        "a2": "Ignore Resistance and Inflict 'Illusion' to All enemies (1 Turn Consumed) & chance for First Strike, grant 'Limbo: Hengoku' God State (Guarantee if there's a Konoha enemy)",
+
+        "a3n": "Red Type Specialization and Crush",
+        "a3": "Type Advantage and Damage Cut +50% against Red. Non-Blue Skill Damage +80%"
+    },
 {
           "id": 20000281,
           "name": "Izumo Kamizuki",

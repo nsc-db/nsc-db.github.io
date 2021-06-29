@@ -28300,6 +28300,46 @@ window.ability=[
     "effectIds": "874,1789,4168,"
   },
   {
+    "abilityId": "2884",
+    "abilityName": "頑老たる意思",
+    "abilityDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+    "abilityEffectDescription": "HP0以下で1回耐え、行動するたびに素早さが30％アップする(最大5回)",
+    "effectIdx1": "312",
+    "effectIdx2": "1424",
+    "effectIdx3": "0",
+    "effectIds": "312,1424,"
+  },
+  {
+    "abilityId": "2885",
+    "abilityName": "錆なき意思",
+    "abilityDescription": "最大チャクラ量が100アップ、行動後にチャクラが20％回復する",
+    "abilityEffectDescription": "最大チャクラ量が100アップ、行動後にチャクラが20％回復する",
+    "effectIdx1": "813",
+    "effectIdx2": "583",
+    "effectIdx3": "0",
+    "effectIds": "813,583,"
+  },
+  {
+    "abilityId": "2886",
+    "abilityName": "六道の力を得た喜悦",
+    "abilityDescription": "HP0以下で4回耐え、高確率で幻惑・即死・敵の地形効果無効＆行動前自身の状態異常・幻・弱体系特殊状態解除",
+    "abilityEffectDescription": "HP0以下で4回耐え、高確率で幻惑・即死・敵の地形効果無効＆行動前自身の状態異常・幻・弱体系特殊状態解除",
+    "effectIdx1": "1737",
+    "effectIdx2": "4200",
+    "effectIdx3": "4080",
+    "effectIds": "1737,4200,4080,3244,3821,4199,4195,4198,"
+  },
+  {
+    "abilityId": "2887",
+    "abilityName": "計画成就の確信",
+    "abilityDescription": "開始時敵全体耐性無視幻惑（行動消費1回）&amp;確率で先制、自身に輪墓・辺獄付与(敵に木ノ葉隠れがいると確実)",
+    "abilityEffectDescription": "開始時敵全体耐性無視幻惑（行動消費1回）&amp;確率で先制、自身に輪墓・辺獄付与(敵に木ノ葉隠れがいると確実)",
+    "effectIdx1": "3149",
+    "effectIdx2": "4186",
+    "effectIdx3": "4197",
+    "effectIds": "3149,4186,4197,3266,4196,"
+  },
+  {
     "abilityId": "10000",
     "abilityName": "攻撃・防御・素早さダウン（大）",
     "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -28948,6 +28988,16 @@ window.ability=[
     "effectIdx2": "13104",
     "effectIdx3": "30019",
     "effectIds": "1766,13104,30019,300018,1423,"
+  },
+  {
+    "abilityId": "20007",
+    "abilityName": "ダメージカット＆弱点化＆即行動",
+    "abilityDescription": "技体知勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション",
+    "abilityEffectDescription": "技体知勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション",
+    "effectIdx1": "228290",
+    "effectIdx2": "228175",
+    "effectIdx3": "228375",
+    "effectIds": "228290,228175,228375,228475,229204,3156,2945,2946,4185,"
   },
   {
     "abilityId": "100000",
@@ -33158,6 +33208,16 @@ window.ability=[
     "effectIdx2": "4160",
     "effectIdx3": "0",
     "effectIds": "4159,4160,"
+  },
+  {
+    "abilityId": "310225",
+    "abilityName": "Bマス用_禁忌",
+    "abilityDescription": "敵に破神キャラ生存時ダメージ50%カット",
+    "abilityEffectDescription": "敵に破神キャラ生存時ダメージ50%カット",
+    "effectIdx1": "4192",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "4192,"
   },
   {
     "abilityId": "801187",

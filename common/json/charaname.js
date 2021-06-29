@@ -3108,6 +3108,20 @@ window.charaname=[
     "gender": "1"
   },
   {
+    "charaProfileId": "13707",
+    "charaId": "137",
+    "name": "うちはマダラ",
+    "detail": "疾風伝",
+    "charaLoveAffinityGroupId": "13720",
+    "birthday": "1224",
+    "constellation": "10",
+    "height": "17900",
+    "weight": "7130",
+    "bloodType": "3",
+    "age": "0",
+    "gender": "1"
+  },
+  {
     "charaProfileId": "13801",
     "charaId": "0",
     "name": "うちはマダラ",
@@ -8888,6 +8902,20 @@ window.charaname=[
     "bloodType": "0",
     "age": "0",
     "gender": "0"
+  },
+  {
+    "charaProfileId": "900097",
+    "charaId": "9001",
+    "name": "木ノ葉隠れの暗部",
+    "detail": null,
+    "charaLoveAffinityGroupId": "0",
+    "birthday": "0",
+    "constellation": "0",
+    "height": "0",
+    "weight": "0",
+    "bloodType": "0",
+    "age": "0",
+    "gender": "1"
   },
   {
     "charaProfileId": "910001",
