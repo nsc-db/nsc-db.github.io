@@ -4013,6 +4013,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "10261",
+          "timing": "1",
+          "func": "20",
+          "params": "367,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "10262",
           "timing": "1",
           "func": "34",
@@ -4541,6 +4550,15 @@
           "params": "3,0",
           "comp": "12",
           "compParams": "403,",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "4100000",
+          "timing": "5",
+          "func": "13",
+          "params": "1,0",
+          "comp": "4",
+          "compParams": "99",
           "category": "0"
         },
         {
@@ -11663,6 +11681,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20144007",
+          "timing": "1",
+          "func": "20",
+          "params": "39,0",
+          "comp": "2",
+          "compParams": "99",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20144101",
           "timing": "1",
           "func": "41",
@@ -12686,6 +12713,15 @@
           "params": "1,0",
           "comp": "5",
           "compParams": "9",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20210047",
+          "timing": "4",
+          "func": "50",
+          "params": "1,0",
+          "comp": "4",
+          "compParams": "99",
           "category": "0"
         },
         {

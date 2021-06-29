@@ -1577,6 +1577,30 @@
           "materialImageId": "269"
         },
         {
+          "materialId": "270",
+          "materialName": "頂のクナイ(黄)",
+          "materialRare": "5",
+          "materialImageId": "270"
+        },
+        {
+          "materialId": "271",
+          "materialName": "頂のクナイ(青)",
+          "materialRare": "5",
+          "materialImageId": "271"
+        },
+        {
+          "materialId": "273",
+          "materialName": "頂のクナイ(黒)",
+          "materialRare": "5",
+          "materialImageId": "273"
+        },
+        {
+          "materialId": "275",
+          "materialName": "頂のクナイ(紫)",
+          "materialRare": "5",
+          "materialImageId": "275"
+        },
+        {
           "materialId": "306",
           "materialName": "???",
           "materialRare": "4",

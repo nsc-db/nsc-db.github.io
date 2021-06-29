@@ -1069,6 +1069,16 @@
           "enemyEffects": "3956,3957,3958,3959,3960,50001,12108,1060,1782,"
         },
         {
+          "battleFieldEffectId": "119",
+          "name": "頂上決戦_超絶地獄級",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "3951,3153,3952,3953,2160,1751,3954,300206,3955,4179,",
+          "enemyEffects": "3956,3957,3958,3959,3960,50001,12108,1060,1782,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",

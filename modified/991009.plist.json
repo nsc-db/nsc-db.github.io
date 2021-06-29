@@ -3245,6 +3245,12 @@
           "itemImgId": "23"
         },
         {
+          "shopExchangeItemId": "551",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "552",
           "itemName": "個人Pt",
           "measure": "0",
@@ -3273,6 +3279,12 @@
           "itemName": "昇級試験Pt",
           "measure": "0",
           "itemImgId": "128"
+        },
+        {
+          "shopExchangeItemId": "558",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
         },
         {
           "shopExchangeItemId": "1001",
@@ -4499,6 +4511,30 @@
           "itemImgId": "2098"
         },
         {
+          "shopExchangeItemId": "2123",
+          "itemName": "禁忌の至宝交換券",
+          "measure": "0",
+          "itemImgId": "2123"
+        },
+        {
+          "shopExchangeItemId": "2124",
+          "itemName": "忍交換券",
+          "measure": "0",
+          "itemImgId": "2124"
+        },
+        {
+          "shopExchangeItemId": "2125",
+          "itemName": "人気忍具交換券",
+          "measure": "0",
+          "itemImgId": "2125"
+        },
+        {
+          "shopExchangeItemId": "2127",
+          "itemName": "ランキング忍具交換券(8月13日23:59まで)",
+          "measure": "0",
+          "itemImgId": "2098"
+        },
+        {
           "shopExchangeItemId": "2500",
           "itemName": "神忍札[4月]",
           "measure": "0",
@@ -4637,6 +4673,12 @@
           "itemImgId": "2600"
         },
         {
+          "shopExchangeItemId": "2615",
+          "itemName": "疾風札[7月]",
+          "measure": "0",
+          "itemImgId": "2600"
+        },
+        {
           "shopExchangeItemId": "2801",
           "itemName": "個人Pt",
           "measure": "0",
@@ -4662,6 +4704,12 @@
         },
         {
           "shopExchangeItemId": "2805",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
+          "shopExchangeItemId": "2806",
           "itemName": "個人Pt",
           "measure": "0",
           "itemImgId": "23"

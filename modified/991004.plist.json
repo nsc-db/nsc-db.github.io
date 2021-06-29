@@ -6101,6 +6101,12 @@
           "speechCharactorName": "うちはマダラ"
         },
         {
+          "speechCharactorId": "1041",
+          "cardId": "20060501",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "油女シビ"
+        },
+        {
           "speechCharactorId": "1042",
           "cardId": "1042",
           "speechCharactorImgId": "0",

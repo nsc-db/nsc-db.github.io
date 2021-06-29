@@ -2196,6 +2196,19 @@
           "selectType": "1"
         },
         {
+          "itemId": "11173",
+          "name": "7月限定ラーメン(2021)",
+          "description": "スタミナを全回復するラーメン（7月31日23:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "11174",
           "name": "期間限定ラーメン(6月9日 15:59まで)",
           "description": "スタミナを全回復するラーメン（6月9日15:59まで期間限定）",

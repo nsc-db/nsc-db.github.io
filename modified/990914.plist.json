@@ -989,6 +989,12 @@
           "attackScriptName": "cha0610_02"
         },
         {
+          "modelId": "327",
+          "hpGaugeHeight": "50",
+          "motionType": "3",
+          "attackScriptName": "cha0327_01"
+        },
+        {
           "modelId": "8001",
           "hpGaugeHeight": "50",
           "motionType": "1",

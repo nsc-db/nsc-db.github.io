@@ -3557,5 +3557,15 @@
           "subScore": "0",
           "color": "14524637",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "367",
+          "category": "4",
+          "iconId": "1451",
+          "name": "輪墓・辺獄",
+          "description": "状態異常・弱体系特殊・神化状態解除＆無効。敵を弱点で攻撃したとき超高確率で即アクション",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
         }
       ]

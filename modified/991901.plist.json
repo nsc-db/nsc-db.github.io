@@ -1504,7 +1504,7 @@
           "cardId": "20060805",
           "normalPanelList": "9100013,9100014,9100015",
           "specialPanelList": "9100016,9100017,9100018",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50029",
@@ -1517,7 +1517,7 @@
           "cardId": "20060806",
           "normalPanelList": "9100007,9100008,9100009,9100035",
           "specialPanelList": "9100010,9100011,9100012,9100036",
-          "legendPanelList": ""
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "50030",
@@ -2142,6 +2142,45 @@
           "normalPanelList": "9100001,9100002,9100003",
           "specialPanelList": "9100004,9100005,9100006",
           "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "50079",
+          "boardName": "Temp_Ct=&gt;90_技属性_の潜在覚醒盤_伝説",
+          "boardDescription": "大筒木カグヤ【根源の神眼】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050825",
+          "normalPanelList": "9100007,9100008,9100009",
+          "specialPanelList": "9100010,9100011,9100012",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
+          "sphereBoardId": "50080",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤_伝説",
+          "boardDescription": "大筒木カグヤ【滅界の鬼眼】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050826",
+          "normalPanelList": "9100001,9100002,9100003",
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
+          "sphereBoardId": "50082",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤_伝説",
+          "boardDescription": "うちはマダラ【忍界を統べる力】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070609",
+          "normalPanelList": "9100007,9100008,9100009,9100035",
+          "specialPanelList": "9100010,9100011,9100012,9100036",
+          "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
           "sphereBoardId": "60001",
