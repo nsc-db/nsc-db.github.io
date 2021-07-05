@@ -1379,6 +1379,16 @@
           "enemyEffects": "4106,4107,"
         },
         {
+          "battleFieldEffectId": "10032",
+          "name": "無限月読_上方修正",
+          "category": "3",
+          "scriptId": "10002",
+          "overWrite": "1",
+          "uiIdx": "10002",
+          "partyEffects": null,
+          "enemyEffects": "2007,2008,731,"
+        },
+        {
           "battleFieldEffectId": "20001",
           "name": "忍方陣：創世烈風・壱",
           "category": "5",

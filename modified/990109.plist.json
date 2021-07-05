@@ -28339,6 +28339,46 @@
           "effectIds": "3149,4186,4197,3266,4196,"
         },
         {
+          "abilityId": "2888",
+          "abilityName": "教え子たちとの日々",
+          "abilityDescription": "状態異常無効、2回行動するまでスキル発動速度1段階アップ",
+          "abilityEffectDescription": "状態異常無効、2回行動するまでスキル発動速度1段階アップ",
+          "effectIdx1": "82",
+          "effectIdx2": "2700",
+          "effectIdx3": "0",
+          "effectIds": "82,2700,"
+        },
+        {
+          "abilityId": "2889",
+          "abilityName": "ナルトとの絆",
+          "abilityDescription": "HP0以下で2回耐え。3回行動するまで確率でスキル回避",
+          "abilityEffectDescription": "HP0以下で2回耐え。3回行動するまで確率でスキル回避",
+          "effectIdx1": "4040",
+          "effectIdx2": "2293",
+          "effectIdx3": "0",
+          "effectIds": "4040,2293,"
+        },
+        {
+          "abilityId": "2890",
+          "abilityName": "切り捨てさせない覚悟",
+          "abilityDescription": "HP0で3回HP全回復｡班の五大里所属数に応じて最大HP&amp;素早さ100%アップ(自身含む)",
+          "abilityEffectDescription": "HP0で3回HP全回復｡班の五大里所属数に応じて最大HP&amp;素早さ100%アップ(自身含む)",
+          "effectIdx1": "874",
+          "effectIdx2": "1789",
+          "effectIdx3": "4201",
+          "effectIds": "874,1789,4201,4202,"
+        },
+        {
+          "abilityId": "2891",
+          "abilityName": "尾獣の拠り所",
+          "abilityDescription": "2回行動まで班の五大里所属に幻惑解除＆無効化付与｡被攻撃時に班の五大里所属を確率で即ｱｸｼｮﾝ",
+          "abilityEffectDescription": "2回行動まで班の五大里所属に幻惑解除＆無効化付与｡被攻撃時に班の五大里所属を確率で即ｱｸｼｮﾝ",
+          "effectIdx1": "4203",
+          "effectIdx2": "4204",
+          "effectIdx3": "0",
+          "effectIds": "4203,4204,"
+        },
+        {
           "abilityId": "10000",
           "abilityName": "攻撃・防御・素早さダウン（大）",
           "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -30449,6 +30489,36 @@
           "effectIds": "4134,4135,"
         },
         {
+          "abilityId": "100152",
+          "abilityName": "世を照らす眼",
+          "abilityDescription": "敵に神忍祭限定キャラが生存している場合、素早さが666％アップ＆スキル発動速度2段階アップ",
+          "abilityEffectDescription": "敵に神忍祭限定キャラが生存している場合、素早さが666％アップ＆スキル発動速度2段階アップ",
+          "effectIdx1": "2005",
+          "effectIdx2": "4193",
+          "effectIdx3": "0",
+          "effectIds": "2005,4193,"
+        },
+        {
+          "abilityId": "100153",
+          "abilityName": "永劫の果てに得た力",
+          "abilityDescription": "最大チャクラ量が100アップし、キャンセル無効。HP0以下で2回HP全回復",
+          "abilityEffectDescription": "最大チャクラ量が100アップし、キャンセル無効。HP0以下で2回HP全回復",
+          "effectIdx1": "813",
+          "effectIdx2": "1751",
+          "effectIdx3": "4040",
+          "effectIds": "813,1751,4040,874,"
+        },
+        {
+          "abilityId": "100154",
+          "abilityName": "二つ名の再臨",
+          "abilityDescription": "1回行動まで素早さ150%アップ、敵に無所属がいる場合さらに素早さ250%アップ＆スキル発動速度2段階アップ",
+          "abilityEffectDescription": "1回行動まで素早さ150%アップ、敵に無所属がいる場合さらに素早さ250%アップ＆スキル発動速度2段階アップ",
+          "effectIdx1": "2539",
+          "effectIdx2": "2047",
+          "effectIdx3": "2018",
+          "effectIds": "2539,2047,2018,"
+        },
+        {
           "abilityId": "200001",
           "abilityName": "心属性特化",
           "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -30697,6 +30767,16 @@
           "effectIdx2": "228250",
           "effectIdx3": "229004",
           "effectIds": "229204,228250,229004,228050,"
+        },
+        {
+          "abilityId": "200028",
+          "abilityName": "勇属性特化・破砕",
+          "abilityDescription": "勇属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラがスキルダメージ80%アップ",
+          "abilityEffectDescription": "勇属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラがスキルダメージ80%アップ",
+          "effectIdx1": "3893",
+          "effectIdx2": "3895",
+          "effectIdx3": "3896",
+          "effectIds": "3893,3895,3896,3894,229404,228450,"
         },
         {
           "abilityId": "210001",
@@ -33217,6 +33297,16 @@
           "effectIdx2": "0",
           "effectIdx3": "0",
           "effectIds": "4192,"
+        },
+        {
+          "abilityId": "310226",
+          "abilityName": "Bマス用_禁忌",
+          "abilityDescription": "行動後、確率で次の行動まで素早さ200%アップ",
+          "abilityEffectDescription": "行動後、確率で次の行動まで素早さ200%アップ",
+          "effectIdx1": "4207",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIds": "4207,"
         },
         {
           "abilityId": "801187",

@@ -428,6 +428,32 @@
           "closeTime": "0000.00.00 00:00:00"
         },
         {
+          "worldStageId": "1405",
+          "worldAreaId": "5",
+          "priority": "5",
+          "name": "大激闘任務-文月の陣-",
+          "description": "ランパートではドロップではなく\r\nクリア時に個人Ptを獲得できます。",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
+          "worldStageId": "1406",
+          "worldAreaId": "5",
+          "priority": "4",
+          "name": "螺旋の軌跡",
+          "description": "個人Ptを集めて固有忍具や育成素材を獲得しよう！",
+          "notice": "※報酬の内容や付与については予告なく変更、中止となる場合がございます。",
+          "type": "0",
+          "prerequisiteWorldStageId": "0",
+          "openWeek": null,
+          "openTime": "0000.00.00 00:00:00",
+          "closeTime": "0000.00.00 00:00:00"
+        },
+        {
           "worldStageId": "2105",
           "worldAreaId": "5",
           "priority": "5",
@@ -1396,19 +1422,6 @@
           "name": "頂上決戦任務β～綱手～",
           "description": "[最高難易度]超絶地獄級追加！\r\n忍具生成で強力な忍具を手に入れよう！\r\n\r\n限定キャラ『綱手【戦医の拳英】』は\r\n初級の初回クリア報酬で獲得可能！",
           "notice": "※イベントの内容及び日程は告知なく変更となる場合がございます。\r\n※イベント難易度は初級から地獄級となります。\r\n※地獄級は超級クリア後に解放されます。",
-          "type": "0",
-          "prerequisiteWorldStageId": "0",
-          "openWeek": null,
-          "openTime": "0000.00.00 00:00:00",
-          "closeTime": "0000.00.00 00:00:00"
-        },
-        {
-          "worldStageId": "8085",
-          "worldAreaId": "9",
-          "priority": "0",
-          "name": "第六十一回昇級試験",
-          "description": "この任務は、他のユーザーの班と戦う任務です\r\n1度の挑戦で行うバトルの回数は、1回となります\r\n連続で勝利すると連続勝利数ボーナスが発生、より多くのPtを獲得可能です\r\n※全キャラクターの全ダメージ及びスキル発動速度は調整が行われております",
-          "notice": "0",
           "type": "0",
           "prerequisiteWorldStageId": "0",
           "openWeek": null,

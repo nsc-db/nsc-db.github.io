@@ -16911,6 +16911,34 @@
           "target2Param": "0"
         },
         {
+          "cardLeaderSkillId": "1224",
+          "name": "幸福の日々",
+          "description": "勇属性の素早さとスキルダメージを50%アップする",
+          "effectIdx1": "112",
+          "effectIdx2": "682",
+          "effectIdx3": "0",
+          "effectIds": "112,682,",
+          "compType": "1",
+          "target1Category": "1",
+          "target1Param": "7",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
+          "cardLeaderSkillId": "1225",
+          "name": "未来への咆哮",
+          "description": "五大里所属はバトル開始時に先制攻撃､1回行動までチャクラ消費0",
+          "effectIdx1": "4205",
+          "effectIdx2": "1411",
+          "effectIdx3": "0",
+          "effectIds": "4205,1411,",
+          "compType": "0",
+          "target1Category": "0",
+          "target1Param": "0",
+          "target2Category": "0",
+          "target2Param": "0"
+        },
+        {
           "cardLeaderSkillId": "8507",
           "name": "想いの全て",
           "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

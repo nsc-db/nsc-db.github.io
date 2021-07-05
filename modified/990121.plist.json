@@ -4031,6 +4031,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "10263",
+          "timing": "1",
+          "func": "20",
+          "params": "368,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "1000001",
           "timing": "5",
           "func": "27",
@@ -11456,6 +11465,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20050180",
+          "timing": "5",
+          "func": "20",
+          "params": "368,0",
+          "comp": "3",
+          "compParams": "1,2,3,5,6",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20100000",
           "timing": "1",
           "func": "20",
@@ -11892,6 +11910,15 @@
           "timing": "1",
           "func": "20",
           "params": "113,0",
+          "comp": "4",
+          "compParams": "1,2,3,5,6,",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "20150009",
+          "timing": "1",
+          "func": "34",
+          "params": "224,0",
           "comp": "4",
           "compParams": "1,2,3,5,6,",
           "category": "0"
@@ -12725,6 +12752,15 @@
           "category": "0"
         },
         {
+          "cardBehaveAffectId": "20210048",
+          "timing": "4",
+          "func": "50",
+          "params": "1,0",
+          "comp": "4",
+          "compParams": "1,2,3,5,6,",
+          "category": "0"
+        },
+        {
           "cardBehaveAffectId": "20211001",
           "timing": "4",
           "func": "52",
@@ -13395,6 +13431,15 @@
           "timing": "1",
           "func": "33",
           "params": "10030,0",
+          "comp": "0",
+          "compParams": "0",
+          "category": "0"
+        },
+        {
+          "cardBehaveAffectId": "30000033",
+          "timing": "1",
+          "func": "33",
+          "params": "10032,0",
           "comp": "0",
           "compParams": "0",
           "category": "0"

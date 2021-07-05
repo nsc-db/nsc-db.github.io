@@ -28319,5 +28319,39 @@
           "crystalImageId": "406185",
           "recipeId": "40618",
           "recipeName": "頂上決戦手形(技)"
+        },
+        {
+          "crystalId": "40701",
+          "crystalType": "2",
+          "crystalRare": "5",
+          "effectIdx1": "2499",
+          "effectIdx2": "2765",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "2499,2765,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "九喇嘛を象るチャクラの衣",
+          "crystalDescription": "1回行動まで全スキル半減、行動後HP10%回復",
+          "crystalImageId": "407015",
+          "recipeId": "40701",
+          "recipeName": "九喇嘛を象るチャクラの衣"
+        },
+        {
+          "crystalId": "40702",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "1115",
+          "effectIdx2": "13049",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "1115,13049,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "九喇嘛の尾獣玉",
+          "crystalDescription": "バトル開始時にチャクラ50%回復、素早さ50%アップ",
+          "crystalImageId": "407025",
+          "recipeId": "40702",
+          "recipeName": "九喇嘛の尾獣玉"
         }
       ]
