@@ -16781,5 +16781,31 @@ window.unique=[
     "effectIdx3": "967",
     "effectIdx4": "794",
     "effectIds": "1646,2719,967,794"
+  },
+  {
+    "crystalOverwriteEffectId": "1309",
+    "targetCrystal": "40701",
+    "description": "2回行動まで全スキル無効、行動後HP30％回復、輪廻眼･写輪眼無効、スキル発動速度2段階アップ",
+    "charaIds": "108",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "2343",
+    "effectIdx2": "300012",
+    "effectIdx3": "4206",
+    "effectIdx4": "1549",
+    "effectIds": "2343,300012,4206,1549"
+  },
+  {
+    "crystalOverwriteEffectId": "1310",
+    "targetCrystal": "40702",
+    "description": "バトル開始時にチャクラ100%回復&amp;確率で先制攻撃（敵に破神がいると確実）、素早さ120%アップ",
+    "charaIds": "108",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "1994",
+    "effectIdx2": "2637",
+    "effectIdx3": "3017",
+    "effectIdx4": "1335",
+    "effectIds": "1994,2637,3017,1335"
   }
         ]

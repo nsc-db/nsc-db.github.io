@@ -1,5 +1,33 @@
 window.detail=[
     {
+        "id": 20070706,
+        "name": "Naruto Uzumaki",
+        "subtext": "Howl of the Future",
+
+        "lead": "Grant First Strike to Five Village allies. 1 Turn: Chakra Cost is set to 0",
+
+        "s1n": "Tailed Beast Bomb: True Radiating Footprint",
+        "s1": "Deal 3% + 1,200,000 to all enemies. Chance to inflict 'Jutsu Seal' State, Deal 7 Additional Attacks dealing 3% + 200,000. Guarantee Inflict 'Jutsu Seal' State to Non-Five Village enemiems, Deal 10 Additional Attacks dealing 3% + 200,000. (Always Hit) [Jutsu Seal: Skill Disabled]",
+        "s1ntr": "Six Paths",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "I Won't Leave You Alone",
+        "s2": "Recover 1,500,000 HP and Skill Damage +120% to Party. Remove 'Disable Positive Special and God State' Effect to Five Village allies and Grant 'True Idea' God State [True Idea: SPD +1,000% for 1 turn when removed. Grant Effects depending on the number of Five Village allies alive. (1) Remove and Immune to Genjutsu, Status Effect, Negative Special and God State. Chance to grant an Extra Turn (2) Grant Immortality and Fixed Damage Immunity (3) High Chance for Skills to deal Type Advantage Damage to Non-Five Village enemies",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Ready to Cut Down",
+        "a1": "Revive +3. HP and SPD +100% per Five Village Allies",
+
+        "a2n": "Tailed Beast Authority",
+        "a2": "Remove and Immune to 'Illusion' for 2 Turns. Chance to grant Instant Action to Five Village allies when Attacked",
+
+        "a3n": "White Type Specialization and Crush",
+        "a3": "Type Advantage and Damage Cut +50% against White. Non-Black Skill Damage +80%"
+    },
+    {
         "id": 20070609,
         "name": "Madara Uchiha",
         "subtext": "Power to Govern the Shinobi World",

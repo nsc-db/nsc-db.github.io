@@ -8508,6 +8508,22 @@ window.skillname=[
     "name": "…もう、余興はいい……"
   },
   {
+    "cardBattleSkillNameId": "3379",
+    "name": "赤昂撃"
+  },
+  {
+    "cardBattleSkillNameId": "3380",
+    "name": "気をつけてね！"
+  },
+  {
+    "cardBattleSkillNameId": "3381",
+    "name": "尾獣玉・真想ノ輝蹟"
+  },
+  {
+    "cardBattleSkillNameId": "3382",
+    "name": "ほっとけねーんだってばよ！"
+  },
+  {
     "cardBattleSkillNameId": "10136",
     "name": "新術だってばよ！"
   },
