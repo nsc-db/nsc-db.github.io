@@ -2205,7 +2205,7 @@ window.enggear=[
           "name": "Indra's Soul",
           "effect": "ATK and Skill Damage +100%",
           "normal": "ATK and Skill Damage +50%",
-          "charaIds": "209,13703,14502,13706,212,216,60101",
+          "charaIds": "209,13703,14502,13706,212,216,60101,13707",
           "cardIds": "0",
           "charaGroupIds": "0"
 },			
@@ -7450,6 +7450,26 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 406135,
+          "type": "Additional",
+          "name": "Strongest Power Awakened to The 6 Paths",
+          "effect": "Cast Speed +2, If there's a Konoha enemy: Cast Speed +3 (Max 5) & Chance for Skill Immunity",
+          "normal": "Cast Speed +1, If there's a Konoha enemy: Cast Speed +1 (Max 2)",
+          "charaIds": "13707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 406145,
+          "type": "Chakra",
+          "name": "6 Paths Madara's Cane",
+          "effect": "2 Turns: Set Chakra Cost to 0, After 3 Turns: Chakra Cost -50%, Skill Damage and SPD +150%",
+          "normal": "5 Turns: Chakra Cost -50%",
+          "charaIds": "13707",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 406155,
           "type": "Stats",
           "name": "21 Million DL Logo",
@@ -7468,5 +7488,25 @@ window.enggear=[
           "charaIds": "0",
           "cardIds": "0",
           "charaGroupIds": "600000"
+},
+{
+          "id": 407015,
+          "type": "Resistance",
+          "name": "Kurama Chakra Avatar",
+          "effect": "2 Turns: Skill Immunity, HP Recovery +30%, Rinnegan and Sharingan Skill Immunity, Cast Speed +2",
+          "normal": "1 Turn: Incoming Skill Damage -50%, HP Recovery +10%",
+          "charaIds": "108",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 407025,
+          "type": "Additional",
+          "name": "Kurama's Tailed Beast Bomb",
+          "effect": "Chance to Start the Battle with 100% Chakra & First Strike (If there's a GK enemy: Guaranteed), SPD +120%",
+          "normal": "Start the Battle with 100% Chakra, SPD +50%",
+          "charaIds": "108",
+          "cardIds": "0",
+          "charaGroupIds": "0"
 },
 ]

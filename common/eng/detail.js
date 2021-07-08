@@ -1,28 +1,84 @@
 window.detail=[
+{
+          "id": 20070701,
+          "name": "Kushina Uzumaki",
+          "subtext": "Days of Happiness",
+
+          "lead": "White Characters: SPD and Skill Damage +50%",
+
+          "s1n": "Red Strike",
+          "s1": "Deal 7% + 50,000 to target enemy. If there's a Minato ally: Deal 5x more damage.",
+		  "s1ntr": "Taijutsu",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "Be Careful!!",
+          "s2": "Party SPD +70%. Grant 'Cooperation' State to other Konoha allies. [Cooperation: After Action, Grant Instant Action to Kushina allies]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Days with Students",
+          "a1": "Status Effect Immunity, 2 Turns: Cast Speed +1",
+
+          "a2n": "Bond with Naruto",
+          "a2": "Withstand +2, 3 Turns: Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20070610,
+          "name": "Ohnoki",
+          "subtext": "Dust of a Firm Will",
+
+          "lead": "Yellow Characters: DEF and ATK +70%",
+
+          "s1n": "Smashing Kick",
+          "s1": "Deal 7% + 30,000 to target enemy. Chance to Inflict 'Seal' and 'Bind' State. If the enemy is under 'Seal' or 'Bind' State: Deal 3x more damage. (If Both: 9x) [Bind: Skill Damage -70%, SPD -30%]",
+		  "s1ntr": "Particle",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "Noisy!",
+          "s2": "Party ATK, DEF and SPD +50%. Grant 'Rally' State to Five Village allies. [Rally: ATK, DEF and SPD +100%, HP and Chakra Recovery +20%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Willingness to be Stubborn",
+          "a1": "Withstand +1, SPD +30% every turn (Max 150%)",
+
+          "a2n": "Will Without Rust",
+          "a2": "Chakra +100, Chakra Recovery +20%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
     {
         "id": 20070706,
         "name": "Naruto Uzumaki",
         "subtext": "Howl of the Future",
 
-        "lead": "Grant First Strike to Five Village allies. 1 Turn: Chakra Cost is set to 0",
+        "lead": "Five Village Characters: Grant First Strike. 1 Turn: Chakra Cost is set to 0",
 
         "s1n": "Tailed Beast Bomb: True Radiating Footprint",
-        "s1": "Deal 3% + 1,200,000 to all enemies. Chance to inflict 'Jutsu Seal' State, Deal 7 Additional Attacks dealing 3% + 200,000. Guarantee Inflict 'Jutsu Seal' State to Non-Five Village enemiems, Deal 10 Additional Attacks dealing 3% + 200,000. (Always Hit) [Jutsu Seal: Skill Disabled]",
+        "s1": "Deal 3% + 1,200,000 to all enemies. Chance to Inflict 'Jutsu Seal' State (If it's a Non-Five Village enemy: Guaranteed). Deal 7 Additional Attacks dealing 3% + 200,000. If it's a Non-Five Village enemy: Deal 10 Additional Attacks dealing 3% + 200,000. [Jutsu Seal: Skill Disabled] (Always Hit)",
         "s1ntr": "Six Paths",
         "s1cs": "Fast",
         "s1c": 100,
 
         "s2n": "I Won't Leave You Alone",
-        "s2": "Recover 1,500,000 HP and Skill Damage +120% to Party. Remove 'Disable Positive Special and God State' Effect to Five Village allies and Grant 'True Idea' God State [True Idea: SPD +1,000% for 1 turn when removed. Grant Effects depending on the number of Five Village allies alive. (1) Remove and Immune to Genjutsu, Status Effect, Negative Special and God State. Chance to grant an Extra Turn (2) Grant Immortality and Fixed Damage Immunity (3) High Chance for Skills to deal Type Advantage Damage to Non-Five Village enemies",
+        "s2": "Recover 1,500,000 HP and Skill Damage +120% to Party. Remove 'Disable Positive Special and God State' Effect to Five Village allies and Grant 'True Idea' God State [True Idea: SPD +1,000% for 1 turn when removed. Grant Effects depending on the number of Five Village allies alive. (1) Remove and Immune to Genjutsu, Status Effect, Negative Special and God State. Chance to grant an Extra Turn (2) Grant Immortality and Fixed Damage Immunity (3) High Chance for Skills to deal Type Advantage Damage to Non-Five Village enemies]",
         "s2ntr": "Unique",
         "s2cs": "Fastest",
         "s2c": 100,
 
         "a1n": "Ready to Cut Down",
-        "a1": "Revive +3. HP and SPD +100% per Five Village Allies",
+        "a1": "Revive +3. HP and SPD +100% per Five Village Ally (Max 500%)",
 
         "a2n": "Tailed Beast Authority",
-        "a2": "Remove and Immune to 'Illusion' for 2 Turns. Chance to grant Instant Action to Five Village allies when Attacked",
+        "a2": "2 Turns: Remove and Immune to 'Illusion'. When Attacked: Chance to Grant Instant Action to Five Village allies",
 
         "a3n": "White Type Specialization and Crush",
         "a3": "Type Advantage and Damage Cut +50% against White. Non-Black Skill Damage +80%"
@@ -32,25 +88,25 @@ window.detail=[
         "name": "Madara Uchiha",
         "subtext": "Power to Govern the Shinobi World",
 
-        "lead": "Chakra Cost is Set to 0 and Cast Speed +5 to All units when HP is below 99%",
+        "lead": "All Characters: HP <99%: Set Chakra Cost to 0 and Cast Speed +5",
 
         "s1n": "Sage Art: Lightning Death Penalty",
-        "s1": "Deal 3% + 1,100,000 to All enemies. Chance to Ignore Resistance and Inflict 'Paralysis'. Deal 4 Additional Attacks dealing 3% + 210,000 to Non-None enemies (Always Hit)",
+        "s1": "Deal 3% + 1,100,000 to All enemies. Chance to Ignore Resistance and Inflict 'Paralyze'. Deal 4 Additional Attacks dealing 3% + 210,000 to Non-None enemies (Always Hit)",
         "s1ntr": "Sage",
         "s1cs": "Fast",
         "s1c": 100,
 
         "s2n": "...Again, Entertain Me...",
-        "s2": "Own SPD and Skill Damage +600% for 1 turn. Grant 'Limbo: Hengoku' God State. Ignore Resistance and Set Non-None HP to 1 and Inflict 1 Turn of Cast Speed -5 (Always Hit) [Limbo: Hengoku: Remove and Immune to Status Effect, Genjutsu, Negative Special and God State. High chance to grant Instant Action when attacking an enemy with Type Advantage].",
+        "s2": "Own SPD and Skill Damage +600% for 1 Turn. Grant 'Limbo: Hengoku' God State. Ignore Resistance and Set Non-None enemies HP to 1 and Inflict Cast Speed -5 for 1 Turn. [Limbo: Hengoku: Remove and Immune to Status Effect, Genjutsu, Negative Special and God State. High Chance for Instant Action when attacking an enemy with Type Advantage] (Always Hit)",
         "s2ntr": "Unique",
         "s2cs": "Fastest",
         "s2c": 100,
 
         "a1n": "Joy of Aquiring the Six Paths Power",
-        "a1": "Withstand +4, High Chance for 'Illusion', Insta Kill and Enemy Terrain Immunity. Remove Status Effect, Genjutsu and Negative Special State before Action",
+        "a1": "Withstand +4, High Chance for 'Illusion', Insta Kill and Enemy Terrain Immunity. Remove Status Effect, Genjutsu and Negative Special State every turn",
 
         "a2n": "Confidence in Completing the Plan",
-        "a2": "Ignore Resistance and Inflict 'Illusion' to All enemies (1 Turn Consumed) & chance for First Strike, grant 'Limbo: Hengoku' God State (Guarantee if there's a Konoha enemy)",
+        "a2": "Ignore Resistance and Inflict 'Illusion' to All enemies (1 Turn Consumed) & Chance for First Strike, Grant 'Limbo: Hengoku' God State (If there's a Konoha enemy: Guaranteed)",
 
         "a3n": "Red Type Specialization and Crush",
         "a3": "Type Advantage and Damage Cut +50% against Red. Non-Blue Skill Damage +80%"
