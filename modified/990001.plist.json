@@ -80,33 +80,6 @@
           "resetTime": "0"
         },
         {
-          "loginBonusId": "537",
-          "name": "ガマブン太の月間ログインボーナス-2100万ダウンロード記念-",
-          "type": "2",
-          "openTime": "2021.06.01 00:00:00",
-          "closeTime": "2021.06.30 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "539",
-          "name": "伝説盤登場記念第三弾ログインボーナス！",
-          "type": "2",
-          "openTime": "2021.06.02 00:00:00",
-          "closeTime": "2021.06.30 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "542",
-          "name": "2100万ダウンロード記念ログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.18 00:00:00",
-          "closeTime": "2021.06.30 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
           "loginBonusId": "543",
           "name": "伝説盤登場記念第四弾ログインボーナス！",
           "type": "2",
@@ -121,96 +94,6 @@
           "type": "2",
           "openTime": "2021.07.01 00:00:00",
           "closeTime": "2021.07.31 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "573",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.21 00:00:00",
-          "closeTime": "2021.06.21 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "574",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.22 00:00:00",
-          "closeTime": "2021.06.22 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "575",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.23 00:00:00",
-          "closeTime": "2021.06.23 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "576",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.24 00:00:00",
-          "closeTime": "2021.06.24 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "577",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.25 00:00:00",
-          "closeTime": "2021.06.25 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "578",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.26 00:00:00",
-          "closeTime": "2021.06.26 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "579",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.27 00:00:00",
-          "closeTime": "2021.06.27 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "580",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.28 00:00:00",
-          "closeTime": "2021.06.28 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "581",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.29 00:00:00",
-          "closeTime": "2021.06.29 23:59:59",
-          "isMidnightReset": "1",
-          "resetTime": "0"
-        },
-        {
-          "loginBonusId": "582",
-          "name": "ジューンブライドログインボーナス",
-          "type": "2",
-          "openTime": "2021.06.30 00:00:00",
-          "closeTime": "2021.06.30 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },
@@ -274,6 +157,33 @@
           "type": "2",
           "openTime": "2021.07.12 00:00:00",
           "closeTime": "2021.07.12 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "590",
+          "name": "七夕ログインボーナス",
+          "type": "2",
+          "openTime": "2021.07.07 00:00:00",
+          "closeTime": "2021.07.16 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "594",
+          "name": "なつ☆うみログインボーナス",
+          "type": "2",
+          "openTime": "2021.07.15 00:00:00",
+          "closeTime": "2021.07.25 23:59:59",
+          "isMidnightReset": "1",
+          "resetTime": "0"
+        },
+        {
+          "loginBonusId": "624",
+          "name": "なつ☆うみログインボーナス",
+          "type": "2",
+          "openTime": "2021.07.20 00:00:00",
+          "closeTime": "2021.07.25 23:59:59",
           "isMidnightReset": "1",
           "resetTime": "0"
         },

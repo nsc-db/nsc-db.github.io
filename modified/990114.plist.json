@@ -3577,5 +3577,55 @@
           "subScore": "0",
           "color": "16752899",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "369",
+          "category": "3",
+          "iconId": "1453",
+          "name": "呪蛇",
+          "description": "ｽｷﾙ使用不可になり､全属性からのｽｷﾙ攻撃が弱点化｡解除時､味方1体に確率で呪蛇付与",
+          "subScore": "0",
+          "color": "13381370",
+          "type": "3"
+        },
+        {
+          "cardUnusualId": "370",
+          "category": "5",
+          "iconId": "1454",
+          "name": "忍方陣：白蛇混沌",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "371",
+          "category": "5",
+          "iconId": "1455",
+          "name": "忍方陣：真・白蛇混沌",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "372",
+          "category": "5",
+          "iconId": "1456",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "49151",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "373",
+          "category": "5",
+          "iconId": "1457",
+          "name": "0",
+          "description": "0",
+          "subScore": "0",
+          "color": "49151",
+          "type": "2"
         }
       ]

@@ -16806,5 +16806,83 @@
           "effectIdx3": "3017",
           "effectIdx4": "1335",
           "effectIds": "1994,2637,3017,1335,"
+        },
+        {
+          "crystalOverwriteEffectId": "1311",
+          "targetCrystal": "40707",
+          "description": "0",
+          "charaIds": "61001,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1549",
+          "effectIdx2": "13068",
+          "effectIdx3": "2382",
+          "effectIdx4": "2070",
+          "effectIds": "1549,13068,2382,2070,"
+        },
+        {
+          "crystalOverwriteEffectId": "1312",
+          "targetCrystal": "40708",
+          "description": "0",
+          "charaIds": "1202,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "4240",
+          "effectIdx2": "2764",
+          "effectIdx3": "3278",
+          "effectIdx4": "2082",
+          "effectIds": "4240,2764,3278,2082,"
+        },
+        {
+          "crystalOverwriteEffectId": "1313",
+          "targetCrystal": "40709",
+          "description": "0",
+          "charaIds": "1002,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "2465",
+          "effectIdx2": "4222",
+          "effectIdx3": "4241",
+          "effectIdx4": "0",
+          "effectIds": "2465,4222,4241,"
+        },
+        {
+          "crystalOverwriteEffectId": "1314",
+          "targetCrystal": "40710",
+          "description": "0",
+          "charaIds": "61001,1603,1103,1202,1002,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "10068",
+          "effectIdx2": "1378",
+          "effectIdx3": "769",
+          "effectIdx4": "30022",
+          "effectIds": "10068,1378,769,30022,"
+        },
+        {
+          "crystalOverwriteEffectId": "1315",
+          "targetCrystal": "40703",
+          "description": "バトル開始時に確率で先制攻撃、行動後確率で再行動、被攻撃時にHP30％回復",
+          "charaIds": "61101,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "3266",
+          "effectIdx2": "439",
+          "effectIdx3": "2764",
+          "effectIdx4": "0",
+          "effectIds": "3266,439,2764,"
+        },
+        {
+          "crystalOverwriteEffectId": "1316",
+          "targetCrystal": "40704",
+          "description": "最大HP・攻・防・速120%アップ、チャクラ消費量半減、スキル発動速度2段階アップ",
+          "charaIds": "61101,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "12111",
+          "effectIdx4": "1335",
+          "effectIds": "1221,736,12111,1335,895,1549,"
         }
       ]

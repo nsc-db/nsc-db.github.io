@@ -9,5 +9,9 @@
         {
           "cardFusionRuleId": "3",
           "materialCardIds": "25000325,25000326,27000301,28000093"
+        },
+        {
+          "cardFusionRuleId": "4",
+          "materialCardIds": "25000335,25000336,27000302,28000103"
         }
       ]

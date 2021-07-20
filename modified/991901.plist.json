@@ -1143,6 +1143,32 @@
           "legendPanelList": "0"
         },
         {
+          "sphereBoardId": "10099",
+          "boardName": "Temp_Ct40_体属性_の潜在覚醒盤",
+          "boardDescription": "日向ネジ 【清涼のサマービーチ】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070703",
+          "normalPanelList": "9000013,9000014,9000015",
+          "specialPanelList": "9000016,9000017,9000018",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "10100",
+          "boardName": "Temp_Ct40_知属性_の潜在覚醒盤",
+          "boardDescription": "テンテン 【解放のサマービーチ】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070704",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -2209,6 +2235,32 @@
           "legendPanelList": "9100041,9100042,9100043,9100044,9100045"
         },
         {
+          "sphereBoardId": "50084",
+          "boardName": "Temp_Ct=&gt;90_心属性_の潜在覚醒盤",
+          "boardDescription": "ガイ＆リー【青春のサマービーチ】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070702",
+          "normalPanelList": "9100001,9100002,9100003",
+          "specialPanelList": "9100004,9100005,9100006",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "50085",
+          "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
+          "boardDescription": "サスケ&amp;大蛇丸【飛躍せし瞳と呑欲の蛇】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070707",
+          "normalPanelList": "9100013,9100014,9100015",
+          "specialPanelList": "9100016,9100017,9100018",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
@@ -2310,6 +2362,19 @@
           "cardId": "20070309",
           "normalPanelList": "9400007,9400008,9400009",
           "specialPanelList": "9400010,9400011,9400012",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "80002",
+          "boardName": "Temp_Ct90_体属性_の潜在覚醒盤",
+          "boardDescription": "自来也【颯爽たる忍の花道】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070709",
+          "normalPanelList": "9400013,9400014,9400015",
+          "specialPanelList": "9400016,9400017,9400018",
           "legendPanelList": "0"
         },
         {

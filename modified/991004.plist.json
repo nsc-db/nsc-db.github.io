@@ -6269,6 +6269,60 @@
           "speechCharactorName": "うちはイタチ"
         },
         {
+          "speechCharactorId": "1078",
+          "cardId": "1078",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "マイト・ガイ"
+        },
+        {
+          "speechCharactorId": "1079",
+          "cardId": "1079",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ロック・リー"
+        },
+        {
+          "speechCharactorId": "1080",
+          "cardId": "1080",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "日向ネジ"
+        },
+        {
+          "speechCharactorId": "1081",
+          "cardId": "1081",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "テンテン"
+        },
+        {
+          "speechCharactorId": "1082",
+          "cardId": "1082",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "トントン"
+        },
+        {
+          "speechCharactorId": "1083",
+          "cardId": "20050811",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "シズネ"
+        },
+        {
+          "speechCharactorId": "1084",
+          "cardId": "20070709",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "自来也"
+        },
+        {
+          "speechCharactorId": "1092",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "ビーチバレーの審判"
+        },
+        {
+          "speechCharactorId": "1093",
+          "cardId": "50000013",
+          "speechCharactorImgId": "0",
+          "speechCharactorName": "かき氷屋"
+        },
+        {
           "speechCharactorId": "5001",
           "cardId": "50000001",
           "speechCharactorImgId": "0",
@@ -6771,5 +6825,65 @@
           "cardId": "41000017",
           "speechCharactorImgId": "41000017",
           "speechCharactorName": "ドットサスケ"
+        },
+        {
+          "speechCharactorId": "10071",
+          "cardId": "20070712",
+          "speechCharactorImgId": "20070712",
+          "speechCharactorName": "マイト・ガイ"
+        },
+        {
+          "speechCharactorId": "10072",
+          "cardId": "20070711",
+          "speechCharactorImgId": "20070711",
+          "speechCharactorName": "ロック・リー"
+        },
+        {
+          "speechCharactorId": "10073",
+          "cardId": "20070704",
+          "speechCharactorImgId": "20070704",
+          "speechCharactorName": "テンテン"
+        },
+        {
+          "speechCharactorId": "10074",
+          "cardId": "41000018",
+          "speechCharactorImgId": "41000018",
+          "speechCharactorName": "トントン"
+        },
+        {
+          "speechCharactorId": "10075",
+          "cardId": "20070703",
+          "speechCharactorImgId": "20070703",
+          "speechCharactorName": "日向ネジ"
+        },
+        {
+          "speechCharactorId": "10076",
+          "cardId": "20001381",
+          "speechCharactorImgId": "20001381",
+          "speechCharactorName": "綱手"
+        },
+        {
+          "speechCharactorId": "10077",
+          "cardId": "20001742",
+          "speechCharactorImgId": "20001742",
+          "speechCharactorName": "山中いの"
+        },
+        {
+          "speechCharactorId": "10078",
+          "cardId": "20001740",
+          "speechCharactorImgId": "20001740",
+          "speechCharactorName": "春野サクラ"
+        },
+        {
+          "speechCharactorId": "10079",
+          "cardId": "20001741",
+          "speechCharactorImgId": "20001741",
+          "speechCharactorName": "日向ヒナタ"
+        },
+        {
+          "speechCharactorId": "10080",
+          "cardId": "20050811",
+          "speechCharactorImgId": "20050811",
+          "speechCharactorName": "シズネ"
         }
       ]

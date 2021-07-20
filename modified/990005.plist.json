@@ -1079,6 +1079,56 @@
           "enemyEffects": "3956,3957,3958,3959,3960,50001,12108,1060,1782,"
         },
         {
+          "battleFieldEffectId": "120",
+          "name": "頂上決戦（自来也）_初級",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "3951,3153,3952,3953,2160,1751,3954,300202,3955,4211,",
+          "enemyEffects": "4208,4209,4210,3958,3959,50001,12108,1060,1782,"
+        },
+        {
+          "battleFieldEffectId": "121",
+          "name": "頂上決戦（自来也）_中級",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "3951,3153,3952,3953,2160,1751,3954,300202,3955,4211,",
+          "enemyEffects": "4208,4209,4210,3958,3959,50001,12108,1060,1782,"
+        },
+        {
+          "battleFieldEffectId": "122",
+          "name": "頂上決戦（自来也）_上級",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "3951,3153,3952,3953,2160,1751,3954,300202,3955,4211,",
+          "enemyEffects": "4208,4209,4210,3958,3959,50001,12108,1060,1782,"
+        },
+        {
+          "battleFieldEffectId": "123",
+          "name": "頂上決戦（自来也）_超級",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "3951,3153,3952,3953,2160,1751,3954,300202,3955,4211,",
+          "enemyEffects": "4208,4209,4210,3958,3959,50001,12108,1060,1782,"
+        },
+        {
+          "battleFieldEffectId": "124",
+          "name": "頂上決戦（自来也）_地獄級",
+          "category": "1",
+          "scriptId": "2",
+          "overWrite": "0",
+          "uiIdx": "1",
+          "partyEffects": "3951,3153,3952,3953,2160,1751,3954,300202,3955,4211,",
+          "enemyEffects": "4208,4209,4210,3958,3959,50001,12108,1060,1782,"
+        },
+        {
           "battleFieldEffectId": "10001",
           "name": "始球空間",
           "category": "3",
@@ -1567,5 +1617,65 @@
           "uiIdx": "20018",
           "partyEffects": "4174,4154,4155,4175,4176,4177,4178,",
           "enemyEffects": "3796,3797,4173,"
+        },
+        {
+          "battleFieldEffectId": "20019",
+          "name": "忍方陣：常夏青春・壱",
+          "category": "5",
+          "scriptId": "20019",
+          "overWrite": "1",
+          "uiIdx": "20019",
+          "partyEffects": null,
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20020",
+          "name": "忍方陣：常夏青春・弐",
+          "category": "5",
+          "scriptId": "20020",
+          "overWrite": "1",
+          "uiIdx": "20020",
+          "partyEffects": "4248,439,",
+          "enemyEffects": "4277,4278,"
+        },
+        {
+          "battleFieldEffectId": "20021",
+          "name": "忍方陣：常夏青春・参",
+          "category": "5",
+          "scriptId": "20021",
+          "overWrite": "1",
+          "uiIdx": "20021",
+          "partyEffects": "4248,439,4274,",
+          "enemyEffects": "3796,3797,4275,"
+        },
+        {
+          "battleFieldEffectId": "20022",
+          "name": "忍方陣：白蛇混沌・壱",
+          "category": "5",
+          "scriptId": "20022",
+          "overWrite": "1",
+          "uiIdx": "20022",
+          "partyEffects": null,
+          "enemyEffects": "3796,3797,"
+        },
+        {
+          "battleFieldEffectId": "20023",
+          "name": "忍方陣：白蛇混沌・弐",
+          "category": "5",
+          "scriptId": "20023",
+          "overWrite": "1",
+          "uiIdx": "20023",
+          "partyEffects": "4267,",
+          "enemyEffects": "3796,3797,4266,"
+        },
+        {
+          "battleFieldEffectId": "20024",
+          "name": "忍方陣：白蛇混沌・参",
+          "category": "5",
+          "scriptId": "20024",
+          "overWrite": "1",
+          "uiIdx": "20024",
+          "partyEffects": "4267,4268,",
+          "enemyEffects": "3796,3797,4266,4269,"
         }
       ]

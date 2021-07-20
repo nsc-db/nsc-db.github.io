@@ -4463,6 +4463,18 @@
           "voiceDeath": "naruto_death_02_06"
         },
         {
+          "cardVoiceId": "376",
+          "cardId": "20070707",
+          "dirName": "sasuke",
+          "evolutionStep": "",
+          "voiceAppear": "sasuke_battle_02_05",
+          "voiceSkill1": "sasuke_gacha_fix_02,orochimaru_win_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "sasuke_win_02_01",
+          "voiceDeath": "sasuke_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",
