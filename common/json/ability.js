@@ -28380,6 +28380,166 @@ window.ability=[
     "effectIds": "4203,4204,"
   },
   {
+    "abilityId": "2892",
+    "abilityName": "熟達の立ち回り",
+    "abilityDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に低確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "abilityEffectDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に低確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "effectIdx1": "4223",
+    "effectIdx2": "4226",
+    "effectIdx3": "4229",
+    "effectIds": "4223,4226,4229,4230,"
+  },
+  {
+    "abilityId": "2893",
+    "abilityName": "次代を助ける生き様",
+    "abilityDescription": "男性キャラから受けるダメージを確率で50％カット、HP0以下で1回耐える",
+    "abilityEffectDescription": "男性キャラから受けるダメージを確率で50％カット、HP0以下で1回耐える",
+    "effectIdx1": "4231",
+    "effectIdx2": "312",
+    "effectIdx3": "0",
+    "effectIds": "4231,312,"
+  },
+  {
+    "abilityId": "2894",
+    "abilityName": "他国に轟く武名",
+    "abilityDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+    "abilityEffectDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+    "effectIdx1": "20009",
+    "effectIdx2": "1115",
+    "effectIdx3": "312",
+    "effectIds": "20009,1115,312,"
+  },
+  {
+    "abilityId": "2895",
+    "abilityName": "印結び不要の新術",
+    "abilityDescription": "通常攻撃回避率が100%アップし、高確率でスキルを回避する",
+    "abilityEffectDescription": "通常攻撃回避率が100%アップし、高確率でスキルを回避する",
+    "effectIdx1": "1141",
+    "effectIdx2": "968",
+    "effectIdx3": "0",
+    "effectIds": "1141,968,"
+  },
+  {
+    "abilityId": "2896",
+    "abilityName": "0",
+    "abilityDescription": "0",
+    "abilityEffectDescription": "0",
+    "effectIdx1": "4244",
+    "effectIdx2": "4246",
+    "effectIdx3": "3510",
+    "effectIds": "4244,4246,3510,3511,4249,4250,"
+  },
+  {
+    "abilityId": "2897",
+    "abilityName": "0",
+    "abilityDescription": "0",
+    "abilityEffectDescription": "0",
+    "effectIdx1": "312",
+    "effectIdx2": "874",
+    "effectIdx3": "3620",
+    "effectIds": "312,874,3620,4251,"
+  },
+  {
+    "abilityId": "2898",
+    "abilityName": "常夏の青春",
+    "abilityDescription": "ﾊﾞﾄﾙ開始・行動後に【忍方陣：真・常夏青春】を展開｡味方に「ﾈｼﾞ・ﾃﾝﾃﾝ」がいると、それぞれ確率で先制攻撃＆再行動",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始・行動後に【忍方陣：真・常夏青春】を展開｡味方に「ﾈｼﾞ・ﾃﾝﾃﾝ」がいると、それぞれ確率で先制攻撃＆再行動",
+    "effectIdx1": "4245",
+    "effectIdx2": "4247",
+    "effectIdx3": "3510",
+    "effectIds": "4245,4247,3510,3511,4249,4250,"
+  },
+  {
+    "abilityId": "2899",
+    "abilityName": "滾る青春の咆哮",
+    "abilityDescription": "HP0以下で1回耐え、耐えた時HP全回復。被攻撃時確率で即ｱｸｼｮﾝ。味方の木ノ葉隠れの里所属生存時攻防速169%ｱｯﾌﾟ",
+    "abilityEffectDescription": "HP0以下で1回耐え、耐えた時HP全回復。被攻撃時確率で即ｱｸｼｮﾝ。味方の木ノ葉隠れの里所属生存時攻防速169%ｱｯﾌﾟ",
+    "effectIdx1": "312",
+    "effectIdx2": "874",
+    "effectIdx3": "3620",
+    "effectIds": "312,874,3620,4251,"
+  },
+  {
+    "abilityId": "2900",
+    "abilityName": "狂風吹かす師弟",
+    "abilityDescription": "バトル開始・行動時に【忍方陣：白蛇混沌】を展開｡被攻撃時､確率で即アクション",
+    "abilityEffectDescription": "バトル開始・行動時に【忍方陣：白蛇混沌】を展開｡被攻撃時､確率で即アクション",
+    "effectIdx1": "4261",
+    "effectIdx2": "4263",
+    "effectIdx3": "3620",
+    "effectIds": "4261,4263,3620,"
+  },
+  {
+    "abilityId": "2901",
+    "abilityName": "相克の野心",
+    "abilityDescription": "HP0以下で2回HP全回復｡被攻撃時、攻撃者に耐性・ｽｷﾙ回避を無視して確率で呪蛇付与",
+    "abilityEffectDescription": "HP0以下で2回HP全回復｡被攻撃時、攻撃者に耐性・ｽｷﾙ回避を無視して確率で呪蛇付与",
+    "effectIdx1": "874",
+    "effectIdx2": "1057",
+    "effectIdx3": "4265",
+    "effectIds": "874,1057,4265,"
+  },
+  {
+    "abilityId": "2902",
+    "abilityName": "狂風吹かす師弟",
+    "abilityDescription": "バトル開始・行動時に【忍方陣：真・白蛇混沌】を展開｡被攻撃時､確率で即アクション",
+    "abilityEffectDescription": "バトル開始・行動時に【忍方陣：真・白蛇混沌】を展開｡被攻撃時､確率で即アクション",
+    "effectIdx1": "4262",
+    "effectIdx2": "4264",
+    "effectIdx3": "3620",
+    "effectIds": "4262,4264,3620,"
+  },
+  {
+    "abilityId": "2903",
+    "abilityName": "相克の野心",
+    "abilityDescription": "HP0以下で3回HP全回復｡被攻撃時、攻撃者に耐性・ｽｷﾙ回避を無視して確率で呪蛇付与",
+    "abilityEffectDescription": "HP0以下で3回HP全回復｡被攻撃時、攻撃者に耐性・ｽｷﾙ回避を無視して確率で呪蛇付与",
+    "effectIdx1": "874",
+    "effectIdx2": "1789",
+    "effectIdx3": "4265",
+    "effectIds": "874,1789,4265,"
+  },
+  {
+    "abilityId": "2904",
+    "abilityName": "0",
+    "abilityDescription": "0",
+    "abilityEffectDescription": "0",
+    "effectIdx1": "3511",
+    "effectIdx2": "4250",
+    "effectIdx3": "1789",
+    "effectIds": "3511,4250,1789,4272,4273,"
+  },
+  {
+    "abilityId": "2905",
+    "abilityName": "0",
+    "abilityDescription": "0",
+    "abilityEffectDescription": "0",
+    "effectIdx1": "4260",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "4260,"
+  },
+  {
+    "abilityId": "2906",
+    "abilityName": "0",
+    "abilityDescription": "0",
+    "abilityEffectDescription": "0",
+    "effectIdx1": "3510",
+    "effectIdx2": "4249",
+    "effectIdx3": "1789",
+    "effectIds": "3510,4249,1789,4272,4273,"
+  },
+  {
+    "abilityId": "2907",
+    "abilityName": "0",
+    "abilityDescription": "0",
+    "abilityEffectDescription": "0",
+    "effectIdx1": "4270",
+    "effectIdx2": "4271",
+    "effectIdx3": "0",
+    "effectIds": "4270,4271,"
+  },
+  {
     "abilityId": "10000",
     "abilityName": "攻撃・防御・素早さダウン（大）",
     "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29038,6 +29198,26 @@ window.ability=[
     "effectIdx2": "228175",
     "effectIdx3": "228375",
     "effectIds": "228290,228175,228375,228475,229204,3156,2945,2946,4185,"
+  },
+  {
+    "abilityId": "20008",
+    "abilityName": "ダメージカット＆弱点化＆即行動",
+    "abilityDescription": "心体知勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション",
+    "abilityEffectDescription": "心体知勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション",
+    "effectIdx1": "228075",
+    "effectIdx2": "228250",
+    "effectIdx3": "228350",
+    "effectIds": "228075,228250,228350,228450,229004,3073,2945,2946,3969,"
+  },
+  {
+    "abilityId": "20009",
+    "abilityName": "強化＆スキル回避",
+    "abilityDescription": "防・速・スキルダメージアップ、スキル発動速度7段階アップ、確率でスキル回避、技属性以外から攻撃されると自身に毛針付与＆攻撃者に混乱・蛙幻付与、バトル開始時、確率で自身に毛針付与",
+    "abilityEffectDescription": "防・速・スキルダメージアップ、スキル発動速度7段階アップ、確率でスキル回避、技属性以外から攻撃されると自身に毛針付与＆攻撃者に混乱・蛙幻付与、バトル開始時、確率で自身に毛針付与",
+    "effectIdx1": "1766",
+    "effectIdx2": "13104",
+    "effectIdx3": "30019",
+    "effectIds": "1766,13104,30019,300018,1423,4236,4237,4238,4243,4252,"
   },
   {
     "abilityId": "100000",
@@ -30520,6 +30700,46 @@ window.ability=[
     "effectIds": "2539,2047,2018,"
   },
   {
+    "abilityId": "100155",
+    "abilityName": "熟達の立ち回り",
+    "abilityDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "abilityEffectDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "effectIdx1": "4224",
+    "effectIdx2": "4227",
+    "effectIdx3": "4229",
+    "effectIds": "4224,4227,4229,4230,"
+  },
+  {
+    "abilityId": "100156",
+    "abilityName": "次代を助ける生き様",
+    "abilityDescription": "男性キャラから受けるダメージを高確率で50％カット、HP0以下で3回耐える、被攻撃時に確率で即アクション",
+    "abilityEffectDescription": "男性キャラから受けるダメージを高確率で50％カット、HP0以下で3回耐える、被攻撃時に確率で即アクション",
+    "effectIdx1": "4232",
+    "effectIdx2": "1789",
+    "effectIdx3": "3620",
+    "effectIds": "4232,1789,3620,"
+  },
+  {
+    "abilityId": "100157",
+    "abilityName": "熟達の立ち回り",
+    "abilityDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に高確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "abilityEffectDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に高確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "effectIdx1": "4225",
+    "effectIdx2": "4228",
+    "effectIdx3": "4229",
+    "effectIds": "4225,4228,4229,4230,"
+  },
+  {
+    "abilityId": "100158",
+    "abilityName": "次代を助ける生き様",
+    "abilityDescription": "男性キャラから受けるダメージを高確率で75％カット、HP0以下で5回耐える、被攻撃時に高確率で即アクション",
+    "abilityEffectDescription": "男性キャラから受けるダメージを高確率で75％カット、HP0以下で5回耐える、被攻撃時に高確率で即アクション",
+    "effectIdx1": "4233",
+    "effectIdx2": "1512",
+    "effectIdx3": "4257",
+    "effectIds": "4233,1512,4257,"
+  },
+  {
     "abilityId": "200001",
     "abilityName": "心属性特化",
     "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -30778,6 +30998,26 @@ window.ability=[
     "effectIdx2": "3895",
     "effectIdx3": "3896",
     "effectIds": "3893,3895,3896,3894,229404,228450,"
+  },
+  {
+    "abilityId": "200029",
+    "abilityName": "心属性特化・守護",
+    "abilityDescription": "心属性にスキル攻撃時相手の耐性を弱点化&amp;自身と班の体属性以外のキャラが心属性からのダメージ50%カット",
+    "abilityEffectDescription": "心属性にスキル攻撃時相手の耐性を弱点化&amp;自身と班の体属性以外のキャラが心属性からのダメージ50%カット",
+    "effectIdx1": "229004",
+    "effectIdx2": "228050",
+    "effectIdx3": "4253",
+    "effectIds": "229004,228050,4253,4254,4255,4256,"
+  },
+  {
+    "abilityId": "200030",
+    "abilityName": "技・体属性特化",
+    "abilityDescription": "技・体属性へスキル攻撃時相手の耐性弱点化＆技・体属性からのダメージ50%カット",
+    "abilityEffectDescription": "技・体属性へスキル攻撃時相手の耐性弱点化＆技・体属性からのダメージ50%カット",
+    "effectIdx1": "229204",
+    "effectIdx2": "228250",
+    "effectIdx3": "229104",
+    "effectIds": "229204,228250,229104,228150,"
   },
   {
     "abilityId": "210001",

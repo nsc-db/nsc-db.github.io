@@ -1,6 +1,6 @@
 var kizunaArr = [60070502,60070501,60070402,60070401,60061202,
 				 60061201,60060702,60060701]
-var duoArr = [20070608,20070605,20070503,20070403,20070312,20070207,20060511]
+var duoArr = [20070707,20070608,20070605,20070503,20070403,20070312,20070207,20060511]
 var godArr = [20070706,20070609,20070607,
 			  20070502,20070404,20070307,20070304,20070209,
 			  20070205,20070108,20070106,20061204,20061109,
@@ -12,7 +12,7 @@ var godArr = [20070706,20070609,20070607,
 var gkArr = [20070506,20070310,20070203,20070104,20061206,20061106,
 			 20061006,20060810,20060806,20060707,20060606,
 			 20060504,20060414,20060202]
- 
+var summitArr = [20070709, 20070309]
 var exArr = [20070405,20070208,20070107,20070105,20070103,
 			 20061203,20061107,20061102,20060908,20060907,
 			 20060902,20060804,20060803,20060709,20060706,
@@ -36,6 +36,7 @@ var kizuna = ''
 var duo = ''
 var god = ''
 var gk = ''
+var summit = ''
 var ex = ''
 var origin = ''
 var destroyer = ''
@@ -64,6 +65,12 @@ for(var x in gkArr){
 	console.log(gkArr[x])
 	gk += '<div class="unit-char col-md-2">'
 		   + '<a href="unit/' + gkArr[x] + '/index.html"><img src="../common/assets/img/units/' + gkArr[x] + '_6.png" alt="" width="100%"></a>'
+		   + '</div>'
+}
+for(var x in summitArr){
+	console.log(summitArr[x])
+	summit += '<div class="unit-char col-md-2">'
+		   + '<a href="unit/' + summitArr[x] + '/index.html"><img src="../common/assets/img/units/' + summitArr[x] + '_6.png" alt="" width="100%"></a>'
 		   + '</div>'
 }
 for(var x in exArr){
@@ -96,6 +103,7 @@ document.getElementById("kizuna").innerHTML = kizuna;
 document.getElementById("duo").innerHTML = duo;
 document.getElementById("god").innerHTML = god;
 document.getElementById("gk").innerHTML = gk;
+document.getElementById("summit").innerHTML = summit;
 document.getElementById("ex").innerHTML = ex;
 document.getElementById("origin").innerHTML = origin;
 document.getElementById("destroyer").innerHTML = destroyer;

@@ -8524,6 +8524,46 @@ window.skillname=[
     "name": "ほっとけねーんだってばよ！"
   },
   {
+    "cardBattleSkillNameId": "3383",
+    "name": "様子見は無い！"
+  },
+  {
+    "cardBattleSkillNameId": "3384",
+    "name": "状況は？"
+  },
+  {
+    "cardBattleSkillNameId": "3385",
+    "name": "0"
+  },
+  {
+    "cardBattleSkillNameId": "3386",
+    "name": "0"
+  },
+  {
+    "cardBattleSkillNameId": "3387",
+    "name": "呪印白蛇・千鳥刀"
+  },
+  {
+    "cardBattleSkillNameId": "3388",
+    "name": "潜影蛇手・混沌ノ陣"
+  },
+  {
+    "cardBattleSkillNameId": "3389",
+    "name": "0"
+  },
+  {
+    "cardBattleSkillNameId": "3390",
+    "name": "0"
+  },
+  {
+    "cardBattleSkillNameId": "3391",
+    "name": "0"
+  },
+  {
+    "cardBattleSkillNameId": "3392",
+    "name": "0"
+  },
+  {
     "cardBattleSkillNameId": "10136",
     "name": "新術だってばよ！"
   },
@@ -8690,6 +8730,38 @@ window.skillname=[
   {
     "cardBattleSkillNameId": "20609",
     "name": "じーっ…"
+  },
+  {
+    "cardBattleSkillNameId": "20610",
+    "name": "ぽよん"
+  },
+  {
+    "cardBattleSkillNameId": "20611",
+    "name": "コロコロ"
+  },
+  {
+    "cardBattleSkillNameId": "20612",
+    "name": "ザッ"
+  },
+  {
+    "cardBattleSkillNameId": "20613",
+    "name": "ぱたぱた"
+  },
+  {
+    "cardBattleSkillNameId": "20614",
+    "name": "シャリシャリ"
+  },
+  {
+    "cardBattleSkillNameId": "20615",
+    "name": "キーーーーン"
+  },
+  {
+    "cardBattleSkillNameId": "20616",
+    "name": "ジュワー"
+  },
+  {
+    "cardBattleSkillNameId": "20617",
+    "name": "シャクシャク"
   },
   {
     "cardBattleSkillNameId": "20900",

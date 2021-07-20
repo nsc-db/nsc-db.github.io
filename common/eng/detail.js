@@ -1,4 +1,32 @@
 window.detail=[
+    {
+        "id": 20070707,
+        "name": "Sasuke and Orochimaru",
+        "subtext": "Emerging Eyes and Greedy Snake",
+
+        "lead": "All Characters Skill Damage and SPD +100%",
+
+        "s1n": "Curse Seal White Snake: Chidori Sword",
+        "s1": "Deal 7% + 2,000,000 to a target enemy. High Chance to Ignore Resistance and Inflict 'Curse Snake' State. Deal 6 Additional Attacks dealing 790,000 Fixed Damage (Always Hit) [Curse Snake: Skills Disabled. All Incoming Skills are Type Advantage. When Released, Chance to Inflict a Random Ally with 'Curse Snake' State]",
+        "s1ntr": "Lightning",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "Striking Shadow Snake: Chaos Formation",
+        "s2": "Deal 1,500,000 Fixed Damage to All enemies. Deal 3 Additional Attacks dealing 3% + 790,000. Ignore Resistance and Inflict 'Lethal Poison' State (Always Hit) [Lethal Poison: HP -40%-60% per turn] ▼True White Snake Disorder: [2nd] (Enemies): High Chance to Disable First Strike, Insta Cast and Instant Action. Chance to Inflict 'Disable and Remove Positive Special and God State for 1 turn' (Party): Chance to grant 'Disable and Remove Negative Special and God State for 1 turn' [3rd] (Enemies): Invalidate Skill Damage Increase (Party): Chance to Skip All enemies when using a Skill▼",
+        "s2ntr": "Unique",
+        "s2cs": "Fast",
+        "s2c": 80,
+
+        "a1n": "Master and Student's Raging Wind",
+        "a1": "Grant 'True White Snake Disorder' Formation at the Start of Battle and Every Turn. Chance to Grant Instant Action when Attacked",
+
+        "a2n": "Rivalry's Ambition",
+        "a2": "Revive +3. Chance to Ignore Resistance and Skill Dodge and inflict 'Curse Snake' to the Attacker",
+
+        "a3n": "Yellow and White Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Yellow and White"
+    },
 {
           "id": 20070701,
           "name": "Kushina Uzumaki",
