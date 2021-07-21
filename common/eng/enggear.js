@@ -7509,4 +7509,24 @@ window.enggear=[
           "cardIds": "0",
           "charaGroupIds": "0"
 },
+{
+          "id": 407035,
+          "type": "Additional",
+          "name": "Rebellious 'Orphan'",
+          "effect": "Chance for First Strike and Extra Turn, When Attacked: HP Recovery +30%",
+          "normal": "When Attacked: HP Recovery +20%",
+          "charaIds": "61101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 407045,
+          "type": "Stats",
+          "name": "Pursuing 'Dream Vessel'",
+          "effect": "HP, ATK, DEF and SPD +120%, Chakra Cost -50%, Cast Speed +2",
+          "normal": "HP, ATK, DEF and SPD +60%",
+          "charaIds": "61101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
 ]
