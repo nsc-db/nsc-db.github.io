@@ -1,5 +1,89 @@
 window.detail=[
     {
+        "id": 20070704,
+        "name": "Tenten?",
+        "subtext": "TBC",
+
+        "lead": "0",
+
+        "s1n": "TBC",
+        "s1": "0",
+        "s1ntr": "Unique",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "TBC",
+        "s2": "0",
+        "s2ntr": "Unique",
+        "s2cs": "Fast",
+        "s2c": 80,
+
+        "a1n": "TBC",
+        "a1": "0",
+
+        "a2n": "TBC",
+        "a2": "0",
+
+        "a3n": "Red Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Red"
+    },
+    {
+        "id": 20070703,
+        "name": "Neji Hyuga",
+        "subtext": "TBC",
+
+        "lead": "0",
+
+        "s1n": "TBC",
+        "s1": "0",
+        "s1ntr": "Unique",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "TBC",
+        "s2": "Enemies' ATK, DEF, SPD and Skill Damage -100%. High Chance to Remove enemies' Positive Special State. Grant 'Rotation Protection (All)' State to self [Rotation Protection (All): Grant AoE Damage Immunity to Party]",
+        "s2ntr": "Unique",
+        "s2cs": "Fast",
+        "s2c": 80,
+
+        "a1n": "TBC",
+        "a1": "0",
+
+        "a2n": "TBC",
+        "a2": "0",
+
+        "a3n": "Yellow Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Yellow"
+    },
+    {
+        "id": 20070702,
+        "name": "Guy and Lee",
+        "subtext": "Youth Summer Beach",
+
+        "lead": "TBC Characters: Cast Speed +1 and TBC",
+
+        "s1n": "TBC",
+        "s1": "Deal 7% + 1,690,000 to a target enemy. Chance to Deal 6 Additional Attacks dealing 169,000. (Always Hit)",
+        "s1ntr": "Unique",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "TBC",
+        "s2": "Deal 69x ATK Damage Ignoring 50% DEF to a target enemy. High Chance to Inflict 'Lacerate' State. Grant 'Gates of Joy' State to self. [Lacerate: Disable Action. HP -20% per turn] [Gates of Joy: ATK and SPD +200%, Attacks Ignore 80% DEF. Withstand +2] [Youth: Basic Attack Always Crit, Damage Up and HP Regen +20%] ▼True Everlasting Summer: 2nd Stage: [Enemies]: Chance to Disable First Strike, Instant Cast and Instant Action. [Allies]: Grant 'Youth' State when taking an Action and Chance to Grant an Extra Turn. 3rd Stage: [Enemies]: DEF -50% every turn. [Allies]: SPD +100% every turn▼",
+        "s2ntr": "Unique",
+        "s2cs": "Fast",
+        "s2c": 80,
+
+        "a1n": "TBC",
+        "a1": "Grant 'True Everlasting Summer' Formation at the Start of Battle and Every Turn. If there's a Neji or Tenten ally: Chance for First Strike and Extra Action",
+
+        "a2n": "TBC",
+        "a2": "Revive +1, Turn Withstand into Revive, When Attacked: Chance for Instant Action, If there's a Konoha ally: ATK, DEF and SPD +169%",
+
+        "a3n": "Red and Blue Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Red and Blue"
+    },
+    {
         "id": 20070709,
         "name": "Jiraiya",
         "subtext": "Dashing Ninja Way",
