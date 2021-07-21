@@ -1,28 +1,84 @@
 window.detail=[
     {
+        "id": 20070709,
+        "name": "Jiraiya",
+        "subtext": "Dashing Ninja Way",
+
+        "lead": "Konoha Characters: ATK, DEF and SPD +100% and Cast Speed +1",
+
+        "s1n": "Art of the Raging Lion's Mane",
+        "s1": "Deal 3% + 1,000,000 to all enemies. High Chance to Ignore Resistance and Inflict 'Toad Confusion' State. If it's a Male or Akatsuki enemy: Deal 5 Additional Attacks dealing 3% + 300,000 (If both: 10 Additional Attacks). [Toad Confusion: ATK, Crit Chance and Crit Damage +3,000%. Remove all other Buff, Debuff, Status Effect and Special State. Basic Attack own allies] (Always Hit)",
+        "s1ntr": "Unique",
+        "s1cs": "Fast",
+        "s1c": 80,
+
+        "s2n": "There is No Wait-and-See!",
+        "s2": "Own ATK, DEF and SPD +200% and Grant 'Needle' State. [Needle: Deal 7% + 2,000,000 Counterattack when Attacked by a Skill. Party ATK, DEF and SPD +100% and Recover 50% HP and Chakra to other allies]",
+        "s2ntr": "Unique",
+        "s2cs": "Fast",
+        "s2c": 80,
+
+        "a1n": "Expert Fighting",
+        "a1": "If there's a GK or God enemy: High Chance to Insta Cast Skill 2 and Inflict 'Illusion' for 1 Turn (If Both: Higher Chance)",
+
+        "a2n": "A Way of Life That Helps The Next Generation",
+        "a2": "High Chance for Damage Cut +75% against Male enemies. Withstand +5. When Attacked: High Chance for Instant Action",
+
+        "a3n": "Yellow Specialization and Protection",
+        "a3": "Type Advanatage and Damage Cut +50% against Yellow. Non-Red Allies Damage Cut +50% against Yellow"
+    },
+{
+          "id": 20070708,
+          "name": "Minato Namikaze",
+          "subtext": "Birth of The Rasengan",
+
+          "lead": "Black Characters: Skill Damage +100%",
+
+          "s1n": "Rasengan",
+          "s1": "Deal 7% + 50,000 to target enemy. Chance to Deal 2 Additional Attacks dealing 7% + 20,000. If it's a Non-Konoha enemy: Deal 2x more damage.",
+		  "s1ntr": "Unique",
+          "s1cs": "Fast",
+          "s1c": 80,
+
+          "s2n": "How's It Going?",
+          "s2": "Own ATK and SPD +80%. Grant 'Bonds' State to Konoha allies. [Bonds: Skill Damage +100%, Cast Speed +1 and Chakra Cost reduced depending on how many allies are under 'Bonds' State (Max 100%)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "Fame in Other Countries",
+          "a1": "Withstand +1, Chakra +100, Start the Battle with 50% Chakra",
+
+          "a2n": "A New Technique That Does Not Require A Hand Seal",
+          "a2": "Normal Attack Dodge Rate +100%, High Chance to Dodge Skills",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+    {
         "id": 20070707,
         "name": "Sasuke and Orochimaru",
         "subtext": "Emerging Eyes and Greedy Snake",
 
-        "lead": "All Characters Skill Damage and SPD +100%",
+        "lead": "All Characters: Skill Damage and SPD +100%",
 
         "s1n": "Curse Seal White Snake: Chidori Sword",
-        "s1": "Deal 7% + 2,000,000 to a target enemy. High Chance to Ignore Resistance and Inflict 'Curse Snake' State. Deal 6 Additional Attacks dealing 790,000 Fixed Damage (Always Hit) [Curse Snake: Skills Disabled. All Incoming Skills are Type Advantage. When Released, Chance to Inflict a Random Ally with 'Curse Snake' State]",
+        "s1": "Deal 7% + 2,000,000 to a target enemy. High Chance to Ignore Resistance and Inflict 'Curse Snake' State. Deal 6 Additional Attacks dealing 790,000 Fixed Damage. [Curse Snake: Skills Disabled. All Incoming Skills are Type Advantage. When Released, Chance to Inflict a Random Ally with 'Curse Snake' State] (Always Hit)",
         "s1ntr": "Lightning",
         "s1cs": "Fast",
         "s1c": 100,
 
         "s2n": "Striking Shadow Snake: Chaos Formation",
-        "s2": "Deal 1,500,000 Fixed Damage to All enemies. Deal 3 Additional Attacks dealing 3% + 790,000. Ignore Resistance and Inflict 'Lethal Poison' State (Always Hit) [Lethal Poison: HP -40%-60% per turn] ▼True White Snake Disorder: [2nd] (Enemies): High Chance to Disable First Strike, Insta Cast and Instant Action. Chance to Inflict 'Disable and Remove Positive Special and God State for 1 turn' (Party): Chance to grant 'Disable and Remove Negative Special and God State for 1 turn' [3rd] (Enemies): Invalidate Skill Damage Increase (Party): Chance to Skip All enemies when using a Skill▼",
+        "s2": "Deal 1,500,000 Fixed Damage to all enemies. Deal 3 Additional Attacks dealing 3% + 790,000. Ignore Resistance and Inflict 'Lethal Poison' State. [Lethal Poison: HP -40%-60% per turn] (Always Hit) ▼True White Snake Disorder: [2nd] (Enemies): High Chance to Disable First Strike, Insta Cast and Instant Action. Chance to Inflict 'Disable and Remove Positive Special and God State' for 1 turn. (Party): Chance to Grant 'Disable and Remove Negative Special and God State' for 1 Turn. [3rd] (Enemies): Invalidate Skill Damage Increase. (Party): Chance to Inflict 'Skip' to all enemies when using a Skill▼",
         "s2ntr": "Unique",
         "s2cs": "Fast",
         "s2c": 80,
 
         "a1n": "Master and Student's Raging Wind",
-        "a1": "Grant 'True White Snake Disorder' Formation at the Start of Battle and Every Turn. Chance to Grant Instant Action when Attacked",
+        "a1": "Grant 'True White Snake Disorder' Formation at the Start of Battle and Every Turn. When Attacked: Chance for Instant Action",
 
         "a2n": "Rivalry's Ambition",
-        "a2": "Revive +3. Chance to Ignore Resistance and Skill Dodge and inflict 'Curse Snake' to the Attacker",
+        "a2": "Revive +3. Chance to Ignore Resistance and Skill Dodge and Inflict 'Curse Snake' to the Attacker",
 
         "a3n": "Yellow and White Specialization",
         "a3": "Type Advantage and Damage Cut +50% against Yellow and White"
@@ -88,7 +144,7 @@ window.detail=[
         "name": "Naruto Uzumaki",
         "subtext": "Howl of the Future",
 
-        "lead": "Five Village Characters: Grant First Strike. 1 Turn: Chakra Cost is set to 0",
+        "lead": "Five Village Characters: Grant First Strike. 1 Turn: Set Chakra Cost to 0",
 
         "s1n": "Tailed Beast Bomb: True Radiating Footprint",
         "s1": "Deal 3% + 1,200,000 to all enemies. Chance to Inflict 'Jutsu Seal' State (If it's a Non-Five Village enemy: Guaranteed). Deal 7 Additional Attacks dealing 3% + 200,000. If it's a Non-Five Village enemy: Deal 10 Additional Attacks dealing 3% + 200,000. [Jutsu Seal: Skill Disabled] (Always Hit)",
@@ -343,19 +399,19 @@ window.detail=[
         "lead": "Konoha ATK +300% and SPD +100%",
 
         "s1n": "Master-Pupil Cooperation: Great Flower Raid",
-        "s1": "Deal 120x ATK Damage ignoring 80% DEF. High chance to Ignore Resistance and Inflict 'Charm'. Deal 4 Additional Attacks dealing 120x ATK Damage to enemies inflicted with 'Charm' or 'Stunned'. (Always Hit)",
+        "s1": "Deal 120x ATK Damage ignoring 80% DEF. High Chance to Ignore Resistance and Inflict 'Charm'. If the enemy's inflicted with 'Charm' or 'Stun': Deal 4 Additional Attacks dealing 120x ATK Damage. (Always Hit)",
         "s1ntr": "Taijutsu",
         "s1cs": "Fastest",
         "s1c": 100,
 
         "s2n": "Master-Pupil Cooperation: Great Bullet Boulder",
-        "s2": "Deal 2,000,000 Fixed Damage to a target enemy. High chance to Ignore Resistance and inflict 'Stun' and Inflict 1 turn of 'Disable Positive Special and God State' Effect. Revive a random dead ally (Always hit) [True Great Flower and Rock: [2nd](Enemy): High Chance to Disable First Strike, Insta Cast and Instant Action. DEF Limit is set to 20,000. (Allies): Recover 500,000 HP per turn, Remove Debuff, Status Effect, Negative Special and God State per turn and Destroy enemy Terrain. [3rd](Enemy): DEF Limit is set to 1,000 (Konoha allies): Damage Cut +50%] ",
+        "s2": "Deal 2,000,000 Fixed Damage to a target enemy. High chance to Ignore Resistance and Inflict 'Stun' and Inflict 'Disable Positive Special and God State' Effect for 1 Turn. Revive a random dead ally (Always hit) [True Great Flower and Rock: [2nd](Enemy): High Chance to Disable First Strike, Insta Cast and Instant Action. DEF Limit is set to 20,000. (Allies): Recover 500,000 HP every turn, Remove Debuff, Status Effect, Negative Special and God State every turn and Destroy enemy Terrain. [3rd](Enemy): DEF Limit is set to 1,000. (Konoha allies): Damage Cut +50%] ",
         "s2ntr": "Taijutsu",
         "s2cs": "Fastest",
         "s2c": 100,
 
         "a1n": "Konoha's Medical Master",
-        "a1": "Start the Battle with/grant 'True Great Flower and Rock' Shinobi Formation every turn. Chance for Instant Action when Attacked",
+        "a1": "Start the Battle with/grant 'True Great Flower and Rock' Shinobi Formation every turn. When Attacked: Chance for Instant Action",
 
         "a2n": "Disciple of the Three",
         "a2": "Revive +3. Revive all allies upon Death except for 'Sakura and Tsunade' (Does not work if last allies alive)",
