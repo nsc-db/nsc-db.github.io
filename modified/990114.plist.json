@@ -3612,8 +3612,8 @@
           "cardUnusualId": "372",
           "category": "5",
           "iconId": "1456",
-          "name": "0",
-          "description": "0",
+          "name": "忍方陣：常夏青春",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
           "subScore": "0",
           "color": "49151",
           "type": "2"
@@ -3622,10 +3622,40 @@
           "cardUnusualId": "373",
           "category": "5",
           "iconId": "1457",
-          "name": "0",
-          "description": "0",
+          "name": "忍方陣：真・常夏青春",
+          "description": "スキル発動でカウント上昇し、カウントに応じて方陣を強化。異なるスキルを使用するとカウント２上昇",
           "subScore": "0",
           "color": "49151",
           "type": "2"
+        },
+        {
+          "cardUnusualId": "374",
+          "category": "5",
+          "iconId": "1458",
+          "name": "ヒナタとの絆",
+          "description": "ｽｷﾙ攻撃時に確率で追撃。高確率で再行動。被攻撃時､高確率で即ｱｸｼｮﾝ｡素早さ761.0%ｱｯﾌﾟ",
+          "subScore": "0",
+          "color": "16746666",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "375",
+          "category": "5",
+          "iconId": "1459",
+          "name": "ナルトへの想い",
+          "description": "弱体系特殊･神化状態解除&amp;無効化｡被攻撃時､確率で即ｱｸｼｮﾝ&amp;攻撃者に耐性無視塞｡味方全体への攻撃ｽｷﾙを無効",
+          "subScore": "0",
+          "color": "10104574",
+          "type": "2"
+        },
+        {
+          "cardUnusualId": "376",
+          "category": "5",
+          "iconId": "1460",
+          "name": "螺掌",
+          "description": "受ける攻撃が2回分になり行動不能",
+          "subScore": "0",
+          "color": "49151",
+          "type": "3"
         }
       ]

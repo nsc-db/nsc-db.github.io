@@ -16810,7 +16810,7 @@
         {
           "crystalOverwriteEffectId": "1311",
           "targetCrystal": "40707",
-          "description": "0",
+          "description": "スキル発動速度2段階アップ、素早さ69%アップ、3回行動までスキップ・キャンセル無効",
           "charaIds": "61001,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16823,7 +16823,7 @@
         {
           "crystalOverwriteEffectId": "1312",
           "targetCrystal": "40708",
-          "description": "0",
+          "description": "攻防速169%アップ、被攻撃時にHP・チャクラ30％回復＆確率で即アクション",
           "charaIds": "1202,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16836,7 +16836,7 @@
         {
           "crystalOverwriteEffectId": "1313",
           "targetCrystal": "40709",
-          "description": "0",
+          "description": "1回行動まで確率で全スキル無効、6回行動まで全スキルダメージ69%アップ＆行動後にチャクラ69%回復",
           "charaIds": "1002,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16849,7 +16849,7 @@
         {
           "crystalOverwriteEffectId": "1314",
           "targetCrystal": "40710",
-          "description": "0",
+          "description": "最大HPとｽｷﾙﾀﾞﾒｰｼﾞが69%ｱｯﾌﾟ、1回行動までﾁｬｸﾗ消費0、高確率で再行動※再行動後さらに行動はできない",
           "charaIds": "61001,1603,1103,1202,1002,",
           "cardIds": "0",
           "charaGroupIds": "0",
@@ -16884,5 +16884,31 @@
           "effectIdx3": "12111",
           "effectIdx4": "1335",
           "effectIds": "1221,736,12111,1335,895,1549,"
+        },
+        {
+          "crystalOverwriteEffectId": "1317",
+          "targetCrystal": "40705",
+          "description": "バトル開始時にチャクラ50%回復&amp;確率で先制攻撃、チャクラ消費量半減",
+          "charaIds": "105,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1115",
+          "effectIdx2": "3266",
+          "effectIdx3": "895",
+          "effectIdx4": "0",
+          "effectIds": "1115,3266,895,"
+        },
+        {
+          "crystalOverwriteEffectId": "1318",
+          "targetCrystal": "40706",
+          "description": "最大HP・攻・防・速・全ｽｷﾙﾀﾞﾒｰｼﾞ120%ｱｯﾌﾟ、スキル発動速度2段階アップ",
+          "charaIds": "704,",
+          "cardIds": "0",
+          "charaGroupIds": "0",
+          "effectIdx1": "1221",
+          "effectIdx2": "736",
+          "effectIdx3": "12111",
+          "effectIdx4": "1335",
+          "effectIds": "1221,736,12111,1335,1549,30011,"
         }
       ]

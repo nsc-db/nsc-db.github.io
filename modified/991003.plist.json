@@ -893,5 +893,13 @@
         {
           "defineKey": "evolution_price_type_evolution_step_8",
           "defineValue": "0"
+        },
+        {
+          "defineKey": "asset_pve_deck_cost_limit",
+          "defineValue": "270"
+        },
+        {
+          "defineKey": "token_exchange_limit",
+          "defineValue": "5700"
         }
       ]

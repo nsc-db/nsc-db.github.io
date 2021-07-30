@@ -1599,6 +1599,14 @@
           "equipStatus": "1"
         },
         {
+          "titleId": "282",
+          "title": "サスケくん",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "1"
+        },
+        {
           "titleId": "1000",
           "title": "忍者学校生",
           "description": "",
@@ -3097,6 +3105,14 @@
         {
           "titleId": "1280",
           "title": "忍界最強",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "2"
+        },
+        {
+          "titleId": "1281",
+          "title": "おめでとう…",
           "description": "0",
           "color": "0",
           "effectIds": "0",
@@ -4841,6 +4857,38 @@
         {
           "titleId": "5344",
           "title": "7月6日10時はナルトの日！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5345",
+          "title": "6周年！青春してるなー！",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5346",
+          "title": "6周年は待ってくれませんよ",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5350",
+          "title": "螺旋に込める勇気",
+          "description": "0",
+          "color": "0",
+          "effectIds": "0",
+          "equipStatus": "3"
+        },
+        {
+          "titleId": "5351",
+          "title": "掌に宿す愛",
           "description": "0",
           "color": "0",
           "effectIds": "0",

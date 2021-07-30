@@ -29,5 +29,13 @@
           "cardSubName": "瞳拳の忍絵巻-絆-",
           "modelId": "0",
           "connectSkillId": "710003"
+        },
+        {
+          "connectCardId": "60070600",
+          "ownerProfileId": "61601",
+          "cardName": "ナルト＆ヒナタ",
+          "cardSubName": "螺掌の忍絵巻-絆-",
+          "modelId": "0",
+          "connectSkillId": "710004"
         }
       ]

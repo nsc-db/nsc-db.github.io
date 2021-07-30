@@ -27872,11 +27872,11 @@
           "effectIds": "20052,4221,4222,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "応援うちわ（8月）",
+          "crystalDescription": "最大チャクラ量160アップ、6回行動するまでチャクラ消費量60%減少＆行動後にチャクラ66%回復",
           "crystalImageId": "404195",
           "recipeId": "40419",
-          "recipeName": "0"
+          "recipeName": "応援うちわ（8月）"
         },
         {
           "crystalId": "40501",
@@ -28406,6 +28406,40 @@
           "recipeName": "追い求めし“夢の器”"
         },
         {
+          "crystalId": "40705",
+          "crystalType": "3",
+          "crystalRare": "5",
+          "effectIdx1": "895",
+          "effectIdx2": "0",
+          "effectIdx3": "0",
+          "effectIdx4": "0",
+          "effectIds": "895,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "火の意志を体現する里の英雄",
+          "crystalDescription": "チャクラ消費量半減",
+          "crystalImageId": "407055",
+          "recipeId": "40705",
+          "recipeName": "火の意志を体現する里の英雄"
+        },
+        {
+          "crystalId": "40706",
+          "crystalType": "1",
+          "crystalRare": "5",
+          "effectIdx1": "10059",
+          "effectIdx2": "11059",
+          "effectIdx3": "12059",
+          "effectIdx4": "13059",
+          "effectIds": "10059,11059,12059,13059,",
+          "money": "30000",
+          "saleMoney": "2500",
+          "crystalName": "幼少より抱き続ける一途の愛",
+          "crystalDescription": "最大HP・攻・防・速60%アップ",
+          "crystalImageId": "407065",
+          "recipeId": "40706",
+          "recipeName": "幼少より抱き続ける一途の愛"
+        },
+        {
           "crystalId": "40707",
           "crystalType": "11",
           "crystalRare": "5",
@@ -28416,11 +28450,11 @@
           "effectIds": "1840,183,3291,3292,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "青春を求める水着",
+          "crystalDescription": "スキル発動速度1段階アップ、素早さ30%アップ、1回行動まで低確率でスキップ・キャンセル無効",
           "crystalImageId": "407075",
           "recipeId": "40707",
-          "recipeName": "0"
+          "recipeName": "青春を求める水着"
         },
         {
           "crystalId": "40708",
@@ -28433,11 +28467,11 @@
           "effectIds": "4235,830,975,4015,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "テンテンの水着",
+          "crystalDescription": "攻防速69%アップ、被攻撃時にHP・チャクラ10％回復＆低確率で即アクション",
           "crystalImageId": "407085",
           "recipeId": "40708",
-          "recipeName": "0"
+          "recipeName": "テンテンの水着"
         },
         {
           "crystalId": "40709",
@@ -28450,11 +28484,11 @@
           "effectIds": "3113,4239,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "ネジのパーカー",
+          "crystalDescription": "1回行動まで低確率で全スキル無効、3回行動まで行動後にチャクラ30%回復",
           "crystalImageId": "407095",
           "recipeId": "40709",
-          "recipeName": "0"
+          "recipeName": "ネジのパーカー"
         },
         {
           "crystalId": "40710",
@@ -28467,11 +28501,11 @@
           "effectIds": "470,615,439,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "第三班のビーチボール",
+          "crystalDescription": "最大HPとスキルダメージが30%アップ、確率で再行動※再行動後さらに行動はできない",
           "crystalImageId": "407105",
           "recipeId": "40710",
-          "recipeName": "0"
+          "recipeName": "第三班のビーチボール"
         },
         {
           "crystalId": "40711",
@@ -28484,10 +28518,10 @@
           "effectIds": "1794,4218,4219,4220,",
           "money": "30000",
           "saleMoney": "2500",
-          "crystalName": "0",
-          "crystalDescription": "0",
+          "crystalName": "6周年ロゴ（8月）",
+          "crystalDescription": "1回行動まで全スキル無効。さらに心技体属性の場合、低確率で受けるダメージ66%カット",
           "crystalImageId": "407115",
           "recipeId": "40711",
-          "recipeName": "0"
+          "recipeName": "6周年ロゴ（8月）"
         }
       ]

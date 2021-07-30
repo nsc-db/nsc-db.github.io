@@ -2274,9 +2274,35 @@
           "selectType": "1"
         },
         {
+          "itemId": "11180",
+          "name": "期間限定ラーメン(8月6日15:59まで)",
+          "description": "スタミナを全回復するラーメン（8月6日15:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
           "itemId": "11181",
           "name": "8月限定ラーメン(2021)",
           "description": "スタミナを全回復するラーメン（8月31日23:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "1",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "11020",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
+          "itemId": "11182",
+          "name": "期間限定ラーメン(9月30日23:59まで)",
+          "description": "スタミナを全回復するラーメン（9月30日23:59まで期間限定）",
           "resultWord": "0",
           "itemCategoryId": "1",
           "itemValue": "1000000",
@@ -5121,6 +5147,32 @@
           "selectType": "2"
         },
         {
+          "itemId": "52095",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書(8月6日15:59まで)",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（8月6日15:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
+          "itemId": "52096",
+          "name": "限定ﾄﾞﾛｯﾌﾟ数2倍の秘伝書(9月30日23:59まで)",
+          "description": "バトルでの獲得ドロップ数が２倍になります。（9月30日23:59まで期間限定）",
+          "resultWord": "忍/素材ドロップ数２倍",
+          "itemCategoryId": "10",
+          "itemValue": "20000",
+          "itemNum": "0",
+          "itemImageId": "51000",
+          "needCount": "1",
+          "priority": "100",
+          "selectType": "2"
+        },
+        {
           "itemId": "60000",
           "name": "SNB総選挙投票券",
           "description": "SNB総選挙の投票に必要なアイテム",
@@ -5592,6 +5644,19 @@
           "itemId": "80019",
           "name": "期間限定 連合戦参加券",
           "description": "連合戦参加に必要なアイテム（8月15日11:59まで期間限定）",
+          "resultWord": "0",
+          "itemCategoryId": "28",
+          "itemValue": "1000000",
+          "itemNum": "0",
+          "itemImageId": "80001",
+          "needCount": "1",
+          "priority": "1",
+          "selectType": "1"
+        },
+        {
+          "itemId": "80020",
+          "name": "期間限定 連合戦参加券",
+          "description": "連合戦参加に必要なアイテム（9月15日11:59まで期間限定）",
           "resultWord": "0",
           "itemCategoryId": "28",
           "itemValue": "1000000",

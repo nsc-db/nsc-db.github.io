@@ -4475,6 +4475,30 @@
           "voiceDeath": "sasuke_death_02_01"
         },
         {
+          "cardVoiceId": "377",
+          "cardId": "60070601",
+          "dirName": "naruto",
+          "evolutionStep": "",
+          "voiceAppear": "naruto_battle_03_03",
+          "voiceSkill1": "naruto_battle_02_09_02.mp3",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "naruto_win_03_03",
+          "voiceDeath": "naruto_death_03_01"
+        },
+        {
+          "cardVoiceId": "378",
+          "cardId": "60070602",
+          "dirName": "hinata",
+          "evolutionStep": "",
+          "voiceAppear": "hinata_battle_02_01",
+          "voiceSkill1": "hinata_battle_02_01",
+          "voiceSkill2": "",
+          "voicePursuit": "",
+          "voiceWin": "hinata_win_02_01",
+          "voiceDeath": "hinata_death_02_01"
+        },
+        {
           "cardVoiceId": "8001",
           "cardId": "80000001",
           "dirName": "naruto",

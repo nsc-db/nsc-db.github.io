@@ -7433,6 +7433,42 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageOrnamentId": "2104615",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2104616",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2104617",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2104619",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageOrnamentId": "2105001",
           "name": "0",
           "rarity": "4",
@@ -7541,7 +7577,34 @@
           "purchaseReleaseTime": "0000-00-00 00:00:00"
         },
         {
+          "mypageOrnamentId": "2107001",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "1",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2107002",
+          "name": "0",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "1",
+          "charaId": "7",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
           "mypageOrnamentId": "2107003",
+          "name": "その他",
+          "rarity": "4",
+          "resourceType": "0",
+          "category": "99",
+          "charaId": "0",
+          "purchaseReleaseTime": "0000-00-00 00:00:00"
+        },
+        {
+          "mypageOrnamentId": "2108003",
           "name": "その他",
           "rarity": "4",
           "resourceType": "0",

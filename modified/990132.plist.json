@@ -45,5 +45,17 @@
           "connectCardId": "60070500",
           "cardId": "60070502",
           "connectSkillId": "0"
+        },
+        {
+          "connectCardGroupId": "9",
+          "connectCardId": "60070600",
+          "cardId": "60070601",
+          "connectSkillId": "0"
+        },
+        {
+          "connectCardGroupId": "10",
+          "connectCardId": "60070600",
+          "cardId": "60070602",
+          "connectSkillId": "0"
         }
       ]

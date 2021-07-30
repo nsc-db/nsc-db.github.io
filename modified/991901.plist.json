@@ -1169,6 +1169,32 @@
           "legendPanelList": "0"
         },
         {
+          "sphereBoardId": "10101",
+          "boardName": "Temp_Ct40_技属性_の潜在覚醒盤",
+          "boardDescription": "うずまきナルト【希望の伝導者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070802",
+          "normalPanelList": "9000007,9000008,9000009",
+          "specialPanelList": "9000010,9000011,9000012",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "10102",
+          "boardName": "Temp_Ct40_心属性_の潜在覚醒盤",
+          "boardDescription": "うちはサスケ【孤高の決闘者】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20070803",
+          "normalPanelList": "9000001,9000002,9000003",
+          "specialPanelList": "9000004,9000005,9000006",
+          "legendPanelList": "0"
+        },
+        {
           "sphereBoardId": "50001",
           "boardName": "Temp_Ct=&gt;90_体属性_の潜在覚醒盤",
           "boardDescription": "うずまきナルト【解き示す絆の輝き】",
@@ -2261,6 +2287,19 @@
           "legendPanelList": "0"
         },
         {
+          "sphereBoardId": "50086",
+          "boardName": "Temp_Ct=&gt;90_知属性_の潜在覚醒盤_伝説",
+          "boardDescription": "うずまきナルト【救友の意志】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "20050103",
+          "normalPanelList": "9100019,9100020,9100021",
+          "specialPanelList": "9100022,9100023,9100024",
+          "legendPanelList": "9100046,9100047,9100048,9100049,9100050"
+        },
+        {
           "sphereBoardId": "60001",
           "boardName": "忍絵巻_技属性_の潜在覚醒盤",
           "boardDescription": "ナルト＆サスケ【忍絵巻-絆-】",
@@ -2310,6 +2349,19 @@
           "cardId": "60070500",
           "normalPanelList": "9200025,9200026,9200027",
           "specialPanelList": "9200028,9200029,9200030",
+          "legendPanelList": "0"
+        },
+        {
+          "sphereBoardId": "60005",
+          "boardName": "忍絵巻_知属性_の潜在覚醒盤",
+          "boardDescription": "ナルト&amp;ヒナタ【螺掌の忍絵巻-絆-】",
+          "rare": "0",
+          "costMin": "0",
+          "costMax": "0",
+          "attribute": "0",
+          "cardId": "60070600",
+          "normalPanelList": "9200019,9200020,9200021",
+          "specialPanelList": "9200022,9200023,9200024",
           "legendPanelList": "0"
         },
         {

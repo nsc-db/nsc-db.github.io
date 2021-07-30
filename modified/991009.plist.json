@@ -3317,6 +3317,12 @@
           "itemImgId": "128"
         },
         {
+          "shopExchangeItemId": "565",
+          "itemName": "個人Pt",
+          "measure": "0",
+          "itemImgId": "23"
+        },
+        {
           "shopExchangeItemId": "1001",
           "itemName": "下心Pt",
           "measure": null,
@@ -4571,6 +4577,18 @@
           "itemImgId": "2098"
         },
         {
+          "shopExchangeItemId": "2128",
+          "itemName": "6周年記念★7神忍・破神交換券",
+          "measure": "0",
+          "itemImgId": "2128"
+        },
+        {
+          "shopExchangeItemId": "2129",
+          "itemName": "ランキング忍具交換券(9月11日23:59まで)",
+          "measure": "0",
+          "itemImgId": "2098"
+        },
+        {
           "shopExchangeItemId": "2500",
           "itemName": "神忍札[4月]",
           "measure": "0",
@@ -4711,6 +4729,12 @@
         {
           "shopExchangeItemId": "2615",
           "itemName": "疾風札[7月]",
+          "measure": "0",
+          "itemImgId": "2600"
+        },
+        {
+          "shopExchangeItemId": "2616",
+          "itemName": "疾風札[8月]",
           "measure": "0",
           "itemImgId": "2600"
         },

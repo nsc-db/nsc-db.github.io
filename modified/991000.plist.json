@@ -9187,5 +9187,35 @@
           "appUiId": "1869",
           "uiKey": "SphereAttribute_304",
           "text": "四"
+        },
+        {
+          "appUiId": "1894",
+          "uiKey": "SphereMaterialDesc",
+          "text": "潜在覚醒のマス解放に必要な素材"
+        },
+        {
+          "appUiId": "1896",
+          "uiKey": "PveTeamForm",
+          "text": "昇級試験編成"
+        },
+        {
+          "appUiId": "1897",
+          "uiKey": "ShinobiPveDeckDesc",
+          "text": "班は最大５つまで編成可能です"
+        },
+        {
+          "appUiId": "1898",
+          "uiKey": "InPveDeck",
+          "text": "昇級編成"
+        },
+        {
+          "appUiId": "1904",
+          "uiKey": "SphereNeedMaterialDescFormat",
+          "text": "「%s」が必要です"
+        },
+        {
+          "appUiId": "1905",
+          "uiKey": "TokenPt",
+          "text": "鍛錬Pt"
         }
       ]
