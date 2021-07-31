@@ -1,5 +1,61 @@
 window.detail=[
     {
+        "id": 20050103,
+        "name": "Naruto Uzumaki",
+        "subtext": "Will to Save His Friend",
+
+        "lead": "White and Black Characters: HP, ATK and Skill Damage +130%",
+
+        "s1n": "Six Paths: Massive Rasenshuriken",
+        "s1": "Deal 3% + 500,000 to all enemies. Guarantee Inflict 'Cancel'.  Deal more damage the less enemies alive (Max 4x with 1 enemy). If under 'Saving Friend' God State: Deal 2x more damage. (Max 8x) (Always Hit)",
+        "s1ntr": "Six Paths",
+        "s1cs": "Fast",
+        "s1c": 150,
+
+        "s2n": "I'm Gonna Win",
+        "s2": "Restore 500,000 HP & Set Chakra Cost to 0 to Party and Grant 'Saving Friend' God State. Remove Enemies' Special Positive State. [Saving Friend:  ATK, SPD and Skill Damage +250%, Cast Speed +2, Remove and Immune to Negative Special State]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 130,
+
+        "a1n": "Hero Who Knows Loneliness",
+        "a1": "Revive +5, Chakra +200",
+
+        "a2n": "Nine Tails' Full Power",
+        "a2": "2 Turn: SPD +200%, If there's a None enemy: SPD +300% and Cast Speed +2",
+
+        "a3n": "White Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against White"
+    },
+    {
+        "id": 20050407,
+        "name": "Kakashi Hatake",
+        "subtext": "Manifestation of the Emblem of Hope",
+
+        "lead": "Five Village Characters: Cast Speed +1, SPD +70%, Skill Damage +120%",
+
+        "s1n": "Susanoo: Sky Split Sword",
+        "s1": "Deal 3% + 999,999 to all enemies. If it's a None enemy: Ignore Resistance and Guarantee Inflict 'Skip'. Grant 'Kamui Space' God State to self and Non-Five Village enemies. [Kamui Space: (Non-Kakashi) SPD -999% and Cast Speed -5. (Kakashi) Fixed, Skill, Negative Special State and Terrain Immunity. Deal a Counter Attack dealing 7% + 100,000. After 3 Turns, remove this state.] (Always Hit)",
+        "s1ntr": "Sharingan",
+        "s1cs": "Fast",
+        "s1c": 150,
+
+        "s2n": "We will Save the World!",
+        "s2": "Own SPD +150% and Set Chakra Cost to 0. Five Village allies' Cast Speed +1 and Skill Damage +300%.",
+        "s2ntr": "Unique",
+        "s2cs": "Fast",
+        "s2c": 100,
+
+        "a1n": "The Power to Connect Hope",
+        "a1": "Withstand +3, Chakra +100, Skip Immunity",
+
+        "a2n": "Second Coming of Two Names",
+        "a2": "1 Turn: SPD +100%, If there's a None enemy: SPD +200% and Cast Speed +2",
+
+        "a3n": "White Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against White"
+    },
+    {
         "id": 20070704,
         "name": "Tenten?",
         "subtext": "TBC",
