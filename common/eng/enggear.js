@@ -3380,6 +3380,16 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 203015,
+          "type": "Resistance",
+          "name": "Itachi's Black Flames",
+          "effect": "HP +120%, Dodge Rate +50%",
+          "normal": "HP +60%, Low Chance to Dodge Skills",
+          "charaIds": "11604",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+	},
+{
           "id": 203025,
           "type": "Skill",
           "name": "Itachi's Susanoo",
@@ -4260,6 +4270,56 @@ window.enggear=[
           "charaGroupIds": "0"
 },
 {
+          "id": 301015,
+          "type": "Skill",
+          "name": "Haku's Barrette",
+          "effect": "Unique Skill Damage +120%, Cast Speed +1",
+          "normal": "Unique Skill Damage +30%",
+          "charaIds": "10201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 301025,
+          "type": "Chakra",
+          "name": "Haku's Herb",
+          "effect": "3 Turns: Set Chakra Cost to 0, Chance for Damage Cut +25%, Status Effect Immunity",
+          "normal": "3 Turns: Chakra Cost -20%, Status Effect Duration Reduction",
+          "charaIds": "10201",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 301035,
+          "type": "Chakra",
+          "name": "Bloody Kunai",
+          "effect": "Start the Battle with 100% Chakra, 2 Turns: Set Chakra Cost to 0, Debuff Immunity",
+          "normal": "2 Turns: Chakra Cost -20%, Debuff Duration Reduction",
+          "charaIds": "10101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 301045,
+          "type": "Additional",
+          "name": "Zabuza's Sandals",
+          "effect": "Basic Attack Crit Chance +50%, ATK +200%, High Chance for ATK +300% (Max +500%)",
+          "normal": "Basic Attack Crit Chance and ATK +20%",
+          "charaIds": "10101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 301065,
+          "type": "Resistance",
+          "name": "Itachi's Anbu Vest",
+          "effect": "5 Turns: Incoming Skill Damage -50%, Debuff and Status Effect Immunity, Start the Battle with 50% Chakra",
+          "normal": "2 Turns: Incoming Skill Damage Reduction",
+          "charaIds": "11602",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},	
+{
           "id": 301085,
           "type": "Resistance",
           "name": "Kakashi's Anbu Boots",
@@ -4270,10 +4330,50 @@ window.enggear=[
           "charaGroupIds": "0"
 },	
 {
+          "id": 301095,
+          "type": "Chakra",
+          "name": "Minato's Cloak",
+          "effect": "3 Turns: Set Chakra Cost to 0, 3 Turns: Chakra Recovery +50%, HP <50%: Set Chakra Cost to 0",
+          "normal": "HP <50%: Chakra Cost -50%",
+          "charaIds": "2104,2105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 301105,
+          "type": "Skill",
+          "name": "Minato's Sandals",
+          "effect": "Cast Speed +1, HP <50%: Skill Damage +100% and Cancel Immunity",
+          "normal": "HP <50%: Skill Damage +50%",
+          "charaIds": "2104,2105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 301115,
+          "type": "Resistance",
+          "name": "Obito's Truth-Seeking Orbs (Attack Form)",
+          "effect": "Cancel and Status Effect Immunity, 2 Turns: Fully Recover HP and Chakra when attacked",
+          "normal": "Status Effect Duration Reduction, 2 Turns: Recover 10% of HP and Chakra when attacked",
+          "charaIds": "50904",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+     },	 
+{
+          "id": 301125,
+          "type": "Stats",
+          "name": "Ten Tails Host Mark",
+          "effect": "SPD +75%, Cast Speed +1, 1 Turn: Set Chakra Cost to 0",
+          "normal": "SPD +20%, 1 Turn: Chakra Cost -20%",
+          "charaIds": "50904",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
           "id": 301135,
           "type": "Skill",
           "name": "Kiba's Kunai",
-          "effect": "Secret Skill Damage +100%, If there is a None enemy: Damage Cut +20% ",
+          "effect": "Secret Skill Damage +100%, If there is a None enemy: Damage Cut +20%",
           "normal": "Secret Skill Damage +50%",
           "charaIds": "801,802",
           "cardIds": "0",
