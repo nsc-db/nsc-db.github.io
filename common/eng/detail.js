@@ -336,7 +336,7 @@ window.detail=[
           "a3": "None"
       },
  {
-          "id": 50070101,
+          "id": 50060101,
           "name": "Gaara",
           "subtext": "Gravel Wall Sand Beast",
 
