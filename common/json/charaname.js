@@ -364,6 +364,20 @@ window.charaname=[
     "gender": "1"
   },
   {
+    "charaProfileId": "213",
+    "charaId": "2",
+    "name": "うちはサスケ",
+    "detail": "疾風伝",
+    "charaLoveAffinityGroupId": "220",
+    "birthday": "723",
+    "constellation": "5",
+    "height": "16800",
+    "weight": "5220",
+    "bloodType": "4",
+    "age": "16",
+    "gender": "1"
+  },
+  {
     "charaProfileId": "214",
     "charaId": "2",
     "name": "うちはサスケ",
@@ -4426,7 +4440,7 @@ window.charaname=[
   {
     "charaProfileId": "61001",
     "charaId": "610",
-    "name": "0",
+    "name": "ガイ＆リー",
     "detail": null,
     "charaLoveAffinityGroupId": "61010",
     "birthday": "0",
@@ -4471,6 +4485,20 @@ window.charaname=[
     "name": "サスケ＆サクラ",
     "detail": "忍絵巻-絆-",
     "charaLoveAffinityGroupId": "61401",
+    "birthday": "0",
+    "constellation": "0",
+    "height": "0",
+    "weight": "0",
+    "bloodType": "0",
+    "age": "0",
+    "gender": "1"
+  },
+  {
+    "charaProfileId": "61601",
+    "charaId": "616",
+    "name": "ナルト＆ヒナタ",
+    "detail": "忍絵巻-絆-",
+    "charaLoveAffinityGroupId": "61601",
     "birthday": "0",
     "constellation": "0",
     "height": "0",

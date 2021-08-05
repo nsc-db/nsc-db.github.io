@@ -28421,9 +28421,9 @@ window.ability=[
   },
   {
     "abilityId": "2896",
-    "abilityName": "0",
-    "abilityDescription": "0",
-    "abilityEffectDescription": "0",
+    "abilityName": "常夏の青春",
+    "abilityDescription": "ﾊﾞﾄﾙ開始・行動後に【忍方陣：常夏青春】を展開｡味方に「ﾈｼﾞ・ﾃﾝﾃﾝ」がいると、それぞれ確率で先制攻撃＆再行動",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始・行動後に【忍方陣：常夏青春】を展開｡味方に「ﾈｼﾞ・ﾃﾝﾃﾝ」がいると、それぞれ確率で先制攻撃＆再行動",
     "effectIdx1": "4244",
     "effectIdx2": "4246",
     "effectIdx3": "3510",
@@ -28431,9 +28431,9 @@ window.ability=[
   },
   {
     "abilityId": "2897",
-    "abilityName": "0",
-    "abilityDescription": "0",
-    "abilityEffectDescription": "0",
+    "abilityName": "滾る青春の咆哮",
+    "abilityDescription": "HP0以下で1回耐え、耐えた時HP全回復。被攻撃時確率で即ｱｸｼｮﾝ。味方の木ノ葉隠れの里所属生存時攻防速169%ｱｯﾌﾟ",
+    "abilityEffectDescription": "HP0以下で1回耐え、耐えた時HP全回復。被攻撃時確率で即ｱｸｼｮﾝ。味方の木ノ葉隠れの里所属生存時攻防速169%ｱｯﾌﾟ",
     "effectIdx1": "312",
     "effectIdx2": "874",
     "effectIdx3": "3620",
@@ -28501,9 +28501,9 @@ window.ability=[
   },
   {
     "abilityId": "2904",
-    "abilityName": "0",
-    "abilityDescription": "0",
-    "abilityEffectDescription": "0",
+    "abilityName": "清爽の海辺",
+    "abilityDescription": "味方に「ガイ＆リー・テンテン」がいると、それぞれ確率で先制攻撃＆再行動。 HP0以下で3回耐える",
+    "abilityEffectDescription": "味方に「ガイ＆リー・テンテン」がいると、それぞれ確率で先制攻撃＆再行動。 HP0以下で3回耐える",
     "effectIdx1": "3511",
     "effectIdx2": "4250",
     "effectIdx3": "1789",
@@ -28511,9 +28511,9 @@ window.ability=[
   },
   {
     "abilityId": "2905",
-    "abilityName": "0",
-    "abilityDescription": "0",
-    "abilityEffectDescription": "0",
+    "abilityName": "晴れ渡る心",
+    "abilityDescription": "被攻撃時、確率で敵全体に破状態付与",
+    "abilityEffectDescription": "被攻撃時、確率で敵全体に破状態付与",
     "effectIdx1": "4260",
     "effectIdx2": "0",
     "effectIdx3": "0",
@@ -28521,9 +28521,9 @@ window.ability=[
   },
   {
     "abilityId": "2906",
-    "abilityName": "0",
-    "abilityDescription": "0",
-    "abilityEffectDescription": "0",
+    "abilityName": "まとめ役の休暇",
+    "abilityDescription": "味方に「ガイ＆リー・ネジ」がいると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
+    "abilityEffectDescription": "味方に「ガイ＆リー・ネジ」がいると、それぞれ確率で先制攻撃＆再行動。HP0以下で3回耐える",
     "effectIdx1": "3510",
     "effectIdx2": "4249",
     "effectIdx3": "1789",
@@ -28531,13 +28531,93 @@ window.ability=[
   },
   {
     "abilityId": "2907",
-    "abilityName": "0",
-    "abilityDescription": "0",
-    "abilityEffectDescription": "0",
+    "abilityName": "溌剌とした笑顔",
+    "abilityDescription": "被攻撃時、それぞれ確率で次の行動まで素早さ＆ｽｷﾙﾀﾞﾒｰｼﾞ150％ｱｯﾌﾟ",
+    "abilityEffectDescription": "被攻撃時、それぞれ確率で次の行動まで素早さ＆ｽｷﾙﾀﾞﾒｰｼﾞ150％ｱｯﾌﾟ",
     "effectIdx1": "4270",
     "effectIdx2": "4271",
     "effectIdx3": "0",
     "effectIds": "4270,4271,"
+  },
+  {
+    "abilityId": "2908",
+    "abilityName": "九喇嘛との共鳴",
+    "abilityDescription": "HP0以下で3回HP全回復、耐えた時に素早さ761%アップ、高確率で敵の地形効果無効",
+    "abilityEffectDescription": "HP0以下で3回HP全回復、耐えた時に素早さ761%アップ、高確率で敵の地形効果無効",
+    "effectIdx1": "874",
+    "effectIdx2": "1789",
+    "effectIdx3": "3821",
+    "effectIds": "874,1789,3821,4279,"
+  },
+  {
+    "abilityId": "2909",
+    "abilityName": "ヒナタとの絆",
+    "abilityDescription": "バトル開始時、短い間自身にヒナタとの絆を付与。ヒナタからローテーション時、自身にナルトへの想いを付与",
+    "abilityEffectDescription": "バトル開始時、短い間自身にヒナタとの絆を付与。ヒナタからローテーション時、自身にナルトへの想いを付与",
+    "effectIdx1": "4280",
+    "effectIdx2": "4283",
+    "effectIdx3": "0",
+    "effectIds": "4280,4283,"
+  },
+  {
+    "abilityId": "2910",
+    "abilityName": "日向秘伝の継承者",
+    "abilityDescription": "HP0以下で3回HP全回復、耐えた時に素早さ761%アップ、高確率で即死無効",
+    "abilityEffectDescription": "HP0以下で3回HP全回復、耐えた時に素早さ761%アップ、高確率で即死無効",
+    "effectIdx1": "874",
+    "effectIdx2": "1789",
+    "effectIdx3": "3244",
+    "effectIds": "874,1789,3244,4279,"
+  },
+  {
+    "abilityId": "2911",
+    "abilityName": "ナルトへの想い",
+    "abilityDescription": "バトル開始時、短い間自身にナルトへの想いを付与。ナルトからローテーション時、自身にヒナタとの絆を付与",
+    "abilityEffectDescription": "バトル開始時、短い間自身にナルトへの想いを付与。ナルトからローテーション時、自身にヒナタとの絆を付与",
+    "effectIdx1": "4281",
+    "effectIdx2": "4282",
+    "effectIdx3": "0",
+    "effectIds": "4281,4282,"
+  },
+  {
+    "abilityId": "2912",
+    "abilityName": "内に宿る友との力",
+    "abilityDescription": "HP0以下で2回耐え、行動後に確率で味方全体の弱体系特殊状態を解除",
+    "abilityEffectDescription": "HP0以下で2回耐え、行動後に確率で味方全体の弱体系特殊状態を解除",
+    "effectIdx1": "1057",
+    "effectIdx2": "4285",
+    "effectIdx3": "0",
+    "effectIds": "1057,4285,"
+  },
+  {
+    "abilityId": "2913",
+    "abilityName": "並び立つ友への想い",
+    "abilityDescription": "味方にサスケ生存時、確率で先制攻撃＆死亡時に敵全体へ耐性・スキル回避を無視してスキル発動速度3段階ダウン",
+    "abilityEffectDescription": "味方にサスケ生存時、確率で先制攻撃＆死亡時に敵全体へ耐性・スキル回避を無視してスキル発動速度3段階ダウン",
+    "effectIdx1": "3995",
+    "effectIdx2": "4286",
+    "effectIdx3": "0",
+    "effectIds": "3995,4286,"
+  },
+  {
+    "abilityId": "2914",
+    "abilityName": "呪印纏う須佐能乎の力",
+    "abilityDescription": "HP0以下で2回耐え、行動後に確率で敵全体の強化系特殊状態を解除",
+    "abilityEffectDescription": "HP0以下で2回耐え、行動後に確率で敵全体の強化系特殊状態を解除",
+    "effectIdx1": "1057",
+    "effectIdx2": "4287",
+    "effectIdx3": "0",
+    "effectIds": "1057,4287,"
+  },
+  {
+    "abilityId": "2915",
+    "abilityName": "心に宿る兄への想い",
+    "abilityDescription": "味方にナルトが生存していると、確率で先制攻撃＆死亡時に敵全体のスキルダメージ1,000%ダウン",
+    "abilityEffectDescription": "味方にナルトが生存していると、確率で先制攻撃＆死亡時に敵全体のスキルダメージ1,000%ダウン",
+    "effectIdx1": "4016",
+    "effectIdx2": "4288",
+    "effectIdx3": "0",
+    "effectIds": "4016,4288,"
   },
   {
     "abilityId": "10000",
@@ -30738,6 +30818,16 @@ window.ability=[
     "effectIdx2": "1512",
     "effectIdx3": "4257",
     "effectIds": "4233,1512,4257,"
+  },
+  {
+    "abilityId": "100159",
+    "abilityName": "九喇嘛との全力",
+    "abilityDescription": "2回行動まで素早さ200%アップ、敵に無所属がいる場合さらに素早さ300％アップ＆スキル発動速度1段階アップ",
+    "abilityEffectDescription": "2回行動まで素早さ200%アップ、敵に無所属がいる場合さらに素早さ300％アップ＆スキル発動速度1段階アップ",
+    "effectIdx1": "1693",
+    "effectIdx2": "4284",
+    "effectIdx3": "2048",
+    "effectIds": "1693,4284,2048,"
   },
   {
     "abilityId": "200001",

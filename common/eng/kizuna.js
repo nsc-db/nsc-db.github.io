@@ -30,5 +30,13 @@ window.engkizuna=[
           "nature": "Unique",
           "cs": "Fastest",
           "cost": 100
+        },
+        {
+          "cardBattleSkillId": "710004",
+          "name": "Tailed Beast Bomb Rasen Shuriken: Twin Lion Fist",
+          "description": "＜Kizuna Skill＞ Deal 3% + 2,761,000 Penetration Damage to all enemies. Grant 'Spiral Fist' Unique State. High Chance to Ignore Withstand, Revive and Immortality against Non-Konoha enemies. [Spiral Fist: Disable Action when Attacked Twice]",
+          "nature": "Tailed Beast",
+          "cs": "Fastest",
+          "cost": 100
         }
 ]

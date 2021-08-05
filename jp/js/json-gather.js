@@ -183,6 +183,15 @@
 			else if(id == 60060701 || id == 60060702){
 				tempId = 60060700
 			}
+			else if(id == 60070401 || id == 60070402){
+				tempId = 60070400
+			}
+			else if(id == 60070501 || id == 60070502){
+				tempId = 60070500
+			}
+			else if(id == 60070701 || id == 60070702){
+				tempId = 60070700
+			}
 			else{
 				tempId = id
 			}
@@ -357,6 +366,9 @@
 			}
 			else if(id == 60070501 || id == 60070502){
 				var charaId = 60070500
+			}
+			else if(id == 60070601 || id == 60070602){
+				var charaId = 60070600
 			}
 			else{
 				var charaId = id
@@ -569,6 +581,9 @@
 		}
 		else if(cid == 60070501 || cid == 60070502){
 			var charaId = 60070500
+		}
+		else if(id == 60070601 || id == 60070602){
+			var charaId = 60070600
 		}
 		else{
 			var charaId = cid
@@ -789,6 +804,38 @@
 			kntr = skill
 			kcs = wait
 			kc = window.kizuna[3]['battleSkillCnt']
+		}
+		else if(cid == 60070601 || cid == 60070602){
+			$('#kizuna').attr('style', 'display:block');
+			$('#kizuna-six').attr('style', 'display:block'); 
+
+			var check = 0;
+			var wait = '';
+			for(var g in window.skillname){
+				if(window.kizuna[4]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
+					$('#kizunaname-five').text(window.skillname[g]['name']);
+					$('#kizunaname-six').text(window.skillname[g]['name']);
+					kn = window.skillname[g]['name']
+
+				}
+			}
+			//Replace Type
+			skill = checkSkill(window.kizuna[4]);
+			$('#kizunatype-five').text(skill);
+			$('#kizunatype-six').text(skill);
+			//Replace Wait
+			wait = checkWait(window.kizuna[4]);
+			$('#kizunaspeed-five').text(wait);
+			$('#kizunaspeed-six').text(wait);
+
+			$('#kizunacost-five').text(window.kizuna[4]['battleSkillCnt']);
+			$('#kizunacost-six').text(window.kizuna[4]['battleSkillCnt']);
+			$('#kizunadesc-five').text(window.kizuna[4]['description']);
+			$('#kizunadesc-six').text(window.kizuna[4]['description']);
+			ks = window.kizuna[4]['description']
+			kntr = skill
+			kcs = wait
+			kc = window.kizuna[4]['battleSkillCnt']
 		}
 		else{
 			$('#kizuna').attr('style', 'display:none');

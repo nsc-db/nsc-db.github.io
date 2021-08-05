@@ -454,6 +454,42 @@
 			$('#kizunadesc-five').text(window.engkizuna[2]['description']);
 			$('#kizunadesc-six').text(window.engkizuna[2]['description']);
 		}
+		else if(cid == 60070501 || cid == 60070502){
+			$('#kizuna').attr('style', 'display:block'); 
+			$('#kizuna-six').attr('style', 'display:block'); 
+		
+			$('#kizunaname-five').text(window.engkizuna[3]['name']);
+			$('#kizunaname-six').text(window.engkizuna[3]['name']);
+			//Replace Type
+			$('#kizunatype-five').text(window.engkizuna[3]['nature']);
+			$('#kizunatype-six').text(window.engkizuna[3]['nature']);
+			//Replace Wait
+			$('#kizunaspeed-five').text(window.engkizuna[3]['cs']);
+			$('#kizunaspeed-six').text(window.engkizuna[3]['cs']);
+
+			$('#kizunacost-five').text(window.engkizuna[3]['cost']);
+			$('#kizunacost-six').text(window.engkizuna[3]['cost']);
+			$('#kizunadesc-five').text(window.engkizuna[3]['description']);
+			$('#kizunadesc-six').text(window.engkizuna[3]['description']);
+		}
+		else if(cid == 60070601 || cid == 60070602){
+			$('#kizuna').attr('style', 'display:block'); 
+			$('#kizuna-six').attr('style', 'display:block'); 
+		
+			$('#kizunaname-five').text(window.engkizuna[4]['name']);
+			$('#kizunaname-six').text(window.engkizuna[4]['name']);
+			//Replace Type
+			$('#kizunatype-five').text(window.engkizuna[4]['nature']);
+			$('#kizunatype-six').text(window.engkizuna[4]['nature']);
+			//Replace Wait
+			$('#kizunaspeed-five').text(window.engkizuna[4]['cs']);
+			$('#kizunaspeed-six').text(window.engkizuna[4]['cs']);
+
+			$('#kizunacost-five').text(window.engkizuna[4]['cost']);
+			$('#kizunacost-six').text(window.engkizuna[4]['cost']);
+			$('#kizunadesc-five').text(window.engkizuna[4]['description']);
+			$('#kizunadesc-six').text(window.engkizuna[4]['description']);
+		}
 		else{
 			$('#kizuna').attr('style', 'display:none');
 			$('#kizuna-six').attr('style', 'display:none'); 

@@ -1,4 +1,116 @@
 window.detail=[
+    {
+        "id": 20070802,
+        "name": "Naruto Uzumaki",
+        "subtext": "Transmitter of Hope",
+
+        "lead": "Blue Type: Start the Battle with 50% Chakra and Cast Speed +1",
+
+        "s1n": "Kurama Tailed Beast Bomb",
+        "s1": "Deal 3% + 500,000 to all enemies. Grant 'Path' State to self. Deal 1 Additional Attack dealing 3% + 500,000 to None enemies. (Always Hit) [Path: SPD 150% and Skill Damage +200% per turn]", 
+        "s1ntr": "Tailed Beast",
+        "s1cs": "Fast",
+        "s1c": 60,
+
+        "s2n": "Glad We Are Here At Last!",
+        "s2": "Party Skill Damage +100%. Chance to Remove Positice Special and God State to Party. Chance to Remove 'Disable Positive Special and God State' to Party",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 80,
+
+        "a1n": "Power of Friends Dwelling Inside",
+        "a1": "Withstand +2. Chance to Remove Party Negative Special State per turn",
+
+        "a2n": "Standing with Allies",
+        "a2": "If there's an ally Sasuke, Chance for First Strike and inflict Cast Speed -3",
+
+        "a3n": "Red Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Red"
+    },
+    {
+        "id": 20070803,
+        "name": "Sasuke Uchiha",
+        "subtext": "Solitude Duelist",
+
+        "lead": "Yellow Type: Start the Battle with 50% Chakra and Grant 1 turn of Skill Immunity",
+
+        "s1n": "Inferno Style: Susano'o Kagutsuchi",
+        "s1": "Deal 800,000 Fixed Damage to a target enemy. Chance to Deal 2 Additional Attacks dealing 7% + 300,000. Chance to Deal 2 Additional Attacks dealing 800,000 Fixed Damage (Always Hit)",
+        "s1ntr": "Inferno",
+        "s1cs": "Fast",
+        "s1c": 60,
+
+        "s2n": "I'll Go",
+        "s2": "Party SPD +100%. Chance to Remove Positive Special and God State to All enemies. Chance to Remove 'Disable Positive Special and God State' to Party",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 80,
+
+        "a1n": "The Power of Curse Mark Susano'o",
+        "a1": "Withstand +2. Chance to remove enemy Positive Special State per turn",
+
+        "a2n": "Brother's Affection at Heart",
+        "a2": "If there's an ally Naruto, Chance for First Strike and inflict Skill Damage -1,000% to all enemies upon Death",
+
+        "a3n": "Blue Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Blue"
+    },
+    {
+        "id": 60070602,
+        "name": "Hinata Hyuga",
+        "subtext": "Palm Containing Love",
+
+        "lead": "Konoha Cast Speed +2 and SPD +150%",
+
+        "s1n": "Eight Triagrams Air Wave Palm",
+        "s1": "Deal 1,500,000 Fixed Damage to all enemies. Chance to Inflict 'Block' State and/or Cast Speed -2. Deal 3 Additional Attacks dealing 3% + 761,000 while under 'Bond with Hinata' State (Always Hit) [Block: Skill Disable]",
+        "s1ntr": "Byakugan",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "Naruto-Kun!!",
+        "s2": "Recover 2,000,000 HP to party. Inflict Skill Damage -200% and 'Remove and Disable Positive Special and God State' to all enemies. Grant 'Feelings for Naruto' Unique State [Feelings for Naruto: Remove and Immune Negative Special and God State. Chance to Grant Instant Action when Attacked. Ignore Skill Dodge and Resistance and Inflict 'Block' State when Attacked. Party is immune to AoE Attacks]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 90,
+
+        "a1n": "Hyuga's Successor",
+        "a1": "Revive +3. SPD +761% upon Withstanding an Attack. High Chance for Insta Kill Immunity",
+
+        "a2n": "Feelings for Naruto",
+        "a2": "Grant 'Feelings for Naruto' Unique State at the Start of Battle. Grant 'Bond with Hinata' when Rotating from Naruto",
+
+        "a3n": "Blue and White Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Blue and White"
+    },
+    {
+        "id": 60070601,
+        "name": "Naruto Uzumaki",
+        "subtext": "Spiral of Courage",
+
+        "lead": "Konoha Skill Damage and ATK +150%",
+
+        "s1n": "Combination Attack: Rasengan Follow Up",
+        "s1": "Deal 3% + 1,500,000 to all enemies. Chance to Inflict 'Seal'. Deal 7 Additional Attacks dealing 300,000. Deal 3 Additional Attacks dealing 3% + 761,000 while under 'Feelings for Naruto' State (Always Hit)",
+        "s1ntr": "Wind",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "Hinata",
+        "s2": "Party SPD and Skill Damage +150%. Grant 'Remove and Disable Negative Special and God State Effect' to Party. Grant 'Bond with Hinata' Unique State to self. [Bond with Hinata. Chance to deal 2 Addional Attacks dealing 761,000 when using a Skill. High chance to grant an Extra Turn. High chance to grant Instant Action when Attacked. SPD +761%]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 90,
+
+        "a1n": "Resonance with Kurama",
+        "a1": "Revive +3. SPD +761% upon Withstanding an Attack. High Chance for Enemy Terrain Immunity",
+
+        "a2n": "Bond with Hinata",
+        "a2": "Grant 'Bond with Hinata' Unique State at the Start of Battle. Grant 'Feelings for Naruto' when Rotating from Hinata",
+
+        "a3n": "Yellow and Black Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Yellow and Black"
+    },
 {
           "id": 20000601,
           "name": "Tobi",
