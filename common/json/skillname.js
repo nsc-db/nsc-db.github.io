@@ -8596,6 +8596,22 @@ window.skillname=[
     "name": "オレは行く"
   },
   {
+    "cardBattleSkillNameId": "3401",
+    "name": "殴木一蹴"
+  },
+  {
+    "cardBattleSkillNameId": "3402",
+    "name": "まあ見てて下さい"
+  },
+  {
+    "cardBattleSkillNameId": "3403",
+    "name": "六道・殲塵掌"
+  },
+  {
+    "cardBattleSkillNameId": "3404",
+    "name": "哀れな存在でしかない"
+  },
+  {
     "cardBattleSkillNameId": "10136",
     "name": "新術だってばよ！"
   },

@@ -28620,6 +28620,46 @@ window.ability=[
     "effectIds": "4016,4288,"
   },
   {
+    "abilityId": "2916",
+    "abilityName": "無類なる木遁",
+    "abilityDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
+    "abilityEffectDescription": "HP0以下で1回だけ耐え、行動後にHPが20%回復",
+    "effectIdx1": "312",
+    "effectIdx2": "2500",
+    "effectIdx3": "0",
+    "effectIds": "312,2500,"
+  },
+  {
+    "abilityId": "2917",
+    "abilityName": "導く意志",
+    "abilityDescription": "班の木ノ葉隠れの里所属1体につき､攻撃力が15%アップ",
+    "abilityEffectDescription": "班の木ノ葉隠れの里所属1体につき､攻撃力が15%アップ",
+    "effectIdx1": "1157",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "1157,"
+  },
+  {
+    "abilityId": "2918",
+    "abilityName": "比類なき力",
+    "abilityDescription": "HP0以下で3回全回復し、耐えた時即ｱｸｼｮﾝ、敵に無所属以外がいると受けるﾀﾞﾒｰｼﾞ50%ｶｯﾄ",
+    "abilityEffectDescription": "HP0以下で3回全回復し、耐えた時即ｱｸｼｮﾝ、敵に無所属以外がいると受けるﾀﾞﾒｰｼﾞ50%ｶｯﾄ",
+    "effectIdx1": "1789",
+    "effectIdx2": "874",
+    "effectIdx3": "3241",
+    "effectIds": "1789,874,3241,4289,"
+  },
+  {
+    "abilityId": "2919",
+    "abilityName": "現世への哀れみ",
+    "abilityDescription": "敵に無所属以外がいるとﾊﾞﾄﾙ開始時に敵全体に耐性を無視し長い間神ノ宣告を付与し先制攻撃、3回行動までﾁｬｸﾗ消費0",
+    "abilityEffectDescription": "敵に無所属以外がいるとﾊﾞﾄﾙ開始時に敵全体に耐性を無視し長い間神ノ宣告を付与し先制攻撃、3回行動までﾁｬｸﾗ消費0",
+    "effectIdx1": "4290",
+    "effectIdx2": "4291",
+    "effectIdx3": "1949",
+    "effectIds": "4290,4291,1949,"
+  },
+  {
     "abilityId": "10000",
     "abilityName": "攻撃・防御・素早さダウン（大）",
     "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -31108,6 +31148,16 @@ window.ability=[
     "effectIdx2": "228250",
     "effectIdx3": "229104",
     "effectIds": "229204,228250,229104,228150,"
+  },
+  {
+    "abilityId": "200032",
+    "abilityName": "心属性特化・破砕",
+    "abilityDescription": "心属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラがスキルダメージ80%アップ",
+    "abilityEffectDescription": "心属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラがスキルダメージ80%アップ",
+    "effectIdx1": "3893",
+    "effectIdx2": "3894",
+    "effectIdx3": "3896",
+    "effectIds": "3893,3894,3896,3897,229004,228050,"
   },
   {
     "abilityId": "210001",

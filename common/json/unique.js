@@ -16911,5 +16911,31 @@ window.unique=[
     "effectIdx3": "12111",
     "effectIdx4": "1335",
     "effectIds": "1221,736,12111,1335,1549,30011"
+  },
+  {
+    "crystalOverwriteEffectId": "1319",
+    "targetCrystal": "40804",
+    "description": "3回行動まで全スキル無効、被攻撃時にチャクラ30％回復、確率でスキル回避、攻・速100%アップ",
+    "charaIds": "50904",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "990",
+    "effectIdx2": "2082",
+    "effectIdx3": "679",
+    "effectIdx4": "264",
+    "effectIds": "990,2082,679,264,253"
+  },
+  {
+    "crystalOverwriteEffectId": "1320",
+    "targetCrystal": "40805",
+    "description": "チャクラ消費量半減、1回行動までチャクラ消費0、スキル発動速度1段階アップ",
+    "charaIds": "50904",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "895",
+    "effectIdx2": "1378",
+    "effectIdx3": "1840",
+    "effectIdx4": "0",
+    "effectIds": "895,1378,1840"
   }
         ]

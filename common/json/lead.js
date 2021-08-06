@@ -17080,6 +17080,34 @@ window.lead=[
     "target2Param": "0"
   },
   {
+    "cardLeaderSkillId": "1236",
+    "name": "封印の樹忍",
+    "description": "技属性の最大HPと素早さを50%アップする",
+    "effectIdx1": "10049",
+    "effectIdx2": "112",
+    "effectIdx3": "0",
+    "effectIds": "10049,112,",
+    "compType": "1",
+    "target1Category": "1",
+    "target1Param": "2",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
+    "cardLeaderSkillId": "1237",
+    "name": "希望なき超越者",
+    "description": "無所属のｽｷﾙ発動速度1段階ｱｯﾌﾟ&amp;素早さ100%ｱｯﾌﾟ&amp;5回行動までｽｷｯﾌﾟ無効",
+    "effectIdx1": "21000",
+    "effectIdx2": "13099",
+    "effectIdx3": "2672",
+    "effectIds": "21000,13099,2672,",
+    "compType": "1",
+    "target1Category": "2",
+    "target1Param": "99",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
     "cardLeaderSkillId": "8507",
     "name": "想いの全て",
     "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

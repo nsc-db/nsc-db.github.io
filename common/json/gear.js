@@ -28524,5 +28524,39 @@ window.gear=[
     "crystalImageId": "407115",
     "recipeId": "40711",
     "recipeName": "6周年ロゴ（8月）"
+  },
+  {
+    "crystalId": "40804",
+    "crystalType": "2",
+    "crystalRare": "5",
+    "effectIdx1": "2465",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIdx4": "0",
+    "effectIds": "2465,",
+    "money": "30000",
+    "saleMoney": "2500",
+    "crystalName": "無限の夢を成す愛",
+    "crystalDescription": "1回行動まで確率で全スキル無効",
+    "crystalImageId": "408045",
+    "recipeId": "40804",
+    "recipeName": "無限の夢を成す愛"
+  },
+  {
+    "crystalId": "40805",
+    "crystalType": "3",
+    "crystalRare": "5",
+    "effectIdx1": "3634",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIdx4": "0",
+    "effectIds": "3634,",
+    "money": "30000",
+    "saleMoney": "2500",
+    "crystalName": "六道の力を宿した炎の手",
+    "crystalDescription": "3回行動までチャクラ消費量半減",
+    "crystalImageId": "408055",
+    "recipeId": "40805",
+    "recipeName": "六道の力を宿した炎の手"
   }
 ]

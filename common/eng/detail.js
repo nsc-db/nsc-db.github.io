@@ -1,5 +1,61 @@
 window.detail=[
     {
+        "id": 20050703,
+        "name": "Obito Uchiha",
+        "subtext": "The End of Dreams and Despair",
+
+        "lead": "None Skill Damage +100% and HP Regen +20%",
+
+        "s1n": "Truth Seeking Ball:: Extinction of the Three Realms",
+        "s1": "Deal 3% + 1,200,000 to all enemies. Deal 2x damage while under 'Ancestor' State. Deal 2 Additional Attacks dealing 3% + 1,200,000 to God enemies (Always Hit)", 
+        "s1ntr": "Secret",
+        "s1cs": "Fast",
+        "s1c": 120,
+
+        "s2n": "I Won't Do That",
+        "s2": "Own SPD + 100%. Grant 'Ancestor' State to self. CHange the Terrain to 'Six Crimson Ray Formation'. [Ancestor: Immune to Skill and Fixed Damage] [Six Crimson Ra Formation: (All): Dodge Chance -200%. (Enemy): HP, ATK, DEF and SPD -20% per turn. Deal 7% + 999,999 Counter Attack Damage when Attacked by a God]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 150,
+
+        "a1n": "THe Power to Cut Off Hope",
+        "a1": "Cancel Immunity. If there's a God Enemy: Start the Battle with 'Ancestor' State. ",
+
+        "a2n": "Will of Despair",
+        "a2": "Chakra +100. SPD +100% and Cast Speed +1 if there's a Five Village enemy",
+
+        "a3n": "Black Type Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Black."
+    },
+    {
+        "id": 20070805,
+        "name": "Obito Uchiha",
+        "subtext": "Transcendening Without Hope",
+
+        "lead": "None: Cast Speed +1, SPD +100% and 5 Turns: Skip Immunity",
+
+        "s1n": "Six Paths: Annihilation Palm",
+        "s1": "Deal 7% + 1,500,000 to at arget enemy. Chance to Inflict 'Proclamation of God' Unique State. Deal 5 Additional Attacks dealing 500,000 Fixed Damage to Non-None enemies. (Always Hit) [Proclamation of God: Cannot be Removed or Immune too. Increase Counter when taking 'Six Paths: Annihilation Palm' Skill (Max 3). Cast Speed -1 per Counter and Insta Kill when Counter reach max]'", 
+        "s1ntr": "Six Paths",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "There's Nothing Left of This Pitiful Existence",
+        "s2": "Own ATK, DEF and SPD +150%. Grant 'God's Authority' God State. Inflict 'Disable Positive Special State' to Non-None enemies. [God's Authority: Immune to Skills and Fixed Damage. When Attacked: Remove All enemies Positive Special and God State. Damage Cut -1,000,000 to Party]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Unparalleled Power",
+        "a1": "Revive +3. Upon Withstanding, Damage Cut +50% against Non-None enemies",
+
+        "a2n": "Pity for this World",
+        "a2": "If there's a Non-None enemy: Ignore Resistance and Inflict 'Proclamation of God' Unique State to All enmeies and Grant First Strike. 3 Turns: Chakra Cost is set to 0",
+
+        "a3n": "Yellow Type Specialization and Crush",
+        "a3": "Type Advantage and Damage Cut +50% against Yellow. Self and Non-Red Skill Damage +80%"
+    },
+    {
         "id": 20070802,
         "name": "Naruto Uzumaki",
         "subtext": "Transmitter of Hope",
