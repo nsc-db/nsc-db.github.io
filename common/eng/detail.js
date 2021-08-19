@@ -1,19 +1,47 @@
 window.detail=[
+{
+          "id": 20070810,
+          "name": "Yamato",
+          "subtext": "Seal of the Tree Ninja",
+
+          "lead": "Blue Characters: HP and SPD +50%",
+
+          "s1n": "Assault Wood",
+          "s1": "Deal 7% + 50,000 to target enemy. Chance to Inflict 'Skip'.",
+		  "s1ntr": "Wood",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "Please Take a Look",
+          "s2": "Party SPD +60%. Grant 'Concentration' State to self and Naruto allies. [Concentration: Chakra Cost Reduced every turn. Max -80%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Unrivaled Wood",
+          "a1": "Withstand +1, HP Recovery +20%",
+
+          "a2n": "Will to Lead",
+          "a2": "ATK +15% per Konoha ally (Max 75%)",
+
+          "a3n": "None",
+          "a3": "None"
+      },
     {
         "id": 20050703,
         "name": "Obito Uchiha",
         "subtext": "The End of Dreams and Despair",
 
-        "lead": "None Skill Damage +100% and HP Regen +20%",
+        "lead": "None Characters: Skill Damage +100% and HP Regen +20%",
 
-        "s1n": "Truth Seeking Ball:: Extinction of the Three Realms",
-        "s1": "Deal 3% + 1,200,000 to all enemies. Deal 2x damage while under 'Ancestor' State. Deal 2 Additional Attacks dealing 3% + 1,200,000 to God enemies (Always Hit)", 
+        "s1n": "Truth Seeking Ball: Extinction of the Three Realms",
+        "s1": "Deal 3% + 1,200,000 to all enemies. while under 'Ancestor' State: Deal 2x damage. If it's a God enemy: Deal 2 Additional Attacks dealing 3% + 1,200,000. (Always Hit)", 
         "s1ntr": "Secret",
         "s1cs": "Fast",
         "s1c": 120,
 
         "s2n": "I Won't Do That",
-        "s2": "Own SPD + 100%. Grant 'Ancestor' State to self. CHange the Terrain to 'Six Crimson Ray Formation'. [Ancestor: Immune to Skill and Fixed Damage] [Six Crimson Ra Formation: (All): Dodge Chance -200%. (Enemy): HP, ATK, DEF and SPD -20% per turn. Deal 7% + 999,999 Counter Attack Damage when Attacked by a God]",
+        "s2": "Own SPD +100%. Grant 'Ancestor' State to self. Change the Terrain to 'Six Crimson Ray Formation'. [Ancestor: Skill and Fixed Damage Immunity] [Six Crimson Ray Formation: (All): Dodge Chance -200%. (Enemy): HP, ATK, DEF and SPD -20% every turn. Deal 7% + 999,999 Counterattack Damage when Attacked by a God]",
         "s2ntr": "Unique",
         "s2cs": "Fastest",
         "s2c": 150,
@@ -22,7 +50,7 @@ window.detail=[
         "a1": "Cancel Immunity. If there's a God Enemy: Start the Battle with 'Ancestor' State. ",
 
         "a2n": "Will of Despair",
-        "a2": "Chakra +100. SPD +100% and Cast Speed +1 if there's a Five Village enemy",
+        "a2": "Chakra +100. If there's a Five Village enemy: SPD +100% and Cast Speed +1",
 
         "a3n": "Black Type Specialization",
         "a3": "Type Advantage and Damage Cut +50% against Black."
@@ -32,25 +60,25 @@ window.detail=[
         "name": "Obito Uchiha",
         "subtext": "Transcendening Without Hope",
 
-        "lead": "None: Cast Speed +1, SPD +100% and 5 Turns: Skip Immunity",
+        "lead": "None Characters: Cast Speed +1, SPD +100% and 5 Turns: Skip Immunity",
 
         "s1n": "Six Paths: Annihilation Palm",
-        "s1": "Deal 7% + 1,500,000 to at arget enemy. Chance to Inflict 'Proclamation of God' Unique State. Deal 5 Additional Attacks dealing 500,000 Fixed Damage to Non-None enemies. (Always Hit) [Proclamation of God: Cannot be Removed or Immune too. Increase Counter when taking 'Six Paths: Annihilation Palm' Skill (Max 3). Cast Speed -1 per Counter and Insta Kill when Counter reach max]'", 
+        "s1": "Deal 7% + 1,500,000 to at target enemy. Chance to Inflict 'Proclamation of God' Unique State. If the enemy has an Affiliation (not None): Deal 5 Additional Attacks dealing 500,000 Fixed Damage. [Proclamation of God: Cannot be Removed or Immune too. Increase Counter when taking 'Six Paths: Annihilation Palm' Skill (Max 3). Cast Speed -1 per Counter and Insta Kill when Counter reach max] (Always Hit)", 
         "s1ntr": "Six Paths",
         "s1cs": "Fast",
         "s1c": 100,
 
         "s2n": "There's Nothing Left of This Pitiful Existence",
-        "s2": "Own ATK, DEF and SPD +150%. Grant 'God's Authority' God State. Inflict 'Disable Positive Special State' to Non-None enemies. [God's Authority: Immune to Skills and Fixed Damage. When Attacked: Remove All enemies Positive Special and God State. Damage Cut -1,000,000 to Party]",
+        "s2": "Own ATK, DEF and SPD +150%. Grant 'God's Authority' God State. Inflict 'Disable Positive Special State' to Non-None enemies. [God's Authority: Skills and Fixed Damage Immunity. When Attacked: Remove All enemies Positive Special and God State. Damage Cut -1,000,000 to Party]",
         "s2ntr": "Unique",
         "s2cs": "Fastest",
         "s2c": 100,
 
         "a1n": "Unparalleled Power",
-        "a1": "Revive +3. Upon Withstanding, Damage Cut +50% against Non-None enemies",
+        "a1": "Revive +3. Upon Reviving: Damage Cut +50% against Non-None enemies",
 
         "a2n": "Pity for this World",
-        "a2": "If there's a Non-None enemy: Ignore Resistance and Inflict 'Proclamation of God' Unique State to All enmeies and Grant First Strike. 3 Turns: Chakra Cost is set to 0",
+        "a2": "If there's a Non-None enemy: Ignore Resistance and Inflict 'Proclamation of God' Unique State to All enmeies and Grant First Strike. 3 Turns: Set Chakra Cost to 0",
 
         "a3n": "Yellow Type Specialization and Crush",
         "a3": "Type Advantage and Damage Cut +50% against Yellow. Self and Non-Red Skill Damage +80%"
@@ -504,7 +532,7 @@ window.detail=[
           "a3": "None"
       },
  {
-          "id": 50060101,
+          "id": 50060104,
           "name": "Gaara",
           "subtext": "Gravel Wall Sand Beast",
 
@@ -617,28 +645,28 @@ window.detail=[
     },
     {
         "id": 20070704,
-        "name": "Tenten?",
-        "subtext": "TBC",
+        "name": "Tenten",
+        "subtext": "Liberation Summer Beach",
 
-        "lead": "0",
+        "lead": "Blue Characters: Cast Speed +1 and ATK, DEF and SPD +169%",
 
-        "s1n": "TBC",
-        "s1": "0",
-        "s1ntr": "Unique",
-        "s1cs": "Fast",
-        "s1c": 100,
+        "s1n": "Summoning: Everlasting Summer Ninja",
+        "s1": "Deal 7% + 690,000 to a target enemy. Chance to Ignore Resistance and Inflict 'Charm' for 3 Turns. Remove Party Negative Special State. (Always Hit)",
+        "s1ntr": "Weapon",
+        "s1cs": "Fastest",
+        "s1c": 69,
 
-        "s2n": "TBC",
-        "s2": "0",
+        "s2n": "Let's Play!",
+        "s2": "Party ATK, DEF, SPD and Skill Damage +150% and Grant 'Skill Immunity'. Grant 'Rally' State to other Konoha allies. [Rally: ATK, DEF and SPD +100%, HP and Chakra Recovery +69%]",
         "s2ntr": "Unique",
         "s2cs": "Fast",
         "s2c": 80,
 
-        "a1n": "TBC",
-        "a1": "0",
+        "a1n": "Coordinator Vacation",
+        "a1": "If there's a Neji or Tenten ally: Chance for First Strike and Extra Turn. Withstand +3",
 
-        "a2n": "TBC",
-        "a2": "0",
+        "a2n": "Lively Smile",
+        "a2": "When Attacked: Chance for SPD and Skill Damage +150%",
 
         "a3n": "Red Specialization",
         "a3": "Type Advantage and Damage Cut +50% against Red"
@@ -646,27 +674,27 @@ window.detail=[
     {
         "id": 20070703,
         "name": "Neji Hyuga",
-        "subtext": "TBC",
+        "subtext": "Cool Summer Beach",
 
-        "lead": "0",
+        "lead": "Red Characters: Cast Speed +1 and ATK, DEF and SPD +169%",
 
-        "s1n": "TBC",
-        "s1": "0",
-        "s1ntr": "Unique",
-        "s1cs": "Fast",
-        "s1c": 100,
+        "s1n": "Eight Trigrams: Water Splash",
+        "s1": "Deal 7% + 690,000 to a target enemy. Chance to Inflict 'Cancel' and 'Break' State. Chance to Deal 6 Additional Attacks dealing 69,000 Fixed Damage. [Break: Skill Damage and DEF -50%. Weak to Byakugan and Taijutsu] (Always Hit)",
+        "s1ntr": "Byakugan",
+        "s1cs": "Fastest",
+        "s1c": 69,
 
-        "s2n": "TBC",
-        "s2": "Enemies' ATK, DEF, SPD and Skill Damage -100%. High Chance to Remove enemies' Positive Special State. Grant 'Rotation Protection (All)' State to self [Rotation Protection (All): Grant AoE Damage Immunity to Party]",
+        "s2n": "I'm Upset...",
+        "s2": "Enemies' ATK, DEF, SPD and Skill Damage -100%. High Chance to Remove Enemies Positive Special State. Grant 'Rotation Protection (All)' State to self [Rotation Protection (All): Grant AoE Damage Immunity to Party]",
         "s2ntr": "Unique",
         "s2cs": "Fast",
         "s2c": 80,
 
-        "a1n": "TBC",
-        "a1": "0",
+        "a1n": "Refreshing Beach",
+        "a1": "If there's a Neji or Tenten ally: Chance for First Strike and Extra Turn. Withstand +3",
 
-        "a2n": "TBC",
-        "a2": "0",
+        "a2n": "A Clear Heart",
+        "a2": "When Attacked: Chance to Inflict 'Break' State to all enemies",
 
         "a3n": "Yellow Specialization",
         "a3": "Type Advantage and Damage Cut +50% against Yellow"
@@ -676,24 +704,24 @@ window.detail=[
         "name": "Guy and Lee",
         "subtext": "Youth Summer Beach",
 
-        "lead": "TBC Characters: Cast Speed +1 and TBC",
+        "lead": "Konoha Characters: Cast Speed +1 and ATK, DEF and SPD +100%",
 
-        "s1n": "TBC",
-        "s1": "Deal 7% + 1,690,000 to a target enemy. Chance to Deal 6 Additional Attacks dealing 169,000. (Always Hit)",
-        "s1ntr": "Unique",
-        "s1cs": "Fast",
+        "s1n": "It's Midsummer Youth!!!",
+        "s1": "Deal 7% + 1,690,000 to a target enemy. Chance to Deal 6 Additional Attacks dealing 169,000 Fixed Damage. (Always Hit)",
+        "s1ntr": "Taijutsu",
+        "s1cs": "Fastest",
         "s1c": 100,
 
-        "s2n": "TBC",
+        "s2n": "Konoha Summer Whirlwind",
         "s2": "Deal 69x ATK Damage Ignoring 50% DEF to a target enemy. High Chance to Inflict 'Lacerate' State. Grant 'Gates of Joy' State to self. [Lacerate: Disable Action. HP -20% per turn] [Gates of Joy: ATK and SPD +200%, Attacks Ignore 80% DEF. Withstand +2] [Youth: Basic Attack Always Crit, Damage Up and HP Regen +20%] ▼True Everlasting Summer: 2nd Stage: [Enemies]: Chance to Disable First Strike, Instant Cast and Instant Action. [Allies]: Grant 'Youth' State when taking an Action and Chance to Grant an Extra Turn. 3rd Stage: [Enemies]: DEF -50% every turn. [Allies]: SPD +100% every turn▼",
-        "s2ntr": "Unique",
-        "s2cs": "Fast",
-        "s2c": 80,
+        "s2ntr": "Taijutsu",
+        "s2cs": "Fastest",
+        "s2c": 100,
 
-        "a1n": "TBC",
-        "a1": "Grant 'True Everlasting Summer' Formation at the Start of Battle and Every Turn. If there's a Neji or Tenten ally: Chance for First Strike and Extra Action",
+        "a1n": "Everlasting Summer Youth",
+        "a1": "Grant 'True Everlasting Summer' Formation at the Start of Battle and Every Turn. If there's a Neji or Tenten ally: Chance for First Strike and Extra Turn",
 
-        "a2n": "TBC",
+        "a2n": "Roar of Youth",
         "a2": "Revive +1, Turn Withstand into Revive, When Attacked: Chance for Instant Action, If there's a Konoha ally: ATK, DEF and SPD +169%",
 
         "a3n": "Red and Blue Specialization",
@@ -915,7 +943,7 @@ window.detail=[
           "s2c": 80,
 
           "a1n": "Relentless Sanctions",
-          "a1": "SPD +10% per Konoha ally (Max 100%)",
+          "a1": "SPD +10% per Konoha ally (Max 50%)",
 
           "a2n": "Preparation to Question Qualities",
           "a2": "3 Turns: Chance to Dodge Skills",
@@ -5759,7 +5787,7 @@ window.detail=[
           "s2c": 90,
 
           "a1n": "The Eye that Watches the Next Era",
-          "a1": "At the Start of Battle, Chance to Infict 'Dull' State to all enemies, Grant Instant Action when attacked once",
+          "a1": "At the Start of Battle, Chance to Inflict 'Dull' State to all enemies, Grant Instant Action when attacked once",
 
           "a2n": "Eye's that See Throught Threat",
           "a2": "If there's a Destroyer enemy: Skill Damage +200%, Revive +1",
@@ -5803,7 +5831,7 @@ window.detail=[
           "lead": "Konoha Characters: 3 Turns: High Chance for Damage Cut +35%",
 
           "s1n": "Eight Triagrams Air Palm: Phoenix Dance",
-          "s1": "Deal 400,000 Fixed Damage to target enemy. High Chance to Inflict Seal and 'Break' State. If under 'Rotation Protection (All)' State: Deal 3 Additional Attacks dealing 150,000 Fixed Damage [Break: Skill Damage and DEF -90%. Weak to Byakugan and Taijutsu] (Always Hit)",
+          "s1": "Deal 400,000 Fixed Damage to target enemy. High Chance to Inflict Seal and 'Break' State. If under 'Rotation Protection (All)' State: Deal 3 Additional Attacks dealing 150,000 Fixed Damage. [Break: Skill Damage and DEF -90%. Weak to Byakugan and Taijutsu] (Always Hit)",
           "s1ntr": "Byakugan",
           "s1cs": "Fastest",
           "s1c": 75,
