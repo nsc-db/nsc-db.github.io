@@ -3821,7 +3821,7 @@ window.enggear=[
 },
 {
           "id": 207304,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "Shaved Ice (Lemon)",
           "effect": "None",
           "normal": "Yellow Characters: Chakra Recovery +44%",
@@ -5491,7 +5491,7 @@ window.enggear=[
      },	 
 {
           "id": 307185,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC 7 Star Election 2020 (Yellow)",
           "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 3 Turns: Cast Speed +1",
           "normal": "Yellow Characters: Start the Battle with 50% Chakra and Rinne Sharingan, Sharingan and Genjutsu Skill Damage +80%",
@@ -5501,7 +5501,7 @@ window.enggear=[
      },
 {
           "id": 307195,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC 7 Star Election 2020 (Blue)",
           "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. 1 Turn: Chance for Skill Immunity",
           "normal": "Blue Characters: Start the Battle with 50% Chakra and Lightning, Sharingan and Six Paths Skill Damage +80%",
@@ -5511,7 +5511,7 @@ window.enggear=[
      },
 {
           "id": 307205,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC 7 Star Election 2020 (Red)",
           "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 1 Turn: Chance for Fixed Damage deals 0 Damage",
           "normal": "Red Characters: Start the Battle with 50% Chakra and Sage, Sharingan and Genjutsu Skill Damage +80%",
@@ -5521,7 +5521,7 @@ window.enggear=[
      },	 
 {
           "id": 307215,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC 7 Star Election 2020 (Black)",
           "effect": "Start the Battle with 50% Chakra. Skill Damage +150%. 5 Turns: High Chance to Dodge Skills",
           "normal": "Black Characters: Start the Battle with 50% Chakra and Wind, Unique and Taijutsu Skill Damage +80%",
@@ -5531,7 +5531,7 @@ window.enggear=[
      },	 
 {
           "id": 307225,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC 7 Star Election 2020 (White)",
           "effect": "Start the Battle with 50% Chakra.  Skill Damage +150%. Debuff and Status Effect Immunity",
           "normal": "White Characters: Start the Battle with 50% Chakra and Sage, Six Paths and Space-Time Skill Damage +80%",
@@ -6091,7 +6091,7 @@ window.enggear=[
 },
 {
           "id": 310175,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "Naruto Uzumaki Birthday Cake",
           "effect": "None",
           "normal": "All Characters: 2 Turns: Cast Speed +2, 7 Turns: SPD +61% and Skill Damage +101%",
@@ -6831,7 +6831,7 @@ window.enggear=[
 },
 {
           "id": 402155,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC General Election 2020 (Dark Illusion)",
           "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
           "normal": "Blue Characters: Chakra Cost -30% and Sharingan Skill Damage +100%",
@@ -6841,7 +6841,7 @@ window.enggear=[
 },
 	 {
           "id": 402165,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC General Election 2020 (Pride)",
           "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
           "normal": "EX Characters: Chakra Cost -30% and Byakugan and Lightning Skill Damage +100%",
@@ -6851,7 +6851,7 @@ window.enggear=[
 },
 	 {
           "id": 402175,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC General Election 2020 (Ninja Creed)",
           "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
           "normal": "Origin Characters: Chakra Cost -30% and Byakugan and Wind Skill Damage +100%",
@@ -6861,7 +6861,7 @@ window.enggear=[
 },
 	 {
           "id": 402185,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC General Election 2020 (Eyes)",
           "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
           "normal": "GK Characters: Chakra Cost -30% and Sharingan and Tailed Beast Skill Damage +100%",
@@ -6871,7 +6871,7 @@ window.enggear=[
 },
 	 {
           "id": 402195,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC General Election 2020 (Wicked Eyes)",
           "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
           "normal": "Kaguya Characters: Chakra Cost -30% and Unique Skill Damage +100%",
@@ -6881,7 +6881,7 @@ window.enggear=[
 },
 	 {
           "id": 402205,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC General Election 2020 (Will)",
           "effect": "Chakra Cost -50%, Skill Damage +150%, 3 Turns: When Attacked: Chance for Instant Action",
           "normal": "Yellow Characters: Chakra Cost -30% and Summoning and Sage Skill Damage +100%",
@@ -6891,7 +6891,7 @@ window.enggear=[
 },
 	 {
           "id": 402215,
-          "type": "Food 2",
+          "type": "Attribute",
           "name": "NSC General Election 2020 (Final Election)",
           "effect": "At the Start of Battle, Low Chance to Grant 'Protection' State",
           "normal": "At the Start of Battle, Very Low Chance to Grant 'Protection' State",
@@ -7626,6 +7626,96 @@ window.enggear=[
           "effect": "HP, ATK, DEF and SPD +120%, Chakra Cost -50%, Cast Speed +2",
           "normal": "HP, ATK, DEF and SPD +60%",
           "charaIds": "61101",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 407055,
+          "type": "Additional",
+          "name": "Village Hero that Embodies The Will of Fire",
+          "effect": "Chance to Start the Battle with 50% Chakra & First Strike, Chakra Cost -50%",
+          "normal": "Chakra Cost -50%",
+          "charaIds": "105",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 407065,
+          "type": "Stats",
+          "name": "The Ever Increasing Love that I Embraced since Childhood",
+          "effect": "HP, ATK, DEF, Skill Damage and SPD +120%, Cast Speed +2",
+          "normal": "HP, ATK, DEF and SPD +60%",
+          "charaIds": "704",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 407075,
+          "type": "Skill",
+          "name": "Swimsuit for Youth",
+          "effect": "SPD +69%, Cast Speed +2, 3 Turns: Skip and Cancel Immunity",
+          "normal": "SPD +30%, Cast Speed +1, 1 Turn: Low Chance for Skip and Cancel Immunity",
+          "charaIds": "61001",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 407085,
+          "type": "Stats",
+          "name": "Tenten's Swimsuit",
+          "effect": "ATK, DEF and SPD +169%, When Attacked: Chance for HP and Chakra Recovery +30% and Extra Turn",
+          "normal": "ATK, DEF and SPD +69%, When Attacked: Low Chance for HP and Chakra Recovery +10% and Extra Turn",
+          "charaIds": "1202",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 407095,
+          "type": "Resistance",
+          "name": "Neji's Hoodie",
+          "effect": "1 Turn: Chance for Skill Immunity, 6 Turns: Skill Damage and Chakra Recovery +69%",
+          "normal": "1 Turn: Low Chance for Skill Immunity, 6 Turns: Chakra Recovery +30%",
+          "charaIds": "1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 407105,
+          "type": "Additional",
+          "name": "Team 3's Beach Ball",
+          "effect": "1 Turn: Set Chakra Cost to 0, Skill Damage and HP +69%, High Chance for Extra Turn",
+          "normal": "Skill Damage and HP +30%, Chance for Extra Turn",
+          "charaIds": "61001,1603,1103,1202,1002",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 407115,
+          "type": "Attribute",
+          "name": "6th Anniversary Logo (August)",
+          "effect": "None",
+          "normal": "1 Turn: Skill Immunity. Yellow Characters: Chance for Damage Cut +66%",
+          "charaIds": "0",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 408045,
+          "type": "Resistance",
+          "name": "Love That Makes An Infinite Dream",
+          "effect": "3 Turns: Skill Immunity, Chance to Dodge Skills, ATK and SPD +100%, When Attacked: Chakra Recovery +30%",
+          "normal": "1 Turn: Chance for Skill Immunity",
+          "charaIds": "50904",
+          "cardIds": "0",
+          "charaGroupIds": "0"
+},
+{
+          "id": 408055,
+          "type": "Additional",
+          "name": "Flame Hand with The Power of Six Paths",
+          "effect": "Chakra Cost -50%, Cast Speed +1, 1 Turn: Set Chakra Cost to 0",
+          "normal": "3 Turns: Chakra Cost -50%",
+          "charaIds": "50904",
           "cardIds": "0",
           "charaGroupIds": "0"
 },
