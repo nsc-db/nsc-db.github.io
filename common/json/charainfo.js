@@ -2956,7 +2956,7 @@ window.charainfo=[
     "targetCardId": "20060511",
     "additionId": "0",
     "params": "0,",
-    "limitedFlg": "1",
+    "limitedFlg": "110",
     "skillUrl": "https://www.youtube.com/embed/LnbjYvMAHpk?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
@@ -3612,7 +3612,7 @@ window.charainfo=[
     "targetCardId": "20070207",
     "additionId": "0",
     "params": "0,",
-    "limitedFlg": "1",
+    "limitedFlg": "110",
     "skillUrl": "https://www.youtube.com/embed/6dlg3mBV1Dc?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
@@ -3628,7 +3628,7 @@ window.charainfo=[
     "targetCardId": "20070312",
     "additionId": "0",
     "params": "0,",
-    "limitedFlg": "1",
+    "limitedFlg": "110",
     "skillUrl": "https://www.youtube.com/embed/ODM3npZ-ixI?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
@@ -3708,7 +3708,7 @@ window.charainfo=[
     "targetCardId": "20070403",
     "additionId": "0",
     "params": "0,",
-    "limitedFlg": "1",
+    "limitedFlg": "110",
     "skillUrl": "https://www.youtube.com/embed/21tLuSkLhKk?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
@@ -3772,7 +3772,7 @@ window.charainfo=[
     "targetCardId": "20070503",
     "additionId": "0",
     "params": "0,",
-    "limitedFlg": "1",
+    "limitedFlg": "110",
     "skillUrl": "https://www.youtube.com/embed/j2hEBMXbmrg?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
@@ -3828,7 +3828,7 @@ window.charainfo=[
     "targetCardId": "20070605",
     "additionId": "0",
     "params": "0,",
-    "limitedFlg": "1",
+    "limitedFlg": "110",
     "skillUrl": "https://www.youtube.com/embed/JljUX6tYPYA?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
@@ -3852,7 +3852,7 @@ window.charainfo=[
     "targetCardId": "20070608",
     "additionId": "0",
     "params": "0,",
-    "limitedFlg": "1",
+    "limitedFlg": "110",
     "skillUrl": "https://www.youtube.com/embed/U0gzDwwYhNA?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
@@ -3876,7 +3876,7 @@ window.charainfo=[
     "targetCardId": "20070707",
     "additionId": "0",
     "params": "0,",
-    "limitedFlg": "1",
+    "limitedFlg": "110",
     "skillUrl": "https://www.youtube.com/embed/frk8X-SGElQ?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
@@ -3920,12 +3920,52 @@ window.charainfo=[
     "skillUrl": "https://www.youtube.com/embed/gxU6WWuTEO8?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
+    "gachaCardAdditionId": "513",
+    "targetCardId": "50070801",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "108",
+    "skillUrl": "https://www.youtube.com/embed/XJfTVks4E7Y?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
     "gachaCardAdditionId": "514",
     "targetCardId": "20070805",
     "additionId": "0",
     "params": "0,",
     "limitedFlg": "104",
     "skillUrl": "https://www.youtube.com/embed/WHs_hGKiayY?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
+    "gachaCardAdditionId": "515",
+    "targetCardId": "20070804",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "110",
+    "skillUrl": "https://www.youtube.com/embed/cIaMpcZyITo?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
+    "gachaCardAdditionId": "516",
+    "targetCardId": "20070806",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "104",
+    "skillUrl": "https://www.youtube.com/embed/HE6gg0m-gyc?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
+    "gachaCardAdditionId": "517",
+    "targetCardId": "20070807",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "104",
+    "skillUrl": "https://www.youtube.com/embed/gKpVEaFgcLk?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
+    "gachaCardAdditionId": "519",
+    "targetCardId": "20070808",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "107",
+    "skillUrl": "https://www.youtube.com/embed/-Vzwp9bRsnY?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
     "gachaCardAdditionId": "1001",
@@ -5586,6 +5626,14 @@ window.charainfo=[
   {
     "gachaCardAdditionId": "20000014",
     "targetCardId": "20070505",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "120",
+    "skillUrl": null
+  },
+  {
+    "gachaCardAdditionId": "20000015",
+    "targetCardId": "20070809",
     "additionId": "0",
     "params": "0,",
     "limitedFlg": "120",

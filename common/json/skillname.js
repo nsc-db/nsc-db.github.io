@@ -8612,6 +8612,58 @@ window.skillname=[
     "name": "哀れな存在でしかない"
   },
   {
+    "cardBattleSkillNameId": "3405",
+    "name": "閃襲・尾獣玉"
+  },
+  {
+    "cardBattleSkillNameId": "3406",
+    "name": "天之御中・灰滅ノ讐雨"
+  },
+  {
+    "cardBattleSkillNameId": "3407",
+    "name": "十尾・暴兎赤雷"
+  },
+  {
+    "cardBattleSkillNameId": "3408",
+    "name": "風遁・扇華連舞"
+  },
+  {
+    "cardBattleSkillNameId": "3409",
+    "name": "私が行く！"
+  },
+  {
+    "cardBattleSkillNameId": "3410",
+    "name": "影投・肉弾用々"
+  },
+  {
+    "cardBattleSkillNameId": "3411",
+    "name": "連携・影刻心刺"
+  },
+  {
+    "cardBattleSkillNameId": "3412",
+    "name": "剛腕手刀"
+  },
+  {
+    "cardBattleSkillNameId": "3413",
+    "name": "図にのるなアアア！！！！"
+  },
+  {
+    "cardBattleSkillNameId": "3419",
+    "name": "砂怒涛・尖射爪討"
+  },
+  {
+    "cardBattleSkillNameId": "3420",
+    "name": "自ら切り拓くしかないんだ"
+  },
+  {
+    "cardBattleSkillNameId": "3421",
+    "name": "雷切・輪花葬送"
+  },
+  {
+    "cardBattleSkillNameId": "3422",
+    "name": "お前を守ると約束した！"
+  },
+  {
     "cardBattleSkillNameId": "10136",
     "name": "新術だってばよ！"
   },

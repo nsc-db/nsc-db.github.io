@@ -1064,6 +1064,20 @@ window.charaname=[
     "gender": "2"
   },
   {
+    "charaProfileId": "1406",
+    "charaId": "14",
+    "name": "テマリ",
+    "detail": "疾風伝",
+    "charaLoveAffinityGroupId": "1420",
+    "birthday": "823",
+    "constellation": "6",
+    "height": "16500",
+    "weight": "4790",
+    "bloodType": "3",
+    "age": "19",
+    "gender": "2"
+  },
+  {
     "charaProfileId": "1501",
     "charaId": "15",
     "name": "カンクロウ",
@@ -1257,6 +1271,20 @@ window.charaname=[
     "weight": "6750",
     "bloodType": "3",
     "age": "31",
+    "gender": "1"
+  },
+  {
+    "charaProfileId": "1708",
+    "charaId": "17",
+    "name": "はたけカカシ",
+    "detail": "カカシ外伝",
+    "charaLoveAffinityGroupId": "1750",
+    "birthday": "915",
+    "constellation": "6",
+    "height": "0",
+    "weight": "0",
+    "bloodType": "3",
+    "age": "13",
     "gender": "1"
   },
   {
@@ -3239,6 +3267,20 @@ window.charaname=[
     "name": "大筒木カグヤ",
     "detail": null,
     "charaLoveAffinityGroupId": "14310",
+    "birthday": "815",
+    "constellation": "5",
+    "height": "0",
+    "weight": "0",
+    "bloodType": "0",
+    "age": "0",
+    "gender": "2"
+  },
+  {
+    "charaProfileId": "14303",
+    "charaId": "143",
+    "name": "大筒木カグヤ",
+    "detail": null,
+    "charaLoveAffinityGroupId": "14303",
     "birthday": "815",
     "constellation": "5",
     "height": "0",

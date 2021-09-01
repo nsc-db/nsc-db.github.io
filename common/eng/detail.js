@@ -1,4 +1,144 @@
 window.detail=[
+    {
+        "id": 20070808,
+        "name": "Kakashi Hatake",
+        "subtext": "Eye's that Reflects Tragedy",
+
+        "lead": "Konoha SPD and Skill Damage +150%",
+
+        "s1n": "Raikiri: Flower Funeral",
+        "s1": "Deal 3% + 1,700,000 to all enemies. Deal 5 Additional Attack dealing 500,000. Ignore Resistance and Skip. Deal 5 Additional Attacks dealing 3% + 500,000 to Paralyze enemies. (Always Hit)", 
+        "s1ntr": "Lightning",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "I Promised to Protect You!",
+        "s2": "Party SPD and Skill Damage +150%. Remove Negative Special and God State. Change the Terrain to 'Thunder Tragedy'. [Thunder Tragedy: (Enemy): Upon Action, Remove Positive Special and God State, Ignore Reisstance and Skill Dodge and Inflict Paralysis. High Chance for enemy Kakashi Hatake to Cut-In",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "The Power of Sharingan",
+        "a1": "High Chance for Skill Immunity except for Sharingan. Grant Instant Action and SPD +400% for 1 turn when Attacked. Revive +3",
+
+        "a2n": "Lost Again",
+        "a2": "Chance to Change the Terrain to 'Thunder Tragedy' (Guarantee if there's a God enemy). Ignore Resistance and Skill Dodge and Inflict 'Paralysis' for 1 turn",
+
+        "a3n": "Black Type Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Black."
+    },
+    {
+        "id": 20070806,
+        "name": "Gaara",
+        "subtext": "Sand Prince of Absolute Defense",
+
+        "lead": "Suna and Konoha HP and SPD +150%. 1 Turn: Fixed Damage Immunity",
+
+        "s1n": "Sand Surging Waves: Nail Arrows",
+        "s1": "Deal 3% + 1,500,000 to all enemies. Ignore Resistance and Inflict 'Quicksand' State. Deal 5 Additional Attacks dealing 500,000 Fixed Damage. Destroy Enemy Terrain (Always Hit) [Quicksand: Chance to Cancel per turn. SPD -250% and HP -10% per turn]", 
+        "s1ntr": "Unique",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "I Have No Choice But To Open Up",
+        "s2": "Recover 5,000,000 HP, Remove Disable Positive Special and God State Effect, and Grant 'God Absolute Defense' God State to self. Protect Party from Single Target Skills [God Absolute Defense: HP +5,000%, DEF +1,000%, Immune to All Skills. Deal 7% + 999,999 Counter Attack Damage when Attacked. Chance to Deal 2 Additional Attacks dealing 999,999 Fixed Damage when using a Skill Attack. SPD +1,000% when Attacked. Remove Debuff, Genjutsu, Status Effect, Negative Special and God State to Party per turn. Grant Instant Action when this God State is removed]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Hidden Power to Protect",
+        "a1": "Grant 'God Absolute Defense' and Chance to Grant Instant Action when Attacked. Damage Cut +80% if there's an Akatsuki enemy",
+
+        "a2n": "Restoring Bond",
+        "a2": "Insta Cast Skill 2. Revive +5",
+
+        "a3n": "Black Type Specialization and Reduction",
+        "a3": "Type Advantage and Damage Cut +50% against Black. Damage Reduction +20% to self and Non-White allies"
+    },
+    {
+        "id": 20070807,
+        "name": "Temari",
+        "subtext": "Heroine of Wind Blades",
+
+        "lead": "Five Village Chakra Cost -20% and HP Regen +20%",
+
+        "s1n": "Wind Style: Fan Flower Dance",
+        "s1": "Deal 3% + 1,200,000 to all enemies. Deal 5 Additional Attacks dealing 500,000 to Non-Five Village enemies. Remove Enemy Positive Special and God State. Deal 2x Damage while under 'God Great Wind' State. (Always Hit)", 
+        "s1ntr": "Wind",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "Here I Go!",
+        "s2": "Party ATK, DEF and SPD +150%. Grant 'God Great Wind' God State to Party. Remove 'Disable Positive Special and God State' Effect and Negative Special and God State to Party. [God Great Wind: Damage Cut +75%. Chance to Grant Immortality when Attacked. Deal 7% + 300,000 Counter Attack Damage when Attacked by a Skill]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Sister's Pride",
+        "a1": "Insta Cast Skill 2 if there's a None enemy",
+
+        "a2n": "Sand's Wind Blade",
+        "a2": "Low Chance to Grant 'God Great Wind' God State when Attacked. Withstand +5. Grant Instnat Action upon Withstanding",
+
+        "a3n": "White Type Specialization and Sprint",
+        "a3": "Type Advantage and Damage Cut +50% against White. SPD +75% per Non-Black allies."
+    },
+    {
+        "id": 20070809,
+        "name": "Shikamaru Nara",
+        "subtext": "Champion's Reward",
+
+        "lead": "Konoha Cast Speed +1, SPD and Skill Damage +100%",
+
+        "s1n": "Shadow Pitching: Human Boulder Yo-Yo",
+        "s1": "Deal 1,000,000 to all enemies. High chance to Inflict Paralysis. Remove 'Disable Postiive Special and God State' and 'Disable Special State' Effect to Konoha allies. Grant 'Instant Guidance' State to self. (Always Hit) [Instant Guidance: Chakra Cost is Set to 0. Allies are Immune to AoE. Grant Instant Action to Konoha allies] ", 
+        "s1ntr": "Secret",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "Cooperation: Shadow Pierce",
+        "s2": "Deal 7% + 700,000 to a target enemy. Deal 2 Additional Attacks dealing 7% + 300,000 to Akatsuki enemies. High chance to Inflict 'Shadow Strangle' Unique State. Grant 'Cooperation' State to Konoha allies. (Always Hit) [Shadow Strangle: DEF and SPD -100%, Cast Speed -1. Stats Debuff -100% and Cast Speed -1 when Targeting 'Shikamaru Nara'] [Cooperation: High Chance to Grant Instant Action to ally 'Shikamaru Nara' after action']",
+        "s2ntr": "Secret",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Teacher and Father's Joint Will",
+        "a1": "If there's an Akatsuki enemy, High chance to Grant First Strike and Inflict 'Shadow Strangle' Unique State to All enemies",
+
+        "a2n": "The Spirit of Ino-Shika-Cho",
+        "a2": "Chakra +250. 2 Turns: Chakra Cost is Set to 0. Withstand +2",
+
+        "a3n": "Blue Type Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Blue."
+    },
+    {
+        "id": 20070804,
+        "name": "Kaguya Otsutsuki",
+        "subtext": "Goddess of the Lost World",
+
+        "lead": "All Characters Skill Damage +150%. 2 Turns: Skill Damage Immunity and Grant 'Remove and Immune to Negative Special and God State' Effect",
+
+        "s1n": "Ame no Minaka: Raining Revenge of Ash Destruction",
+        "s1": "Deal 3% + 2,000,000 to all enemies. Inflict 'Remove and Immune to Positive Special and God State'. Deal 5 Additional Attacks dealing 1,000,000 to a random enemy. (Alwas Hit). ▼True Ame no Minaka▼: [2nd Stage]: Terrain can't be deployed. (Enemy): High Chance to Disable First Strike, Instant Cast and Instant Action. High chance to Disable Action until the next turn. (None Allies): High chance to grant an Extra Turn, SPD +500%. [3rd Stage]: (Enemy): Cast Speed -1 per turn (Max 5). (None Allies): Cast Speed is Set to flash. High chance to Grant Instant Action when attacked]", 
+        "s1ntr": "Unique",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "Ten Tails: Violent Rabbit Crimson Lightning",
+        "s2": "Deal 2,000,000 Fixed Damage to All enemies. Deal 4 Additional Attacks dealing 1,000,000. Grant 'God Tree's Power' to None allies. [God Tree's Power: Damage Limit Set to 666,666. Chance to Ignore Resistance and Skill Dodge and Insta Kill when using an Attack Skill] (Always Hit)",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "History of Hatred",
+        "a1": "Grant 'True Ame no Minaka' Formation at the Start of Battle and Every Turn. High Chance to Grant Instant Action when Attacked",
+
+        "a2n": "Origin of Power",
+        "a2": "Revive +3. Insta Cast Skill 2 at the Start of Battle",
+
+        "a3n": "Blue and Black Type Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Blue and Black."
+    },
 {
           "id": 20070810,
           "name": "Yamato",

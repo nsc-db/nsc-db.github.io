@@ -28660,6 +28660,176 @@ window.ability=[
     "effectIds": "4290,4291,1949,"
   },
   {
+    "abilityId": "2920",
+    "abilityName": "ミナトの決断への理解",
+    "abilityDescription": "被攻撃時に超高確率で攻撃者の素早さ200%ダウン",
+    "abilityEffectDescription": "被攻撃時に超高確率で攻撃者の素早さ200%ダウン",
+    "effectIdx1": "4293",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "4293,"
+  },
+  {
+    "abilityId": "2921",
+    "abilityName": "閃光の伝播",
+    "abilityDescription": "被攻撃時に超高確率で攻撃者のスキル発動速度2段階ダウン",
+    "abilityEffectDescription": "被攻撃時に超高確率で攻撃者のスキル発動速度2段階ダウン",
+    "effectIdx1": "4294",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "4294,"
+  },
+  {
+    "abilityId": "2922",
+    "abilityName": "翔輝",
+    "abilityDescription": "3回行動まで超高確率で再行動※再行動後に再行動しない",
+    "abilityEffectDescription": "3回行動まで超高確率で再行動※再行動後に再行動しない",
+    "effectIdx1": "4295",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "4295,"
+  },
+  {
+    "abilityId": "2923",
+    "abilityName": "怨讐の歴史",
+    "abilityDescription": "バトル開始・行動時に【忍方陣：天之御中】を展開｡被攻撃時､確率で即アクション",
+    "abilityEffectDescription": "バトル開始・行動時に【忍方陣：天之御中】を展開｡被攻撃時､確率で即アクション",
+    "effectIdx1": "4298",
+    "effectIdx2": "4300",
+    "effectIdx3": "3620",
+    "effectIds": "4298,4300,3620,"
+  },
+  {
+    "abilityId": "2924",
+    "abilityName": "始祖の力",
+    "abilityDescription": "HP0以下で2回HP全回復｡バトル開始時､スキル2で急襲攻撃(チャクラ大回復)",
+    "abilityEffectDescription": "HP0以下で2回HP全回復｡バトル開始時､スキル2で急襲攻撃(チャクラ大回復)",
+    "effectIdx1": "874",
+    "effectIdx2": "1057",
+    "effectIdx3": "3303",
+    "effectIds": "874,1057,3303,"
+  },
+  {
+    "abilityId": "2925",
+    "abilityName": "怨讐の歴史",
+    "abilityDescription": "バトル開始・行動時に【忍方陣：真・天之御中】を展開｡被攻撃時､高確率で即アクション",
+    "abilityEffectDescription": "バトル開始・行動時に【忍方陣：真・天之御中】を展開｡被攻撃時､高確率で即アクション",
+    "effectIdx1": "4299",
+    "effectIdx2": "4301",
+    "effectIdx3": "4257",
+    "effectIds": "4299,4301,4257,"
+  },
+  {
+    "abilityId": "2926",
+    "abilityName": "始祖の力",
+    "abilityDescription": "HP0以下で3回HP全回復｡バトル開始時､スキル2で急襲攻撃(チャクラ大回復)",
+    "abilityEffectDescription": "HP0以下で3回HP全回復｡バトル開始時､スキル2で急襲攻撃(チャクラ大回復)",
+    "effectIdx1": "874",
+    "effectIdx2": "1789",
+    "effectIdx3": "3303",
+    "effectIds": "874,1789,3303,"
+  },
+  {
+    "abilityId": "2927",
+    "abilityName": "姉の矜持",
+    "abilityDescription": "敵に無所属がいるとバトル開始時にスキル2で急襲攻撃(チャクラ大回復)",
+    "abilityEffectDescription": "敵に無所属がいるとバトル開始時にスキル2で急襲攻撃(チャクラ大回復)",
+    "effectIdx1": "4309",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "4309,"
+  },
+  {
+    "abilityId": "2928",
+    "abilityName": "風の妙刃",
+    "abilityDescription": "被攻撃時、自身に低確率で神・豪風付与、HP0以下で5回耐え、耐えた時即アクション",
+    "abilityEffectDescription": "被攻撃時、自身に低確率で神・豪風付与、HP0以下で5回耐え、耐えた時即アクション",
+    "effectIdx1": "4310",
+    "effectIdx2": "4311",
+    "effectIdx3": "3241",
+    "effectIds": "4310,4311,3241,"
+  },
+  {
+    "abilityId": "2929",
+    "abilityName": "師と父より継ぎし意志",
+    "abilityDescription": "敵に“暁”所属がいると、バトル開始時にそれぞれ確率で先制攻撃＆敵全体に耐性無視して影首縛り付与",
+    "abilityEffectDescription": "敵に“暁”所属がいると、バトル開始時にそれぞれ確率で先制攻撃＆敵全体に耐性無視して影首縛り付与",
+    "effectIdx1": "4315",
+    "effectIdx2": "4316",
+    "effectIdx3": "0",
+    "effectIds": "4315,4316,"
+  },
+  {
+    "abilityId": "2930",
+    "abilityName": "猪鹿蝶の真髄",
+    "abilityDescription": "最大チャクラ量250アップ、1回行動までチャクラ消費0、HP0以下で1回耐える",
+    "abilityEffectDescription": "最大チャクラ量250アップ、1回行動までチャクラ消費0、HP0以下で1回耐える",
+    "effectIdx1": "20044",
+    "effectIdx2": "1378",
+    "effectIdx3": "312",
+    "effectIds": "20044,1378,312,"
+  },
+  {
+    "abilityId": "2931",
+    "abilityName": "雷速の行動力",
+    "abilityDescription": "最大HPと攻撃力を100%アップし、HP90%以上の時にスキル発動速度1段階アップ",
+    "abilityEffectDescription": "最大HPと攻撃力を100%アップし、HP90%以上の時にスキル発動速度1段階アップ",
+    "effectIdx1": "684",
+    "effectIdx2": "264",
+    "effectIdx3": "2626",
+    "effectIds": "684,264,2626,"
+  },
+  {
+    "abilityId": "2932",
+    "abilityName": "里の支柱",
+    "abilityDescription": "HP0以下で1回耐え、2回行動するまで高確率でスキルを回避する",
+    "abilityEffectDescription": "HP0以下で1回耐え、2回行動するまで高確率でスキルを回避する",
+    "effectIdx1": "312",
+    "effectIdx2": "1610",
+    "effectIdx3": "0",
+    "effectIds": "312,1610,"
+  },
+  {
+    "abilityId": "2937",
+    "abilityName": "守鶴の秘力",
+    "abilityDescription": "被攻撃時､自身に神・絶対防御付与&amp;確率で即アクション､敵に\"暁\"所属がいると受けるダメージ80%カット",
+    "abilityEffectDescription": "被攻撃時､自身に神・絶対防御付与&amp;確率で即アクション､敵に\"暁\"所属がいると受けるダメージ80%カット",
+    "effectIdx1": "4318",
+    "effectIdx2": "3620",
+    "effectIdx3": "4319",
+    "effectIds": "4318,3620,4319,"
+  },
+  {
+    "abilityId": "2938",
+    "abilityName": "再起への絆",
+    "abilityDescription": "バトル開始時､スキル2で急襲(チャクラ大回復)､HP0以下で5回全回復",
+    "abilityEffectDescription": "バトル開始時､スキル2で急襲(チャクラ大回復)､HP0以下で5回全回復",
+    "effectIdx1": "3303",
+    "effectIdx2": "874",
+    "effectIdx3": "1512",
+    "effectIds": "3303,874,1512,"
+  },
+  {
+    "abilityId": "2939",
+    "abilityName": "写輪眼の力",
+    "abilityDescription": "高確率で写輪眼除くｽｷﾙ無効&amp;被攻撃時即ｱｸｼｮﾝ&amp;次回行動まで素早さ400%ｱｯﾌﾟ｡HP0以下で3回HP全回復",
+    "abilityEffectDescription": "高確率で写輪眼除くｽｷﾙ無効&amp;被攻撃時即ｱｸｼｮﾝ&amp;次回行動まで素早さ400%ｱｯﾌﾟ｡HP0以下で3回HP全回復",
+    "effectIdx1": "3701",
+    "effectIdx2": "3620",
+    "effectIdx3": "4329",
+    "effectIds": "3701,3620,4329,874,1789,"
+  },
+  {
+    "abilityId": "2940",
+    "abilityName": "再びの喪失",
+    "abilityDescription": "ﾊﾞﾄﾙ開始時､確率で｢地形効果:惨劇ノ雷鳴｣展開(敵に神忍がいると確実)､攻撃者を1回行動まで耐性･ｽｷﾙ回避無視で麻痺",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始時､確率で｢地形効果:惨劇ノ雷鳴｣展開(敵に神忍がいると確実)､攻撃者を1回行動まで耐性･ｽｷﾙ回避無視で麻痺",
+    "effectIdx1": "4330",
+    "effectIdx2": "4331",
+    "effectIdx3": "4332",
+    "effectIds": "4330,4331,4332,"
+  },
+  {
     "abilityId": "10000",
     "abilityName": "攻撃・防御・素早さダウン（大）",
     "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -30870,6 +31040,26 @@ window.ability=[
     "effectIds": "1693,4284,2048,"
   },
   {
+    "abilityId": "100160",
+    "abilityName": "師と父より継ぎし意志",
+    "abilityDescription": "敵に“暁”所属がいると、バトル開始時にそれぞれ高確率で先制攻撃＆敵全体に耐性無視して影首縛り付与",
+    "abilityEffectDescription": "敵に“暁”所属がいると、バトル開始時にそれぞれ高確率で先制攻撃＆敵全体に耐性無視して影首縛り付与",
+    "effectIdx1": "4317",
+    "effectIdx2": "4323",
+    "effectIdx3": "0",
+    "effectIds": "4317,4323,"
+  },
+  {
+    "abilityId": "100161",
+    "abilityName": "猪鹿蝶の真髄",
+    "abilityDescription": "最大チャクラ量250アップ、2回行動までチャクラ消費0、HP0以下で2回耐える",
+    "abilityEffectDescription": "最大チャクラ量250アップ、2回行動までチャクラ消費0、HP0以下で2回耐える",
+    "effectIdx1": "20044",
+    "effectIdx2": "4324",
+    "effectIdx3": "4040",
+    "effectIds": "20044,4324,4040,"
+  },
+  {
     "abilityId": "200001",
     "abilityName": "心属性特化",
     "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -31148,6 +31338,16 @@ window.ability=[
     "effectIdx2": "228250",
     "effectIdx3": "229104",
     "effectIds": "229204,228250,229104,228150,"
+  },
+  {
+    "abilityId": "200031",
+    "abilityName": "知属性特化・軽減",
+    "abilityDescription": "知属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50％ｶｯﾄ。自身と異なる属性の味方が受ける全ｽｷﾙﾀﾞﾒｰｼﾞを20%ｶｯﾄ",
+    "abilityEffectDescription": "知属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50％ｶｯﾄ。自身と異なる属性の味方が受ける全ｽｷﾙﾀﾞﾒｰｼﾞを20%ｶｯﾄ",
+    "effectIdx1": "229304",
+    "effectIdx2": "228350",
+    "effectIdx3": "4002",
+    "effectIds": "229304,228350,4002,4003,4004,4276,"
   },
   {
     "abilityId": "200032",
@@ -33688,6 +33888,16 @@ window.ability=[
     "effectIdx2": "0",
     "effectIdx3": "0",
     "effectIds": "4207,"
+  },
+  {
+    "abilityId": "310227",
+    "abilityName": "Bマス用_禁忌",
+    "abilityDescription": "班の無所属の人数に応じて素早さ30%アップ（自身含）",
+    "abilityEffectDescription": "班の無所属の人数に応じて素早さ30%アップ（自身含）",
+    "effectIdx1": "1200",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "1200,"
   },
   {
     "abilityId": "801187",
