@@ -7,7 +7,7 @@ window.detail=[
           "lead": "All Characters: Recover 5% HP and Chakra when attacked",
 
           "s1n": "Water Style: Five Gluttonous Sharks",
-          "s1": "Deal 7% + 5,000 to target enemy. Recover Extreme amount of HP. High Chance to Inflict DEF and SPD -60%. If the enemy is under 'Seal': Deal 1.5x more damage. If it's a Blue enemy: Deal 2x more damage. (If Both: Deal 3x more damage.)",
+          "s1": "Deal 7% + 5,000 to target enemy. Recover Extreme amount of HP. High Chance to Inflict DEF and SPD -60%.",
 		  "s1ntr": "Water",
           "s1cs": "Fastest",
           "s1c": 65,
