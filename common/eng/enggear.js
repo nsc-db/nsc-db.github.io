@@ -7699,6 +7699,36 @@ window.enggear=[
                "cardIds": "0",
                "charaGroupIds": "0"
      },
+	      {
+               "id": 408015,
+               "type": "Resistance",
+               "name": "Offerings for the Second Coming of the Goddess",
+               "effect": "Sharingan, Rinnegan & Rinnesharingan Skill Immunity, High Chance to Remove and Disable Enemies' Positive Special State, Skill Dodge Rate +150%",
+               "normal": "Chance to Dodge Skills",
+               "charaIds": "14301",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+     {
+               "id": 408025,
+               "type": "Additional",
+               "name": "The Rabbit Goddess who Delusions Power",
+               "effect": "HP Recovery +30% every turn and when attacked, Chakra Cost -50%, Debuff and Status Effect Immunity",
+               "normal": "Chakra Cost -50%",
+               "charaIds": "14301",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+{
+               "id": 408035,
+               "type": "Stats",
+               "name": "Collection of the Tailed Beasts",
+               "effect": "HP, ATK, DEF, SPD and Skill Damage +120%, Cast Speed +2",
+               "normal": "HP, ATK, DEF and SPD +60%",
+               "charaIds": "14301",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
      {
                "id": 408045,
                "type": "Resistance",
