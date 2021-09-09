@@ -7795,7 +7795,7 @@ window.enggear=[
                "name": "A Blow that Created Regret and Darkness",
                "effect": "High Chance to Start the Battle with 100% Chakra & First Strike, SPD & Skill Damage +150%",
                "normal": "Start the Battle with 50% Chakra, SPD +50%",
-               "charaIds": "1406",
+               "charaIds": "1708",
                "cardIds": "0",
                "charaGroupIds": "0"
      },
@@ -7805,7 +7805,7 @@ window.enggear=[
                "name": "Friend's Eyes who Harboured Despair",
                "effect": "2 Turns: Skill Immunity, Cast Speed +2, High Chance for Insta-Kill Immunity, Chakra Cost -50%",
                "normal": "1 Turn: Incoming Skill Damage -50%",
-               "charaIds": "1406",
+               "charaIds": "1708",
                "cardIds": "0",
                "charaGroupIds": "0"
 },
