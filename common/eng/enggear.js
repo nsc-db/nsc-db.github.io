@@ -7719,5 +7719,75 @@ window.enggear=[
                "cardIds": "0",
                "charaGroupIds": "0"
      },
+{
+               "id": 408065,
+               "type": "Stats",
+               "name": "Gaara's Maxim",
+               "effect": "Damage Cut +50%, HP, DEF and SPD +150%, Chakra Cost -50%",
+               "normal": "HP, DEF and SPD +40%",
+               "charaIds": "1305",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+     {
+               "id": 408075,
+               "type": "Skill",
+               "name": "Sand Guardian's Gourd",
+               "effect": "Skill Damage +150%, Cast Speed +1 every turn (Max 5)",
+               "normal": "Skill Damage +50%",
+               "charaIds": "1305",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+{
+               "id": 408085,
+               "type": "Chakra",
+               "name": "Temari's Maxim",
+               "effect": "ATK, DEF and SPD +100%, Chakra Cost -50%",
+               "normal": "SPD +50%, 3 Turns: Chakra Cost -50%",
+               "charaIds": "1406",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+     {
+               "id": 408095,
+               "type": "Additional",
+               "name": "Wind Princess' Giant Fan",
+               "effect": "Skill Damage +150%, Cast Speed +2, Start the Battle with 50% Chakra",
+               "normal": "Cast Speed +1",
+               "charaIds": "1406",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 408105,
+               "type": "Skill",
+               "name": "A Blow that Created Regret and Darkness",
+               "effect": "High Chance to Start the Battle with 100% Chakra & First Strike, SPD & Skill Damage +150%",
+               "normal": "Start the Battle with 50% Chakra, SPD +50%",
+               "charaIds": "1406",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+     {
+               "id": 408115,
+               "type": "Additional",
+               "name": "Friend's Eyes who Harboured Despair",
+               "effect": "2 Turns: Skill Immunity, Cast Speed +2, High Chance for Insta-Kill Immunity, Chakra Cost -50%",
+               "normal": "1 Turn: Incoming Skill Damage -50%",
+               "charaIds": "1406",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 408125,
+               "type": "Skill",
+               "name": "Shika-Ino-Cho's Bond Through The War",
+               "effect": "Skill Damage +150%, Cast Speed +1, If there's a GK enemy: SPD +200%",
+               "normal": "Skill Damage +80%",
+               "charaIds": "402",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+          },
      ]
      
