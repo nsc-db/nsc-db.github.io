@@ -1139,6 +1139,26 @@ window.enggear=[
                "cardIds": "0",
                "charaGroupIds": "0"
      },
+{
+               "id": 4075,
+               "type": "Additional",
+               "name": "Orochimaru's White Snake",
+               "effect": "HP and Chakra Recovery +10%, Summoning & Unique Skill Damage +60%",
+               "normal": "HP Recovery +10%",
+               "charaIds": "10301,10302,10303,10304",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+{
+               "id": 4085,
+               "type": "Stats",
+               "name": "Tayuya's Hat",
+               "effect": "HP and ATK +100%, Skill Damage +20%",
+               "normal": "HP and ATK +40%",
+               "charaIds": "11201",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
      {
                "id": 4125,
                "type": "Resistance",
@@ -3577,6 +3597,26 @@ window.enggear=[
                "normal": "Skill Damage and ATK +30%",
                "charaIds": "106",
                "cardIds": "20001519,20001549,20001709,20001763,20001782",
+               "charaGroupIds": "0"
+},	
+{
+               "id": 204075,
+               "type": "Resistance",
+               "name": "Wind Mask",
+               "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 1 Turn: Set Chakra Cost to 0",
+               "normal": "Debuff and Status Effect Duration -50%",
+               "charaIds": "12401",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },	
+{
+               "id": 204085,
+               "type": "Chakra",
+               "name": "Madara's Sandals",
+               "effect": "Chakra +100, HP +100%, SPD +70%, Chakra Recovery +30%",
+               "normal": "Chakra +30, HP +50%, SPD +30%",
+               "charaIds": "13702",
+               "cardIds": "0",
                "charaGroupIds": "0"
      },	
      {

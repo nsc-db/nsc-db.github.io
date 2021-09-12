@@ -1,5 +1,229 @@
 window.detail=[
 {
+          "id": 20001707,
+          "name": "Cee",
+          "subtext": "Great Warrior",
+
+          "lead": "Kumo Characters: Incoming Skill Damage Reduced",
+
+          "s1n": "Medical Ninjutsu",
+          "s1": "Recover Small amount of HP and Large amount of Chakra to Party",
+		  "s1ntr": "Medical",
+          "s1cs": "Normal",
+          "s1c": 70,
+
+          "s2n": "Be Ahead!",
+          "s2": "Chance for target enemy's DEF and SPD -20% and becoming Weak to 'Taijutsu'",
+          "s2ntr": "None",
+          "s2cs": "Fastest",
+          "s2c": 65,
+
+          "a1n": "Strict Honesty",
+          "a1": "SPD +30%",
+
+          "a2n": "Clear Brain",
+          "a2": "Chakra Cost -20%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20001808,
+          "name": "Mifune",
+          "subtext": "Great Warrior",
+
+          "lead": "All Characters: ATK and Weapon Skill Damage +30%",
+
+          "s1n": "Purple Lightning Flash",
+          "s1": "Deal 7% + 2,500 to target enemy. Chance to Crit and Deal 2x more damage. While under 'Accumulation' State: Remove 'Accumulation' State.",
+		  "s1ntr": "Weapon",
+          "s1cs": "Fastest",
+          "s1c": 90,
+
+          "s2n": "The Person is The Sword Itself",
+          "s2": "Own SPD +100%. Grant 'Accumulation' State to self. [Accumulation: Skill Damage +250% when defending (Max 1,000%)]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 60,
+
+          "a1n": "God Speed",
+          "a1": "10 Turns: SPD and Skill Damage +100%",
+
+          "a2n": "One Sword",
+          "a2": "HP and ATK +50%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20001827,
+          "name": "Neji Hyuga",
+          "subtext": "Dispelling Curse",
+
+          "lead": "White Characters: HP, Normal Attack and Byakugan Skill Damage +30%",
+
+          "s1n": "Eight Trigrams: Twin Heaven Palm",
+          "s1": "Deal 7% + 2,000 to target enemy. Guarantee Inflict 'Cancel'. Chance to Inflict 'Deficit' State. [Deficit: Set Chakra Recovery to 0]",
+		  "s1ntr": "Byakugan",
+          "s1cs": "Fastest",
+          "s1c": 100,
+
+          "s2n": "I... Pierce The Chakra Point Exactly",
+          "s2": "Own SPD +100%, Chakra Cost -90%. Grant 'Skill Dodge (Medium)' State to self.",
+          "s2ntr": "Byakugan",
+          "s2cs": "Fastest",
+          "s2c": 20,
+
+          "a1n": "Accurate and Unrivaled Taijutsu",
+          "a1": "Normal Attack Crit Rate +50%, Crit Damage +2,000%",
+
+          "a2n": "Research of The Byakugan",
+          "a2": "Normal Attack Always Hit & Start the Battle with 30% Chakra",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20001865,
+          "name": "Sai",
+          "subtext": "Ninja's Successor",
+
+          "lead": "All Characters: HP and Sage Skill Damage +40%",
+
+          "s1n": "Super Beast Scroll: Snake",
+          "s1": "Deal 7% + 2,000 to target enemy. Chance to Inflict 'Cancel' and 'Seal'. If the enemy is under 'Seal': Deal 3x more damage.",
+		  "s1ntr": "Secret",
+          "s1cs": "Normal",
+          "s1c": 70,
+
+          "s2n": "It's a Wasteful Scratching...",
+          "s2": "Enemies ATK, DEF and SPD -40%. If it's an EX enemy: Inflict 'Cast Speed -1'",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 50,
+
+          "a1n": "Eroded Heart",
+          "a1": "SPD +50% and Status Effect Duration -50%",
+
+          "a2n": "Heart to Cry Lonely",
+          "a2": "HP <90%: ATK and Skill Damage +80%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20030707,
+          "name": "Ashura Otsutsuki",
+          "subtext": "Ninja's Successor",
+
+          "lead": "All Characters: HP and Sage Skill Damage +40%",
+
+          "s1n": "Amenomihashira",
+          "s1": "Deal 7% + 4,000 to target enemy. High Chance to Crit and Deal 4x more damage. While under 'Rally' State: Deal 3x more damage. (If Both: Deal 12x more damage.)",
+		  "s1ntr": "Sage",
+          "s1cs": "Fastest",
+          "s1c": 60,
+
+          "s2n": "Only with Friends...!",
+          "s2": "Own ATK +120%. Grant 'Determined' State to self and 'Rally' State to Party.[Determined: ATK, DEF and SPD +40%, When Attacked: HP and Chakra Recovery +10%] [Rally: ATK, DEF and SPD +40%, HP and Chakra Recovery +10%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 70,
+
+          "a1n": "Enlightened with Love",
+          "a1": "HP +120%, Revive +2",
+
+          "a2n": "A Heart that Believes in Bonds",
+          "a2": "ATK and Sage Skill Damage +120%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20040213,
+          "name": "Naruto Uzumaki",
+          "subtext": "Konoha Sprint",
+
+          "lead": "Yellow Konoha Characters: SPD +100%",
+
+          "s1n": "I'm Serious from now on!",
+          "s1": "Own Normal Attack Crit Rate +70%. Grant 'Wind Specialization' State. Remove 'Kicking Specialization' State. [Wind Specialization: ATK +100%, Crit Damage +800%]",
+		  "s1ntr": "Wind",
+          "s1cs": "Fastest",
+          "s1c": 100,
+
+          "s2n": "I'll show you The Naruto Drop Kick",
+          "s2": "Own Normal Attack Crit Rate +70%. Grant 'Kicking Specialization' State. Remove 'Wind Specialization' State. [Kicking Specialization: SPD +100%, Crit Damage +200%. HP Recovery +10%]",
+          "s2ntr": "Taijutsu",
+          "s2cs": "Fastest",
+          "s2c": 100,
+
+          "a1n": "I Love Ichiraku Ramen",
+          "a1": "HP >90%: Normal Attack Always Hit",
+
+          "a2n": "Will of Fire",
+          "a2": "HP and DEF +80%",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20040707,
+          "name": "Kimimaro",
+          "subtext": "Uncovered Shell",
+
+          "lead": "Yellow and Oto Characters: HP and DEF +80%",
+
+          "s1n": "Corpse Bone Chain: Slaughter Dance",
+          "s1": "Deal 7% + 10,000 to target enemy. If DEF UP: Deal 5x more damage. If it's an EX enemy: Deal 10x more damage. (If Both: Deal 50x more damage.)",
+		  "s1ntr": "Unique",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "It's Anomalous...?",
+          "s2": "Own DEF and Skill Damage +100%. If there's an EX enemy: Grant 'Harden' State to Party for 1 Turn. [Harden: Remove and Immune to Status Effects. Incoming Skill Damage -6,666%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 100,
+
+          "a1n": "Deadly Disease",
+          "a1": "SPD +100%, Status Effect Immunity & HP -20% every turn",
+
+          "a2n": "Osteoblast Proliferation",
+          "a2": "2 Turns: Skill, Fixed Damage & Cancel Immunity",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
+          "id": 20050308,
+          "name": "Tenten",
+          "subtext": "Performance of the Scattered Blade",
+
+          "lead": "All Characters: HP and Skill Damage +101%",
+
+          "s1n": "Flying Blade Bomb Twin Sword",
+          "s1": "Deal 3% + 101,000 to all enemies. Chance to Deal 10.10x more damage. Chance to 10 Additional Attacks dealing 10,100 Fixed Damage.",
+		  "s1ntr": "Summoning",
+          "s1cs": "Fastest",
+          "s1c": 80,
+
+          "s2n": "Another!",
+          "s2": "Own SPD +101%. Grant 'Rally', 'Battle' and 'Concentration' States to Party. [Battle: Skill Damage +101%] [Rally: ATK, DEF and SPD +101%, HP and Chakra Recovery +10.1%] [Concentration: Chakra Cost Reduced every turn. Max -101%]",
+          "s2ntr": "Unique",
+          "s2cs": "Fast",
+          "s2c": 80,
+
+          "a1n": "Early Ninja Summoning",
+          "a1": "10 Turns: 101% Chance to Dodge Skills. Chakra >50%: Cast Speed +1",
+
+          "a2n": "Common Sense Thinking Ability",
+          "a2": "HP >90%: SPD +101% & Skill (expect for Summoning, Weapon and Taijutsu) Immunity",
+
+          "a3n": "None",
+          "a3": "None"
+      },
+{
           "id": 20001708,
           "name": "Kisame Hoshigaki",
           "subtext": "Exiled Monster Fish",
