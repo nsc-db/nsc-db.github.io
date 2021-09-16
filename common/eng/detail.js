@@ -1,5 +1,61 @@
 window.detail=[
 {
+        "id": 60070902,
+        "name": "Obito Uchiha",
+        "subtext": "Reflection of the Settlement Between Friends",
+
+        "lead": "None Cast Speed +2 and Skill Damage +200%",
+
+        "s1n": "Kamui Sword: Great Flame",
+        "s1": "Deal 3% + 1,900,000 to All enemies. Deal 5 Additional Attacks dealing 890,000 Fixed Damage. High Chance to Inflict 'Hatred Destruction' Unique State. [Hatred Destruction: Cast Speed -2~-5. Remove and Immune to Positive Special and God State. Takes 2x Damage against Kizuna Kakashi and Obito] (Always Hit)", 
+        "s1ntr": "Fire",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "Worned Out Beautiful Thing...",
+        "s2": "Deal 1,000,000 Fixed Damage to All enemies. Inflict ATK, DEF and SPD -100%. Skip and Inflict 'Disable Positive Special and God State' (Always Hit)",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Grudge That Can Destroy the World",
+        "a1": "Insta Kill Immunity, When Attacked, Chance to Grant Instant Ation, Ignore Resistance and Inflict 'Hatred Destruction' Unique State to the Attacking enemy. SPD +200%",
+
+        "a2n": "Eye's Sinking the Darkness of Despair",
+        "a2": "Grant 'Will to Protect' Unique State at the Start of Battle and when Rotating from Kakashi. Revive +3. High CHance to Grant First Strike",
+
+        "a3n": "Blue and Black Type Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Blue and Black."
+    },
+    {
+        "id": 60070901,
+        "name": "Kakashi Hatake",
+        "subtext": "Last Words to a Hollow Friend",
+
+        "lead": "Konoha Cast Speed +2 and SPD +200%",
+
+        "s1n": "Raikiri: Lightning Bolt Fang",
+        "s1": "Deal 3% + 1,900,000 to All enemies. Deal 9 Additional Attacks dealing 490,000 Fixed Damage. Very High Chance to Inflict 'Seal' (Always Hit)", 
+        "s1ntr": "Lightning",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "If You Don't Give Up, There's Always Help!",
+        "s2": "Recover 2,000,000 HP, SPD and Skill Damage +200% to Party. Remove Debuff, Status Effect and Genjutsu to Party. Grant 'Will to Protect' Unique State to Party. Party is Immune to Skills for 1 turn. [Will to Protect: Remove and Immune to Negative Special and God State. When Attacked, Damage Limit is set to 700,000, SPD +1,000% for 1 turn and High Chance to Grant Instant Action",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Will to Protect the World",
+        "a1": "Grant 'Will to Protect' Unique State to Party at the Start of Battle. Upon Rotating from Obito, Inflict 'Hatred Destruction' Unique State to All enemies. Revive +3",
+
+        "a2n": "Eye's that Guides to the Ray of Hope",
+        "a2": "High chance to Remove Positive Special and God State of All enemies when Attacked. Fixed Damage Immunity. Tailed Beast, Sharingan and Enemy Terrain Immunity. High Chance to Grant First Strike",
+
+        "a3n": "Yellow and White Type Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Yellow and White."
+    },
+{
           "id": 20001707,
           "name": "Cee",
           "subtext": "Great Warrior",
