@@ -28790,6 +28790,46 @@ window.ability=[
     "effectIds": "312,1610,"
   },
   {
+    "abilityId": "2933",
+    "abilityName": "現世を守る意志",
+    "abilityDescription": "ﾊﾞﾄﾙ開始時､味方全体に守る意志付与｡ｵﾋﾞﾄからﾛｰﾃｰｼｮﾝ時､敵全体に耐性無視で壊す怨念付与｡HP0以下で3回HP全回復",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始時､味方全体に守る意志付与｡ｵﾋﾞﾄからﾛｰﾃｰｼｮﾝ時､敵全体に耐性無視で壊す怨念付与｡HP0以下で3回HP全回復",
+    "effectIdx1": "874",
+    "effectIdx2": "1789",
+    "effectIdx3": "4333",
+    "effectIds": "874,1789,4333,4334,4344,"
+  },
+  {
+    "abilityId": "2934",
+    "abilityName": "希望の光に導かれし瞳",
+    "abilityDescription": "被攻撃時に高確率で敵全体の強化系特殊･神化解除｡耐性無視ﾀﾞﾒｰｼﾞ0｡尾獣･写輪眼･敵の地形効果無効｡高確率で先制攻撃",
+    "abilityEffectDescription": "被攻撃時に高確率で敵全体の強化系特殊･神化解除｡耐性無視ﾀﾞﾒｰｼﾞ0｡尾獣･写輪眼･敵の地形効果無効｡高確率で先制攻撃",
+    "effectIdx1": "4336",
+    "effectIdx2": "4337",
+    "effectIdx3": "4338",
+    "effectIds": "4336,4337,4338,4339,1764,2578,"
+  },
+  {
+    "abilityId": "2935",
+    "abilityName": "現世を壊す怨念",
+    "abilityDescription": "即死無効｡被攻撃時に確率で即アクション&amp;攻撃者に耐性無視して壊す怨念付与｡素早さ200%アップ",
+    "abilityEffectDescription": "即死無効｡被攻撃時に確率で即アクション&amp;攻撃者に耐性無視して壊す怨念付与｡素早さ200%アップ",
+    "effectIdx1": "3254",
+    "effectIdx2": "3620",
+    "effectIdx3": "4341",
+    "effectIds": "3254,3620,4341,1280,"
+  },
+  {
+    "abilityId": "2936",
+    "abilityName": "絶望の闇に沈みし瞳",
+    "abilityDescription": "ﾊﾞﾄﾙ開始時&amp;ｶｶｼからﾛｰﾃｰｼｮﾝ時､味方全体に守る意志｡HP0以下で3回HP全回復｡高確率で先制攻撃",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始時&amp;ｶｶｼからﾛｰﾃｰｼｮﾝ時､味方全体に守る意志｡HP0以下で3回HP全回復｡高確率で先制攻撃",
+    "effectIdx1": "874",
+    "effectIdx2": "1789",
+    "effectIdx3": "4335",
+    "effectIds": "874,1789,4335,4343,2578,4333,4344,"
+  },
+  {
     "abilityId": "2937",
     "abilityName": "守鶴の秘力",
     "abilityDescription": "被攻撃時､自身に神・絶対防御付与&amp;確率で即アクション､敵に\"暁\"所属がいると受けるダメージ80%カット",

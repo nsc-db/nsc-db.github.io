@@ -17178,6 +17178,34 @@ window.lead=[
     "target2Param": "0"
   },
   {
+    "cardLeaderSkillId": "1243",
+    "name": "虚ろなる友への引導",
+    "description": "木ノ葉隠れの里所属のスキル発動速度2段階アップ＆素早さ200%アップ",
+    "effectIdx1": "1549",
+    "effectIdx2": "1280",
+    "effectIdx3": "0",
+    "effectIds": "1549,1280,",
+    "compType": "1",
+    "target1Category": "2",
+    "target1Param": "1",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
+    "cardLeaderSkillId": "1244",
+    "name": "瞳に映る友との決着",
+    "description": "無所属のスキル発動速度2段階アップ＆全スキルダメージ200%アップ",
+    "effectIdx1": "1549",
+    "effectIdx2": "30019",
+    "effectIdx3": "0",
+    "effectIds": "1549,30019,",
+    "compType": "1",
+    "target1Category": "2",
+    "target1Param": "99",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
     "cardLeaderSkillId": "1245",
     "name": "絶対防御の砂塵公",
     "description": "砂・木ノ葉隠れの里所属の最大HP&amp;素早さ150%アップ､1回行動まで全スキル無効",

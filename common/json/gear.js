@@ -28728,5 +28728,39 @@ window.gear=[
     "crystalImageId": "408125",
     "recipeId": "40812",
     "recipeName": "大戦を戦い抜く猪鹿蝶の絆"
+  },
+  {
+    "crystalId": "40903",
+    "crystalType": "11",
+    "crystalRare": "5",
+    "effectIdx1": "682",
+    "effectIdx2": "1840",
+    "effectIdx3": "0",
+    "effectIdx4": "0",
+    "effectIds": "682,1840,",
+    "money": "30000",
+    "saleMoney": "2500",
+    "crystalName": "傷ついたベスト",
+    "crystalDescription": "全スキルダメージ50%アップ、スキル発動速度1段階アップ",
+    "crystalImageId": "409035",
+    "recipeId": "40903",
+    "recipeName": "傷ついたベスト"
+  },
+  {
+    "crystalId": "40904",
+    "crystalType": "1",
+    "crystalRare": "5",
+    "effectIdx1": "10049",
+    "effectIdx2": "11049",
+    "effectIdx3": "12049",
+    "effectIdx4": "13049",
+    "effectIds": "10049,11049,12049,13049,",
+    "money": "30000",
+    "saleMoney": "2500",
+    "crystalName": "破れたうちはの服",
+    "crystalDescription": "最大HP&amp;攻&amp;防&amp;素早さ50%アップ",
+    "crystalImageId": "409045",
+    "recipeId": "40904",
+    "recipeName": "破れたうちはの服"
   }
 ]

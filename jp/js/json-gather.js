@@ -224,6 +224,9 @@
 						case "109":
 							tags = "kizuna"
 							break;	
+						case "110":
+							tags = "enbu"
+							break;	
 						case "120":
 							tags = "pvp-reward"
 							break;
@@ -370,6 +373,9 @@
 			else if(id == 60070601 || id == 60070602){
 				var charaId = 60070600
 			}
+			else if(id == 60070901 || id == 60070902){
+				var charaId = 60070900
+			}
 			else{
 				var charaId = id
 			}
@@ -514,6 +520,12 @@
 							case "108":
 								tags = "ranbu"
 								break;	
+							case "109":
+								tags = "kizuna"
+								break;
+							case "110":
+								tags = "enbu"
+								break;	
 							case "120":
 								tags = "pvp-reward"
 								break;
@@ -584,6 +596,9 @@
 		}
 		else if(id == 60070601 || id == 60070602){
 			var charaId = 60070600
+		}
+		else if(id == 60070901 || id == 60070902){
+			var charaId = 60070900
 		}
 		else{
 			var charaId = cid
@@ -836,6 +851,38 @@
 			kntr = skill
 			kcs = wait
 			kc = window.kizuna[4]['battleSkillCnt']
+		}
+		else if(cid == 60070901 || cid == 60070902){
+			$('#kizuna').attr('style', 'display:block');
+			$('#kizuna-six').attr('style', 'display:block'); 
+
+			var check = 0;
+			var wait = '';
+			for(var g in window.skillname){
+				if(window.kizuna[5]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
+					$('#kizunaname-five').text(window.skillname[g]['name']);
+					$('#kizunaname-six').text(window.skillname[g]['name']);
+					kn = window.skillname[g]['name']
+
+				}
+			}
+			//Replace Type
+			skill = checkSkill(window.kizuna[5]);
+			$('#kizunatype-five').text(skill);
+			$('#kizunatype-six').text(skill);
+			//Replace Wait
+			wait = checkWait(window.kizuna[5]);
+			$('#kizunaspeed-five').text(wait);
+			$('#kizunaspeed-six').text(wait);
+
+			$('#kizunacost-five').text(window.kizuna[5]['battleSkillCnt']);
+			$('#kizunacost-six').text(window.kizuna[5]['battleSkillCnt']);
+			$('#kizunadesc-five').text(window.kizuna[5]['description']);
+			$('#kizunadesc-six').text(window.kizuna[5]['description']);
+			ks = window.kizuna[5]['description']
+			kntr = skill
+			kcs = wait
+			kc = window.kizuna[5]['battleSkillCnt']
 		}
 		else{
 			$('#kizuna').attr('style', 'display:none');

@@ -38,5 +38,13 @@ window.engkizuna=[
           "nature": "Tailed Beast",
           "cs": "Fastest",
           "cost": 100
+        },
+        {
+          "cardBattleSkillId": "710005",
+          "name": "Kamui Space: Shinobi Sparring Reminiscence",
+          "description": "＜Kizuna Skill＞ Deal 3% + 3,000,000 Penetration Damage to All enemies. Grant 'Shinobi Sparring' Unique State. High Chance to Ignore Withstand , Revive and Immortality. [Shinobi Sparring: Skill Immunity, Cast Speed is Set to Flash, Deal 7 Additional Attacks dealing 3% + 777,777 when using a Skill Attack]",
+          "nature": "Tailed Beast",
+          "cs": "Fastest",
+          "cost": 100
         }
 ]

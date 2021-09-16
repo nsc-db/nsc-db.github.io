@@ -8648,6 +8648,26 @@ window.skillname=[
     "name": "図にのるなアアア！！！！"
   },
   {
+    "cardBattleSkillNameId": "3414",
+    "name": "雷切・群牙襲雷"
+  },
+  {
+    "cardBattleSkillNameId": "3415",
+    "name": "諦めなきゃ必ず救いがある！"
+  },
+  {
+    "cardBattleSkillNameId": "3416",
+    "name": "神威剣乱・豪火激焼"
+  },
+  {
+    "cardBattleSkillNameId": "3417",
+    "name": "キレイ事をグダグダと…"
+  },
+  {
+    "cardBattleSkillNameId": "3418",
+    "name": "神威空間・追憶の忍組手"
+  },
+  {
     "cardBattleSkillNameId": "3419",
     "name": "砂怒涛・尖射爪討"
   },

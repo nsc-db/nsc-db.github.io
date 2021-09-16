@@ -17067,5 +17067,31 @@ window.unique=[
     "effectIdx3": "1549",
     "effectIdx4": "3244",
     "effectIds": "2343,895,1549,3244"
+  },
+  {
+    "crystalOverwriteEffectId": "1331",
+    "targetCrystal": "40903",
+    "description": "全ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ、ｽｷﾙ発動速度2段階ｱｯﾌﾟ、ｽｷﾙ攻撃時に高確率で敵全体に強化系特殊･神化不可付与",
+    "charaIds": "1704",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "794",
+    "effectIdx2": "1549",
+    "effectIdx3": "4342",
+    "effectIdx4": "0",
+    "effectIds": "794,1549,4342"
+  },
+  {
+    "crystalOverwriteEffectId": "1332",
+    "targetCrystal": "40904",
+    "description": "最大HP&amp;攻&amp;防&amp;素早さ150%アップ、高確率で再行動、チャクラ消費量半減",
+    "charaIds": "50902",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "1212",
+    "effectIdx2": "1268",
+    "effectIdx3": "1459",
+    "effectIdx4": "967",
+    "effectIds": "1212,1268,1459,967,895,769"
   }
         ]
