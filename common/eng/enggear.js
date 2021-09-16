@@ -1139,6 +1139,26 @@ window.enggear=[
                "cardIds": "0",
                "charaGroupIds": "0"
      },
+{
+               "id": 4075,
+               "type": "Additional",
+               "name": "Orochimaru's White Snake",
+               "effect": "HP and Chakra Recovery +10%, Summoning & Unique Skill Damage +60%",
+               "normal": "HP Recovery +10%",
+               "charaIds": "10301,10302,10303,10304",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+{
+               "id": 4085,
+               "type": "Stats",
+               "name": "Tayuya's Hat",
+               "effect": "HP and ATK +100%, Skill Damage +20%",
+               "normal": "HP and ATK +40%",
+               "charaIds": "11201",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
      {
                "id": 4125,
                "type": "Resistance",
@@ -3577,6 +3597,26 @@ window.enggear=[
                "normal": "Skill Damage and ATK +30%",
                "charaIds": "106",
                "cardIds": "20001519,20001549,20001709,20001763,20001782",
+               "charaGroupIds": "0"
+},	
+{
+               "id": 204075,
+               "type": "Resistance",
+               "name": "Wind Mask",
+               "effect": "Debuff and Status Effect Immunity, Cast Speed +1, 1 Turn: Set Chakra Cost to 0",
+               "normal": "Debuff and Status Effect Duration -50%",
+               "charaIds": "12401",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },	
+{
+               "id": 204085,
+               "type": "Chakra",
+               "name": "Madara's Sandals",
+               "effect": "Chakra +100, HP +100%, SPD +70%, Chakra Recovery +30%",
+               "normal": "Chakra +30, HP +50%, SPD +30%",
+               "charaIds": "13702",
+               "cardIds": "0",
                "charaGroupIds": "0"
      },	
      {
@@ -7699,6 +7739,36 @@ window.enggear=[
                "cardIds": "0",
                "charaGroupIds": "0"
      },
+	      {
+               "id": 408015,
+               "type": "Resistance",
+               "name": "Offerings for the Second Coming of the Goddess",
+               "effect": "Sharingan, Rinnegan & Rinnesharingan Skill Immunity, High Chance to Remove and Disable Enemies' Positive Special State, Skill Dodge Rate +150%",
+               "normal": "Chance to Dodge Skills",
+               "charaIds": "14303",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+     {
+               "id": 408025,
+               "type": "Additional",
+               "name": "The Rabbit Goddess who Delusions Power",
+               "effect": "HP Recovery +30% every turn and when attacked, Chakra Cost -50%, Debuff and Status Effect Immunity",
+               "normal": "Chakra Cost -50%",
+               "charaIds": "14303",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+{
+               "id": 408035,
+               "type": "Stats",
+               "name": "Collection of the Tailed Beasts",
+               "effect": "HP, ATK, DEF, SPD and Skill Damage +120%, Cast Speed +2",
+               "normal": "HP, ATK, DEF and SPD +60%",
+               "charaIds": "14303",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
      {
                "id": 408045,
                "type": "Resistance",
@@ -7719,5 +7789,75 @@ window.enggear=[
                "cardIds": "0",
                "charaGroupIds": "0"
      },
+{
+               "id": 408065,
+               "type": "Stats",
+               "name": "Gaara's Maxim",
+               "effect": "Damage Cut +50%, HP, DEF and SPD +150%, Chakra Cost -50%",
+               "normal": "HP, DEF and SPD +40%",
+               "charaIds": "1305",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+     {
+               "id": 408075,
+               "type": "Skill",
+               "name": "Sand Guardian's Gourd",
+               "effect": "Skill Damage +150%, Cast Speed +1 every turn (Max 5)",
+               "normal": "Skill Damage +50%",
+               "charaIds": "1305",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+{
+               "id": 408085,
+               "type": "Chakra",
+               "name": "Temari's Maxim",
+               "effect": "ATK, DEF and SPD +100%, Chakra Cost -50%",
+               "normal": "SPD +50%, 3 Turns: Chakra Cost -50%",
+               "charaIds": "1406",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+     {
+               "id": 408095,
+               "type": "Additional",
+               "name": "Wind Princess' Giant Fan",
+               "effect": "Skill Damage +150%, Cast Speed +2, Start the Battle with 50% Chakra",
+               "normal": "Cast Speed +1",
+               "charaIds": "1406",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 408105,
+               "type": "Skill",
+               "name": "A Blow that Created Regret and Darkness",
+               "effect": "High Chance to Start the Battle with 100% Chakra & First Strike, SPD & Skill Damage +150%",
+               "normal": "Start the Battle with 50% Chakra, SPD +50%",
+               "charaIds": "1708",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
+     {
+               "id": 408115,
+               "type": "Additional",
+               "name": "Friend's Eyes who Harboured Despair",
+               "effect": "2 Turns: Skill Immunity, Cast Speed +2, High Chance for Insta-Kill Immunity, Chakra Cost -50%",
+               "normal": "1 Turn: Incoming Skill Damage -50%",
+               "charaIds": "1708",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 408125,
+               "type": "Skill",
+               "name": "Shika-Ino-Cho's Bond Through The War",
+               "effect": "Skill Damage +150%, Cast Speed +1, If there's a GK enemy: SPD +200%",
+               "normal": "Skill Damage +80%",
+               "charaIds": "402",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+          },
      ]
      
