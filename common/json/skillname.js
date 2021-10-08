@@ -8684,6 +8684,30 @@ window.skillname=[
     "name": "お前を守ると約束した！"
   },
   {
+    "cardBattleSkillNameId": "3423",
+    "name": "撃蹴陣"
+  },
+  {
+    "cardBattleSkillNameId": "3424",
+    "name": "分からないのか"
+  },
+  {
+    "cardBattleSkillNameId": "3425",
+    "name": "天道・吸砕衝"
+  },
+  {
+    "cardBattleSkillNameId": "3426",
+    "name": "無窮・地爆天星"
+  },
+  {
+    "cardBattleSkillNameId": "3432",
+    "name": "完成体須佐能乎・十滅万焼"
+  },
+  {
+    "cardBattleSkillNameId": "3433",
+    "name": "先に行く"
+  },
+  {
     "cardBattleSkillNameId": "10136",
     "name": "新術だってばよ！"
   },

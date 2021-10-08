@@ -17093,5 +17093,57 @@ window.unique=[
     "effectIdx3": "1459",
     "effectIdx4": "967",
     "effectIds": "1212,1268,1459,967,895,769"
+  },
+  {
+    "crystalOverwriteEffectId": "1333",
+    "targetCrystal": "40901",
+    "description": "全ｽｷﾙﾀﾞﾒｰｼﾞ150%ｱｯﾌﾟ。ｽｷﾙ発動速度2段階ｱｯﾌﾟ。被攻撃時に高確率で次回行動まで素早さ300%ｱｯﾌﾟ",
+    "charaIds": "61501",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "794",
+    "effectIdx2": "1549",
+    "effectIdx3": "4358",
+    "effectIdx4": "0",
+    "effectIds": "794,1549,4358"
+  },
+  {
+    "crystalOverwriteEffectId": "1334",
+    "targetCrystal": "40902",
+    "description": "最大HP&amp;攻&amp;防&amp;素早さ150%ｱｯﾌﾟ。ﾁｬｸﾗ消費量半減。弱体・状態異常・封印無効。2回行動まで全ｽｷﾙ無効",
+    "charaIds": "61501",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "1212",
+    "effectIdx2": "1268",
+    "effectIdx3": "1459",
+    "effectIdx4": "967",
+    "effectIds": "1212,1268,1459,967,895,880,69,2343"
+  },
+  {
+    "crystalOverwriteEffectId": "1335",
+    "targetCrystal": "40905",
+    "description": "全スキルダメージ&amp;素早さ150%アップ､スキル発動速度2段階アップ､高確率で再行動､チャクラ消費量半減",
+    "charaIds": "209",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "794",
+    "effectIdx2": "967",
+    "effectIdx3": "895",
+    "effectIdx4": "1549",
+    "effectIds": "794,967,895,1549,769"
+  },
+  {
+    "crystalOverwriteEffectId": "1336",
+    "targetCrystal": "40906",
+    "description": "行動後に弱体&amp;弱体系特殊･神化状態解除､2回行動まで全スキル無効",
+    "charaIds": "209",
+    "cardIds": "0",
+    "charaGroupIds": "0",
+    "effectIdx1": "4373",
+    "effectIdx2": "4374",
+    "effectIdx3": "2343",
+    "effectIdx4": "4375",
+    "effectIds": "4373,4374,2343,4375"
   }
         ]

@@ -1,4 +1,32 @@
 window.detail=[
+    {
+        "id": 20070903,
+        "name": "Sasuke Uchiha",
+        "subtext": "Burning God Fire Karma",
+
+        "lead": "Konoha: Start the Battle with 100% Chakra, High chance to grant First Strike. 2 Turns: SPD +500%",
+
+        "s1n": "Perfect Susano'o: Burning Extinction",
+        "s1": "Deal 3% + 1,800,000 to all enemies. Remove enemy Positive Special and God State. Deal 6 Additional Attacks dealing 880,000. High chance to Ignore Resistance and Inflict 'Sealed' State. (Always Hit) [Sealed: Action Disabled. Reduce HP per Turn]", 
+        "s1ntr": "Sharingan",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "Go Ahead",
+        "s2": "Deal 1,800,000 to all enemies. Inflict Cast Speed -2. Grant 'Task' Unique State. Change the Terrain to 'God Fire Karma'. (Always Hit) [God Fire Karma: (Allies:) Insta Kill Immunity. Skills Deal Type Advantage. (Enemies:) Skill Damage Buff Immunity. Upon Action, High Chance to Ignore Resistance and Skill Dodge and Inflict 'Sealed' State] [Task: SPD +300%. Cast Speed is Set to Flash. Grant Instant Action after 'Naruto Uzumaki's action]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Eye's Watching the World",
+        "a1": "Change the Terrain to 'God Fire Karma' at the Start of Battle and When Attacked. Grant 'Task' Unique State at the Start of Battle. High Chance to Grnat First Strike. High Chance to grant Instant Action when Attacked ",
+
+        "a2n": "Lone Soul",
+        "a2": "If there's a None enemy: SPD and Skill Damage +500% per turn (Max 1,500%). Revive +3",
+
+        "a3n": "Blue Type Specialization: Crush",
+        "a3": "Type Advantage and Damage Cut +50% against Blue. Skill Damage +80% to Non-Blue allies and self."
+    },
 {
         "id": 60070902,
         "name": "Obito Uchiha",

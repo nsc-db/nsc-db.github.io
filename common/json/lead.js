@@ -17234,6 +17234,48 @@ window.lead=[
     "target2Param": "0"
   },
   {
+    "cardLeaderSkillId": "1247",
+    "name": "暗躍の禍面",
+    "description": "心属性の攻撃力と防御力を70%アップ",
+    "effectIdx1": "259",
+    "effectIdx2": "607",
+    "effectIdx3": "0",
+    "effectIds": "259,607,",
+    "compType": "1",
+    "target1Category": "1",
+    "target1Param": "1",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
+    "cardLeaderSkillId": "1248",
+    "name": "戦禍の輪廻",
+    "description": "“暁”所属のスキル発動速度2段階アップ&amp;素早さ200%アップ&amp;3回行動まで即死･弱体･状態異常無効",
+    "effectIdx1": "3281",
+    "effectIdx2": "442",
+    "effectIdx3": "1270",
+    "effectIds": "3281,442,1270,1549,1280,",
+    "compType": "1",
+    "target1Category": "2",
+    "target1Param": "8",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
+    "cardLeaderSkillId": "1252",
+    "name": "因果を焼く神炎",
+    "description": "木ノ葉隠れの里所属はバトル開始時にチャクラ100%回復&amp;高確率で先制攻撃&amp;2回行動まで素早さ500%アップ　　",
+    "effectIdx1": "1994",
+    "effectIdx2": "3532",
+    "effectIdx3": "4368",
+    "effectIds": "1994,3532,4368,",
+    "compType": "1",
+    "target1Category": "2",
+    "target1Param": "1",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
     "cardLeaderSkillId": "8507",
     "name": "想いの全て",
     "description": "心属性の最大HP・攻撃・スキルダメージを100%アップする",

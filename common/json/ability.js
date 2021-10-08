@@ -28870,6 +28870,86 @@ window.ability=[
     "effectIds": "4330,4331,4332,"
   },
   {
+    "abilityId": "2941",
+    "abilityName": "時空間忍術の使い手",
+    "abilityDescription": "HP90%以上の時に素早さ100%アップ、行動後にHPとチャクラを30%回復",
+    "abilityEffectDescription": "HP90%以上の時に素早さ100%アップ、行動後にHPとチャクラを30%回復",
+    "effectIdx1": "2219",
+    "effectIdx2": "300012",
+    "effectIdx3": "2524",
+    "effectIds": "2219,300012,2524,"
+  },
+  {
+    "abilityId": "2942",
+    "abilityName": "秘めたる野望",
+    "abilityDescription": "最大HPを100%アップし、確率でスキルを回避する",
+    "abilityEffectDescription": "最大HPを100%アップし、確率でスキルを回避する",
+    "effectIdx1": "684",
+    "effectIdx2": "1423",
+    "effectIdx3": "0",
+    "effectIds": "684,1423,"
+  },
+  {
+    "abilityId": "2943",
+    "abilityName": "絶望の記憶",
+    "abilityDescription": "バトル開始・行動時に【忍方陣：天道無窮】を展開｡被攻撃時､味方“暁”所属に天道&amp;確率で即アクション",
+    "abilityEffectDescription": "バトル開始・行動時に【忍方陣：天道無窮】を展開｡被攻撃時､味方“暁”所属に天道&amp;確率で即アクション",
+    "effectIdx1": "4346",
+    "effectIdx2": "4348",
+    "effectIdx3": "3620",
+    "effectIds": "4346,4348,3620,4350,"
+  },
+  {
+    "abilityId": "2944",
+    "abilityName": "痛みによる平定",
+    "abilityDescription": "HP0以下で2回HP全回復｡バトル開始時､スキル2で急襲攻撃(チャクラ大回復)",
+    "abilityEffectDescription": "HP0以下で2回HP全回復｡バトル開始時､スキル2で急襲攻撃(チャクラ大回復)",
+    "effectIdx1": "874",
+    "effectIdx2": "1057",
+    "effectIdx3": "3303",
+    "effectIds": "874,1057,3303,"
+  },
+  {
+    "abilityId": "2945",
+    "abilityName": "絶望の記憶",
+    "abilityDescription": "バトル開始・行動時に【忍方陣：真・天道無窮】を展開｡被攻撃時､味方“暁”所属に天道&amp;高確率で即アクション",
+    "abilityEffectDescription": "バトル開始・行動時に【忍方陣：真・天道無窮】を展開｡被攻撃時､味方“暁”所属に天道&amp;高確率で即アクション",
+    "effectIdx1": "4347",
+    "effectIdx2": "4349",
+    "effectIdx3": "4257",
+    "effectIds": "4347,4349,4257,4350,"
+  },
+  {
+    "abilityId": "2946",
+    "abilityName": "痛みによる平定",
+    "abilityDescription": "HP0以下で3回HP全回復｡ﾊﾞﾄﾙ開始時､ｽｷﾙ2で急襲攻撃(ﾁｬｸﾗ大回復)｡被攻撃時､味方全体の弱体&amp;状態異常解除",
+    "abilityEffectDescription": "HP0以下で3回HP全回復｡ﾊﾞﾄﾙ開始時､ｽｷﾙ2で急襲攻撃(ﾁｬｸﾗ大回復)｡被攻撃時､味方全体の弱体&amp;状態異常解除",
+    "effectIdx1": "874",
+    "effectIdx2": "1789",
+    "effectIdx3": "3303",
+    "effectIds": "874,1789,3303,4351,4359,"
+  },
+  {
+    "abilityId": "2953",
+    "abilityName": "世界を見張る瞳",
+    "abilityDescription": "ﾊﾞﾄﾙ開始･被攻撃時､「地形効果：因果ノ神炎」を展開｡ﾊﾞﾄﾙ開始時､自身に使命付与｡高確率で先制攻撃&amp;被攻撃時即ｱｸｼｮﾝ",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始･被攻撃時､「地形効果：因果ノ神炎」を展開｡ﾊﾞﾄﾙ開始時､自身に使命付与｡高確率で先制攻撃&amp;被攻撃時即ｱｸｼｮﾝ",
+    "effectIdx1": "4363",
+    "effectIdx2": "4364",
+    "effectIdx3": "4365",
+    "effectIds": "4363,4364,4365,4257,3532,"
+  },
+  {
+    "abilityId": "2954",
+    "abilityName": "孤独に猛る魂",
+    "abilityDescription": "敵に無所属がいると､行動毎に素早さ･全ｽｷﾙﾀﾞﾒｰｼﾞが500%上昇する(最大1500%)｡HP0以下で3回HP全回復",
+    "abilityEffectDescription": "敵に無所属がいると､行動毎に素早さ･全ｽｷﾙﾀﾞﾒｰｼﾞが500%上昇する(最大1500%)｡HP0以下で3回HP全回復",
+    "effectIdx1": "4366",
+    "effectIdx2": "4367",
+    "effectIdx3": "874",
+    "effectIds": "4366,4367,874,1789,"
+  },
+  {
     "abilityId": "10000",
     "abilityName": "攻撃・防御・素早さダウン（大）",
     "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -31398,6 +31478,16 @@ window.ability=[
     "effectIdx2": "3894",
     "effectIdx3": "3896",
     "effectIds": "3893,3894,3896,3897,229004,228050,"
+  },
+  {
+    "abilityId": "200033",
+    "abilityName": "技属性特化・破砕",
+    "abilityDescription": "技属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のｷｬﾗがｽｷﾙﾀﾞﾒｰｼﾞ80%ｱｯﾌﾟ",
+    "abilityEffectDescription": "技属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のｷｬﾗがｽｷﾙﾀﾞﾒｰｼﾞ80%ｱｯﾌﾟ",
+    "effectIdx1": "3894",
+    "effectIdx2": "3895",
+    "effectIdx3": "3896",
+    "effectIds": "3894,3895,3896,3897,229104,228150,"
   },
   {
     "abilityId": "210001",
