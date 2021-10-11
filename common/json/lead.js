@@ -17262,6 +17262,34 @@ window.lead=[
     "target2Param": "0"
   },
   {
+    "cardLeaderSkillId": "1249",
+    "name": "旋転する絆の継承者",
+    "description": "木ノ葉隠れの里所属の素早さ300%アップ&amp;全スキルダメージ200%アップ&amp;3回行動まで即死無効",
+    "effectIdx1": "13104",
+    "effectIdx2": "3281",
+    "effectIdx3": "30019",
+    "effectIds": "13104,3281,30019,",
+    "compType": "1",
+    "target1Category": "2",
+    "target1Param": "1",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
+    "cardLeaderSkillId": "1250",
+    "name": "次代を担う不屈の忍道",
+    "description": "木ノ葉隠れの里所属の素早さ300%アップ&amp;3回行動まで即死無効&amp;スキル発動速度3段階アップ",
+    "effectIdx1": "13104",
+    "effectIdx2": "3281",
+    "effectIdx3": "3282",
+    "effectIds": "13104,3281,3282,",
+    "compType": "1",
+    "target1Category": "2",
+    "target1Param": "1",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
     "cardLeaderSkillId": "1252",
     "name": "因果を焼く神炎",
     "description": "木ノ葉隠れの里所属はバトル開始時にチャクラ100%回復&amp;高確率で先制攻撃&amp;2回行動まで素早さ500%アップ　　",

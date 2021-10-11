@@ -4592,6 +4592,20 @@ window.charaname=[
     "gender": "1"
   },
   {
+    "charaProfileId": "62201",
+    "charaId": "622",
+    "name": "ナルト＆ナルト",
+    "detail": "忍絵巻-絆-",
+    "charaLoveAffinityGroupId": "62201",
+    "birthday": "0",
+    "constellation": "0",
+    "height": "0",
+    "weight": "0",
+    "bloodType": "0",
+    "age": "0",
+    "gender": "1"
+  },
+  {
     "charaProfileId": "100101",
     "charaId": "0",
     "name": "体のガマ",

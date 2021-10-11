@@ -8700,12 +8700,32 @@ window.skillname=[
     "name": "無窮・地爆天星"
   },
   {
+    "cardBattleSkillNameId": "3427",
+    "name": "六道・超大玉螺旋手裏剣"
+  },
+  {
+    "cardBattleSkillNameId": "3428",
+    "name": "狙うってばよ！"
+  },
+  {
+    "cardBattleSkillNameId": "3429",
+    "name": "うずまきナルト連弾"
+  },
+  {
+    "cardBattleSkillNameId": "3430",
+    "name": "分かったってばよ！"
+  },
+  {
     "cardBattleSkillNameId": "3432",
     "name": "完成体須佐能乎・十滅万焼"
   },
   {
     "cardBattleSkillNameId": "3433",
     "name": "先に行く"
+  },
+  {
+    "cardBattleSkillNameId": "3434",
+    "name": "螺旋丸・忍道ノ輝跡"
   },
   {
     "cardBattleSkillNameId": "10136",

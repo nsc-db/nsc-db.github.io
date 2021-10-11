@@ -28930,6 +28930,46 @@ window.ability=[
     "effectIds": "874,1789,3303,4351,4359,"
   },
   {
+    "abilityId": "2947",
+    "abilityName": "ぶれない生き様",
+    "abilityDescription": "ﾊﾞﾄﾙ開始･自身にﾛｰﾃ時､味方全体に絆の意志｡HP0以下で4回耐え､HP全回復&amp;味方全体即ｱｸｼｮﾝ｡被ﾀﾞﾒ80%ｶｯﾄ｡即死無効",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始･自身にﾛｰﾃ時､味方全体に絆の意志｡HP0以下で4回耐え､HP全回復&amp;味方全体即ｱｸｼｮﾝ｡被ﾀﾞﾒ80%ｶｯﾄ｡即死無効",
+    "effectIdx1": "874",
+    "effectIdx2": "1737",
+    "effectIdx3": "4377",
+    "effectIds": "874,1737,4377,4392,4393,4382,3254,4379,"
+  },
+  {
+    "abilityId": "2948",
+    "abilityName": "燃ゆる火の意志",
+    "abilityDescription": "被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ｡ﾊﾞﾄﾙ開始時､敵全体の強化系特殊･神化解除&amp;高確率で先制攻撃",
+    "abilityEffectDescription": "被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ｡ﾊﾞﾄﾙ開始時､敵全体の強化系特殊･神化解除&amp;高確率で先制攻撃",
+    "effectIdx1": "4380",
+    "effectIdx2": "4381",
+    "effectIdx3": "4394",
+    "effectIds": "4380,4381,4394,3440,2578,"
+  },
+  {
+    "abilityId": "2949",
+    "abilityName": "意外性ナンバーワン",
+    "abilityDescription": "ﾊﾞﾄﾙ開始･自身にﾛｰﾃ時､自身に影分身｡HP0以下で4回HP全回復｡行動後､味方全体の弱体系特殊･神化状態解除｡即死無効",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始･自身にﾛｰﾃ時､自身に影分身｡HP0以下で4回HP全回復｡行動後､味方全体の弱体系特殊･神化状態解除｡即死無効",
+    "effectIdx1": "4378",
+    "effectIdx2": "4383",
+    "effectIdx3": "874",
+    "effectIds": "4378,4383,874,1737,4384,4385,3254,"
+  },
+  {
+    "abilityId": "2950",
+    "abilityName": "諦めないド根性",
+    "abilityDescription": "被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ｡ﾊﾞﾄﾙ開始時､味方全体に絆の意志&amp;高確率で先制攻撃",
+    "abilityEffectDescription": "被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ｡ﾊﾞﾄﾙ開始時､味方全体に絆の意志&amp;高確率で先制攻撃",
+    "effectIdx1": "2578",
+    "effectIdx2": "4377",
+    "effectIdx3": "4394",
+    "effectIds": "2578,4377,4394,3440,"
+  },
+  {
     "abilityId": "2953",
     "abilityName": "世界を見張る瞳",
     "abilityDescription": "ﾊﾞﾄﾙ開始･被攻撃時､「地形効果：因果ノ神炎」を展開｡ﾊﾞﾄﾙ開始時､自身に使命付与｡高確率で先制攻撃&amp;被攻撃時即ｱｸｼｮﾝ",

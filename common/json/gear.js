@@ -28847,5 +28847,39 @@ window.gear=[
     "crystalImageId": "409075",
     "recipeId": "40907",
     "recipeName": "2200万DL記念ロゴ"
+  },
+  {
+    "crystalId": "41001",
+    "crystalType": "11",
+    "crystalRare": "5",
+    "effectIdx1": "682",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIdx4": "0",
+    "effectIds": "682,",
+    "money": "30000",
+    "saleMoney": "2500",
+    "crystalName": "歩んできた軌跡",
+    "crystalDescription": "全スキルダメージ50%アップ",
+    "crystalImageId": "410015",
+    "recipeId": "41001",
+    "recipeName": "歩んできた軌跡"
+  },
+  {
+    "crystalId": "41002",
+    "crystalType": "2",
+    "crystalRare": "5",
+    "effectIdx1": "4386",
+    "effectIdx2": "4387",
+    "effectIdx3": "0",
+    "effectIdx4": "0",
+    "effectIds": "4386,4387,",
+    "money": "30000",
+    "saleMoney": "2500",
+    "crystalName": "16回目の誕生日ケーキ",
+    "crystalDescription": "それぞれ確率で弱体&amp;状態異常無効",
+    "crystalImageId": "410025",
+    "recipeId": "41002",
+    "recipeName": "16回目の誕生日ケーキ"
   }
 ]

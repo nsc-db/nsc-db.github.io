@@ -46,5 +46,13 @@ window.engkizuna=[
           "nature": "Tailed Beast",
           "cs": "Fastest",
           "cost": 100
+        },
+        {
+          "cardBattleSkillId": "710006",
+          "name": "Rasengan: Bright Mark of Nindo",
+          "description": "＜Kizuna Skill＞ Deal 3% + 3,000,000 Penetration Damage to All enemies. Deal 5 Additional Attacks dealing 761,000. Inflict 'Rotation' Unique State. High Chance to Ignore Withstand, Revive and Immortality. (Always Hit) [Rotation: Instant Action Disabled. SPD Limit is set to 1,000. Remove and Immune to Positive Special and God State]",
+          "nature": "Tailed Beast",
+          "cs": "Fastest",
+          "cost": 100
         }
 ]

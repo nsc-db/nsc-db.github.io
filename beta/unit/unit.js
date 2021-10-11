@@ -123,10 +123,10 @@ for(var i in window.chara){
 			}
 		}	
 
-		if(id == 60070401 || id == 60070501 || id == 60061201 || id == 60060701 || id == 60070601 || id == 60070901 ){
+		if(id == 60070401 || id == 60070501 || id == 60061201 || id == 60060701 || id == 60070601 || id == 60070901 || id == 60071001){
 			tempId = id-1
 		}
-		else if(id == 60070402 || id == 60070502 || id == 60061202 || id == 60060702 || id == 60070602 || id == 60070902){
+		else if(id == 60070402 || id == 60070502 || id == 60061202 || id == 60060702 || id == 60070602 || id == 60070902 || id == 60071002){
 			tempId = id-2
 		}
 		else{
@@ -192,6 +192,15 @@ for(var i in window.chara){
 			$("#kizunaspeed").text(window.engkizuna[5]['cs'])
 			$("#kizunacost").text(window.engkizuna[5]['cost'])
 			$("#kizunadesc").text(window.engkizuna[5]['description'])
+
+		}
+		else if(id == 60071001 || id == 60071002){
+			kizuna.style.display = "block"
+			$("#kizunatype").text(window.engkizuna[6]['nature'])
+			$("#kizunaname").text(window.engkizuna[6]['name'])
+			$("#kizunaspeed").text(window.engkizuna[6]['cs'])
+			$("#kizunacost").text(window.engkizuna[6]['cost'])
+			$("#kizunadesc").text(window.engkizuna[6]['description'])
 
 		}
 		else{

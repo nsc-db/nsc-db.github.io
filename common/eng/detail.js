@@ -1,5 +1,61 @@
 window.detail=[
     {
+        "id": 60071002,
+        "name": "Kid Naruto",
+        "subtext": "Indominatble Next Generation Ninja",
+
+        "lead": "Konoha SPD +300%. 3 Turns: Insta Kill Immunity and Cast Speed +3",
+
+        "s1n": "Naruto Uzumaki Barrage",
+        "s1": "Deal 3% + 1,500,000 to all enemies. Inflict 'Seal' Status Effect and 'Distraction' Special State. Deal 4 Additional Attacks dealing 3% + 761,000. Grant 'Own Path' Special State to self. Remove 'Disable Positive Special and God State' Effect to self. (Always Hit) [Distraction: High chance to Cancel Action per turn] [Own Path: SPD +150%. Skill Damage +200% per turn (Max 600%)", 
+        "s1ntr": "Taijutsu",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "I Understand Dattebayo!",
+        "s2": "Recover 5,000,000 HP, ATK and Skill Damage +200% to self. Grant 'Protection' Special State to Party. Party SPD +1,000% for 1 turn. Grant 'Shadow Clone' Unique State to self. [Protection: Remove and Immune to Debuff, Status Effect and Negative Special State] [Shadow Clone: When using a Skill Attack: Activate 'Naruto Uzumaki Barrage' equal to the number of Counter on 'Shadow Clone'. Remove and Immune to Seal, Jutsu Seal, Illusion, Negative Special and God State. Damage Cut +80% (Max 2)] ",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Number 1 Unpredictable",
+        "a1": "Grant 'Shadow Clone' Unique State at the Start of Battle and when Rotating from. Revive +4. Remove Negative Special and God State to Party per turn. Insta Kill Immunity",
+
+        "a2n": "Unwavering Guts",
+        "a2": "High chance to Remove Status Effect and Grant Instant Action to Party when Attacked. Grant 'Will of Bond' Unique State to Party. High Chance to Grant First Strike",
+
+        "a3n": "Blue and White Type Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Blue and White."
+    },
+    {
+        "id": 60071001,
+        "name": "Naruto Uzumaki, ",
+        "subtext": "Inheriting the Bond of Rotation",
+
+        "lead": "Konoha: SPD + 300% and Skill Damage +200%. 3 turns; Insta Kill Immunity",
+
+        "s1n": "Six Paths: Massive RasenShuriken",
+        "s1": "Deal 3% + 2,000,000 to all enemies. Inflict 'Jutsu Seal' Special State and 'Confusion' Status Effect. Deal 7 Additional Attack dealing 3% + 761,000. Inflict 'Disable Positive Special and God State' Effect. Grant Party Skill Immunity for 1 turn. (Always Hit) [Jutsu Seal: Skill Disabled]", 
+        "s1ntr": "Six Paths",
+        "s1cs": "Fast",
+        "s1c": 100,
+
+        "s2n": "Aim Here Dattebayo!!",
+        "s2": "Recover 2,500,000 HP, ATK, DEF and SPD +200% to Party. Grant 'Disable Negative Special and God State' Effect o Party. Remove 'Disable Positive Special and God State' Effect to Party. Grant 'Will of Bond' Unique State to Party. [Will of Bond: Enemy Formation Nullified. Damage Limit is set to 700,000. High Chance to Grant Instant Action when Attacked. HP and Chakra Regen 30%]",
+        "s2ntr": "Unique",
+        "s2cs": "Fastest",
+        "s2c": 100,
+
+        "a1n": "Unwavering Way of Life",
+        "a1": "Grant 'Will of Bond' Unique State at the Start of Battle and when Rotating from. Withstand +4. Recover HP to Full and Grant Party Instant Action upon Withstanding an Attack. Damage Cut +80%. Insta Kill Immunity",
+
+        "a2n": "Will of Fire's Fuel",
+        "a2": "High chance to Remove Status Effect and Grant Instant Action to Party when Attacked. Inflict 'Disable Positive Special and God State' Effect to All enemies at the Start of Battle. High Chance to Grant First Strike",
+
+        "a3n": "Yellow and Black Type Specialization",
+        "a3": "Type Advantage and Damage Cut +50% against Yellow and Black."
+    },
+    {
         "id": 20070903,
         "name": "Sasuke Uchiha",
         "subtext": "Burning God Fire Karma",
