@@ -28942,12 +28942,12 @@ window.ability=[
   {
     "abilityId": "2948",
     "abilityName": "燃ゆる火の意志",
-    "abilityDescription": "被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ｡ﾊﾞﾄﾙ開始時､敵全体の強化系特殊･神化解除&amp;高確率で先制攻撃",
-    "abilityEffectDescription": "被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ｡ﾊﾞﾄﾙ開始時､敵全体の強化系特殊･神化解除&amp;高確率で先制攻撃",
-    "effectIdx1": "4380",
-    "effectIdx2": "4381",
-    "effectIdx3": "4394",
-    "effectIds": "4380,4381,4394,3440,2578,"
+    "abilityDescription": "初回行動選択時､敵全体の強化系特殊･神化解除｡高確率で先制攻撃｡被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ",
+    "abilityEffectDescription": "初回行動選択時､敵全体の強化系特殊･神化解除｡高確率で先制攻撃｡被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ",
+    "effectIdx1": "4394",
+    "effectIdx2": "3440",
+    "effectIdx3": "2578",
+    "effectIds": "4394,3440,2578,4380,4381,"
   },
   {
     "abilityId": "2949",
@@ -28962,12 +28962,32 @@ window.ability=[
   {
     "abilityId": "2950",
     "abilityName": "諦めないド根性",
-    "abilityDescription": "被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ｡ﾊﾞﾄﾙ開始時､味方全体に絆の意志&amp;高確率で先制攻撃",
-    "abilityEffectDescription": "被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ｡ﾊﾞﾄﾙ開始時､味方全体に絆の意志&amp;高確率で先制攻撃",
+    "abilityDescription": "ﾊﾞﾄﾙ開始時､味方全体に絆の意志&amp;高確率で先制攻撃｡被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始時､味方全体に絆の意志&amp;高確率で先制攻撃｡被攻撃時､高確率で味方全体の状態異常解除&amp;即ｱｸｼｮﾝ",
     "effectIdx1": "2578",
     "effectIdx2": "4377",
     "effectIdx3": "4394",
     "effectIds": "2578,4377,4394,3440,"
+  },
+  {
+    "abilityId": "2951",
+    "abilityName": "残忍なる戯れ",
+    "abilityDescription": "敵に神忍か破神がいるとバトル開始時に低確率で先制攻撃（どちらもいると確率アップ）",
+    "abilityEffectDescription": "敵に神忍か破神がいるとバトル開始時に低確率で先制攻撃（どちらもいると確率アップ）",
+    "effectIdx1": "3939",
+    "effectIdx2": "3940",
+    "effectIdx3": "0",
+    "effectIds": "3939,3940,"
+  },
+  {
+    "abilityId": "2952",
+    "abilityName": "全き外道の険相",
+    "abilityDescription": "HP0以下で1回耐え、ﾊﾞﾄﾙ開始時、敵のうちはサスケに確率で耐性無視して呪蛇付与",
+    "abilityEffectDescription": "HP0以下で1回耐え、ﾊﾞﾄﾙ開始時、敵のうちはサスケに確率で耐性無視して呪蛇付与",
+    "effectIdx1": "312",
+    "effectIdx2": "4401",
+    "effectIdx3": "0",
+    "effectIds": "312,4401,"
   },
   {
     "abilityId": "2953",
@@ -28988,6 +29008,26 @@ window.ability=[
     "effectIdx2": "4367",
     "effectIdx3": "874",
     "effectIds": "4366,4367,874,1789,"
+  },
+  {
+    "abilityId": "2955",
+    "abilityName": "超高速戦闘",
+    "abilityDescription": "ﾊﾞﾄﾙ開始･被攻撃時､自身に飛雷神｡高確率先制攻撃&amp;再行動&amp;被攻撃時即ｱｸｼｮﾝ｡素早さ1000%ｱｯﾌﾟ｡HP0以下で5回全回復",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始･被攻撃時､自身に飛雷神｡高確率先制攻撃&amp;再行動&amp;被攻撃時即ｱｸｼｮﾝ｡素早さ1000%ｱｯﾌﾟ｡HP0以下で5回全回復",
+    "effectIdx1": "4396",
+    "effectIdx2": "4397",
+    "effectIdx3": "3532",
+    "effectIds": "4396,4397,3532,769,3440,13100,874,1512,"
+  },
+  {
+    "abilityId": "2956",
+    "abilityName": "火影の覚悟",
+    "abilityDescription": "高確率で即死無効｡封印&amp;術封じ無効｡被攻撃時､強化系神化･特殊状態不可解除&amp;高確率で耐性を無視し敵全体の行動ｽｷｯﾌﾟ",
+    "abilityEffectDescription": "高確率で即死無効｡封印&amp;術封じ無効｡被攻撃時､強化系神化･特殊状態不可解除&amp;高確率で耐性を無視し敵全体の行動ｽｷｯﾌﾟ",
+    "effectIdx1": "3244",
+    "effectIdx2": "69",
+    "effectIdx3": "4124",
+    "effectIds": "3244,69,4124,4398,4399,"
   },
   {
     "abilityId": "10000",
@@ -29668,6 +29708,26 @@ window.ability=[
     "effectIdx2": "13104",
     "effectIdx3": "30019",
     "effectIds": "1766,13104,30019,300018,1423,4236,4237,4238,4243,4252,"
+  },
+  {
+    "abilityId": "20010",
+    "abilityName": "ダメージカット＆弱点化＆即行動",
+    "abilityDescription": "心技知勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション、被攻撃時に状態異常解除",
+    "abilityEffectDescription": "心技知勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション、被攻撃時に状態異常解除",
+    "effectIdx1": "228175",
+    "effectIdx2": "228050",
+    "effectIdx3": "228350",
+    "effectIds": "228175,228050,228350,228450,229104,2693,2945,2946,3969,4418,"
+  },
+  {
+    "abilityId": "20011",
+    "abilityName": "強化＆スキル発動速度アップ",
+    "abilityDescription": "防・速・スキルダメージアップ、スキル発動速度7段階アップ、被攻撃時に攻撃者に猛毒付与、バトル開始時に体属性以外がいると敵全体に虜付与、忍方陣無効",
+    "abilityEffectDescription": "防・速・スキルダメージアップ、スキル発動速度7段階アップ、被攻撃時に攻撃者に猛毒付与、バトル開始時に体属性以外がいると敵全体に虜付与、忍方陣無効",
+    "effectIdx1": "1766",
+    "effectIdx2": "13104",
+    "effectIdx3": "30019",
+    "effectIds": "1766,13104,30019,300018,4412,4413,4414,4415,4416,4417,"
   },
   {
     "abilityId": "100000",
@@ -31220,6 +31280,46 @@ window.ability=[
     "effectIds": "20044,4324,4040,"
   },
   {
+    "abilityId": "100162",
+    "abilityName": "残忍なる戯れ",
+    "abilityDescription": "敵に神忍か破神がいるとバトル開始時に確率で先制攻撃（どちらもいると確率アップ）",
+    "abilityEffectDescription": "敵に神忍か破神がいるとバトル開始時に確率で先制攻撃（どちらもいると確率アップ）",
+    "effectIdx1": "2999",
+    "effectIdx2": "3018",
+    "effectIdx3": "0",
+    "effectIds": "2999,3018,"
+  },
+  {
+    "abilityId": "100163",
+    "abilityName": "全き外道の険相",
+    "abilityDescription": "HP0以下で2回耐え、1回行動までﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時、敵のうちはサスケに高確率で耐性無視して呪蛇付与",
+    "abilityEffectDescription": "HP0以下で2回耐え、1回行動までﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時、敵のうちはサスケに高確率で耐性無視して呪蛇付与",
+    "effectIdx1": "1057",
+    "effectIdx2": "4402",
+    "effectIdx3": "1378",
+    "effectIds": "1057,4402,1378,"
+  },
+  {
+    "abilityId": "100164",
+    "abilityName": "残忍なる戯れ",
+    "abilityDescription": "敵に神忍か破神がいるとバトル開始時に高確率で先制攻撃（どちらもいると確率アップ）",
+    "abilityEffectDescription": "敵に神忍か破神がいるとバトル開始時に高確率で先制攻撃（どちらもいると確率アップ）",
+    "effectIdx1": "3941",
+    "effectIdx2": "3942",
+    "effectIdx3": "0",
+    "effectIds": "3941,3942,"
+  },
+  {
+    "abilityId": "100165",
+    "abilityName": "全き外道の険相",
+    "abilityDescription": "HP0以下で3回耐え、3回行動までﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時、敵のうちはサスケに耐性無視して呪蛇付与",
+    "abilityEffectDescription": "HP0以下で3回耐え、3回行動までﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時、敵のうちはサスケに耐性無視して呪蛇付与",
+    "effectIdx1": "1789",
+    "effectIdx2": "4403",
+    "effectIdx3": "1949",
+    "effectIds": "1789,4403,1949,"
+  },
+  {
     "abilityId": "200001",
     "abilityName": "心属性特化",
     "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -31337,7 +31437,7 @@ window.ability=[
     "effectIdx1": "229104",
     "effectIdx2": "228150",
     "effectIdx3": "3763",
-    "effectIds": "229104,228150,3763,3764,3765,"
+    "effectIds": "229104,228150,3763,3764,3765,3766,"
   },
   {
     "abilityId": "200015",
@@ -31528,6 +31628,16 @@ window.ability=[
     "effectIdx2": "3895",
     "effectIdx3": "3896",
     "effectIds": "3894,3895,3896,3897,229104,228150,"
+  },
+  {
+    "abilityId": "200034",
+    "abilityName": "技属性特化・守護",
+    "abilityDescription": "技属性にスキル攻撃時相手の耐性を弱点化&amp;自身と班の心属性以外のキャラが技属性からのダメージ50%カット",
+    "abilityEffectDescription": "技属性にスキル攻撃時相手の耐性を弱点化&amp;自身と班の心属性以外のキャラが技属性からのダメージ50%カット",
+    "effectIdx1": "229104",
+    "effectIdx2": "228150",
+    "effectIdx3": "4404",
+    "effectIds": "229104,228150,4404,4405,4406,4407,"
   },
   {
     "abilityId": "210001",
@@ -33902,8 +34012,8 @@ window.ability=[
   {
     "abilityId": "310211",
     "abilityName": "Bマス用_禁忌",
-    "abilityDescription": "死亡時に味方全体に堅護",
-    "abilityEffectDescription": "死亡時に味方全体に堅護",
+    "abilityDescription": "死亡時味方全体に堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効)",
+    "abilityEffectDescription": "死亡時味方全体に堅護(弱体/状態異常/弱体系特殊状態解除&amp;無効)",
     "effectIdx1": "3165",
     "effectIdx2": "0",
     "effectIdx3": "0",

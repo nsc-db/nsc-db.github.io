@@ -28881,5 +28881,39 @@ window.gear=[
     "crystalImageId": "410025",
     "recipeId": "41002",
     "recipeName": "16回目の誕生日ケーキ"
+  },
+  {
+    "crystalId": "41003",
+    "crystalType": "11",
+    "crystalRare": "5",
+    "effectIdx1": "682",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIdx4": "0",
+    "effectIds": "682,",
+    "money": "30000",
+    "saleMoney": "2500",
+    "crystalName": "闇を切り裂く閃光",
+    "crystalDescription": "全スキルダメージ50%アップ",
+    "crystalImageId": "410035",
+    "recipeId": "41003",
+    "recipeName": "闇を切り裂く閃光"
+  },
+  {
+    "crystalId": "41004",
+    "crystalType": "3",
+    "crystalRare": "5",
+    "effectIdx1": "10049",
+    "effectIdx2": "11049",
+    "effectIdx3": "12049",
+    "effectIdx4": "13049",
+    "effectIds": "10049,11049,12049,13049,",
+    "money": "30000",
+    "saleMoney": "2500",
+    "crystalName": "火の意志を継ぐ火影",
+    "crystalDescription": "最大HP&amp;攻&amp;防&amp;素早さ50%アップ",
+    "crystalImageId": "410045",
+    "recipeId": "41004",
+    "recipeName": "火の意志を継ぐ火影"
   }
 ]

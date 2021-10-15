@@ -8716,6 +8716,10 @@ window.skillname=[
     "name": "分かったってばよ！"
   },
   {
+    "cardBattleSkillNameId": "3431",
+    "name": "いただくわァァ…"
+  },
+  {
     "cardBattleSkillNameId": "3432",
     "name": "完成体須佐能乎・十滅万焼"
   },
@@ -8726,6 +8730,14 @@ window.skillname=[
   {
     "cardBattleSkillNameId": "3434",
     "name": "螺旋丸・忍道ノ輝跡"
+  },
+  {
+    "cardBattleSkillNameId": "3435",
+    "name": "飛雷神・光覇烈旋衝"
+  },
+  {
+    "cardBattleSkillNameId": "3436",
+    "name": "すぐに終わらせる！"
   },
   {
     "cardBattleSkillNameId": "10136",

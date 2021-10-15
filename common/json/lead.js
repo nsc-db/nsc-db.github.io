@@ -17290,6 +17290,20 @@ window.lead=[
     "target2Param": "0"
   },
   {
+    "cardLeaderSkillId": "1251",
+    "name": "果てなき蛇欲",
+    "description": "全属性の素早さ150%アップ＆スキル発動速度1段階アップ",
+    "effectIdx1": "967",
+    "effectIdx2": "21000",
+    "effectIdx3": "0",
+    "effectIds": "967,21000,",
+    "compType": "0",
+    "target1Category": "0",
+    "target1Param": "0",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
     "cardLeaderSkillId": "1252",
     "name": "因果を焼く神炎",
     "description": "木ノ葉隠れの里所属はバトル開始時にチャクラ100%回復&amp;高確率で先制攻撃&amp;2回行動まで素早さ500%アップ　　",
@@ -17297,6 +17311,20 @@ window.lead=[
     "effectIdx2": "3532",
     "effectIdx3": "4368",
     "effectIds": "1994,3532,4368,",
+    "compType": "1",
+    "target1Category": "2",
+    "target1Param": "1",
+    "target2Category": "0",
+    "target2Param": "0"
+  },
+  {
+    "cardLeaderSkillId": "1253",
+    "name": "闇を裂く電閃光",
+    "description": "木ノ葉隠れの里所属の素早さ200%アップ&amp;スキル発動速度2段階アップ&amp;1回行動まで全スキル無効",
+    "effectIdx1": "1280",
+    "effectIdx2": "1549",
+    "effectIdx3": "1794",
+    "effectIds": "1280,1549,1794,",
     "compType": "1",
     "target1Category": "2",
     "target1Param": "1",
