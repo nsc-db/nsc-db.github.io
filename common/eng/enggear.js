@@ -1159,6 +1159,16 @@ window.enggear=[
                "cardIds": "0",
                "charaGroupIds": "0"
      },
+	 {
+               "id": 4105,
+               "type": "Stats",
+               "name": "New Year's Card (2017)",
+               "effect": "None",
+               "normal": "HP and ATK +70%, SPD +30%, Chakra Recovery +10%",
+               "charaIds": "0",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },
      {
                "id": 4125,
                "type": "Resistance",
@@ -3616,6 +3626,26 @@ window.enggear=[
                "effect": "Chakra +100, HP +100%, SPD +70%, Chakra Recovery +30%",
                "normal": "Chakra +30, HP +50%, SPD +30%",
                "charaIds": "13702",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },	
+	 {
+               "id": 204095,
+               "type": "Stats",
+               "name": "Hidden Snake Hand",
+               "effect": "HP & Skill Damage +120%, 2 Turns: Set Chakra Cost to 0 & SPD +150%",
+               "normal": "HP & Skill Damage +30%, 2 Turns: Chakra Cost -30%",
+               "charaIds": "10301,10304",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+     },	
+	 	 {
+               "id": 204105,
+               "type": "Skill",
+               "name": "Sasori's Hat",
+               "effect": "Skill Damage +100%, Cast Speed +1, DEF +30% every turn (Max 150%)",
+               "normal": "Skill Damage +30%",
+               "charaIds": "12101",
                "cardIds": "0",
                "charaGroupIds": "0"
      },	
@@ -7859,5 +7889,115 @@ window.enggear=[
                "cardIds": "0",
                "charaGroupIds": "0"
           },
+{
+               "id": 409015,
+               "type": "Skill",
+               "name": "Nagato's Chair",
+               "effect": "Skill Damage +150%, Cast Speed +2, When Attacked: High Chance for SPD +300% for 1 Turn",
+               "normal": "Skill Damage +50%, Cast Speed +1",
+               "charaIds": "61501",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 409025,
+               "type": "Stats",
+               "name": "Pain's Earrings",
+               "effect": "HP, ATK, DEF and SPD +150%. Chakra Cost -50%. Debuff, Status Effect and Seal Immunity. 2 Turns: Skill Immunity",
+               "normal": "HP, ATK, DEF and SPD +50%",
+               "charaIds": "61501",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 409035,
+               "type": "Skill",
+               "name": "Wounded Vest",
+               "effect": "Cast Speed +2, Skill Damage +150%, When using a Skill: High Chance to Remove and Disable Positive Special and God State",
+               "normal": "Skill Damage +50%, Cast Speed +1",
+               "charaIds": "1704",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 409045,
+               "type": "Stats",
+               "name": "Torn Uchiha Clothes",
+               "effect": "HP, ATK, DEF and SPD +150%. Chakra Cost -50%. High Chance for Extra Turn",
+               "normal": "HP, ATK, DEF and SPD +50%",
+               "charaIds": "50902",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 409055,
+               "type": "Additional",
+               "name": "Sasuke's Maxim",
+               "effect": "Skill Damage and SPD +150%. Chakra Cost -50%, Cast Speed +2. High Chance for Extra Turn",
+               "normal": "Skill Damage and SPD +50%",
+               "charaIds": "209",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 409065,
+               "type": "Resistance",
+               "name": "Sasuke's Eternal Mangekyou Sharingan",
+               "effect": "Remove Debuffs & Negative Special and God States every turn, 2 Turns: Skill Immunity",
+               "normal": "Low Chance to Remove Negative Special and God States every turn",
+               "charaIds": "209",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+ {
+               "id": 409075,
+               "type": "Stats",
+               "name": "22 Million DL Logo",
+               "effect": "None",
+               "normal": "22 Turns: Skill Damage +122% & SPD +220 & Chakra Recovery +22%",
+               "charaIds": "0",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+ {
+               "id": 410015,
+               "type": "Skill",
+               "name": "The Way I Walked",
+               "effect": "Skill Damage +150%. Cast Speed +2. Protect Konoha allies from Single Target Skills. When Attacked: HP Recovery +25%",
+               "normal": "Skill Damage +50%",
+               "charaIds": "110",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 410025,
+               "type": "Resistance",
+               "name": "16th Birthday Cake",
+               "effect": "High Chance for Debuff, Status Effect and Tailed Beast & Fire Skill Immunity. HP, ATK, DEF & SPD +150%",
+               "normal": "Chance for Debuff and Status Effect Immunity",
+               "charaIds": "101",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+ {
+               "id": 410035,
+               "type": "Skill",
+               "name": "A Flash that Cuts through The Darkness",
+               "effect": "Cast Speed +2, Skill Damage +150%, When using a Skill: Chance to Inflict 'Cast Speed -2'",
+               "normal": "Skill Damage +50%",
+               "charaIds": "2105",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
+{
+               "id": 410045,
+               "type": "Additional",
+               "name": "Hokage Who Inherits The Will of Fire",
+               "effect": "HP, ATK, DEF and SPD +150%. Chakra Cost -50%. Upon Withstanding: Grant 'Instant Action' to Party",
+               "normal": "HP, ATK, DEF and SPD +50%",
+               "charaIds": "2105",
+               "cardIds": "0",
+               "charaGroupIds": "0"
+},
      ]
      
