@@ -29030,6 +29030,226 @@ window.ability=[
     "effectIds": "3244,69,4124,4398,4399,"
   },
   {
+    "abilityId": "2957",
+    "abilityName": "火の意志を託す者",
+    "abilityDescription": "最大HPを100%アップし、味方に「奈良シカマル」がいるとスキル発動速度1段階アップ",
+    "abilityEffectDescription": "最大HPを100%アップし、味方に「奈良シカマル」がいるとスキル発動速度1段階アップ",
+    "effectIdx1": "684",
+    "effectIdx2": "4411",
+    "effectIdx3": "0",
+    "effectIds": "684,4411,"
+  },
+  {
+    "abilityId": "2958",
+    "abilityName": "刃に込める熱意",
+    "abilityDescription": "HP80%以上の時、スキルダメージが80%アップ＆スキル発動速度1段階アップ",
+    "abilityEffectDescription": "HP80%以上の時、スキルダメージが80%アップ＆スキル発動速度1段階アップ",
+    "effectIdx1": "1505",
+    "effectIdx2": "1089",
+    "effectIdx3": "0",
+    "effectIds": "1505,1089,"
+  },
+  {
+    "abilityId": "2959",
+    "abilityName": "理を外れし者",
+    "abilityDescription": "HP0以下で2回耐え、味方に“暁”所属が生存していると、確率で素早さ＆ｽｷﾙﾀﾞﾒｰｼﾞ150％ｱｯﾌﾟ",
+    "abilityEffectDescription": "HP0以下で2回耐え、味方に“暁”所属が生存していると、確率で素早さ＆ｽｷﾙﾀﾞﾒｰｼﾞ150％ｱｯﾌﾟ",
+    "effectIdx1": "4040",
+    "effectIdx2": "4444",
+    "effectIdx3": "4443",
+    "effectIds": "4040,4444,4443,"
+  },
+  {
+    "abilityId": "2960",
+    "abilityName": "朽ちぬ美",
+    "abilityDescription": "敵に木ノ葉隠れの里所属がいるとﾊﾞﾄﾙ開始時に敵全体に耐性を無視して毒状態付与",
+    "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいるとﾊﾞﾄﾙ開始時に敵全体に耐性を無視して毒状態付与",
+    "effectIdx1": "4421",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "4421,"
+  },
+  {
+    "abilityId": "2961",
+    "abilityName": "勝利の創造者",
+    "abilityDescription": "HP0以下で2回耐え、味方に“暁”所属が生存していると、確率で先制攻撃＆再行動",
+    "abilityEffectDescription": "HP0以下で2回耐え、味方に“暁”所属が生存していると、確率で先制攻撃＆再行動",
+    "effectIdx1": "4040",
+    "effectIdx2": "4426",
+    "effectIdx3": "4427",
+    "effectIds": "4040,4426,4427,"
+  },
+  {
+    "abilityId": "2962",
+    "abilityName": "雲散の美",
+    "abilityDescription": "味方の“暁”所属生存時、自身の攻防速200％アップ＆チャクラ消費量半減\t",
+    "abilityEffectDescription": "味方の“暁”所属生存時、自身の攻防速200％アップ＆チャクラ消費量半減\t",
+    "effectIdx1": "4428",
+    "effectIdx2": "4429",
+    "effectIdx3": "4430",
+    "effectIds": "4428,4429,4430,3756,"
+  },
+  {
+    "abilityId": "2963",
+    "abilityName": "悪逆の統率者",
+    "abilityDescription": "被攻撃時､高確率で即ｱｸｼｮﾝ｡敵に木ノ葉隠れの里所属がいると味方の“暁”所属の素早さ&amp;全ｽｷﾙﾀﾞﾒｰｼﾞ500%ｱｯﾌﾟ",
+    "abilityEffectDescription": "被攻撃時､高確率で即ｱｸｼｮﾝ｡敵に木ノ葉隠れの里所属がいると味方の“暁”所属の素早さ&amp;全ｽｷﾙﾀﾞﾒｰｼﾞ500%ｱｯﾌﾟ",
+    "effectIdx1": "3440",
+    "effectIdx2": "4440",
+    "effectIdx3": "4441",
+    "effectIds": "3440,4440,4441,"
+  },
+  {
+    "abilityId": "2964",
+    "abilityName": "抑圧の支配者",
+    "abilityDescription": "ﾊﾞﾄﾙ開始時､高確率で｢地形効果：戦禍ノ記憶｣を展開(敵に木ノ葉隠れの里所属がいると確実)｡HP0以下で5回HP全回復",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始時､高確率で｢地形効果：戦禍ノ記憶｣を展開(敵に木ノ葉隠れの里所属がいると確実)｡HP0以下で5回HP全回復",
+    "effectIdx1": "4434",
+    "effectIdx2": "4435",
+    "effectIdx3": "4311",
+    "effectIds": "4434,4435,4311,874,"
+  },
+  {
+    "abilityId": "2965",
+    "abilityName": "変革をもたらす可能性",
+    "abilityDescription": "バトル開始・行動時に【忍方陣：蝦蟇師弟】を展開。被攻撃時､確率で攻撃者の耐性を無視して蛙幻付与",
+    "abilityEffectDescription": "バトル開始・行動時に【忍方陣：蝦蟇師弟】を展開。被攻撃時､確率で攻撃者の耐性を無視して蛙幻付与",
+    "effectIdx1": "4448",
+    "effectIdx2": "4450",
+    "effectIdx3": "4462",
+    "effectIds": "4448,4450,4462,"
+  },
+  {
+    "abilityId": "2966",
+    "abilityName": "妙木山で得た希望の予言",
+    "abilityDescription": "ﾊﾞﾄﾙ開始・被攻撃時､自身に蝦蟇連撃付与｡HP0以下で2回HP全回復｡2回行動まで全ｽｷﾙ無効｡被攻撃時､高確率で即ｱｸｼｮﾝ",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始・被攻撃時､自身に蝦蟇連撃付与｡HP0以下で2回HP全回復｡2回行動まで全ｽｷﾙ無効｡被攻撃時､高確率で即ｱｸｼｮﾝ",
+    "effectIdx1": "4453",
+    "effectIdx2": "4454",
+    "effectIdx3": "874",
+    "effectIds": "4453,4454,874,1057,2343,3440,"
+  },
+  {
+    "abilityId": "2967",
+    "abilityName": "変革をもたらす可能性",
+    "abilityDescription": "ﾊﾞﾄﾙ開始・行動時に【忍方陣：真･蝦蟇師弟】を展開。高確率で先制攻撃&amp;被攻撃時､攻撃者の耐性を無視して蛙幻付与",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始・行動時に【忍方陣：真･蝦蟇師弟】を展開。高確率で先制攻撃&amp;被攻撃時､攻撃者の耐性を無視して蛙幻付与",
+    "effectIdx1": "4449",
+    "effectIdx2": "4451",
+    "effectIdx3": "4452",
+    "effectIds": "4449,4451,4452,3532,"
+  },
+  {
+    "abilityId": "2968",
+    "abilityName": "妙木山で得た希望の予言",
+    "abilityDescription": "ﾊﾞﾄﾙ開始・被攻撃時､自身に蝦蟇連撃付与｡HP0以下で3回HP全回復｡2回行動まで全ｽｷﾙ無効｡被攻撃時､高確率で即ｱｸｼｮﾝ",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始・被攻撃時､自身に蝦蟇連撃付与｡HP0以下で3回HP全回復｡2回行動まで全ｽｷﾙ無効｡被攻撃時､高確率で即ｱｸｼｮﾝ",
+    "effectIdx1": "4453",
+    "effectIdx2": "4454",
+    "effectIdx3": "874",
+    "effectIds": "4453,4454,874,1789,2343,3440,"
+  },
+  {
+    "abilityId": "2969",
+    "abilityName": "平和への願い",
+    "abilityDescription": "バトル開始・行動時に【忍方陣：里想両輪】を展開｡素早さ1000%アップ｡被攻撃時､確率で即アクション",
+    "abilityEffectDescription": "バトル開始・行動時に【忍方陣：里想両輪】を展開｡素早さ1000%アップ｡被攻撃時､確率で即アクション",
+    "effectIdx1": "4465",
+    "effectIdx2": "4467",
+    "effectIdx3": "13100",
+    "effectIds": "4465,4467,13100,3620,"
+  },
+  {
+    "abilityId": "2970",
+    "abilityName": "信頼し合う瞳",
+    "abilityDescription": "被攻撃時､確率で攻撃者に耐性無視して天照付与｡HP0以下で2回HP全回復",
+    "abilityEffectDescription": "被攻撃時､確率で攻撃者に耐性無視して天照付与｡HP0以下で2回HP全回復",
+    "effectIdx1": "4469",
+    "effectIdx2": "874",
+    "effectIdx3": "1057",
+    "effectIds": "4469,874,1057,"
+  },
+  {
+    "abilityId": "2971",
+    "abilityName": "平和への願い",
+    "abilityDescription": "バトル開始・行動時に【忍方陣：真・里想両輪】を展開｡素早さ1000%アップ｡被攻撃時､高確率で即アクション",
+    "abilityEffectDescription": "バトル開始・行動時に【忍方陣：真・里想両輪】を展開｡素早さ1000%アップ｡被攻撃時､高確率で即アクション",
+    "effectIdx1": "4466",
+    "effectIdx2": "4468",
+    "effectIdx3": "13100",
+    "effectIds": "4466,4468,13100,4257,"
+  },
+  {
+    "abilityId": "2972",
+    "abilityName": "信頼し合う瞳",
+    "abilityDescription": "バトル開始時､敵全体に耐性無視して幻惑｡被攻撃時､確率で攻撃者に耐性無視して天照付与｡HP0以下で3回HP全回復",
+    "abilityEffectDescription": "バトル開始時､敵全体に耐性無視して幻惑｡被攻撃時､確率で攻撃者に耐性無視して天照付与｡HP0以下で3回HP全回復",
+    "effectIdx1": "4470",
+    "effectIdx2": "874",
+    "effectIdx3": "1789",
+    "effectIds": "4470,874,1789,4197,"
+  },
+  {
+    "abilityId": "2973",
+    "abilityName": "仲間を守る心",
+    "abilityDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+    "abilityEffectDescription": "最大チャクラ量100アップ、バトル開始時にチャクラ50%回復、HP0以下で1回耐える",
+    "effectIdx1": "813",
+    "effectIdx2": "1115",
+    "effectIdx3": "312",
+    "effectIds": "813,1115,312,"
+  },
+  {
+    "abilityId": "2974",
+    "abilityName": "墨躍の真髄",
+    "abilityDescription": "最大HPを100%アップし、確率でスキルを回避する",
+    "abilityEffectDescription": "最大HPを100%アップし、確率でスキルを回避する",
+    "effectIdx1": "684",
+    "effectIdx2": "679",
+    "effectIdx3": "0",
+    "effectIds": "684,679,"
+  },
+  {
+    "abilityId": "2975",
+    "abilityName": "愛情深き老雄",
+    "abilityDescription": "最大チャクラ量250アップ、敵に木ノ葉隠れの里所属以外がいると確率でスキル2で急襲攻撃（チャクラ大回復）",
+    "abilityEffectDescription": "最大チャクラ量250アップ、敵に木ノ葉隠れの里所属以外がいると確率でスキル2で急襲攻撃（チャクラ大回復）",
+    "effectIdx1": "20044",
+    "effectIdx2": "4488",
+    "effectIdx3": "0",
+    "effectIds": "20044,4488,"
+  },
+  {
+    "abilityId": "2976",
+    "abilityName": "百戦錬磨の術才",
+    "abilityDescription": "行動ごとに素早さ5%ずつﾀﾞｳﾝ、HP0以下で1回耐え、耐えた時に敵全体を耐性無視して封印・術封じ状態にする",
+    "abilityEffectDescription": "行動ごとに素早さ5%ずつﾀﾞｳﾝ、HP0以下で1回耐え、耐えた時に敵全体を耐性無視して封印・術封じ状態にする",
+    "effectIdx1": "4494",
+    "effectIdx2": "312",
+    "effectIdx3": "4490",
+    "effectIds": "4494,312,4490,4492,"
+  },
+  {
+    "abilityId": "2977",
+    "abilityName": "孤闘の決意",
+    "abilityDescription": "敵に木ノ葉隠れの里所属か神忍ｷｬﾗがいると先制攻撃&amp;敵の忍方陣無効&amp;素早さ1000%ｱｯﾌﾟ&amp;被攻撃時､即ｱｸｼｮﾝ",
+    "abilityEffectDescription": "敵に木ノ葉隠れの里所属か神忍ｷｬﾗがいると先制攻撃&amp;敵の忍方陣無効&amp;素早さ1000%ｱｯﾌﾟ&amp;被攻撃時､即ｱｸｼｮﾝ",
+    "effectIdx1": "3149",
+    "effectIdx2": "3733",
+    "effectIdx3": "4497",
+    "effectIds": "3149,3733,4497,4498,4499,4500,4501,4519,"
+  },
+  {
+    "abilityId": "2978",
+    "abilityName": "九尾の操者",
+    "abilityDescription": "ﾊﾞﾄﾙ開始･被攻撃時､「地形効果：愉悦ノ狂気」を展開｡ﾊﾞﾄﾙ開始時､自身に闘神付与｡HP0以下で5回HP全回復",
+    "abilityEffectDescription": "ﾊﾞﾄﾙ開始･被攻撃時､「地形効果：愉悦ノ狂気」を展開｡ﾊﾞﾄﾙ開始時､自身に闘神付与｡HP0以下で5回HP全回復",
+    "effectIdx1": "4311",
+    "effectIdx2": "874",
+    "effectIdx3": "4502",
+    "effectIds": "4311,874,4502,4503,4504,"
+  },
+  {
     "abilityId": "10000",
     "abilityName": "攻撃・防御・素早さダウン（大）",
     "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -31320,6 +31540,26 @@ window.ability=[
     "effectIds": "1789,4403,1949,"
   },
   {
+    "abilityId": "100166",
+    "abilityName": "愛情深き老雄",
+    "abilityDescription": "最大チャクラ量250アップ、敵に木ノ葉隠れの里所属以外がいるとスキル2で急襲攻撃（チャクラ大回復）",
+    "abilityEffectDescription": "最大チャクラ量250アップ、敵に木ノ葉隠れの里所属以外がいるとスキル2で急襲攻撃（チャクラ大回復）",
+    "effectIdx1": "20044",
+    "effectIdx2": "4489",
+    "effectIdx3": "0",
+    "effectIds": "20044,4489,"
+  },
+  {
+    "abilityId": "100167",
+    "abilityName": "百戦錬磨の術才",
+    "abilityDescription": "行動ごとに素早さ3%ずつﾀﾞｳﾝ、HP0以下で3回耐え、耐えた時に敵全体を耐性無視して長い間封印・術封じ状態にする",
+    "abilityEffectDescription": "行動ごとに素早さ3%ずつﾀﾞｳﾝ、HP0以下で3回耐え、耐えた時に敵全体を耐性無視して長い間封印・術封じ状態にする",
+    "effectIdx1": "4495",
+    "effectIdx2": "1789",
+    "effectIdx3": "4491",
+    "effectIds": "4495,1789,4491,4493,"
+  },
+  {
     "abilityId": "200001",
     "abilityName": "心属性特化",
     "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -31576,8 +31816,8 @@ window.ability=[
     "abilityEffectDescription": "勇属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラがスキルダメージ80%アップ",
     "effectIdx1": "3893",
     "effectIdx2": "3895",
-    "effectIdx3": "3896",
-    "effectIds": "3893,3895,3896,3894,229404,228450,"
+    "effectIdx3": "3897",
+    "effectIds": "3893,3895,3897,3894,229404,228450,"
   },
   {
     "abilityId": "200029",
@@ -31638,6 +31878,16 @@ window.ability=[
     "effectIdx2": "228150",
     "effectIdx3": "4404",
     "effectIds": "229104,228150,4404,4405,4406,4407,"
+  },
+  {
+    "abilityId": "200035",
+    "abilityName": "知属性特化・破砕",
+    "abilityDescription": "知属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のｷｬﾗがｽｷﾙﾀﾞﾒｰｼﾞ80%ｱｯﾌﾟ",
+    "abilityEffectDescription": "知属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のｷｬﾗがｽｷﾙﾀﾞﾒｰｼﾞ80%ｱｯﾌﾟ",
+    "effectIdx1": "3893",
+    "effectIdx2": "3895",
+    "effectIdx3": "3896",
+    "effectIds": "3893,3895,3896,3894,229304,228350,"
   },
   {
     "abilityId": "210001",
@@ -31767,7 +32017,7 @@ window.ability=[
     "effectIdx1": "10544",
     "effectIdx2": "0",
     "effectIdx3": "0",
-    "effectIds": null
+    "effectIds": "10544,"
   },
   {
     "abilityId": "301001",
@@ -34178,6 +34428,26 @@ window.ability=[
     "effectIdx2": "0",
     "effectIdx3": "0",
     "effectIds": "1200,"
+  },
+  {
+    "abilityId": "310228",
+    "abilityName": "Bマス用_禁忌",
+    "abilityDescription": "バトル開始時、敵に神忍がいると確率で先制攻撃",
+    "abilityEffectDescription": "バトル開始時、敵に神忍がいると確率で先制攻撃",
+    "effectIdx1": "3160",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "3160,"
+  },
+  {
+    "abilityId": "310229",
+    "abilityName": "Bマス用_通常",
+    "abilityDescription": "敵に超忍がいると、チャクラ消費量0",
+    "abilityEffectDescription": "敵に超忍がいると、チャクラ消費量0",
+    "effectIdx1": "4445",
+    "effectIdx2": "0",
+    "effectIdx3": "0",
+    "effectIds": "4445,"
   },
   {
     "abilityId": "801187",

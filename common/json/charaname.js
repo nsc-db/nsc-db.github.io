@@ -4578,6 +4578,34 @@ window.charaname=[
     "gender": "1"
   },
   {
+    "charaProfileId": "61701",
+    "charaId": "617",
+    "name": "自来也＆ナルト",
+    "detail": null,
+    "charaLoveAffinityGroupId": "61701",
+    "birthday": "0",
+    "constellation": "0",
+    "height": "0",
+    "weight": "0",
+    "bloodType": "0",
+    "age": "0",
+    "gender": "1"
+  },
+  {
+    "charaProfileId": "61801",
+    "charaId": "618",
+    "name": "イタチ＆シスイ",
+    "detail": null,
+    "charaLoveAffinityGroupId": "61801",
+    "birthday": "0",
+    "constellation": "0",
+    "height": "0",
+    "weight": "0",
+    "bloodType": "0",
+    "age": "0",
+    "gender": "1"
+  },
+  {
     "charaProfileId": "62001",
     "charaId": "620",
     "name": "カカシ＆オビト",

@@ -3992,6 +3992,54 @@ window.charainfo=[
     "skillUrl": "https://www.youtube.com/embed/NUy7hGnFDtA?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
   },
   {
+    "gachaCardAdditionId": "523",
+    "targetCardId": "20071006",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "107",
+    "skillUrl": "https://www.youtube.com/embed/Nd2brDMkimY?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
+    "gachaCardAdditionId": "524",
+    "targetCardId": "20071102",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "110",
+    "skillUrl": "https://www.youtube.com/embed/C5zKB1eHBZA?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
+    "gachaCardAdditionId": "525",
+    "targetCardId": "20071103",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "110",
+    "skillUrl": "https://www.youtube.com/embed/LoSO5rWy0Ds?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
+    "gachaCardAdditionId": "526",
+    "targetCardId": "20071004",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "105",
+    "skillUrl": "https://www.youtube.com/embed/oI2DUgGZkTY?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
+    "gachaCardAdditionId": "527",
+    "targetCardId": "20071005",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "105",
+    "skillUrl": "https://www.youtube.com/embed/foJg9cKsAvE?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
+    "gachaCardAdditionId": "528",
+    "targetCardId": "20071104",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "107",
+    "skillUrl": "https://www.youtube.com/embed/Rdhzm2OHMJA?rel=0&amp;showinfo=0&amp;iv_load_policy=3"
+  },
+  {
     "gachaCardAdditionId": "1001",
     "targetCardId": "20001600",
     "additionId": "0",
@@ -5674,6 +5722,14 @@ window.charainfo=[
   {
     "gachaCardAdditionId": "20000015",
     "targetCardId": "20070809",
+    "additionId": "0",
+    "params": "0,",
+    "limitedFlg": "120",
+    "skillUrl": null
+  },
+  {
+    "gachaCardAdditionId": "20000016",
+    "targetCardId": "20071105",
     "additionId": "0",
     "params": "0,",
     "limitedFlg": "120",

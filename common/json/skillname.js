@@ -8740,6 +8740,70 @@ window.skillname=[
     "name": "すぐに終わらせる！"
   },
   {
+    "cardBattleSkillNameId": "3437",
+    "name": "まずは一人"
+  },
+  {
+    "cardBattleSkillNameId": "3438",
+    "name": "傀儡術・砂鉄時雨"
+  },
+  {
+    "cardBattleSkillNameId": "3439",
+    "name": "オレの造った傀儡だ"
+  },
+  {
+    "cardBattleSkillNameId": "3440",
+    "name": "起爆粘土・爆乱壊"
+  },
+  {
+    "cardBattleSkillNameId": "3441",
+    "name": "威力が違うぜ！"
+  },
+  {
+    "cardBattleSkillNameId": "3442",
+    "name": "天道・神羅天征"
+  },
+  {
+    "cardBattleSkillNameId": "3443",
+    "name": "オレが憎いか？"
+  },
+  {
+    "cardBattleSkillNameId": "3444",
+    "name": "螺旋連丸・双裂光"
+  },
+  {
+    "cardBattleSkillNameId": "3445",
+    "name": "黄泉沼・輪炎旋焼"
+  },
+  {
+    "cardBattleSkillNameId": "3446",
+    "name": "信炎ノ天照"
+  },
+  {
+    "cardBattleSkillNameId": "3447",
+    "name": "別天神・至幻ノ理"
+  },
+  {
+    "cardBattleSkillNameId": "3448",
+    "name": "やっと思い出したんだ"
+  },
+  {
+    "cardBattleSkillNameId": "3449",
+    "name": "土遁・土龍弾"
+  },
+  {
+    "cardBattleSkillNameId": "3450",
+    "name": "終わりじゃ！！"
+  },
+  {
+    "cardBattleSkillNameId": "3451",
+    "name": "威装・須佐能乎・獣躙玉"
+  },
+  {
+    "cardBattleSkillNameId": "3452",
+    "name": "お前との闘いを愉しむさ"
+  },
+  {
     "cardBattleSkillNameId": "10136",
     "name": "新術だってばよ！"
   },
