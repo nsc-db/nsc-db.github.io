@@ -24392,22 +24392,22 @@ window.ability=[
   {
     "abilityId": "2491",
     "abilityName": "“三忍”一の才知",
-    "abilityDescription": "敵に木ノ葉隠れの里所属がいると高確率で「クク……心寒い…」で急襲攻撃（ﾁｬｸﾗ中回復）、最大ﾁｬｸﾗ量200ｱｯﾌﾟ",
-    "abilityEffectDescription": "敵に木ノ葉隠れの里所属がいると高確率で「クク……心寒い…」で急襲攻撃（ﾁｬｸﾗ中回復）、最大ﾁｬｸﾗ量200ｱｯﾌﾟ",
-    "effectIdx1": "2830",
+    "abilityDescription": "高確率で「クク……心寒い…」で急襲攻撃(敵に木ノ葉隠れの里所属がいると確実)(ﾁｬｸﾗ中回復)。最大ﾁｬｸﾗ量200アップ",
+    "abilityEffectDescription": "高確率で「クク……心寒い…」で急襲攻撃(敵に木ノ葉隠れの里所属がいると確実)(ﾁｬｸﾗ中回復)。最大ﾁｬｸﾗ量200アップ",
+    "effectIdx1": "3840",
     "effectIdx2": "20019",
-    "effectIdx3": "0",
-    "effectIds": null
+    "effectIdx3": "2623",
+    "effectIds": "3840,20019,2623,"
   },
   {
     "abilityId": "2492",
     "abilityName": "大蟒蛇マンダ",
-    "abilityDescription": "キャンセル無効、1回行動まで全スキル無効、超忍・創・滅キャラから受けるダメージ50%カット",
-    "abilityEffectDescription": "キャンセル無効、1回行動まで全スキル無効、超忍・創・滅キャラから受けるダメージ50%カット",
+    "abilityDescription": "被攻撃時､確率で即アクション。キャンセル無効。1回行動まで全スキル無効｡被ダメージ50%カット",
+    "abilityEffectDescription": "被攻撃時､確率で即アクション。キャンセル無効。1回行動まで全スキル無効｡被ダメージ50%カット",
     "effectIdx1": "1751",
     "effectIdx2": "1794",
-    "effectIdx3": "2708",
-    "effectIds": null
+    "effectIdx3": "3502",
+    "effectIds": "1751,1794,3502,3620,"
   },
   {
     "abilityId": "2493",
@@ -24502,12 +24502,12 @@ window.ability=[
   {
     "abilityId": "2502",
     "abilityName": "大蛞蝓カツユ",
-    "abilityDescription": "超忍祭限定・滅・創キャラから受けるダメージ50%カット、HP0以下で5回耐える、1回行動までチャクラ消費0",
-    "abilityEffectDescription": "超忍祭限定・滅・創キャラから受けるダメージ50%カット、HP0以下で5回耐える、1回行動までチャクラ消費0",
-    "effectIdx1": "2708",
+    "abilityDescription": "被攻撃時､確率で即ｱｸｼｮﾝ｡被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ｡HP0以下で5回HP全回復｡1回行動までﾁｬｸﾗ消費0",
+    "abilityEffectDescription": "被攻撃時､確率で即ｱｸｼｮﾝ｡被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ｡HP0以下で5回HP全回復｡1回行動までﾁｬｸﾗ消費0",
+    "effectIdx1": "3502",
     "effectIdx2": "1512",
     "effectIdx3": "1378",
-    "effectIds": null
+    "effectIds": "3502,1512,1378,874,3620,"
   },
   {
     "abilityId": "2503",
@@ -26442,12 +26442,12 @@ window.ability=[
   {
     "abilityId": "2698",
     "abilityName": "二大仙人の助力",
-    "abilityDescription": "バトル開始時自身を蝦蟇神仙化。被攻撃時高確率で即アクション。超忍・滅・創から受けるダメージ50%カット",
-    "abilityEffectDescription": "バトル開始時自身を蝦蟇神仙化。被攻撃時高確率で即アクション。超忍・滅・創から受けるダメージ50%カット",
+    "abilityDescription": "バトル開始時自身を蝦蟇神仙化。被攻撃時高確率で即アクション。被ダメージ50%カット",
+    "abilityEffectDescription": "バトル開始時自身を蝦蟇神仙化。被攻撃時高確率で即アクション。被ダメージ50%カット",
     "effectIdx1": "3439",
     "effectIdx2": "3440",
-    "effectIdx3": "2708",
-    "effectIds": "3439,3440,2708,"
+    "effectIdx3": "3502",
+    "effectIds": "3439,3440,3502,"
   },
   {
     "abilityId": "2699",
@@ -29250,6 +29250,226 @@ window.ability=[
     "effectIds": "4311,874,4502,4503,4504,"
   },
   {
+    "abilityId": "2979",
+    "abilityName": "伝説のうちは",
+    "abilityDescription": "バトル開始時、味方全体に終現付与。自身にローテーション時、敵全体に耐性を無視して蒼烈付与。行動後、高確率で自身以外の味方のうちは一族を即アクション。素早さ200%アップ",
+    "abilityEffectDescription": "バトル開始時、味方全体に終現付与。自身にローテーション時、敵全体に耐性を無視して蒼烈付与。行動後、高確率で自身以外の味方のうちは一族を即アクション。素早さ200%アップ",
+    "effectIdx1": "4549",
+    "effectIdx2": "4550",
+    "effectIdx3": "4552",
+    "effectIds": "4549,4550,4552,4553,1280,"
+  },
+  {
+    "abilityId": "2980",
+    "abilityName": "柱間細胞を宿す者",
+    "abilityDescription": "高確率で先制攻撃&amp;敵の忍方陣無効&amp;被攻撃時に即アクション。即死無効。被ダメージ上限700,000。HP0以下で4回HP全回復。被攻撃時、確率で攻撃者に耐性を無視して蒼烈付与",
+    "abilityEffectDescription": "高確率で先制攻撃&amp;敵の忍方陣無効&amp;被攻撃時に即アクション。即死無効。被ダメージ上限700,000。HP0以下で4回HP全回復。被攻撃時、確率で攻撃者に耐性を無視して蒼烈付与",
+    "effectIdx1": "2578",
+    "effectIdx2": "4526",
+    "effectIdx3": "4257",
+    "effectIds": "2578,4526,4257,3254,4554,874,1737,4555,"
+  },
+  {
+    "abilityId": "2981",
+    "abilityName": "絶望のうちは",
+    "abilityDescription": "バトル開始・自身にローテーション時、味方全体に終現付与。初回行動選択時、敵全体の強化系特殊・神化状態解除。耐えた時、味方のうちは一族を即アクション。素早さ200%アップ",
+    "abilityEffectDescription": "バトル開始・自身にローテーション時、味方全体に終現付与。初回行動選択時、敵全体の強化系特殊・神化状態解除。耐えた時、味方のうちは一族を即アクション。素早さ200%アップ",
+    "effectIdx1": "4547",
+    "effectIdx2": "4548",
+    "effectIdx3": "4549",
+    "effectIds": "4547,4548,4549,4550,4380,4381,4551,1280,"
+  },
+  {
+    "abilityId": "2982",
+    "abilityName": "柱間細胞を宿されし者",
+    "abilityDescription": "高確率で先制攻撃&amp;敵の忍方陣無効&amp;被攻撃時に即アクション。即死無効。行動後、味方全体の弱体系特殊・神化解除。HP0以下で4回HP全回復",
+    "abilityEffectDescription": "高確率で先制攻撃&amp;敵の忍方陣無効&amp;被攻撃時に即アクション。即死無効。行動後、味方全体の弱体系特殊・神化解除。HP0以下で4回HP全回復",
+    "effectIdx1": "2578",
+    "effectIdx2": "4526",
+    "effectIdx3": "4257",
+    "effectIds": "2578,4526,4257,3254,874,1737,4384,4385,"
+  },
+  {
+    "abilityId": "2983",
+    "abilityName": "絆の繋ぎ手",
+    "abilityDescription": "バトル開始・被攻撃・自身にローテーション時、自身に変わらぬ想いを付与。超高確率で先制攻撃&amp;敵の忍方陣無効&amp;被攻撃時に即アクション",
+    "abilityEffectDescription": "バトル開始・被攻撃・自身にローテーション時、自身に変わらぬ想いを付与。超高確率で先制攻撃&amp;敵の忍方陣無効&amp;被攻撃時に即アクション",
+    "effectIdx1": "4569",
+    "effectIdx2": "4570",
+    "effectIdx3": "4571",
+    "effectIds": "4569,4570,4571,4575,4576,4577,"
+  },
+  {
+    "abilityId": "2984",
+    "abilityName": "切らせない決意",
+    "abilityDescription": "素早さ1000%アップ。被攻撃時、味方全体の弱体・状態異常・幻解除。即死無効。HP0以下で4回HP全回復。バトル開始時、敵全体にそれぞれ高確率で耐性を無視して裂傷・麻痺状態にする",
+    "abilityEffectDescription": "素早さ1000%アップ。被攻撃時、味方全体の弱体・状態異常・幻解除。即死無効。HP0以下で4回HP全回復。バトル開始時、敵全体にそれぞれ高確率で耐性を無視して裂傷・麻痺状態にする",
+    "effectIdx1": "13100",
+    "effectIdx2": "4359",
+    "effectIdx3": "4351",
+    "effectIds": "13100,4359,4351,3254,874,1737,4578,"
+  },
+  {
+    "abilityId": "2985",
+    "abilityName": "孤独の誓い",
+    "abilityDescription": "バトル開始・被攻撃・自身にローテーション時、自身に繋がりを断つ覚悟を付与。超高確率で先制攻撃&amp;敵の忍方陣無効&amp;被攻撃時に即アクション",
+    "abilityEffectDescription": "バトル開始・被攻撃・自身にローテーション時、自身に繋がりを断つ覚悟を付与。超高確率で先制攻撃&amp;敵の忍方陣無効&amp;被攻撃時に即アクション",
+    "effectIdx1": "4572",
+    "effectIdx2": "4573",
+    "effectIdx3": "4574",
+    "effectIds": "4572,4573,4574,4575,4576,4577,"
+  },
+  {
+    "abilityId": "2986",
+    "abilityName": "断ち切る覚悟",
+    "abilityDescription": "素早さ1000%アップ。被攻撃時、高確率で敵全体の強化系特殊・神化状態解除。即死無効。HP0以下で4回HP全回復。バトル開始時、敵全体にそれぞれ高確率で耐性を無視して裂傷・麻痺状態にする",
+    "abilityEffectDescription": "素早さ1000%アップ。被攻撃時、高確率で敵全体の強化系特殊・神化状態解除。即死無効。HP0以下で4回HP全回復。バトル開始時、敵全体にそれぞれ高確率で耐性を無視して裂傷・麻痺状態にする",
+    "effectIdx1": "13100",
+    "effectIdx2": "4336",
+    "effectIdx3": "4337",
+    "effectIds": "13100,4336,4337,3254,874,1737,4579,"
+  },
+  {
+    "abilityId": "2987",
+    "abilityName": "一途な想い",
+    "abilityDescription": "味方に「うちはサスケ」がいるとHP0以下で1回耐える、確率でスキル回避",
+    "abilityEffectDescription": "味方に「うちはサスケ」がいるとHP0以下で1回耐える、確率でスキル回避",
+    "effectIdx1": "2152",
+    "effectIdx2": "679",
+    "effectIdx3": "0",
+    "effectIds": "2152,679,"
+  },
+  {
+    "abilityId": "2988",
+    "abilityName": "果敢な拳撃",
+    "abilityDescription": "最大HPを100%アップし、行動するたびに攻撃力が30％アップする(最大5回)",
+    "abilityEffectDescription": "最大HPを100%アップし、行動するたびに攻撃力が30％アップする(最大5回)",
+    "effectIdx1": "684",
+    "effectIdx2": "3843",
+    "effectIdx3": "0",
+    "effectIds": "684,3843,"
+  },
+  {
+    "abilityId": "2989",
+    "abilityName": "命運分かつ郷友",
+    "abilityDescription": "バトル開始・被攻撃時、自身に一閃&amp;仙人モード(柱間)付与。HP0以下で5回HP全回復。高確率で敵の忍方陣無効(敵うちは一族存在で確実)。攻撃力&amp;会心率1000%アップ",
+    "abilityEffectDescription": "バトル開始・被攻撃時、自身に一閃&amp;仙人モード(柱間)付与。HP0以下で5回HP全回復。高確率で敵の忍方陣無効(敵うちは一族存在で確実)。攻撃力&amp;会心率1000%アップ",
+    "effectIdx1": "4521",
+    "effectIdx2": "4522",
+    "effectIdx3": "4523",
+    "effectIds": "4521,4522,4523,4524,874,1512,4525,4526,4538,4539,"
+  },
+  {
+    "abilityId": "2990",
+    "abilityName": "因縁の決着",
+    "abilityDescription": "バトル開始・被攻撃時、敵全体の防御力を耐性無視して200%ダウン。高確率で先制攻撃&amp;被攻撃時即アクション。行動時、強化系神化・特殊状態不可解除",
+    "abilityEffectDescription": "バトル開始・被攻撃時、敵全体の防御力を耐性無視して200%ダウン。高確率で先制攻撃&amp;被攻撃時即アクション。行動時、強化系神化・特殊状態不可解除",
+    "effectIdx1": "4527",
+    "effectIdx2": "4528",
+    "effectIdx3": "3532",
+    "effectIds": "4527,4528,3532,4257,4537,"
+  },
+  {
+    "abilityId": "2991",
+    "abilityName": "賑やかな年始め",
+    "abilityDescription": "敵に木ノ葉隠れの里所属が生存しているとそれぞれ確率で再行動＆被攻撃時に即アクション",
+    "abilityEffectDescription": "敵に木ノ葉隠れの里所属が生存しているとそれぞれ確率で再行動＆被攻撃時に即アクション",
+    "effectIdx1": "2885",
+    "effectIdx2": "4584",
+    "effectIdx3": "0",
+    "effectIds": "2885,4584,"
+  },
+  {
+    "abilityId": "2992",
+    "abilityName": "陽春の遊び",
+    "abilityDescription": "HP0以下で5回耐え、敵に木ノ葉隠れの里所属がいると高確率で先制攻撃、1回行動までチャクラ消費0",
+    "abilityEffectDescription": "HP0以下で5回耐え、敵に木ノ葉隠れの里所属がいると高確率で先制攻撃、1回行動までチャクラ消費0",
+    "effectIdx1": "1512",
+    "effectIdx2": "4585",
+    "effectIdx3": "1378",
+    "effectIds": "1512,4585,1378,"
+  },
+  {
+    "abilityId": "2993",
+    "abilityName": "穏やかな年始め",
+    "abilityDescription": "死亡時に「長門」以外の味方全体を蘇生＆敵全体を「強化系特殊状態不可」にする",
+    "abilityEffectDescription": "死亡時に「長門」以外の味方全体を蘇生＆敵全体を「強化系特殊状態不可」にする",
+    "effectIdx1": "4586",
+    "effectIdx2": "4587",
+    "effectIdx3": "0",
+    "effectIds": "4586,4587,"
+  },
+  {
+    "abilityId": "2994",
+    "abilityName": "友との遊戯",
+    "abilityDescription": "HP0以下で1回耐え、敵に木ノ葉隠れの里所属がいると高確率で先制攻撃、1回行動までチャクラ消費0",
+    "abilityEffectDescription": "HP0以下で1回耐え、敵に木ノ葉隠れの里所属がいると高確率で先制攻撃、1回行動までチャクラ消費0",
+    "effectIdx1": "312",
+    "effectIdx2": "4585",
+    "effectIdx3": "1378",
+    "effectIds": "312,4585,1378,"
+  },
+  {
+    "abilityId": "2995",
+    "abilityName": "華やかな年始め",
+    "abilityDescription": "行動ごとにそれぞれ確率で、味方全体の弱体系特殊状態と敵全体の強化系特殊状態を解除",
+    "abilityEffectDescription": "行動ごとにそれぞれ確率で、味方全体の弱体系特殊状態と敵全体の強化系特殊状態を解除",
+    "effectIdx1": "4285",
+    "effectIdx2": "4287",
+    "effectIdx3": "0",
+    "effectIds": "4285,4287,"
+  },
+  {
+    "abilityId": "2996",
+    "abilityName": "佳人の微笑み",
+    "abilityDescription": "HP0以下で2回耐え、敵に木ノ葉隠れの里所属がいると高確率で先制攻撃、1回行動までチャクラ消費0",
+    "abilityEffectDescription": "HP0以下で2回耐え、敵に木ノ葉隠れの里所属がいると高確率で先制攻撃、1回行動までチャクラ消費0",
+    "effectIdx1": "1057",
+    "effectIdx2": "4585",
+    "effectIdx3": "1378",
+    "effectIds": "1057,4585,1378,"
+  },
+  {
+    "abilityId": "3005",
+    "abilityName": "里長の選択",
+    "abilityDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に低確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "abilityEffectDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に低確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "effectIdx1": "4223",
+    "effectIdx2": "4226",
+    "effectIdx3": "4229",
+    "effectIds": "4223,4226,4229,4230,"
+  },
+  {
+    "abilityId": "3006",
+    "abilityName": "手に入れた平和",
+    "abilityDescription": "HP0以下で1回耐え、ﾊﾞﾄﾙ開始時、敵に木ノ葉隠れの里所属以外がいると自身に火影の覚悟付与",
+    "abilityEffectDescription": "HP0以下で1回耐え、ﾊﾞﾄﾙ開始時、敵に木ノ葉隠れの里所属以外がいると自身に火影の覚悟付与",
+    "effectIdx1": "312",
+    "effectIdx2": "4590",
+    "effectIdx3": "0",
+    "effectIds": "312,4590,"
+  },
+  {
+    "abilityId": "3007",
+    "abilityName": "兎の女神と呼ばれし者",
+    "abilityDescription": "バトル開始・被攻撃時、自身に鬼眼付与。高確率で先制攻撃&amp;再行動&amp;敵の地形効果・忍方陣無効。被攻撃時に高確率で即アクション。バトル開始・被攻撃時に高確率で1回行動まで素早さ999%アップ",
+    "abilityEffectDescription": "バトル開始・被攻撃時、自身に鬼眼付与。高確率で先制攻撃&amp;再行動&amp;敵の地形効果・忍方陣無効。被攻撃時に高確率で即アクション。バトル開始・被攻撃時に高確率で1回行動まで素早さ999%アップ",
+    "effectIdx1": "4593",
+    "effectIdx2": "4594",
+    "effectIdx3": "3532",
+    "effectIds": "4593,4594,3532,769,4257,3821,4526,4595,4596,"
+  },
+  {
+    "abilityId": "3008",
+    "abilityName": "チャクラ独占の狂気",
+    "abilityDescription": "被攻撃時、高確率で攻撃者に耐性を無視して共殺の灰骨を付与&amp;敵の地形効果破壊。HP0以下で5回全回復。即死無効。被攻撃時、自身の弱体・状態異常・弱体系特殊・神化状態解除。",
+    "abilityEffectDescription": "被攻撃時、高確率で攻撃者に耐性を無視して共殺の灰骨を付与&amp;敵の地形効果破壊。HP0以下で5回全回復。即死無効。被攻撃時、自身の弱体・状態異常・弱体系特殊・神化状態解除。",
+    "effectIdx1": "4597",
+    "effectIdx2": "4598",
+    "effectIdx3": "4311",
+    "effectIds": "4597,4598,4311,874,3254,4460,4464,4463,4461,"
+  },
+  {
     "abilityId": "10000",
     "abilityName": "攻撃・防御・素早さダウン（大）",
     "abilityDescription": "攻撃・防御・素早さが大きくダウンする",
@@ -29948,6 +30168,26 @@ window.ability=[
     "effectIdx2": "13104",
     "effectIdx3": "30019",
     "effectIds": "1766,13104,30019,300018,4412,4413,4414,4415,4416,4417,"
+  },
+  {
+    "abilityId": "20012",
+    "abilityName": "ダメージカット＆弱点化＆即行動",
+    "abilityDescription": "心技体勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション、被攻撃時に状態異常解除",
+    "abilityEffectDescription": "心技体勇ダメージカット＆弱点化＆HP一定以下で被攻撃時に即アクション、被攻撃時に状態異常解除",
+    "effectIdx1": "228475",
+    "effectIdx2": "228050",
+    "effectIdx3": "228150",
+    "effectIds": "228475,228050,228150,228250,229404,2693,3156,3073,3969,4418,"
+  },
+  {
+    "abilityId": "20013",
+    "abilityName": "強化＆スキル発動速度アップ",
+    "abilityDescription": "防・速・スキルダメージアップ、スキル発動速度7段階アップ、忍方陣無効、高確率で再行動",
+    "abilityEffectDescription": "防・速・スキルダメージアップ、スキル発動速度7段階アップ、忍方陣無効、高確率で再行動",
+    "effectIdx1": "1766",
+    "effectIdx2": "13104",
+    "effectIdx3": "30019",
+    "effectIds": "1766,13104,30019,300018,4417,1600,"
   },
   {
     "abilityId": "100000",
@@ -31560,6 +31800,46 @@ window.ability=[
     "effectIds": "4495,1789,4491,4493,"
   },
   {
+    "abilityId": "100168",
+    "abilityName": "里長の選択",
+    "abilityDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "abilityEffectDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "effectIdx1": "4224",
+    "effectIdx2": "4227",
+    "effectIdx3": "4229",
+    "effectIds": "4224,4227,4229,4230,"
+  },
+  {
+    "abilityId": "100169",
+    "abilityName": "手に入れた平和",
+    "abilityDescription": "HP0以下で2回耐え、1回行動までﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時、敵に木ノ葉隠れの里所属以外がいると自身に火影の覚悟付与",
+    "abilityEffectDescription": "HP0以下で2回耐え、1回行動までﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時、敵に木ノ葉隠れの里所属以外がいると自身に火影の覚悟付与",
+    "effectIdx1": "1057",
+    "effectIdx2": "1378",
+    "effectIdx3": "4591",
+    "effectIds": "1057,1378,4591,"
+  },
+  {
+    "abilityId": "100170",
+    "abilityName": "里長の選択",
+    "abilityDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に高確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "abilityEffectDescription": "敵に神忍か破神がいるとﾊﾞﾄﾙ開始時に高確率でｽｷﾙ2で急襲＆耐性無視で1回行動まで幻惑付与（両方いると確率ｱｯﾌﾟ）",
+    "effectIdx1": "4225",
+    "effectIdx2": "4228",
+    "effectIdx3": "4229",
+    "effectIds": "4225,4228,4229,4230,"
+  },
+  {
+    "abilityId": "100171",
+    "abilityName": "手に入れた平和",
+    "abilityDescription": "HP0以下で3回耐え、3回行動までﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時、敵に木ノ葉隠れの里所属以外がいると自身に火影の覚悟付与",
+    "abilityEffectDescription": "HP0以下で3回耐え、3回行動までﾁｬｸﾗ消費0、ﾊﾞﾄﾙ開始時、敵に木ノ葉隠れの里所属以外がいると自身に火影の覚悟付与",
+    "effectIdx1": "1789",
+    "effectIdx2": "1949",
+    "effectIdx3": "4592",
+    "effectIds": "1789,1949,4592,"
+  },
+  {
     "abilityId": "200001",
     "abilityName": "心属性特化",
     "abilityDescription": "心属性へのスキル攻撃時に相手の耐性を弱点とする。心属性からのダメージを50%カット",
@@ -31852,8 +32132,8 @@ window.ability=[
   {
     "abilityId": "200032",
     "abilityName": "心属性特化・破砕",
-    "abilityDescription": "心属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラがスキルダメージ80%アップ",
-    "abilityEffectDescription": "心属性に対しｽｷﾙ攻撃時弱点化＆被ﾀﾞﾒｰｼﾞ50%ｶｯﾄ。班の自身と異なる属性のキャラがスキルダメージ80%アップ",
+    "abilityDescription": "心属性に対しスキル攻撃時弱点化＆被ダメージ50%カット。班の自身と異なる属性のキャラがスキルダメージ80%アップ",
+    "abilityEffectDescription": "心属性に対しスキル攻撃時弱点化＆被ダメージ50%カット。班の自身と異なる属性のキャラがスキルダメージ80%アップ",
     "effectIdx1": "3893",
     "effectIdx2": "3894",
     "effectIdx3": "3896",
@@ -31888,6 +32168,16 @@ window.ability=[
     "effectIdx2": "3895",
     "effectIdx3": "3896",
     "effectIds": "3893,3895,3896,3894,229304,228350,"
+  },
+  {
+    "abilityId": "200036",
+    "abilityName": "知属性特化・木ノ葉守護",
+    "abilityDescription": "知属性に対しスキル攻撃時弱点化＆被ダメージ50％カット。木ノ葉隠れの里所属の味方が受けるダメージを60%カット",
+    "abilityEffectDescription": "知属性に対しスキル攻撃時弱点化＆被ダメージ50％カット。木ノ葉隠れの里所属の味方が受けるダメージを60%カット",
+    "effectIdx1": "229304",
+    "effectIdx2": "228350",
+    "effectIdx3": "4531",
+    "effectIds": "229304,228350,4531,"
   },
   {
     "abilityId": "210001",
@@ -32957,7 +33247,7 @@ window.ability=[
     "effectIdx1": "13049",
     "effectIdx2": "3064",
     "effectIdx3": "0",
-    "effectIds": "0"
+    "effectIds": "13049,3064,"
   },
   {
     "abilityId": "310060",

@@ -8804,6 +8804,94 @@ window.skillname=[
     "name": "お前との闘いを愉しむさ"
   },
   {
+    "cardBattleSkillNameId": "3453",
+    "name": "桜花衝・咲駆け"
+  },
+  {
+    "cardBattleSkillNameId": "3454",
+    "name": "了解……！"
+  },
+  {
+    "cardBattleSkillNameId": "3455",
+    "name": "木人の術・衛志ノ太刀"
+  },
+  {
+    "cardBattleSkillNameId": "3456",
+    "name": "戦争もこれで最後ぞ"
+  },
+  {
+    "cardBattleSkillNameId": "3457",
+    "name": "須佐能乎・神威・斉刃征威"
+  },
+  {
+    "cardBattleSkillNameId": "3458",
+    "name": "これからだぞ…楽しいのは！"
+  },
+  {
+    "cardBattleSkillNameId": "3459",
+    "name": "爆風乱舞・十圧衝"
+  },
+  {
+    "cardBattleSkillNameId": "3460",
+    "name": "この世界を創り変える！"
+  },
+  {
+    "cardBattleSkillNameId": "3461",
+    "name": "十尾・天壊地滅"
+  },
+  {
+    "cardBattleSkillNameId": "3463",
+    "name": "一人じゃできねーこともある"
+  },
+  {
+    "cardBattleSkillNameId": "3465",
+    "name": "オレは一人だ"
+  },
+  {
+    "cardBattleSkillNameId": "3466",
+    "name": "0"
+  },
+  {
+    "cardBattleSkillNameId": "3467",
+    "name": "水遁・初凪乱波"
+  },
+  {
+    "cardBattleSkillNameId": "3468",
+    "name": "お前夢はあるか？"
+  },
+  {
+    "cardBattleSkillNameId": "3469",
+    "name": "風遁・迎春風掌"
+  },
+  {
+    "cardBattleSkillNameId": "3470",
+    "name": "ボクはただ二人を守りたい"
+  },
+  {
+    "cardBattleSkillNameId": "3471",
+    "name": "祝賀・紙手裏剣"
+  },
+  {
+    "cardBattleSkillNameId": "3472",
+    "name": "二人と夢を追いかける事"
+  },
+  {
+    "cardBattleSkillNameId": "3473",
+    "name": "水遁・水龍波"
+  },
+  {
+    "cardBattleSkillNameId": "3474",
+    "name": "負の連鎖を止める"
+  },
+  {
+    "cardBattleSkillNameId": "3475",
+    "name": "共殺の灰骨・酸惨苦怒"
+  },
+  {
+    "cardBattleSkillNameId": "3476",
+    "name": "ここはワラワの空間だ"
+  },
+  {
     "cardBattleSkillNameId": "10136",
     "name": "新術だってばよ！"
   },
@@ -9002,6 +9090,18 @@ window.skillname=[
   {
     "cardBattleSkillNameId": "20617",
     "name": "シャクシャク"
+  },
+  {
+    "cardBattleSkillNameId": "20618",
+    "name": "むしゃむしゃ"
+  },
+  {
+    "cardBattleSkillNameId": "20619",
+    "name": "ズズー！"
+  },
+  {
+    "cardBattleSkillNameId": "20620",
+    "name": "メラメラ"
   },
   {
     "cardBattleSkillNameId": "20900",

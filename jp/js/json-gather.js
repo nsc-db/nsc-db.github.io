@@ -379,6 +379,12 @@
 			else if(id == 60071001 || id == 60071002){
 				var charaId = 60071000
 			}
+			else if(id == 60071201 || id == 60071202){
+				var charaId = 60071200
+			}
+			else if(id == 60071211 || id == 60071212){
+				var charaId = 60071210
+			}
 			else{
 				var charaId = id
 			}
@@ -921,6 +927,70 @@
 			kntr = skill
 			kcs = wait
 			kc = window.kizuna[6]['battleSkillCnt']
+		}
+		else if(cid == 60071201 || cid == 60071202){
+			$('#kizuna').attr('style', 'display:block');
+			$('#kizuna-six').attr('style', 'display:block'); 
+
+			var check = 0;
+			var wait = '';
+			for(var g in window.skillname){
+				if(window.kizuna[7]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
+					$('#kizunaname-five').text(window.skillname[g]['name']);
+					$('#kizunaname-six').text(window.skillname[g]['name']);
+					kn = window.skillname[g]['name']
+
+				}
+			}
+			//Replace Type
+			skill = checkSkill(window.kizuna[7]);
+			$('#kizunatype-five').text(skill);
+			$('#kizunatype-six').text(skill);
+			//Replace Wait
+			wait = checkWait(window.kizuna[7]);
+			$('#kizunaspeed-five').text(wait);
+			$('#kizunaspeed-six').text(wait);
+
+			$('#kizunacost-five').text(window.kizuna[7]['battleSkillCnt']);
+			$('#kizunacost-six').text(window.kizuna[7]['battleSkillCnt']);
+			$('#kizunadesc-five').text(window.kizuna[7]['description']);
+			$('#kizunadesc-six').text(window.kizuna[7]['description']);
+			ks = window.kizuna[7]['description']
+			kntr = skill
+			kcs = wait
+			kc = window.kizuna[7]['battleSkillCnt']
+		}
+		else if(cid == 60071211 || cid == 60071212){
+			$('#kizuna').attr('style', 'display:block');
+			$('#kizuna-six').attr('style', 'display:block'); 
+
+			var check = 0;
+			var wait = '';
+			for(var g in window.skillname){
+				if(window.kizuna[8]['nameIdx'] == window.skillname[g]['cardBattleSkillNameId']){
+					$('#kizunaname-five').text(window.skillname[g]['name']);
+					$('#kizunaname-six').text(window.skillname[g]['name']);
+					kn = window.skillname[g]['name']
+
+				}
+			}
+			//Replace Type
+			skill = checkSkill(window.kizuna[8]);
+			$('#kizunatype-five').text(skill);
+			$('#kizunatype-six').text(skill);
+			//Replace Wait
+			wait = checkWait(window.kizuna[8]);
+			$('#kizunaspeed-five').text(wait);
+			$('#kizunaspeed-six').text(wait);
+
+			$('#kizunacost-five').text(window.kizuna[8]['battleSkillCnt']);
+			$('#kizunacost-six').text(window.kizuna[8]['battleSkillCnt']);
+			$('#kizunadesc-five').text(window.kizuna[8]['description']);
+			$('#kizunadesc-six').text(window.kizuna[8]['description']);
+			ks = window.kizuna[8]['description']
+			kntr = skill
+			kcs = wait
+			kc = window.kizuna[8]['battleSkillCnt']
 		}
 		else{
 			$('#kizuna').attr('style', 'display:none');
